@@ -26,6 +26,7 @@ jobs:
         uses: peaceiris/actions-hugo@v2
         with:
           hugo-version: 'latest'
+          extended: true
       #This task installs the dependencies required for hugo to build a site
       - name: Install dependencies
         run: |
