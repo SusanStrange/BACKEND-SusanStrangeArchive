@@ -1,53 +1,53 @@
 # Meta Data for SEO
 
 ## Homepage
-title = "Susan Strange Archive"
-titleSeparator = " "
-titleAddition = "Subtitle here set in params"
-description = "This is the description, set in params"
+title = "Home"
+titleSeparator = "-"
+titleAddition = "Modern Documentation Theme"
+description = "Doks is a Hugo theme for building secure, fast, and SEO-ready documentation websites, which you can easily update and customize."
 
 ## Documentation
 # docsVersion = "0.3"
 
 ## Open Graph
-images = ["test1.png"]
+images = ["doks.png"]
 ogLocale = "en_US"
-domainTLD = "blah blah blah"
+domainTLD = "doks.netlify.app"
 titleHome = "Susan Strange Archive"
 
 ## Twitter Cards
-#twitterSite = "@getdoks"
-#twitterCreator = "@henkverlinde"
+twitterSite = "@getdoks"
+twitterCreator = "@henkverlinde"
 
 ## JSON-LD
 # schemaType = "Person"
 schemaType = "Organization"
-schemaName = "Susan Strange schemaname"
-schemaAuthor = "Blayne Haggart"
-schemaAuthorTwitter = ""
-schemaAuthorLinkedIn = ""
-schemaAuthorGitHub = ""
+schemaName = "Doks"
+schemaAuthor = "Henk Verlinde"
+schemaAuthorTwitter = "https://twitter.com/henkverlinde"
+schemaAuthorLinkedIn = "https://www.linkedin.com/in/henkverlinde/"
+schemaAuthorGitHub = "https://github.com/h-enk"
 schemaLocale = "en-US"
-schemaLogo = "test2.png"
+schemaLogo = "logo-doks.png"
 schemaLogoWidth = 512
 schemaLogoHeight = 512
-schemaImage = "test1.png"
+schemaImage = "doks.png"
 schemaImageWidth = 1280
 schemaImageHeight = 640
-schemaTwitter = ""
+schemaTwitter = "https://twitter.com/getdoks"
 schemaLinkedIn = ""
-schemaGitHub = ""
+schemaGitHub = "https://github.com/h-enk/doks"
 schemaSection = "blog"
 
 ## Sitelinks Search Box
 siteLinksSearchBox = false
 
 ## Chrome Browser
-themeColor = "#fff"
+themeColor = "#ffefd5"
 
 # Images - Temporarily left in place for backward compatibility
 quality = 85
-bgColor = "#fff"
+bgColor = "#ffffcc"
 landscapePhotoWidths = [900, 800, 700, 600, 500]
 portraitPhotoWidths = [800, 700, 600, 500]
 lqipWidth = "20x"
@@ -65,22 +65,22 @@ defaultImage = "default-image.png" # put in `./assets/images/`
 fillImage = "1270x740 Center" # normalize image size
 
 # Footer
-footer = "footer content here set in params"
+footer = "Supported by Brock University"
 
 # Feed
-copyRight = "Put copyright here if wanted for RSS feed set in params"
+copyRight = "Copyright (c) 2022-2023 Jordon Dumenil"
 
 # Alert
 alert = false
 alertDismissable = true
 # alertText = "Introducing the Doks child theme, several DX + UX updates, and more! <a class=\"alert-link stretched-link\" href=\"https://getdoks.org/blog/doks-v0.2/\" target=\"_blank\" rel=\"noopener\">Check out Doks v0.2</a>"
-alertText = "set alert text and settings here set in params"
+alertText = "Introducing the Doks child theme, several DX + UX updates, and more! <a class=\"alert-link stretched-link\" href=\"https://getdoks.org/blog/doks-v0.2/\">Check out Doks v0.2</a>"
 
 # Edit Page
 # repoHost [Github | Gitea | GitLab | Bitbucket | BitbucketServer ] is used for building the edit link based on git hoster
 repoHost = "GitHub"
 #repoHost = "Gitea"
-docsRepo = ""
+docsRepo = "https://github.com/h-enk/doks"
 docsRepoBranch = "master"
 docsRepoSubPath = ""
 editPage = false
@@ -105,7 +105,7 @@ lastMod = false
   docsVersioning = false
   fullWidth = false
   navbarSticky = true
-  toTopButton = false
+  toTopButton = true
   scrollSpy = false # experimental; needs Bootstrap >= 5.2.0-beta1
 
 [menu]

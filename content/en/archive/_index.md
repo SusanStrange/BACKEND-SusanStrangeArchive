@@ -1,6 +1,6 @@
 ---
-title: "Archive"
-description: "The Susan Strange Archive"
+title: "Susan Strange Archive"
+description: "Collection of Susan Strange's Work."
 date: 2020-10-06T08:49:55+00:00
 lastmod: 2020-10-06T08:49:55+00:00
 draft: false
