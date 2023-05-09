@@ -7,4 +7,6 @@ draft: false
 images: []
 ---
 
-{{< email user="hello" domain="getdoks.org" >}}
+This where contact details go
+
+This page is updated from content>en>contact>index.html

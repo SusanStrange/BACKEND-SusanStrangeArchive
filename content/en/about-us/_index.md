@@ -7,4 +7,6 @@ draft: false
 images: []
 ---
 
-The Doks contributors.
+Susan Strange folks details go here
+
+Content on this page is updated from content>en>about-us>_index.html
