@@ -7,6 +7,8 @@ draft: false
 images: []
 ---
 
-Susan Strange folks details go here
+Details about the team go here
 
 Content on this page is updated from content>en>about-us>_index.html
+
+The last line in the _index.html file will be seperated from the rest of the text by a line
