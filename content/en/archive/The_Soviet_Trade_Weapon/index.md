@@ -6,6 +6,7 @@ date: 1959
 lastmod: 2020-11-04T09:19:42+01:00
 draft: false
 weight: 50
+images: []
 categories: ["Book", "Publisher: Phoenix House"]
 tags: ["Soviet Union", "Violence", "Economy", "Political Activism"]
 contributors: ["Susan Strange"]

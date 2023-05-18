@@ -6,6 +6,7 @@ date: 1976
 lastmod: 2020-11-04T09:19:42+01:00
 draft: false
 weight: 50
+images: []
 categories: ["Journal Article", "Journal: World Development"]
 tags: ["International Political Economy", "Shipping", "UN"]
 contributors: ["Susan Strange", "Holland Richard"]

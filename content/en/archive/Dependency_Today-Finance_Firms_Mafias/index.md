@@ -5,6 +5,7 @@ date: 2001
 lastmod: 2020-11-04T09:19:42+01:00
 draft: false
 weight: 50
+images: []
 categories: ["Book Chapter", "Publisher: Taylor & Francis", "Journal: Third World Quarterly"]
 tags: ["Economy", "Structures"]
 contributors: ["Anna Leander"]

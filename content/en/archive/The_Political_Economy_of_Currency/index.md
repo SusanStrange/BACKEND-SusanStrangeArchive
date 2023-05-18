@@ -5,6 +5,7 @@ date: 2017
 lastmod: 2020-11-04T09:19:42+01:00
 draft: false
 weight: 50
+images: []
 categories: ["Journal Article", "Publisher: Cambridge University Press", "Journal: Review of International Studies"]
 tags: ["Economy", "Structures"]
 contributors: ["Mark Herman Schwartz", "Germain Randall"]

@@ -6,6 +6,7 @@ date: 1999
 lastmod: 2020-11-04T09:19:42+01:00
 draft: false
 weight: 50
+images: []
 categories: ["Journal Article", "Journal: Review of International Studies", "Publisher: Cambridge University Press"]
 tags: ["International Political Economy", "West Failure System", "Economy", "International Relations"]
 contributors: ["Susan Strange"]

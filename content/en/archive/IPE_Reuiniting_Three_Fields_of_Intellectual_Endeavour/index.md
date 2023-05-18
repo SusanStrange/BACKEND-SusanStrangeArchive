@@ -6,6 +6,7 @@ date: 1989
 lastmod: 2020-11-04T09:19:42+01:00
 draft: false
 weight: 50
+images: []
 categories: ["Journal Article", "Journal: Liberal Education", "Publisher: Association of American Colleges and Universities"]
 tags: ["International Political Economy", "Economy", "Structural Power", "Internaional Relations"]
 contributors: ["Susan Strange"]

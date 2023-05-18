@@ -5,6 +5,7 @@ date: 1990
 lastmod: 2020-11-04T09:19:42+01:00
 draft: false
 weight: 50
+images: []
 categories: ["Working Paper", "Publisher: South African Institute of International Affairs", "Journal: SAIIA Occasional Paper"]
 tags: ["Economy", "Structures"]
 contributors: ["Susan Strange", "Editor: Nicholas X. Rizopoulo"]

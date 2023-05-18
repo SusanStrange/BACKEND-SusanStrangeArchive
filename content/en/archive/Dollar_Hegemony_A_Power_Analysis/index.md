@@ -5,6 +5,7 @@ date: 2014
 lastmod: 2020-11-04T09:19:42+01:00
 draft: false
 weight: 50
+images: []
 categories: ["Journal Article", "Publisher: Routledge", "Journal: Review of International Political Economy"]
 tags: ["Economy", "Structures"]
 contributors: ["Carla Norrlof"]

@@ -5,6 +5,7 @@ date: 2005
 lastmod: 2020-11-04T09:19:42+01:00
 draft: false
 weight: 50
+images: []
 categories: ["Book Chapter", "Publisher: Cambridge University Press", "Journal: Alternatives: Global, Local, Political"]
 tags: ["Economy", "Structures"]
 contributors: ["John Stopford", "Editors: Robert E. Grosse"]

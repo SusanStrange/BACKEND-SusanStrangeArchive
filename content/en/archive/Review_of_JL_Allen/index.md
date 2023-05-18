@@ -6,6 +6,7 @@ date: 1961
 lastmod: 2020-11-04T09:19:42+01:00
 draft: false
 weight: 50
+images: []
 categories: ["Journal Article", "Journal:Economica", "Publisher: Public Affairs Press"]
 tags: ["Soviet Union", "International Relations", "Economy"]
 contributors: ["Susan Strange"]

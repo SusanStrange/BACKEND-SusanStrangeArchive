@@ -5,6 +5,7 @@ date: 2018
 lastmod: 2020-11-04T09:19:42+01:00
 draft: false
 weight: 50
+images: []
 categories: ["Journal Article", "Publisher: Pennsylvania State University Press", "Journal: Journal of Natural Resources"]
 tags: ["Economy", "Structures"]
 contributors: ["Korey Pasch"]

@@ -5,6 +5,7 @@ date: 1992
 lastmod: 2020-11-04T09:19:42+01:00
 draft: false
 weight: 50
+images: []
 categories: ["Book Chapter", "Publisher: Harvester Wheatsheaf"]
 tags: ["Economy", "Structures"]
 contributors: ["Susan Strange", "Editor: Brian Barry", "Robert E. Goodin"]

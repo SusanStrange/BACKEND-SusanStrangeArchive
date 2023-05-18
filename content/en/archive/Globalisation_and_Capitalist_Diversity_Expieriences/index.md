@@ -5,6 +5,7 @@ date: 1997
 lastmod: 2020-11-04T09:19:42+01:00
 draft: false
 weight: 50
+images: []
 categories: ["Edited Volume", "Publisher: European Univeristy Institute", "Robert Schulman Centre"]
 tags: ["Comparative Politics", "Europe", "Asia", "International Political Economy"]
 contributors: ["Susan Strange"]

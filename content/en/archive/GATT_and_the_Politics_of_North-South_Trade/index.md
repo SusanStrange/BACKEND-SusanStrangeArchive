@@ -6,6 +6,7 @@ date: 1984
 lastmod: 2020-11-04T09:19:42+01:00
 draft: false
 weight: 50
+images: []
 categories: ["Journal Article", "Journal: Austrailian Outlook"]
 tags: ["International Political Economy", "Economy", "GATT", "Hegemony"]
 contributors: ["Susan Strange", "Editors: Sara Davies", "Ian Hall"]

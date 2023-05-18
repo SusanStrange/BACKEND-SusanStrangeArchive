@@ -6,6 +6,7 @@ date: 1984
 lastmod: 2020-11-04T09:19:42+01:00
 draft: false
 weight: 50
+images: []
 categories: ["Journal Article", "Journal: International Journal", "Publisher: Sage Journals"]
 tags: ["International Political Economy", "Security", "Production", "Knowledge", "Finance", "International Relations", "Financial Structures"]
 contributors: ["Susan Strange", "Editors: Andy Knight" , "Asa McKercher" ]

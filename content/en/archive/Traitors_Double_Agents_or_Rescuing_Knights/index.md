@@ -5,6 +5,7 @@ date: 1992
 lastmod: 2020-11-04T09:19:42+01:00
 draft: false
 weight: 50
+images: []
 categories: ["Working Paper", "Publisher: Association Francaise de Science Politique", "Journal: Les Individuis dans la Politique Internationale"]
 tags: ["Economy", "Structures"]
 contributors: ["Susan Strange", "Editor: Brian Barry", "Robert E. Goodin"]

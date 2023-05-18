@@ -6,6 +6,7 @@ date: 1984
 lastmod: 2020-11-04T09:19:42+01:00
 draft: false
 weight: 50
+images: []
 categories: ["Edited Volume", "Publisher: Allen and Unwin"]
 tags: ["Economy", "History", "International Political Economy"]
 contributors: ["Susan Strange"]

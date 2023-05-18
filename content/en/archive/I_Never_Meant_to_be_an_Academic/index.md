@@ -5,6 +5,7 @@ date: 1989
 lastmod: 2020-11-04T09:19:42+01:00
 draft: false
 weight: 50
+images: []
 categories: ["Book Chapter", "Publisher: Lexington"]
 tags: ["Economy", "Structures"]
 contributors: ["Susan Strange", "Editor: James Kruzel", "James N. Roseneau"]

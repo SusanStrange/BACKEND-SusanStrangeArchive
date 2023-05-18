@@ -5,6 +5,7 @@ date: 1980
 lastmod: 2020-11-04T09:19:42+01:00
 draft: false
 weight: 50
+images: []
 categories: ["Book Chapter", "Publisher: Lexington Books"]
 tags: ["Economy", "Structures"]
 contributors: ["Susan Strange", "Editor: Wilfrid L. Kohli", "Georgio Basevi"]

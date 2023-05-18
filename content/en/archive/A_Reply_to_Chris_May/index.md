@@ -6,6 +6,7 @@ date: 1996
 lastmod: 2020-11-04T09:19:42+01:00
 draft: false
 weight: 50
+images: []
 categories: ["Journal Article", "Journal: Global Society", "Publisher: Taylor & Francis"]
 tags: ["Structural Power Theory", "Knowledge", "International Political Economy"]
 contributors: ["Susan Strange"]

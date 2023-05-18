@@ -6,6 +6,7 @@ date: 1971
 lastmod: 2020-11-04T09:19:42+01:00
 draft: false
 weight: 50
+images: []
 categories: ["Journal Article", "Journal: International Affairs", "Publisher: Chatham House"]
 tags: ["International Political Economy", "Economy", "Internaional Relations"]
 contributors: ["Susan Strange"]

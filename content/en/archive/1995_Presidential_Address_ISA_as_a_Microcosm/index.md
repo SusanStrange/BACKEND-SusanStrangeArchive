@@ -6,6 +6,7 @@ date: 1995
 lastmod: 2020-11-04T09:19:42+01:00
 draft: false
 weight: 50
+images: []
 categories: ["Journal Article", "Journal: International Studies Quality", "Publisher: International Studies Association"]
 tags: ["Environment", "Cold War", "Violence"]
 contributors: ["Susan Strange"]

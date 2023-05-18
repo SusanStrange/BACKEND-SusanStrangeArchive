@@ -6,6 +6,7 @@ date: 1998
 lastmod: 2020-11-04T09:19:42+01:00
 draft: false
 weight: 50
+images: []
 categories: ["Book Chapter", "Publisher: Routledge"]
 tags: ["Economy", "Structures"]
 contributors: ["Susan Strange", "Editor: Bob Reinalda", "Bertjan Verbeek"]

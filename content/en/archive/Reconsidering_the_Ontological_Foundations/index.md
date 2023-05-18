@@ -5,6 +5,7 @@ date: 2013
 lastmod: 2020-11-04T09:19:42+01:00
 draft: false
 weight: 50
+images: []
 categories: ["Journal Article", "Publisher: Routledge", "Journal: European Security"]
 tags: ["Economy", "Structures"]
 contributors: ["Edward Stoddard"]

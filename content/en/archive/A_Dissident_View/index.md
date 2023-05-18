@@ -6,6 +6,7 @@ date: 1950
 lastmod: 2020-11-04T09:19:42+01:00
 draft: false
 weight: 50
+images: []
 categories: ["Journal Article", "Journal: PeaceFinder Series", "Publisher: United Nations Association"]
 tags: ["Loaded Dice", "Economy", "Prebisch Thesis", "Internaional Relations"]
 contributors: ["Susan Strange"]

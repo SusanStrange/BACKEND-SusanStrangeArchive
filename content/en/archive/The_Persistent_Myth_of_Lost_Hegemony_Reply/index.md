@@ -6,6 +6,7 @@ date: 1988
 lastmod: 2020-11-04T09:19:42+01:00
 draft: false
 weight: 50
+images: []
 categories: ["Journal Article", "Journal: International Organization", "Publisher: Cambridge University Press"]
 tags: ["International Political Economy", "International Organization"]
 contributors: ["Susan Strange"]

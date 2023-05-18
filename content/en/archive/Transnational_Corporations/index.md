@@ -5,6 +5,7 @@ date: 2016
 lastmod: 2020-11-04T09:19:42+01:00
 draft: false
 weight: 50
+images: []
 categories: ["Journal Article", "Publisher: Routledge", "Journal Article: Transnational Corporations Review"]
 tags: ["Economy", "Structures"]
 contributors: ["Michael Jacobs"]

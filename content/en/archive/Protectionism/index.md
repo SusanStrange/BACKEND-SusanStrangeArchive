@@ -6,6 +6,7 @@ date: 1985
 lastmod: 2020-11-04T09:19:42+01:00
 draft: false
 weight: 50
+images: []
 categories: ["Journal Article", "Journal: The World Today", "Publisher: Royal Institute of International Affairs"]
 tags: ["International Political Economy", "Economy", "Protectionism", "GATT", "Trade"]
 contributors: ["Susan Strange"]

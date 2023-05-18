@@ -5,6 +5,7 @@ date: 1994
 lastmod: 2020-11-04T09:19:42+01:00
 draft: false
 weight: 50
+images: []
 categories: ["Book Chapter", "Publisher: Federal Trust", "Journal: Les Individuis dans la Politique Internationale"]
 tags: ["Economy", "Structures"]
 contributors: ["Susan Strange", "Editor: Frank Brouwer", "Valerio Linter", "Mike Newman"]

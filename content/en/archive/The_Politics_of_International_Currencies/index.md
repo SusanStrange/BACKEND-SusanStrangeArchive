@@ -6,6 +6,7 @@ date: 1970
 lastmod: 2020-11-04T09:19:42+01:00
 draft: false
 weight: 50
+images: []
 categories: ["Journal Article", "Journal: World Politics", "Publisher: Cambridge University Press"]
 tags: ["International Political Economy", "Economy", "1971c"]
 contributors: ["Susan Strange"]

@@ -6,6 +6,7 @@ date: 1983
 lastmod: 2020-11-04T09:19:42+01:00
 draft: false
 weight: 50
+images: []
 categories: ["Journal Article", "Journal: International Journal", "Publisher: Sage Journals"]
 tags: ["International Political Economy", "Structure of Political Economy", "International Relations", "Security"]
 contributors: ["Susan Strange", "Editor: Andy Knight", "Asa McKercher"]

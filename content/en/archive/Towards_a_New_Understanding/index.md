@@ -5,6 +5,7 @@ date: 2012
 lastmod: 2020-11-04T09:19:42+01:00
 draft: false
 weight: 50
+images: []
 categories: ["Book Chapter", "Publisher: Springer"]
 tags: ["Economy", "Structures"]
 contributors: ["Andrej Pustovitovskij", "Jan-Frederik Kremer", "Editors: Enrico Fels", "Jan-Frederik Kremer", "Katharina Kronenberg"]

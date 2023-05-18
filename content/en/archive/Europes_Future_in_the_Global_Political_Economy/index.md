@@ -6,6 +6,7 @@ date: 1996
 lastmod: 2020-11-04T09:19:42+01:00
 draft: false
 weight: 50
+images: []
 categories: ["Book Chapter", "Publisher:The John Hopkins University Bologna Center"]
 tags: ["Economy", "Structures"]
 contributors: ["Susan Strange", "Editor: Thomas Row", "Steve Smith"]

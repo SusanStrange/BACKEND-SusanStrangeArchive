@@ -5,6 +5,7 @@ date: 2012
 lastmod: 2020-11-04T09:19:42+01:00
 draft: false
 weight: 50
+images: []
 categories: ["Journal Article", "Publisher: Scientia Militaria", "Journal: South African Journal of Military Studies"]
 tags: ["Economy", "Structures"]
 contributors: ["Marthinus J. Du Plessis"]

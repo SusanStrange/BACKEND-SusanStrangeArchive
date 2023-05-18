@@ -6,6 +6,7 @@ date: 1998
 lastmod: 2020-11-04T09:19:42+01:00
 draft: false
 weight: 50
+images: []
 categories: ["Journal Article", "Journal: Review of International Political Economy ", "Publisher: Taylor & Francis"]
 tags: ["Multinational", "Globalization", "International Political Economy"]
 contributors: ["Susan Strange"]

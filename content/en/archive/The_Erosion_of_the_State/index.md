@@ -6,6 +6,7 @@ date: 1997
 lastmod: 2020-11-04T09:19:42+01:00
 draft: false
 weight: 50
+images: []
 categories: ["Journal Article", "Journal: Current History ", "Publisher: Events Pub Co"]
 tags: ["Structural Power Theory", "Security", "Hegemony", "Violence"]
 contributors: ["Susan Strange"]

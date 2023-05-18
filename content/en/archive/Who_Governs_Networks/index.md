@@ -6,6 +6,7 @@ date: 1994
 lastmod: 2020-11-04T09:19:42+01:00
 draft: false
 weight: 50
+images: []
 categories: ["Journal Article", "Journal: Hitotsubashi Journal of Law and Politics"]
 tags: ["United States", "Hegemony", "Economy"]
 contributors: ["Susan Strange"]

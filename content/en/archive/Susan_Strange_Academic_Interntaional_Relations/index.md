@@ -6,6 +6,7 @@ date: 2000
 lastmod: 2020-11-04T09:19:42+01:00
 draft: false
 weight: 50
+images: []
 categories: ["Journal", "Publisher: Taylor & Francis", "Journal: Review of International Studies", "Journal: New Political Economy"]
 tags: ["Economy", "Structures"]
 contributors: ["Susan Strange"]

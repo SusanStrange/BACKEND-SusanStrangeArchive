@@ -6,6 +6,7 @@ date: 1968
 lastmod: 2020-11-04T09:19:42+01:00
 draft: false
 weight: 50
+images: []
 categories: ["Journal Article", "Journal: Social Science Research Councol Review of Current Research", "Publisher: Heinemann Educational, for the Social Sciences Research Council"]
 tags: ["National Debt", "Economy", "Governing Bodies", "Internaional Relations", "Multilateral Institutions"]
 contributors: ["Susan Strange"]

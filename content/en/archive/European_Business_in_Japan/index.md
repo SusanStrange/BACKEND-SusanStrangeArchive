@@ -6,6 +6,7 @@ date: 1995
 lastmod: 2020-11-04T09:19:42+01:00
 draft: false
 weight: 50
+images: []
 categories: ["Journal Article", "Journal: Journal of Common Market Studies", "Publisher: The University Association for Contemporary European Studies", "Wiley"]
 tags: ["Japan", "United States", "Europe", "Economy", "Public Policy"]
 contributors: ["Susan Strange"]

@@ -6,6 +6,7 @@ date: 1999
 lastmod: 2020-11-04T09:19:42+01:00
 draft: false
 weight: 50
+images: []
 categories: ["Journal", "Publisher: Cambridge University Press", "Journal: Review of International Studies"]
 tags: ["Economy", "Structures"]
 contributors: ["Susan Strange"]
