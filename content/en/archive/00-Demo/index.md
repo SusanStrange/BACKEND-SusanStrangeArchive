@@ -2,9 +2,9 @@
 date: 2023
 title: "Demo/Template object"
 datetext: "2023 (determined by datetext parameter)"
-excerpt: "This text is controlled by the excerpt parameter"
-excerpt2: "This text is controlled by the excerpt2 parameter"
-excerpt3: "This text is controlled by the excerpt3 parameter"
+excerpt: "Citation data"
+excerpt2: "Abstract content"
+excerpt3: "Extra content like key terms"
 
 
 tags: ["keyword1", "keyword2", "2020's", "Derivative Work"]

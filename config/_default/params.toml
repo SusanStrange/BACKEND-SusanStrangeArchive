@@ -65,7 +65,7 @@ defaultImage = "default-image.png" # put in `./assets/images/`
 fillImage = "1270x740 Center" # normalize image size
 
 # Footer
-footer = "Created with the Support of the Brock University Digital Scholarship Lab (this is set in params.toml)"
+footer = "Created with the support of the Brock University DSL with Hugo using the Doks theme"
 
 # Feed
 copyRight = "Copyright (c) 2022-2023 Jordon Dumenil"
