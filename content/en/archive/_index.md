@@ -17,4 +17,6 @@ The bold text on each card is designated by the "exerpt: []" parameter in the in
 
 The details at the bottom of the card are designated in the parameters of the index.html file as well.
 
+The structure of the cards can be adjusted from the node_modules/@hyas>doks>layouts>_defaults>list.html file
+
 The details at the bottom of the card are rendered by the partial element created by the file at node_modules>@hyas>doks>layouts>partials>main>blog-meta.html

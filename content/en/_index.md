@@ -11,6 +11,8 @@ This is the homepage for the site.
 
 Content on this page is updated from content>en>_index.html file.
 
+The button can be configured from the layouts>index.html file.
+
 The large title at the top is designated by the "title" parameter.
 
 The tagline text is designated by the "lead" parameter.
@@ -18,3 +20,5 @@ The tagline text is designated by the "lead" parameter.
 The search function looks at all pages full text.  
 
 The elements displayed in the search menu are the "title" and "description" paremeters found in the index.html file for that page.
+
+The number of cards shown on both archive and keyword pages can be adjusted by altering the "paginate" value in the config>_default>config.toml file.

@@ -7,6 +7,8 @@ draft: false
 images: []
 ---
 
-Details about author go here
+Details about author go here.
+
+This page is edited from the content>en>contributors>susan-strange>_index.html file
 
 
