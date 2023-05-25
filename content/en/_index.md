@@ -1,11 +1,34 @@
 ---
-title : "Susan Strange Archive"
+title : "Welcome to the Susan Strange Web Archive"
 description: "This website will act as an archive for Susan Strange's work."
-lead: "Welcome to an archive of Susan Strange's work in honor of her anniversary."
+lead: "The Susan Strange Archive is devoted to promoting the work and ideas of the foundational International Political Economy scholar Susan Strange (1923-1998), recognizing Strange-influenced contemporary research. Our goal is to serve as a focal point for the community of Strange-influenced researchers. "
 date: 2020-10-06T08:47:36+00:00
 lastmod: 2020-10-06T08:47:36+00:00
 draft: false
 ---
+
+![Placeholder](https://images.gr-assets.com/authors/1534446476p5/189890.jpg)
+
+
+Who was Susan Strange? [LINK TO BIOGRAPHY PAGE] 
+
+ 
+
+The Complete Susan Strange Annotated Bibliography: Browse the bibliography of 50 years of work by Susan Strange, with links to the original works. Searchable and organizable by decade and major themes. 
+
+ 
+
+Promoting Strange-influenced research: Searchable and organizable by decade and major themes. 
+
+ 
+
+Susan Strange at 100 Conference: New Ideas for Strange Times, London, UK, February XX-XXX, 2024. Click here for more information. 
+
+ 
+
+The Susan Strange Podcast. 
+
+-----
 
 This is the homepage for the site.  
 
