@@ -29,15 +29,15 @@ jobs:
       #This task sets up Node.js
       - name: Setup Node.js environment
         uses: actions/setup-node@v2.5.2
-      #This task executes the hugo build command
-      - name: Build
-        run: hugo
       #This is a debug task
       - name: Testing
         run: |
-          dir
-          cd public
-          dir
+          npm install
+          
+      #This task executes the hugo build command
+      - name: Build
+        run: hugo
+
       #This task takes the newly built version of the site and pushes it to the Front_End repository
       #- name: Deploy
        # uses: peaceiris/actions-gh-pages@v3
