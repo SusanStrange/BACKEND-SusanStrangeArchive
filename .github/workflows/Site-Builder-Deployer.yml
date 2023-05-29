@@ -36,7 +36,7 @@ jobs:
       - name: Testing
         run: |
           dir
-          cd Public
+          cd public
           dir
       #This task takes the newly built version of the site and pushes it to the Front_End repository
       #- name: Deploy
