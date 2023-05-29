@@ -32,6 +32,9 @@ jobs:
       #This task executes the hugo build command
       - name: Build
         run: hugo
+      #This is a debug task
+      - name: Testing
+        run: dir
       #This task takes the newly built version of the site and pushes it to the Front_End repository
       #- name: Deploy
        # uses: peaceiris/actions-gh-pages@v3
