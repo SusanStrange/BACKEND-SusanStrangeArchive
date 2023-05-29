@@ -33,10 +33,12 @@ jobs:
       - name: Testing
         run: |
           npm install
+          dir
+          echo "completed"
           
       #This task executes the hugo build command
-      - name: Build
-        run: hugo
+      #- name: Build
+      #  run: hugo
 
       #This task takes the newly built version of the site and pushes it to the Front_End repository
       #- name: Deploy
