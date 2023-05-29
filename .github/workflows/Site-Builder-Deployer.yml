@@ -27,14 +27,15 @@ jobs:
         with:
           hugo-version: 'latest'
       #This task sets up Node.js
-      - name: Setup Node.js environment
-        uses: actions/setup-node@v2.5.2
+      #- name: Setup Node.js environment
+      #  uses: actions/setup-node@v2.5.2
       #This is a debug task
       - name: Testing
         run: |
-          npm install
+          hugo
           dir
           echo "completed"
+          
           
       #This task executes the hugo build command
       #- name: Build
