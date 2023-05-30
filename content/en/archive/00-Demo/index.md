@@ -1,18 +1,16 @@
 ---
-date: 2023
+
 title: "Demo/Template object"
+description: "This is the text displayed by the search results"
 datetext: "2023"
 excerpt: "Citation data"
 excerpt2: "Abstract content"
 excerpt3: "Extra content like key terms"
 
-
+date: 2023
 tags: ["keyword1", "keyword2", "2020's", "Derivative Work"]
 contributors: ["Daniel Brett"]
 categories: ["Source1", "Demo Paper"]
-
-description: "This is the text displayed by the search results"
-
 
 draft: false
 weight: 50
