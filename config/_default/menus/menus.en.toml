@@ -17,8 +17,8 @@
   parent= "archive"
 
 [[main]]
-  name = "Derivative Works"
-  url = "/tags/derivative-work/"
+  name = "Strange-Influenced Works"
+  url = "/tags/strange-influenced-works/"
   weight = 30
   parent= "archive"
 
