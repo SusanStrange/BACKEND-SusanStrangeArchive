@@ -1,18 +1,40 @@
 ---
-title: "Casino Capitalism"
-description: "Casino Capitalism"
-excerpt: "Strange argues that uncertainty and risk in the financial sector/structure have provoked major economic disturbances in the last twenty or so years. This work represents a detailed sectoral history and analysis which argues against many of the proposed solutions to the international economic crisis she identifies. Strange argues that the United States must once again take up the leadership role (which it enjoys by virtue of economic preponderance) and more radically suggests that in the future financial regulation of credit creating agencies should not be a territorially based jurisdiction, but based on the currencies themselves wherever the credit transactions take place. Using her analysis, locating and understanding ‘key decisions’ in one sector/structure of power in the international political economy, Strange shows how disruption has spread to affect the other structures, and concludes with suggestions for how constitutional and governmental changes in the United States would benefit the international system. Alongside (1988e) and (Strange and Stopford 1991) this represents a major part of the influential core of Strange’s work on international political economy."
-date: 1986
-lastmod: 2020-11-04T09:19:42+01:00
+
+title: "Demo/Template object"
+description: "This is the text displayed by the search results"
+datetext: "2023"
+excerpt: "Citation data"
+excerpt2: "Abstract content"
+excerpt3: "Extra content like key terms"
+
+date: 2023
+tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
+contributors: ["Daniel Brett"]
+categories: ["Source1", "Demo Paper"]
+
 draft: false
 weight: 50
 images: []
-categories: ["Book", "Publisher: Blackwell Publishers"]
-tags: ["Economy", "History", "International Political Economy", "United States"]
-contributors: ["Susan Strange"]
 pinned: false
 homepage: false
 ---
 
-Strange argues that uncertainty and risk in the financial sector/structure have provoked major economic disturbances in the last twenty or so years. This work represents a detailed sectoral history and analysis which argues against many of the proposed solutions to the international economic crisis she identifies. Strange argues that the United States must once again take up the leadership role (which it enjoys by virtue of economic preponderance) and more radically suggests that in the future financial regulation of credit creating agencies should not be a territorially based jurisdiction, but based on the currencies themselves wherever the credit transactions take place. Using her analysis, locating and understanding ‘key decisions’ in one sector/structure of power in the international political economy, Strange shows how disruption has spread to affect the other structures, and concludes with suggestions for how constitutional and governmental changes in the United States would benefit the international system. Alongside (1988e) and (Strange and Stopford 1991) this represents a major part of the influential core of Strange’s work on international political economy.
+This is the text that fills the static page for this object.  
 
+You can put anything you want here in plaintext.
+
+If you want to add special elemets like links or images you can use either markdown code:
+
+[This is a link](http://www.google.ca)
+
+or HTML code
+
+<a href="http://www.google.ca">This is also a link</a> 
+
+Images can be done similarly using markdown:
+
+![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
+
+Or HTML code:
+
+<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
