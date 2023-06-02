@@ -1,18 +1,40 @@
 ---
-title: "Free Movement. Ethical Issues in Transnational Migration of People and Money: Ethics and the Movement of Money: Realist Approaches"
-excerpt: "Identifying herself as a Realist, Strange notes that there is not one easily defined Realist perspective on the ethics of international monetary flows. Focusing on the continued existence and relative power of states she explores the problems these flows cause for states and stability in the international system overall. Here she examines international debt, free trade and protectionism, the transfer of profits, and but-outs or take-overs. Strange still seems to have some confidence that the state may play a useful regulatory and political role in economic affairs, a position she would move away from by the end of her career in (1995a) and (1996c) and elsewhere."
-date: 1992
-lastmod: 2020-11-04T09:19:42+01:00
+
+title: "Demo/Template object"
+description: "This is the text displayed by the search results"
+datetext: "2023"
+excerpt: "Citation data"
+excerpt2: "Abstract content"
+excerpt3: "Extra content like key terms"
+
+date: 2023
+tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
+contributors: ["Daniel Brett"]
+categories: ["Source1", "Demo Paper"]
+
 draft: false
 weight: 50
 images: []
-categories: ["Book Chapter", "Publisher: Harvester Wheatsheaf"]
-tags: ["Economy", "Structures"]
-contributors: ["Susan Strange", "Editor: Brian Barry", "Robert E. Goodin"]
 pinned: false
 homepage: false
 ---
 
-Book Chapter:Identifying herself as a Realist, Strange notes that there is not one easily defined Realist perspective on the ethics of international monetary flows. Focusing on the continued existence and relative power of states she explores the problems these flows cause for states and stability in the international system overall. Here she examines international debt, free trade and protectionism, the transfer of profits, and but-outs or take-overs. Strange still seems to have some confidence that the state may play a useful regulatory and political role in economic affairs, a position she would move away from by the end of her career in (1995a) and (1996c) and elsewhere.
+This is the text that fills the static page for this object.  
 
-Pages: 232-247
+You can put anything you want here in plaintext.
+
+If you want to add special elemets like links or images you can use either markdown code:
+
+[This is a link](http://www.google.ca)
+
+or HTML code
+
+<a href="http://www.google.ca">This is also a link</a> 
+
+Images can be done similarly using markdown:
+
+![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
+
+Or HTML code:
+
+<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
