@@ -1,18 +1,40 @@
 ---
-title: "The Sterling Problem and the Six"
-description: "The Sterling Problem and the Six"
-excerpt: "In this small pamphlet Strange analyses the twin roles of sterling in the international economy - that of reserve currency and of vehicle currency (in which transactions are carried out), in a precursor to her typology of currencies in (1971c). She argues that while the City has benefited from the expansion of the ‘Euro-currency’ markets, in its ‘middleman’ role, this has led to a number of problems for sterling both in the wider context of the international economy and, more specifically, the context of the emerging European Community. Sterling had become more vulnerable to changes elsewhere. She is sceptical about the possibility of Britain enjoying any financial benefit from joining the ‘six’, noting that the CAP payments and the IMF repayments together would form an unendurable strain on the exchequer."
-date: 1967
-lastmod: 2020-11-04T09:19:42+01:00
+
+title: "Demo/Template object"
+description: "This is the text displayed by the search results"
+datetext: "2023"
+excerpt: "Citation data"
+excerpt2: "Abstract content"
+excerpt3: "Extra content like key terms"
+
+date: 2023
+tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
+contributors: ["Daniel Brett"]
+categories: ["Source1", "Demo Paper"]
+
 draft: false
 weight: 50
 images: []
-categories: ["Book", "Publisher: Chatham House", "PEP"]
-tags: ["Europe", "Economy"]
-contributors: ["Susan Strange"]
 pinned: false
 homepage: false
 ---
 
-In this small pamphlet Strange analyses the twin roles of sterling in the international economy - that of reserve currency and of vehicle currency (in which transactions are carried out), in a precursor to her typology of currencies in (1971c). She argues that while the City has benefited from the expansion of the ‘Euro-currency’ markets, in its ‘middleman’ role, this has led to a number of problems for sterling both in the wider context of the international economy and, more specifically, the context of the emerging European Community. Sterling had become more vulnerable to changes elsewhere. She is sceptical about the possibility of Britain enjoying any financial benefit from joining the ‘six’, noting that the CAP payments and the IMF repayments together would form an unendurable strain on the exchequer.
+This is the text that fills the static page for this object.  
 
+You can put anything you want here in plaintext.
+
+If you want to add special elemets like links or images you can use either markdown code:
+
+[This is a link](http://www.google.ca)
+
+or HTML code
+
+<a href="http://www.google.ca">This is also a link</a> 
+
+Images can be done similarly using markdown:
+
+![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
+
+Or HTML code:
+
+<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
