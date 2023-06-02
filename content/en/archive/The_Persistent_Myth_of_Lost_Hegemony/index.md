@@ -1,19 +1,40 @@
 ---
-title: "The Persistent Myth of Lost Hegemony"
-description: "The Persistent Myth of Lost Hegemony"
-excerpt: "Strange’s classic attack of the ‘declinist school’ in international relations. Once she has discussed the more ‘sociological’ reasons for American academics holding this view (of which the most powerful/cynical is that it is essentially a convenient denial of responsibility by Americans for their effect on the international system), Strange goes on to elaborate the four structures of power in IPE. This exposition closely parallels (though in a brief form) the arguments that appear in (1988e). Strange again identifies the American domestic political process (and constitutional structure) as being the root of many of international problems. Strange suggests that the domestic and international cannot be separated analytically, and her structural analysis of power explains the effects of American domestic politics on the international political economy. An earlier version was given in a conference paper presented to the 30th Annual Conference of the Japan Association of International Relations in Tokyo, October 1986."
-date: 1987
-lastmod: 2020-11-04T09:19:42+01:00
+
+title: "Demo/Template object"
+description: "This is the text displayed by the search results"
+datetext: "2023"
+excerpt: "Citation data"
+excerpt2: "Abstract content"
+excerpt3: "Extra content like key terms"
+
+date: 2023
+tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
+contributors: ["Daniel Brett"]
+categories: ["Source1", "Demo Paper"]
+
 draft: false
 weight: 50
 images: []
-categories: ["Journal Article", "Journal: International Organization", "Publisher: Cambridge University Press"]
-tags: ["International Political Economy", "Declinist", "Security", "Production", "Finance", "Knowledge", "Economy", "Structure", "United States", "Tokyo Meeting"]
-contributors: ["Susan Strange"]
 pinned: false
 homepage: false
 ---
 
-Strange’s classic attack of the ‘declinist school’ in international relations. Once she has discussed the more ‘sociological’ reasons for American academics holding this view (of which the most powerful/cynical is that it is essentially a convenient denial of responsibility by Americans for their effect on the international system), Strange goes on to elaborate the four structures of power in IPE. This exposition closely parallels (though in a brief form) the arguments that appear in (1988e). Strange again identifies the American domestic political process (and constitutional structure) as being the root of many of international problems. Strange suggests that the domestic and international cannot be separated analytically, and her structural analysis of power explains the effects of American domestic politics on the international political economy. An earlier version was given in a conference paper presented to the 30th Annual Conference of the Japan Association of International      Relations in Tokyo, October 1986.
+This is the text that fills the static page for this object.  
 
-International Organization. Volume: 41 Issue: 4. Pages 551-574
+You can put anything you want here in plaintext.
+
+If you want to add special elemets like links or images you can use either markdown code:
+
+[This is a link](http://www.google.ca)
+
+or HTML code
+
+<a href="http://www.google.ca">This is also a link</a> 
+
+Images can be done similarly using markdown:
+
+![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
+
+Or HTML code:
+
+<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
