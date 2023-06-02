@@ -1,18 +1,40 @@
 ---
-title: "Global Transformation: Challenges to the State System: The Structure of  Finance in the World System"
-excerpt: "Strange again stresses, as she has done before, that the crucial element of the financial structure is the ability to create credit. This is only one side of the financial structure, however - the other side is the institutional regulation of exchange rates between currencies. Much of the work on the international financial has been compromised by its emphasis on the state due to the fore grounding of the exchange rate part of the structure. Strange then suggests and describes five key changes in the structure: its growth in size; new technologies; the penetration of national financial systems by global financial capital; the increasing competition and declining regulation in credit provision; and the relation between supply and demand. Using a global monetarist perspective Strange sees global inflation linked with the oversupply of credit by banks, stemming from the previous four changes. However, American power in the financial structure still remains, measured by their ability to act unilaterally in the field of global finance."
-date: 1994
-lastmod: 2020-11-04T09:19:42+01:00
+
+title: "Demo/Template object"
+description: "This is the text displayed by the search results"
+datetext: "2023"
+excerpt: "Citation data"
+excerpt2: "Abstract content"
+excerpt3: "Extra content like key terms"
+
+date: 2023
+tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
+contributors: ["Daniel Brett"]
+categories: ["Source1", "Demo Paper"]
+
 draft: false
 weight: 50
 images: []
-categories: ["Book Chapter", "Publisher: United Nations University Press"]
-tags: ["Economy", "Structures"]
-contributors: ["Susan Strange", "Editor: Yoshikazu Sakamoto"]
 pinned: false
 homepage: false
 ---
 
-Book Chapter: Strange again stresses, as she has done before, that the crucial element of the financial structure is the ability to create credit. This is only one side of the financial structure, however - the other side is the institutional regulation of exchange rates between currencies. Much of the work on the international financial has been compromised by its emphasis on the state due to the fore grounding of the exchange rate part of the structure. Strange then suggests and describes five key changes in the structure: its growth in size; new technologies; the penetration of national financial systems by global financial capital; the increasing competition and declining regulation in credit provision; and the relation between supply and demand. Using a global monetarist perspective Strange sees global inflation linked with the oversupply of credit by banks, stemming from the previous four changes. However, American power in the financial structure still remains, measured by their ability to act unilaterally in the field of global finance.
+This is the text that fills the static page for this object.  
 
-Pages: 228-249
+You can put anything you want here in plaintext.
+
+If you want to add special elemets like links or images you can use either markdown code:
+
+[This is a link](http://www.google.ca)
+
+or HTML code
+
+<a href="http://www.google.ca">This is also a link</a> 
+
+Images can be done similarly using markdown:
+
+![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
+
+Or HTML code:
+
+<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
