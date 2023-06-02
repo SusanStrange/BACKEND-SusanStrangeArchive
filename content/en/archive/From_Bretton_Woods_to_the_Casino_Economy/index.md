@@ -1,18 +1,40 @@
 ---
-title: "Money, Power and Space: From Bretton Woods to the Casino Economy"
-excerpt: "Strange argues as she has frequently done for the importance of historical understanding power in the international financial structure is to be fully analysed. She suggests that there are two separate but linked aspects of the global political economy that need to be thought about within the financial structure - the international monetary system and the international financial system. Thus, Strange focuses on credit creation to examine the upheavals in the financial structure and the decline of the Bretton Woods system. She also suggests that acquiescence in the uneven distribution of the benefits derived from financial ‘freedom’ may be becoming less assured in the post Cold War global system. While larger states have (at least for the time being) managed to retain some of their power in the financial structure, smaller states have seen a decline in their ability to resist the pressures from the international money markets. Once again Strange discusses the shift in power from states to markets, and implicitly reinforces her arguments for the centrality of structural power considerations."
-date: 1994
-lastmod: 2020-11-04T09:19:42+01:00
+
+title: "Demo/Template object"
+description: "This is the text displayed by the search results"
+datetext: "2023"
+excerpt: "Citation data"
+excerpt2: "Abstract content"
+excerpt3: "Extra content like key terms"
+
+date: 2023
+tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
+contributors: ["Daniel Brett"]
+categories: ["Source1", "Demo Paper"]
+
 draft: false
 weight: 50
 images: []
-categories: ["Book Chapter", "Publisher: Blackwell"]
-tags: ["Economy", "Structures"]
-contributors: ["Susan Strange", "Editor: Stuart Corbridge", "Martin Ron", "Nigel Thrift"]
 pinned: false
 homepage: false
 ---
 
-Book Chapter: Strange argues as she has frequently done for the importance of historical understanding power in the international financial structure is to be fully analysed. She suggests that there are two separate but linked aspects of the global political economy that need to be thought about within the financial structure - the international monetary system and the international financial system. Thus, Strange focuses on credit creation to examine the upheavals in the financial structure and the decline of the Bretton Woods system. She also suggests that acquiescence in the uneven distribution of the benefits derived from financial ‘freedom’ may be becoming less assured in the post Cold War global system. While larger states have (at least for the time being) managed to retain some of their power in the financial structure, smaller states have seen a decline in their ability to resist the pressures from the international money markets. Once again Strange discusses the shift in power from states to markets, and implicitly reinforces her arguments for the centrality of structural power considerations.
+This is the text that fills the static page for this object.  
 
-Pages: 49-62
+You can put anything you want here in plaintext.
+
+If you want to add special elemets like links or images you can use either markdown code:
+
+[This is a link](http://www.google.ca)
+
+or HTML code
+
+<a href="http://www.google.ca">This is also a link</a> 
+
+Images can be done similarly using markdown:
+
+![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
+
+Or HTML code:
+
+<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
