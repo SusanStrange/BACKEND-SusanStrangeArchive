@@ -1,17 +1,40 @@
 ---
-title: "Globalisation and Capitalist Diversity: Expieriences on the Asian Mainland"
-description: "This volume collects together papers presented at a conference organised by Strange at the EUI on 2-4th May 1996. Strange herself only contributed an introduction outlining the papers in the volume and discussing the organisational background to the conference. Strange argues that comparative politics scholars and international business academics need to ‘build bridges’ between the two disciplines to better understand the interaction between states and firms. Additionally Strange wanted the conference to bring together European and Japanese academics to discuss the relationship between firms and states in Asia’s economic development. Unsurprisingly, this relationship between states and firms, most specifically in the case of Japan and China was the central subject of discussion. However Strange concludes that while the papers collected in the volume broadly agreed on the importance of Asian development for the global economy, the participants were unable to agree on the interaction of states and firms. Finally Strange suggested that mainstream realist and neo-realist approaches to international relations were of little help and what was required was an interdisciplinary comparative international political economy, which she had been advocating for the previous twenty years."
-date: 1997
-lastmod: 2020-11-04T09:19:42+01:00
+
+title: "Demo/Template object"
+description: "This is the text displayed by the search results"
+datetext: "2023"
+excerpt: "Citation data"
+excerpt2: "Abstract content"
+excerpt3: "Extra content like key terms"
+
+date: 2023
+tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
+contributors: ["Daniel Brett"]
+categories: ["Source1", "Demo Paper"]
+
 draft: false
 weight: 50
 images: []
-categories: ["Edited Volume", "Publisher: European Univeristy Institute", "Robert Schulman Centre"]
-tags: ["Comparative Politics", "Europe", "Asia", "International Political Economy"]
-contributors: ["Susan Strange"]
 pinned: false
 homepage: false
 ---
 
-This volume collects together papers presented at a conference organised by Strange at the EUI on 2-4th May 1996. Strange herself only contributed an introduction outlining the papers in the volume and discussing the organisational background to the conference. Strange argues that comparative politics scholars and international business academics need to ‘build bridges’ between the two disciplines to better understand the interaction between states and firms. Additionally Strange wanted the conference to bring together European and Japanese academics to discuss the relationship between firms and states in Asia’s economic development. Unsurprisingly, this relationship between states and firms, most specifically in the case of Japan and China was the central subject of discussion. However Strange concludes that while the papers collected in the volume broadly agreed on the importance of Asian development for the global economy, the participants were unable to agree on the interaction of states and firms. Finally Strange suggested that mainstream realist and neo-realist approaches to international relations were of little help and what was required was an interdisciplinary comparative international political economy, which she had been advocating for the previous twenty years.
+This is the text that fills the static page for this object.  
 
+You can put anything you want here in plaintext.
+
+If you want to add special elemets like links or images you can use either markdown code:
+
+[This is a link](http://www.google.ca)
+
+or HTML code
+
+<a href="http://www.google.ca">This is also a link</a> 
+
+Images can be done similarly using markdown:
+
+![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
+
+Or HTML code:
+
+<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
