@@ -1,18 +1,40 @@
 ---
-title: "Comment on International Monetary System Since 1972: Structural Change and Financial Innovation: Problems of International Money, 1972-85"
-excerpt: "A brief article in which Strange argues that in the national competition for market shares within the global economy, there are two important strategies, neither of which at that time could the European Community realistically follow. Firstly, state procurement can be used as a stimulus to research and development and secondly the control of market access can be used as a bargaining lever. Unless the single market is used in this way, and a common defence policy is adopted, along with centralised procurement, then Strange envisages Europe (even with closer union) still loosing out to the Americans and Japanese. Strange reveals her mercantilist side, as she had done in her discussions of protectionism in (1979a), (1985a) and (1988c)."
-date: 1988
-lastmod: 2020-11-04T09:19:42+01:00
+
+title: "Demo/Template object"
+description: "This is the text displayed by the search results"
+datetext: "2023"
+excerpt: "Citation data"
+excerpt2: "Abstract content"
+excerpt3: "Extra content like key terms"
+
+date: 2023
+tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
+contributors: ["Daniel Brett"]
+categories: ["Source1", "Demo Paper"]
+
 draft: false
 weight: 50
 images: []
-categories: ["Book Chapter", "Publisher: Nomos Verlasgesellschaft"]
-tags: ["Economy", "Structures"]
-contributors: ["Susan Strange", "Editor: Ronald Bieber", "John Pinder", "Joseph H. H. Weiler"]
 pinned: false
 homepage: false
 ---
 
-Book Chapter: A brief article in which Strange argues that in the national competition for market shares within the global economy, there are two important strategies, neither of which at that time could the European Community realistically follow. Firstly, state procurement can be used as a stimulus to research and development and secondly the control of market access can be used as a bargaining lever. Unless the single market is used in this way, and a common defence policy is adopted, along with centralised procurement, then Strange envisages Europe (even with closer union) still loosing out to the Americans and Japanese. Strange reveals her mercantilist side, as she had done in her discussions of protectionism in (1979a), (1985a) and (1988c).
+This is the text that fills the static page for this object.  
 
-Pages: 73-76
+You can put anything you want here in plaintext.
+
+If you want to add special elemets like links or images you can use either markdown code:
+
+[This is a link](http://www.google.ca)
+
+or HTML code
+
+<a href="http://www.google.ca">This is also a link</a> 
+
+Images can be done similarly using markdown:
+
+![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
+
+Or HTML code:
+
+<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
