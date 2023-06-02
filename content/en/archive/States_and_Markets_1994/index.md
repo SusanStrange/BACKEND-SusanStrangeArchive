@@ -1,18 +1,40 @@
 ---
-title: "States and Markets"
-description: "States and Markets"
-excerpt: "Although subtitled ‘An Introduction...’ to IPE, this represents the only book length discussion of Strange’s theory of the four dimensions of power in IPE. It is at once an introduction to the subject and a forceful agenda setting exercise for further research. As such, though often appearing on undergraduate course reading lists, this is Strange’s defining book, one about which the rest of her work revolves. Strange discusses her ideas on theory building and methodology as well as the four structures of power in the international political economy: security, finance, production and knowledge. This discussion is mobilised around the balance of authority and markets and the questions of value preferences, and of course ‘cui bono?’ (who benefits?). She then applies this analysis to a number of ‘secondary structures’. Those who dismiss this as ‘merely an introductory text’ have completely missed the point!"
-date: 1994
-lastmod: 2020-11-04T09:19:42+01:00
+
+title: "Demo/Template object"
+description: "This is the text displayed by the search results"
+datetext: "2023"
+excerpt: "Citation data"
+excerpt2: "Abstract content"
+excerpt3: "Extra content like key terms"
+
+date: 2023
+tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
+contributors: ["Daniel Brett"]
+categories: ["Source1", "Demo Paper"]
+
 draft: false
 weight: 50
 images: []
-categories: ["Book", "Publisher: Pinter Publishers"]
-tags: ["Economy", "Security", "Production", "Knowledge", "International Political Economy", "Structures"]
-contributors: ["Susan Strange"]
 pinned: false
 homepage: false
 ---
 
-Although subtitled ‘An Introduction...’ to IPE, this represents the only book length discussion of Strange’s theory of the four dimensions of power in IPE. It is at once an introduction to the subject and a forceful agenda setting exercise for further research. As such, though often appearing on undergraduate course reading lists, this is Strange’s defining book, one about which the rest of her work revolves. Strange discusses her ideas on theory building and methodology as well as the four structures of power in the international political economy: security, finance, production and knowledge. This discussion is mobilised around the balance of authority and markets and the questions of value preferences, and of course ‘cui bono?’ (who benefits?). She then applies this analysis to a number of ‘secondary structures’. Those who dismiss this as ‘merely an introductory text’ have completely missed the point!
+This is the text that fills the static page for this object.  
 
+You can put anything you want here in plaintext.
+
+If you want to add special elemets like links or images you can use either markdown code:
+
+[This is a link](http://www.google.ca)
+
+or HTML code
+
+<a href="http://www.google.ca">This is also a link</a> 
+
+Images can be done similarly using markdown:
+
+![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
+
+Or HTML code:
+
+<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
