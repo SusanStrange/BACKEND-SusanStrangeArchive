@@ -1,19 +1,40 @@
 ---
-title: "International Organisation: World Politics, Studies in Economic: The Meaning of Multilateral Surveilance"
-description: "International Organisation: World Politics, Studies in Economic: The Meaning of Multilateral Surveilance"
-excerpt:"Book Chapter: Taking the relationship between debtor and creditor countries as her starting point Strange argues that multilateral surveillance is not as draconian as it is presented. She notes that military expenditure is seldom included in the requests for debtor country adjustments. Despite the international economic organisations’ role, states were still able to manipulate their creditors through political pressures. Interestingly, Strange notes with great prescience that while at the time states could still play this role, with the continuing internationalisation of money markets (and the emergent technologies that made such developments possible), this would in the future present a strategic problem for states’ governments. The approach she favoured was for the reduction of indebtedness to be borne not by the deficit countries but rather by the surplus countries. That is, the solution to the debt crisis was not more adjustment in the ‘Third World’, but was some form of debt forgiveness.
-date: 1969
-lastmod: 2020-11-04T09:19:42+01:00
+
+title: "Demo/Template object"
+description: "This is the text displayed by the search results"
+datetext: "2023"
+excerpt: "Citation data"
+excerpt2: "Abstract content"
+excerpt3: "Extra content like key terms"
+
+date: 2023
+tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
+contributors: ["Daniel Brett"]
+categories: ["Source1", "Demo Paper"]
+
 draft: false
 weight: 50
 images: []
-categories: ["Book Chapter", "Publisher: Macmillan"]
-tags: ["Economy", "Structures"]
-contributors: ["Susan Strange", "Editor: Robert W. Cox"]
 pinned: false
 homepage: false
 ---
 
-Book Chapter: Taking the relationship between debtor and creditor countries as her starting point Strange argues that multilateral surveillance is not as draconian as it is presented. She notes that military expenditure is seldom included in the requests for debtor country adjustments. Despite the international economic organisations’ role, states were still able to manipulate their creditors through political pressures. Interestingly, Strange notes with great prescience that while at the time states could still play this role, with the continuing internationalisation of money markets (and the emergent technologies that made such developments possible), this would in the future present a strategic problem for states’ governments. The approach she favoured was for the reduction of indebtedness to be borne not by the deficit countries but rather by the surplus countries. That is, the solution to the debt crisis was not more adjustment in the ‘Third World’, but was some form of debt forgiveness.
+This is the text that fills the static page for this object.  
 
-Pages: 231-247
+You can put anything you want here in plaintext.
+
+If you want to add special elemets like links or images you can use either markdown code:
+
+[This is a link](http://www.google.ca)
+
+or HTML code
+
+<a href="http://www.google.ca">This is also a link</a> 
+
+Images can be done similarly using markdown:
+
+![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
+
+Or HTML code:
+
+<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
