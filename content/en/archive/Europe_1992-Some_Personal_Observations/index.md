@@ -1,16 +1,40 @@
 ---
-title: "Europe 1992 - Some Personal Observations"
-excerpt: "In this record of a personal address, Strange suggests the 1992 project served both the European collective interest (in the face of Asian and American competition) and the national interests of the major European states (France and Germany), though as notes Britain’s position is less clear cut. Post 1992 Strange suggests the democratic deficit (in European institutions), finance (the European Central Bank, co-ordination of banking regulations and the single currency), defence (and public procurement), reciprocity in international trade, and R&D are areas which are likely to be the most important for governments to attend to. But she also notes that identifying the boundaries of Europe, social (welfare) policy, immigration and national restrictive practices are all problems which though currently marginal will be aggravated by 1992."
-date: 1990
-lastmod: 2020-11-04T09:19:42+01:00
+
+title: "Demo/Template object"
+description: "This is the text displayed by the search results"
+datetext: "2023"
+excerpt: "Citation data"
+excerpt2: "Abstract content"
+excerpt3: "Extra content like key terms"
+
+date: 2023
+tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
+contributors: ["Daniel Brett"]
+categories: ["Source1", "Demo Paper"]
+
 draft: false
 weight: 50
 images: []
-categories: ["Working Paper", "Publisher: South African Institute of International Affairs", "Journal: SAIIA Occasional Paper"]
-tags: ["Economy", "Structures"]
-contributors: ["Susan Strange", "Editor: Nicholas X. Rizopoulo"]
 pinned: false
 homepage: false
 ---
 
-Working Paper:In this record of a personal address, Strange suggests the 1992 project served both the European collective interest (in the face of Asian and American competition) and the national interests of the major European states (France and Germany), though as notes Britain’s position is less clear cut. Post 1992 Strange suggests the democratic deficit (in European institutions), finance (the European Central Bank, co-ordination of banking regulations and the single currency), defence (and public procurement), reciprocity in international trade, and R&D are areas which are likely to be the most important for governments to attend to. But she also notes that identifying the boundaries of Europe, social (welfare) policy, immigration and national restrictive practices are all problems which though currently marginal will be aggravated by 1992.
+This is the text that fills the static page for this object.  
+
+You can put anything you want here in plaintext.
+
+If you want to add special elemets like links or images you can use either markdown code:
+
+[This is a link](http://www.google.ca)
+
+or HTML code
+
+<a href="http://www.google.ca">This is also a link</a> 
+
+Images can be done similarly using markdown:
+
+![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
+
+Or HTML code:
+
+<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
