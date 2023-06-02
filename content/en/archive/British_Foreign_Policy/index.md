@@ -1,17 +1,40 @@
 ---
-title: "British Foreign Policy"
-description: "British Foreign Policy"
-excerpt: "This pamphlet appeared in Background Books series. Taking a rather optimistic (though at that time widespread view) of the Soviet Bloc’s economic situation vis-à-vis the West, Strange concludes that Soviet economic (and political) influence is reliant on economic ‘trouble-spots’ and the aversion by many developing states to the West’s recent history of colonialism. This leads her to suggest that money then spent on military aid might be better spent helping developing countries deal with agricultural surplus capacity in the global a market, a theme she would return to in (1979a). Furthermore, the economic cycle in the developed states could be better managed to reduce the destabilising effects on primary producers. Thus political activism by the West could do much to counter the ‘war without weapons’ represented by the contemporary Soviet trade and aid policy."
-date: 1959
-lastmod: 2020-11-04T09:19:42+01:00
+
+title: "Demo/Template object"
+description: "This is the text displayed by the search results"
+datetext: "2023"
+excerpt: "Citation data"
+excerpt2: "Abstract content"
+excerpt3: "Extra content like key terms"
+
+date: 2023
+tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
+contributors: ["Daniel Brett"]
+categories: ["Source1", "Demo Paper"]
+
 draft: false
 weight: 50
 images: []
-categories: ["Journal Article", "Journal: Millennium Journal of International Studies", "Publisher: Phoenix House"]
-tags: ["International Political Economy", "TNC", "Knowledge"]
-contributors: ["Susan Strange"]
 pinned: false
 homepage: false
 ---
 
-This pamphlet appeared in Background Books series. Taking a rather optimistic (though at that time widespread view) of the Soviet Bloc’s economic situation vis-à-vis the West, Strange concludes that Soviet economic (and political) influence is reliant on economic ‘trouble-spots’ and the aversion by many developing states to the West’s recent history of colonialism. This leads her to suggest that money then spent on military aid might be better spent helping developing countries deal with agricultural surplus capacity in the global a market, a theme she would return to in (1979a). Furthermore, the economic cycle in the developed states could be better managed to reduce the destabilising effects on primary producers. Thus political activism by the West could do much to counter the ‘war without weapons’ represented by the contemporary Soviet trade and aid policy.
+This is the text that fills the static page for this object.  
+
+You can put anything you want here in plaintext.
+
+If you want to add special elemets like links or images you can use either markdown code:
+
+[This is a link](http://www.google.ca)
+
+or HTML code
+
+<a href="http://www.google.ca">This is also a link</a> 
+
+Images can be done similarly using markdown:
+
+![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
+
+Or HTML code:
+
+<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
