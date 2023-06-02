@@ -1,18 +1,40 @@
 ---
-title: "GATT and the Politics of North-South Trade"
-description: "GATT and the Politics of North-South Trade"
-excerpt: "Strange identifies three ‘shaky assumptions’ underlying the call to revive the GATT negotiations, that protectionism was the main cause of the 1930s depression, that the GATT was a necessary condition of post-war recovery, and free trade was ever a widely followed ‘norm’. However, though the alternatives are presented as a hegemonic system run by the US or a multilateral system managed through the GATT, Strange argues that the reality is a cob-web of bi-lateral agreements which accords with many people’s desire to have their own state manage their affairs."
-date: 1984
-lastmod: 2020-11-04T09:19:42+01:00
+
+title: "Demo/Template object"
+description: "This is the text displayed by the search results"
+datetext: "2023"
+excerpt: "Citation data"
+excerpt2: "Abstract content"
+excerpt3: "Extra content like key terms"
+
+date: 2023
+tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
+contributors: ["Daniel Brett"]
+categories: ["Source1", "Demo Paper"]
+
 draft: false
 weight: 50
 images: []
-categories: ["Journal Article", "Journal: Austrailian Outlook"]
-tags: ["International Political Economy", "Economy", "GATT", "Hegemony"]
-contributors: ["Susan Strange", "Editors: Sara Davies", "Ian Hall"]
 pinned: false
 homepage: false
 ---
 
-Strange identifies three ‘shaky assumptions’ underlying the call to revive the GATT negotiations, that protectionism was the main cause of the 1930s depression, that the GATT was a necessary condition of post-war recovery, and free trade was ever a widely followed ‘norm’. However, though the alternatives are presented as a hegemonic system run by the US or a multilateral system managed through the GATT, Strange argues that the reality is a cob-web of bi-lateral agreements which accords with many people’s desire to have their own state manage their affairs.
-Austrailian Outlook. Volume: 38 Issue: 2. Pages 106-110
+This is the text that fills the static page for this object.  
+
+You can put anything you want here in plaintext.
+
+If you want to add special elemets like links or images you can use either markdown code:
+
+[This is a link](http://www.google.ca)
+
+or HTML code
+
+<a href="http://www.google.ca">This is also a link</a> 
+
+Images can be done similarly using markdown:
+
+![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
+
+Or HTML code:
+
+<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
