@@ -1,19 +1,40 @@
 ---
-title: "The Study of International Affairs: Essays in Honour of Kenneth Younger - International Economic Relations I: The Need for an Interdisciplinary Approach"
 
-excerpt: "Strange’s second major attack on the discipline of international economics as it then stood, see also (1970a). She derides the academic ‘apartheid’ that separates off political considerations from the economic and argues that what is required is a single international studies discipline that encompasses both the politics and economics of international relations (what would eventually become International Political Economy). The only part of international studies that has moved in this direction is ‘development economics’. Their openness to the insights of other approaches needs to be adopted by other sectors of study. She argues that this should start in the universities with more emphasis on multi-disciplinary training."
-date: 1972
-lastmod: 2020-11-04T09:19:42+01:00
+title: "Demo/Template object"
+description: "This is the text displayed by the search results"
+datetext: "2023"
+excerpt: "Citation data"
+excerpt2: "Abstract content"
+excerpt3: "Extra content like key terms"
+
+date: 2023
+tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
+contributors: ["Daniel Brett"]
+categories: ["Source1", "Demo Paper"]
+
 draft: false
 weight: 50
 images: []
-categories: ["Book Chapter", "Publisher: RIIA/Oxford University Press"]
-tags: ["Economy", "Structures"]
-contributors: ["Susan Strange", "Editor: Roger Morgan"]
 pinned: false
 homepage: false
 ---
 
-Book Chapter: Strange’s second major attack on the discipline of international economics as it then stood, see also (1970a). She derides the academic ‘apartheid’ that separates off political considerations from the economic and argues that what is required is a single international studies discipline that encompasses both the politics and economics of international relations (what would eventually become International Political Economy). The only part of international studies that has moved in this direction is ‘development economics’. Their openness to the insights of other approaches needs to be adopted by other sectors of study. She argues that this should start in the universities with more emphasis on multi-disciplinary training.
+This is the text that fills the static page for this object.  
 
-Pages: 63-84
+You can put anything you want here in plaintext.
+
+If you want to add special elemets like links or images you can use either markdown code:
+
+[This is a link](http://www.google.ca)
+
+or HTML code
+
+<a href="http://www.google.ca">This is also a link</a> 
+
+Images can be done similarly using markdown:
+
+![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
+
+Or HTML code:
+
+<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
