@@ -1,19 +1,40 @@
 ---
-title: "The Future of the American Empire"
-description: "The Future of the American Empire"
-excerpt: "Strange argues that increasingly power in the international political economy is not territorially defined, and what has emerged is an empire that is not territorially based, and secondly is controlled by information-rich US corporations. However while she call this the ‘American Empire’ her argument is (self-avowedly) close to an international Gramscian ‘historical bloc’ analysis. Thus the controlling bureaucracy of this empire while based on American values and culture is not necessarily staffed by Americans. This argument is carried further in (1989b)."
-date: 1988
-lastmod: 2020-11-04T09:19:42+01:00
+
+title: "Demo/Template object"
+description: "This is the text displayed by the search results"
+datetext: "2023"
+excerpt: "Citation data"
+excerpt2: "Abstract content"
+excerpt3: "Extra content like key terms"
+
+date: 2023
+tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
+contributors: ["Daniel Brett"]
+categories: ["Source1", "Demo Paper"]
+
 draft: false
 weight: 50
 images: []
-categories: ["Journal Article", "Journal: Journal of International Affairs", "Publisher: Columbia University"]
-tags: ["International Political Economy", "United States", "Political Culture"]
-contributors: ["Susan Strange"]
 pinned: false
 homepage: false
 ---
 
-Strange argues that increasingly power in the international political economy is not territorially defined, and what has emerged is an empire that is not territorially based, and secondly is controlled by information-rich US corporations. However while she call this the ‘American Empire’ her argument is (self-avowedly) close to an international Gramscian ‘historical bloc’ analysis. Thus the controlling bureaucracy of this empire while based on American values and culture is not necessarily staffed by Americans. This argument is carried further in (1989b).
+This is the text that fills the static page for this object.  
 
-Journal of International Affairs. Volume: 42 Issue: 1. Pages 1-17
+You can put anything you want here in plaintext.
+
+If you want to add special elemets like links or images you can use either markdown code:
+
+[This is a link](http://www.google.ca)
+
+or HTML code
+
+<a href="http://www.google.ca">This is also a link</a> 
+
+Images can be done similarly using markdown:
+
+![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
+
+Or HTML code:
+
+<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
