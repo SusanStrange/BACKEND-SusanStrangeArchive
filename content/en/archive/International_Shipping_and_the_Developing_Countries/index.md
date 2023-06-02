@@ -1,19 +1,40 @@
 ---
-title: "Research on International Organisation"
-description: "Research on International Organisation"
-excerpt: "Focusing on the importance of sea transport for developing countries that need to gain access to other markets (both for imports and their own exports) Strange and Holland examine the political economy of liner conferences by which international shipping capacity is managed. This private management system does not serve the developing states well leading UNCTAD to press for fairer international rules of conduct for international shipping. On one side the authors suggest that developing countries, where possible may need to develop national carriers to allow them to influence the management of shipping as well offering an secure avenue for their own trade. However, the authors also stress that a political response to the problems is required from the developed states before the problem leads to major disruption in international trade. The authors conclude that a form of international shipping authority needs to be set up to replace the market driven liner conferences."
-date: 1976
-lastmod: 2020-11-04T09:19:42+01:00
+
+title: "Demo/Template object"
+description: "This is the text displayed by the search results"
+datetext: "2023"
+excerpt: "Citation data"
+excerpt2: "Abstract content"
+excerpt3: "Extra content like key terms"
+
+date: 2023
+tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
+contributors: ["Daniel Brett"]
+categories: ["Source1", "Demo Paper"]
+
 draft: false
 weight: 50
 images: []
-categories: ["Journal Article", "Journal: World Development"]
-tags: ["International Political Economy", "Shipping", "UN"]
-contributors: ["Susan Strange", "Holland Richard"]
 pinned: false
 homepage: false
 ---
 
-Focusing on the importance of sea transport for developing countries that need to gain access to other markets (both for imports and their own exports) Strange and Holland examine the political economy of liner conferences by which international shipping capacity is managed. This private management system does not serve the developing states well leading UNCTAD to press for fairer international rules of conduct for international shipping. On one side the authors suggest that developing countries, where possible may need to develop national carriers to allow them to influence the management of shipping as well offering an secure avenue for their own trade. However, the authors also stress that a political response to the problems is required from the developed states before the problem leads to major disruption in international trade. The authors conclude that a form of international shipping authority needs to be set up to replace the market driven liner conferences.
+This is the text that fills the static page for this object.  
 
-World Development . Volume: 4 Issue 3. Pages 241-251
+You can put anything you want here in plaintext.
+
+If you want to add special elemets like links or images you can use either markdown code:
+
+[This is a link](http://www.google.ca)
+
+or HTML code
+
+<a href="http://www.google.ca">This is also a link</a> 
+
+Images can be done similarly using markdown:
+
+![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
+
+Or HTML code:
+
+<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
