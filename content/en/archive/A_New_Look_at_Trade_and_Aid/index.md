@@ -1,16 +1,16 @@
 ---
 
-title: "Demo/Template object"
+title: "A New Look at Trade and Aid"
 description: "This is the text displayed by the search results"
-datetext: "2023"
-excerpt: "Citation data"
-excerpt2: "Abstract content"
+datetext: "1966"
+excerpt: "(1966) 'A New Look at Trade and Aid' International Affairs 42, 1 (January): 61 - 73."
+excerpt2: "In the light of UNCTAD’s problems, declining optimism over foreign aid and the unfavourable terms of trade for developing states, Strange suggests that ‘Prebisch’s thesis’, allowing subsidised exporting by developing states, and the dropping of tariff barriers, while unpopular would be a useful way forward. She suggests an ‘import bounty’ system, to diffuse opposition, paid for through a tax on developed states domestic and exporting manufacturers. While encouraging industry in developing states, instead of commodity exports, this would reduce the ‘loading of the dice’ identified by G77. Even if not achievable multilaterally, bilateral implementation would help revive help to the developing world and help developed state’s industry to revive through competition. Strange posits the structural problems of international trade, while suggesting the way forward through a combination of economics and politics."
 excerpt3: "Extra content like key terms"
 
-date: 2023
-tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
-contributors: ["Daniel Brett"]
-categories: ["Source1", "Demo Paper"]
+date: 1966
+tags: ["Production", "Trade", "1960's"]
+contributors: ["Susan Strange"]
+categories: ["Journal Article"]
 
 draft: false
 weight: 50
@@ -19,22 +19,8 @@ pinned: false
 homepage: false
 ---
 
-This is the text that fills the static page for this object.  
+In the light of UNCTAD’s problems, declining optimism over foreign aid and the unfavourable terms of trade for developing states, Strange suggests that ‘Prebisch’s thesis’, allowing subsidised exporting by developing states, and the dropping of tariff barriers, while unpopular would be a useful way forward. She suggests an ‘import bounty’ system, to diffuse opposition, paid for through a tax on developed states domestic and exporting manufacturers. While encouraging industry in developing states, instead of commodity exports, this would reduce the ‘loading of the dice’ identified by G77. Even if not achievable multilaterally, bilateral implementation would help revive help to the developing world and help developed state’s industry to revive through competition. Strange posits the structural problems of international trade, while suggesting the way forward through a combination of economics and politics.
 
-You can put anything you want here in plaintext.
+reprinted in: [Authority and Markets: Susan Strange’s Writings on International Political Economy (edited by Roger Tooze & Christopher May) Basingstoke: PalgraveMacmillan 2002,](https://www.worldcat.org/title/49421752)
 
-If you want to add special elemets like links or images you can use either markdown code:
-
-[This is a link](http://www.google.ca)
-
-or HTML code
-
-<a href="http://www.google.ca">This is also a link</a> 
-
-Images can be done similarly using markdown:
-
-![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
-
-Or HTML code:
-
-<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
+[(1966) ‘A New Look at Trade and Aid’ International Affairs 42, 1 (January): 61 - 73.](https://doi.org/10.2307/2612436)
