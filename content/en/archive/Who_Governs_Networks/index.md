@@ -1,19 +1,41 @@
 ---
-title: "Who Governs? Networks of Power in World Society"
-description: "Who Governs? Networks of Power in World Society"
-excerpt: "Starting from Strange’s response to Waltz’s (in)famous London School of Economic lecture (see Millennium 22/2 - Summer 1993) in this article she first argues for a wider reading of politics – not just what states do. She then briefly summarises her arguments regarding structural power before discussing the roles states have historically played as producers of security, credit, market relations and environment. The power over finance and environment has moved to centre stage, but states have been losing relative power over these areas. But this is not to agree with the America-in-decline writers. Rather Strange argues that the US. retains structural power, which the non-US Group of Seven states, through joint action need to encourage Americans to recognise. This will enable the US. to once again act as hegemon for the general good. America’s ability to supply market public goods needs to be matched by its will to do so, through diplomatic pressure. This is one of the few pieces where Strange makes her underlying prescriptive stance on the need for American leadership completely explicit."
-date: 1994
-lastmod: 2020-11-04T09:19:42+01:00
+
+title: "Demo/Template object"
+description: "This is the text displayed by the search results"
+datetext: "2023"
+excerpt: "Citation data"
+excerpt2: "Abstract content"
+excerpt3: "Extra content like key terms"
+
+date: 2023
+tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
+contributors: ["Daniel Brett"]
+categories: ["Source1", "Demo Paper"]
+
 draft: false
 weight: 50
 images: []
-categories: ["Journal Article", "Journal: Hitotsubashi Journal of Law and Politics"]
-tags: ["United States", "Hegemony", "Economy"]
-contributors: ["Susan Strange"]
 pinned: false
 homepage: false
 ---
 
-Starting from Strange’s response to Waltz’s (in)famous London School of Economic lecture (see Millennium 22/2 - Summer 1993) in this article she first argues for a wider reading of politics – not just what states do. She then briefly summarises her arguments regarding structural power before discussing the roles states have historically played as producers of security, credit, market relations and environment. The power over finance and environment has moved to centre stage, but states have been losing relative power over these areas. But this is not to agree with the America-in-decline writers. Rather Strange argues that the US. retains structural power, which the non-US Group of Seven states, through joint action need to encourage Americans to recognise. This will enable the US. to once again act as hegemon for the general good. America’s ability to supply market public goods needs to be matched by its will to do so, through diplomatic pressure. This is one of the few pieces where Strange makes her underlying prescriptive stance on the need for American leadership completely explicit.
+This is the text that fills the static page for this object.  
 
-Hitotsubashi Journal of Law and Politics. Special Issue. Pages 5-17
+You can put anything you want here in plaintext.
+
+If you want to add special elemets like links or images you can use either markdown code:
+
+[This is a link](http://www.google.ca)
+
+or HTML code
+
+<a href="http://www.google.ca">This is also a link</a> 
+
+Images can be done similarly using markdown:
+
+![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
+
+Or HTML code:
+
+<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
+
