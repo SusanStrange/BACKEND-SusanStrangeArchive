@@ -1,19 +1,40 @@
 ---
-title: "The Westfailure System "
-description: "The Westfailure System "
-excerpt: "In this posthumously published essay, Strange briefly outlines the parallel histories of the territorial system of states and the economic system of markets and suggests that until the last quarter of the twentieth century each benefited the other. However, as she often argued in the 1990s, the political system is now failing in three areas: the states system is increasingly unable to manage instability in the global financial system; the sovereign system is unable to deal effectively with globalised environmental problems; and lastly the political system’s interaction with the global market is producing widening socio-economic inequality across the global system. However, only by understanding the role of non-state authority through the study of both international and comparative political economy and a move away from International Relation’s state-centricism can the Westfailure system be understood and alternatives assessed."
-date: 1999
-lastmod: 2020-11-04T09:19:42+01:00
+
+title: "Demo/Template object"
+description: "This is the text displayed by the search results"
+datetext: "2023"
+excerpt: "Citation data"
+excerpt2: "Abstract content"
+excerpt3: "Extra content like key terms"
+
+date: 2023
+tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
+contributors: ["Daniel Brett"]
+categories: ["Source1", "Demo Paper"]
+
 draft: false
 weight: 50
 images: []
-categories: ["Journal Article", "Journal: Review of International Studies", "Publisher: Cambridge University Press"]
-tags: ["International Political Economy", "West Failure System", "Economy", "International Relations"]
-contributors: ["Susan Strange"]
 pinned: false
 homepage: false
 ---
 
-In this posthumously published essay, Strange briefly outlines the parallel histories of the territorial system of states and the economic system of markets and suggests that until the last quarter of the twentieth century each benefited the other. However, as she often argued in the 1990s, the political system is now failing in three areas: the states system is increasingly unable to manage instability in the global financial system; the sovereign system is unable to deal effectively with globalised environmental problems; and lastly the political system’s interaction with the global market is producing widening socio-economic inequality across the global system. However, only by understanding the role of non-state authority through the study of both international and comparative political economy and a move away from International Relation’s state-centricism can the Westfailure system be understood and alternatives assessed.
+This is the text that fills the static page for this object.  
 
-Review of International Studies. Volume: 25 Issue: 3. Pages 345-354
+You can put anything you want here in plaintext.
+
+If you want to add special elemets like links or images you can use either markdown code:
+
+[This is a link](http://www.google.ca)
+
+or HTML code
+
+<a href="http://www.google.ca">This is also a link</a> 
+
+Images can be done similarly using markdown:
+
+![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
+
+Or HTML code:
+
+<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
