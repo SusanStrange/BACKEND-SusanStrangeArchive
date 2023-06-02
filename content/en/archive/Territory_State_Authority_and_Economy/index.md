@@ -1,19 +1,40 @@
 ---
-title: "The New Realism: Perspectives on Multilateralism and World Order: Territory, State, Authority and Economy: A New Realist Ontology of Global Political Economy"
-excerpt: "Reflections on the Identity of Europe: Global Transatlantic Perspectives: Europe's Future in the Global Political Economy"
-excerpt: "Strange argues that the global economy is in the midst of a transition; the close incidence of political authority, economic activity and geographical territory no longer holds. This has been caused by two main groups of factors: firstly changes derived from science and technology; and secondly structural changes within the global finance structure. Authority has shifted, or is shifting, from states to other actors in the international political economy. She disputes Rosenau’s hypothesis of the emergence of a second world of turbulent complexity, disturbing the old world of international relations, instead arguing that it is all the same world, just more complex!"
-date: 1997
-lastmod: 2020-11-04T09:19:42+01:00
+
+title: "Demo/Template object"
+description: "This is the text displayed by the search results"
+datetext: "2023"
+excerpt: "Citation data"
+excerpt2: "Abstract content"
+excerpt3: "Extra content like key terms"
+
+date: 2023
+tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
+contributors: ["Daniel Brett"]
+categories: ["Source1", "Demo Paper"]
+
 draft: false
 weight: 50
 images: []
-categories: ["Book Chapter", "Publisher: Macmillan Press/ United Nations Univeristy Press"]
-tags: ["Economy", "Structures"]
-contributors: ["Susan Strange", "Editor: Robert W. Cox"]
 pinned: false
 homepage: false
 ---
 
-Book Chapter: Strange argues that the global economy is in the midst of a transition; the close incidence of political authority, economic activity and geographical territory no longer holds. This has been caused by two main groups of factors: firstly changes derived from science and technology; and secondly structural changes within the global finance structure. Authority has shifted, or is shifting, from states to other actors in the international political economy. She disputes Rosenau’s hypothesis of the emergence of a second world of turbulent complexity, disturbing the old world of international relations, instead arguing that it is all the same world, just more complex!
+This is the text that fills the static page for this object.  
 
-Pages 3-19
+You can put anything you want here in plaintext.
+
+If you want to add special elemets like links or images you can use either markdown code:
+
+[This is a link](http://www.google.ca)
+
+or HTML code
+
+<a href="http://www.google.ca">This is also a link</a> 
+
+Images can be done similarly using markdown:
+
+![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
+
+Or HTML code:
+
+<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
