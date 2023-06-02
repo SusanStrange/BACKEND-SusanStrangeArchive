@@ -1,19 +1,40 @@
 ---
-title: "The Global Political Economy, 1959-1984"
-description: "The Global Political Economy, 1959-1984"
-excerpt: "After discussing some terms she would like to see the back of (‘actors’, ‘issue-areas’), reviewing years of the Global Political Economy, Strange proposes four structures that condition change. These are Security, Production, Knowledge and Finance, and though at this point this is only used as a taxonomy for looking at changes in the GPE, it represents the first time the structures of her theory appear in their final configuration. Strange also stresses that while the four structures are not hierarchical, she believes it is disruptions in the financial structure that has caused most upheavals over the period examined."
-date: 1984
-lastmod: 2020-11-04T09:19:42+01:00
+
+title: "Demo/Template object"
+description: "This is the text displayed by the search results"
+datetext: "2023"
+excerpt: "Citation data"
+excerpt2: "Abstract content"
+excerpt3: "Extra content like key terms"
+
+date: 2023
+tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
+contributors: ["Daniel Brett"]
+categories: ["Source1", "Demo Paper"]
+
 draft: false
 weight: 50
 images: []
-categories: ["Journal Article", "Journal: International Journal", "Publisher: Sage Journals"]
-tags: ["International Political Economy", "Security", "Production", "Knowledge", "Finance", "International Relations", "Financial Structures"]
-contributors: ["Susan Strange", "Editors: Andy Knight" , "Asa McKercher" ]
 pinned: false
 homepage: false
 ---
 
-After discussing some terms she would like to see the back of (‘actors’, ‘issue-areas’), reviewing years of the Global Political Economy, Strange proposes four structures that condition change. These are Security, Production, Knowledge and Finance, and though at this point this is only used as a taxonomy for looking at changes in the GPE, it represents the first time the structures of her theory appear in their final configuration. Strange also stresses that while the four structures are not hierarchical, she believes it is disruptions in the financial structure that has caused most upheavals over the period examined.
+This is the text that fills the static page for this object.  
 
-International Journal. Volume: 39 Issue: 2. Pages 267-283
+You can put anything you want here in plaintext.
+
+If you want to add special elemets like links or images you can use either markdown code:
+
+[This is a link](http://www.google.ca)
+
+or HTML code
+
+<a href="http://www.google.ca">This is also a link</a> 
+
+Images can be done similarly using markdown:
+
+![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
+
+Or HTML code:
+
+<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
