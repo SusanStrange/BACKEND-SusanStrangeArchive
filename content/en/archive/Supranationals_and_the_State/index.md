@@ -1,18 +1,40 @@
 ---
-title: "Supranationals and the State: States in History "
-excerpts: "To some extent a precursor to (Strange and Stopford 1991) which concludes that there is a functional convergence between states and TNCs. The central argument is that transnationals - TNCs and international organisations - both support and undermine states at the same time. There is a paradoxical symbiosis, that is under-examined due to most writers discussing either support roles or undermining roles. In addition there has been a shift in the basis of economic power, from land and power to capital and knowledge. Clearly this part of Strange’s larger argument about the transnational power of capital and American TNCs, and represents the beginning of a shift away from the position suggesting a final authority of states over transnationals in (1984c)."
-date: 1986
-lastmod: 2020-11-04T09:19:42+01:00
+
+title: "Demo/Template object"
+description: "This is the text displayed by the search results"
+datetext: "2023"
+excerpt: "Citation data"
+excerpt2: "Abstract content"
+excerpt3: "Extra content like key terms"
+
+date: 2023
+tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
+contributors: ["Daniel Brett"]
+categories: ["Source1", "Demo Paper"]
+
 draft: false
 weight: 50
 images: []
-categories: ["Book Chapter", "Publisher: Basil Blackwell"]
-tags: ["Economy", "Structures"]
-contributors: ["Susan Strange", "Editor: John A. Hall"]
 pinned: false
 homepage: false
 ---
 
-Book Chapter: To some extent a precursor to (Strange and Stopford 1991) which concludes that there is a functional convergence between states and TNCs. The central argument is that transnationals - TNCs and international organisations - both support and undermine states at the same time. There is a paradoxical symbiosis, that is under-examined due to most writers discussing either support roles or undermining roles. In addition there has been a shift in the basis of economic power, from land and power to capital and knowledge. Clearly this part of Strange’s larger argument about the transnational power of capital and American TNCs, and represents the beginning of a shift away from the position suggesting a final authority of states over transnationals in (1984c).
+This is the text that fills the static page for this object.  
 
-Pages: 289-305
+You can put anything you want here in plaintext.
+
+If you want to add special elemets like links or images you can use either markdown code:
+
+[This is a link](http://www.google.ca)
+
+or HTML code
+
+<a href="http://www.google.ca">This is also a link</a> 
+
+Images can be done similarly using markdown:
+
+![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
+
+Or HTML code:
+
+<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
