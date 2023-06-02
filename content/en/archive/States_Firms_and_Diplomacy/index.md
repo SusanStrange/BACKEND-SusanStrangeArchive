@@ -1,19 +1,40 @@
 ---
-title: "States, Firms and Diplomacy "
-description: "States, Firms and Diplomacy "
-excerpt: "This article in a brief summation of (Strange and Stopford 1991) outlining the central argument of the book concerning the diplomacy between firms and states, and discusses some areas for further research. This represents a useful entry to the book picking out the salient points from the longer work, without the empirical elements."
-date: 1992
-lastmod: 2020-11-04T09:19:42+01:00
+
+title: "Demo/Template object"
+description: "This is the text displayed by the search results"
+datetext: "2023"
+excerpt: "Citation data"
+excerpt2: "Abstract content"
+excerpt3: "Extra content like key terms"
+
+date: 2023
+tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
+contributors: ["Daniel Brett"]
+categories: ["Source1", "Demo Paper"]
+
 draft: false
 weight: 50
 images: []
-categories: ["Journal Article", "Journal: International Affairs", "Publisher: Chatham House"]
-tags: ["International Political Economy", "Multinational Firms"]
-contributors: ["Susan Strange"]
 pinned: false
 homepage: false
 ---
 
-This article in a brief summation of (Strange and Stopford 1991) outlining the central argument of the book concerning the diplomacy between firms and states, and discusses some areas for further research. This represents a useful entry to the book picking out the salient points from the longer work, without the empirical elements.
+This is the text that fills the static page for this object.  
 
-International Affairs. Volume: 68 Issue: 1. Pages 1-15
+You can put anything you want here in plaintext.
+
+If you want to add special elemets like links or images you can use either markdown code:
+
+[This is a link](http://www.google.ca)
+
+or HTML code
+
+<a href="http://www.google.ca">This is also a link</a> 
+
+Images can be done similarly using markdown:
+
+![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
+
+Or HTML code:
+
+<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
