@@ -1,18 +1,40 @@
 ---
-title: "The Politics of Inflation: Acomparative Analysis: The Transatlantic Aspects of Inflation"
-excerpts: "This short article discusses the international financial sector and the interaction between American monetary policy and European exchange rates, monetary policy and the then new European Monetary System. While containing little explication of structural power, being more of an historical overview, the article is of interest for Strange’s concluding discussion of the reasons for American domination of the international financial structure. From these empirical reasons, there is a hint of the structural analysis that was implicitly being developed, not least of all because much of the evidence she cites re-emerges in later works regarding American economic hegemony."
-date: 1982
-lastmod: 2020-11-04T09:19:42+01:00
+
+title: "Demo/Template object"
+description: "This is the text displayed by the search results"
+datetext: "2023"
+excerpt: "Citation data"
+excerpt2: "Abstract content"
+excerpt3: "Extra content like key terms"
+
+date: 2023
+tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
+contributors: ["Daniel Brett"]
+categories: ["Source1", "Demo Paper"]
+
 draft: false
 weight: 50
 images: []
-categories: ["Book Chapter", "Publisher: Pergamon Press"]
-tags: ["Economy", "Structures"]
-contributors: ["Susan Strange", "Editor: Richard Medley"]
 pinned: false
 homepage: false
 ---
 
-Book Chapter: This short article discusses the international financial sector and the interaction between American monetary policy and European exchange rates, monetary policy and the then new European Monetary System. While containing little explication of structural power, being more of an historical overview, the article is of interest for Strange’s concluding discussion of the reasons for American domination of the international financial structure. From these empirical reasons, there is a hint of the structural analysis that was implicitly being developed, not least of all because much of the evidence she cites re-emerges in later works regarding American economic hegemony.
+This is the text that fills the static page for this object.  
 
-Pages: 65-76
+You can put anything you want here in plaintext.
+
+If you want to add special elemets like links or images you can use either markdown code:
+
+[This is a link](http://www.google.ca)
+
+or HTML code
+
+<a href="http://www.google.ca">This is also a link</a> 
+
+Images can be done similarly using markdown:
+
+![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
+
+Or HTML code:
+
+<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
