@@ -1,18 +1,40 @@
 ---
-title: "Perspectives on Political Economy: Structures, Values and Risk in the Study of the International Political Economy"
-excerpts: "In this article Strange argues for the centrality of questions surrounding the nature of risk and how it is mitigated, managed and transferred in the international economy. In addition she suggests five structures of power in IPE, noting that she is adding to the Marxist concept of a production structure. The others are the financial, security and knowledge structures she would continue to use as well as an element she termed the ‘welfare structure’. This fifth structure was to account for politically determined arrangements which allocate the risks to human life and contentment. The structural theory of (1988e) is emerging in this chapter, but is as yet not fully developed."
-date: 1983
-lastmod: 2020-11-04T09:19:42+01:00
+
+title: "Demo/Template object"
+description: "This is the text displayed by the search results"
+datetext: "2023"
+excerpt: "Citation data"
+excerpt2: "Abstract content"
+excerpt3: "Extra content like key terms"
+
+date: 2023
+tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
+contributors: ["Daniel Brett"]
+categories: ["Source1", "Demo Paper"]
+
 draft: false
 weight: 50
 images: []
-categories: ["Book Chapter", "Publisher: Francis Printer Publishers"]
-tags: ["Economy", "Structures"]
-contributors: ["Susan Strange", "Editor: R.J. Barry Jones"]
 pinned: false
 homepage: false
 ---
 
-Book Chapter: In this article Strange argues for the centrality of questions surrounding the nature of risk and how it is mitigated, managed and transferred in the international economy. In addition she suggests five structures of power in IPE, noting that she is adding to the Marxist concept of a production structure. The others are the financial, security and knowledge structures she would continue to use as well as an element she termed the ‘welfare structure’. This fifth structure was to account for politically determined arrangements which allocate the risks to human life and contentment. The structural theory of (1988e) is emerging in this chapter, but is as yet not fully developed.
+This is the text that fills the static page for this object.  
 
-Pages: 209-230
+You can put anything you want here in plaintext.
+
+If you want to add special elemets like links or images you can use either markdown code:
+
+[This is a link](http://www.google.ca)
+
+or HTML code
+
+<a href="http://www.google.ca">This is also a link</a> 
+
+Images can be done similarly using markdown:
+
+![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
+
+Or HTML code:
+
+<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
