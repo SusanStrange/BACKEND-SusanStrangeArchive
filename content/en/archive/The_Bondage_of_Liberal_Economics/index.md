@@ -1,19 +1,40 @@
 ---
-title: "The Bondage of Liberal Economics"
-description: "The Bondage of Liberal Economics"
-excerpt: "Here Strange returns again to the inadequacy of economics in its analysis of international trade, made in (1955b) and (1970b), and elsewhere. Noting the contradictions between economic models of international trade and what was actually happening in the international economy, Strange argues economists have failed to appreciate that trade is only a secondary international structure. This leads her to briefly lay out the argument that would be developed at more length in (1988e). Most importantly she firmly concludes that international economics is an ideological construction which serves the interests of the powerful states, most significantly the United States."
-date: 1986
-lastmod: 2020-11-04T09:19:42+01:00
+
+title: "Demo/Template object"
+description: "This is the text displayed by the search results"
+datetext: "2023"
+excerpt: "Citation data"
+excerpt2: "Abstract content"
+excerpt3: "Extra content like key terms"
+
+date: 2023
+tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
+contributors: ["Daniel Brett"]
+categories: ["Source1", "Demo Paper"]
+
 draft: false
 weight: 50
 images: []
-categories: ["Journal Article", "Journal: International SAIS Review", "Publisher: Johns Hopkins University Press"]
-tags: ["International Political Economy", "Economy", "International Trade"]
-contributors: ["Susan Strange"]
 pinned: false
 homepage: false
 ---
 
-Here Strange returns again to the inadequacy of economics in its analysis of international trade, made in (1955b) and (1970b), and elsewhere. Noting the contradictions between economic models of international trade and what was actually happening in the international economy, Strange argues economists have failed to appreciate that trade is only a secondary international structure. This leads her to briefly lay out the argument that would be developed at more length in (1988e). Most importantly she firmly concludes that international economics is an ideological construction which serves the interests of the powerful states, most significantly the United States.
+This is the text that fills the static page for this object.  
 
-SAIS Review. Pages 25-38
+You can put anything you want here in plaintext.
+
+If you want to add special elemets like links or images you can use either markdown code:
+
+[This is a link](http://www.google.ca)
+
+or HTML code
+
+<a href="http://www.google.ca">This is also a link</a> 
+
+Images can be done similarly using markdown:
+
+![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
+
+Or HTML code:
+
+<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
