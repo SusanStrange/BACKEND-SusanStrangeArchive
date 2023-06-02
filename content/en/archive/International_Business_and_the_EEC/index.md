@@ -1,18 +1,40 @@
 ---
-title: "Foreign Policy: Policy Making and Implimentation: The Financial Factor and the Balance of Power"
-excerpt: "Strange presents the Soviet-American balance of power alongside the balance of power in the international monetary system to make links between supposedly different sectors of the international system. While these balances function in different ways, Strange prefaces her remarks with a short argument for an International Political Economy approach to problems rather than a predominantly political or predominantly economic account. This short piece illustrates her argument about the applicability of her IPE approach, but does not include her more usual extended criticism of previous analyses from International Relations or International Economics."
-date: 1975
-lastmod: 2020-11-04T09:19:42+01:00
+
+title: "Demo/Template object"
+description: "This is the text displayed by the search results"
+datetext: "2023"
+excerpt: "Citation data"
+excerpt2: "Abstract content"
+excerpt3: "Extra content like key terms"
+
+date: 2023
+tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
+contributors: ["Daniel Brett"]
+categories: ["Source1", "Demo Paper"]
+
 draft: false
 weight: 50
 images: []
-categories: ["Book Chapter", "Publisher: Open University"]
-tags: ["Economy", "Structures"]
-contributors: ["Susan Strange", "Editor: James Barber", "Josephine Negro", "Micheal Smith"]
 pinned: false
 homepage: false
 ---
 
-Book Chapter: Strange presents the Soviet-American balance of power alongside the balance of power in the international monetary system to make links between supposedly different sectors of the international system. While these balances function in different ways, Strange prefaces her remarks with a short argument for an International Political Economy approach to problems rather than a predominantly political or predominantly economic account. This short piece illustrates her argument about the applicability of her IPE approach, but does not include her more usual extended criticism of previous analyses from International Relations or International Economics.
+This is the text that fills the static page for this object.  
 
-Pages: 35-46
+You can put anything you want here in plaintext.
+
+If you want to add special elemets like links or images you can use either markdown code:
+
+[This is a link](http://www.google.ca)
+
+or HTML code
+
+<a href="http://www.google.ca">This is also a link</a> 
+
+Images can be done similarly using markdown:
+
+![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
+
+Or HTML code:
+
+<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
