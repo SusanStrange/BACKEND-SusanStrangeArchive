@@ -1,19 +1,41 @@
 ---
-title: "Autonomous Policy Making by International Organisations: Why do International Organisations Never Die?"
-excerpt: "Reflections on the Identity of Europe: Global Transatlantic Perspectives: Europe's Future in the Global Political Economy"
-excerpt: "In this concluding chapter of a collection of articles drawn from a series of workshops organised under the auspices of the ECPR, Strange reflects on the legacy of The Anatomy of Influence see (1974b) and suggests that a focus on international organisation remains a largely European enterprise due to the continuing dominance of liberal institutionalism and (neo)Realism. After applauding the project in the first section, she then turns to some criticisms of the collection’s contributors. She suggests that some of the authors have been unable to avoid capture by their subjects and are too kind to the self-perpetuating bureaucracies and secretariats of many international organisations. She argues that these bureaucracies have a symbiotic relationship with the members’ governments and thus are able to ride out many local problems. Lastly she briefly alludes (again) to the failure to include the impact of changes in market conditions, changes in technology and the role of MNCs in the international political economic analysis of international organisations."
-date: 1998
-lastmod: 2020-11-04T09:19:42+01:00
+
+title: "Demo/Template object"
+description: "This is the text displayed by the search results"
+datetext: "2023"
+excerpt: "Citation data"
+excerpt2: "Abstract content"
+excerpt3: "Extra content like key terms"
+
+date: 2023
+tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
+contributors: ["Daniel Brett"]
+categories: ["Source1", "Demo Paper"]
+
 draft: false
 weight: 50
 images: []
-categories: ["Book Chapter", "Publisher: Routledge"]
-tags: ["Economy", "Structures"]
-contributors: ["Susan Strange", "Editor: Bob Reinalda", "Bertjan Verbeek"]
 pinned: false
 homepage: false
 ---
 
-Book Chapter: In this concluding chapter of a collection of articles drawn from a series of workshops organised under the auspices of the ECPR, Strange reflects on the legacy of The Anatomy of Influence see (1974b) and suggests that a focus on international organisation remains a largely European enterprise due to the continuing dominance of liberal institutionalism and (neo)Realism. After applauding the project in the first section, she then turns to some criticisms of the collection’s contributors. She suggests that some of the authors have been unable to avoid capture by their subjects and are too kind to the self-perpetuating bureaucracies and secretariats of many international organisations. She argues that these bureaucracies have a symbiotic relationship with the members’ governments and thus are able to ride out many local problems. Lastly she briefly alludes (again) to the failure to include the impact of changes in market conditions, changes in technology and the role of MNCs in the international political economic analysis of international organisations.
+This is the text that fills the static page for this object.  
 
-Pages 213-220
+You can put anything you want here in plaintext.
+
+If you want to add special elemets like links or images you can use either markdown code:
+
+[This is a link](http://www.google.ca)
+
+or HTML code
+
+<a href="http://www.google.ca">This is also a link</a> 
+
+Images can be done similarly using markdown:
+
+![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
+
+Or HTML code:
+
+<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
+
