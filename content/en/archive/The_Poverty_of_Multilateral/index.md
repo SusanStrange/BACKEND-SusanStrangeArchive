@@ -1,16 +1,16 @@
 ---
 
-title: "The poverty of multilateral economic diplomacy"
-description: "By Susan Strange"
-datetext: "1985"
-excerpt: "In _Diplomacy at the United Nations_, edited by Geoff Berridge and Anthony Jennings, 109-129. London: Macmillan Press, 1985."
-excerpt2: "After reviewing the four values authority might pursue - wealth, security, justice and freedom (an argument developed at more length in States and Markets (1988), she uses these value choices to interrogate the three main paradigms used to think about the international political economy, liberalism, structuralism and nationalism. She then examines UN economic multilateralism utilising an eclectic combination of all three perspectives and concludes that as each approach continues to look to international organisation to sustain the values it emphasises, despite its failings economic multilateralism is likely to continue to be regarded as a worthwhile enterprise."
-excerpt3: "Keywords: Structural Power; Power; Theory; General Framework; United Nations"
+title: "Demo/Template object"
+description: "This is the text displayed by the search results"
+datetext: "2023"
+excerpt: "Citation data"
+excerpt2: "Abstract content"
+excerpt3: "Extra content like key terms"
 
-date: 1985
-tags: ["Structural Power, Power", "Theory", "1980's", "Susan Strange"]
-contributors: ["Susan Strange", "Editor: Geoff Berridge", "Editor: Anthony Jennings"]
-categories: ["Book Chapter"]
+date: 2023
+tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
+contributors: ["Daniel Brett"]
+categories: ["Source1", "Demo Paper"]
 
 draft: false
 weight: 50
@@ -19,8 +19,22 @@ pinned: false
 homepage: false
 ---
 
-In <i>Diplomacy at the United Nations</i>, edited by Geoff Berridge and Anthony Jennings, 109-129. London: Macmillan Press, 1985.
+This is the text that fills the static page for this object.  
 
-After reviewing the four values authority might pursue - wealth, security, justice and freedom (an argument developed at more length in <b>States and Markets (1988)</b>, she uses these value choices to interrogate the three main paradigms used to think about the international political economy, liberalism, structuralism and nationalism. She then examines UN economic multilateralism utilising an eclectic combination of all three perspectives and concludes that as each approach continues to look to international organisation to sustain the values it emphasises, despite its failings economic multilateralism is likely to continue to be regarded as a worthwhile enterprise.
-Keywords: Structural Power; Power; Theory
-[Text access (external link)] (https://archive.org/details/diplomacyatun0000unse_v3p2/page/n7/mode/2up?q=susan+strange)
+You can put anything you want here in plaintext.
+
+If you want to add special elemets like links or images you can use either markdown code:
+
+[This is a link](http://www.google.ca)
+
+or HTML code
+
+<a href="http://www.google.ca">This is also a link</a> 
+
+Images can be done similarly using markdown:
+
+![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
+
+Or HTML code:
+
+<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
