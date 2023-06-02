@@ -1,19 +1,41 @@
 ---
-title: "Who Runs World Shipping?"
-description: "Who Runs World Shipping?"
-excerpt: "In the first article Strange sets out an outline method for sectoral analysis in the international economy. This is prefaced by a critical engagement with the Nye and Keohane ‘transnational politics’ approach. After stressing the inseparability of politics and economics, and the crucial authority/market trade-off, she suggests three analytical questions that must be asked in any sectoral analysis; questions about the loci and distribution of power over economic processes, the who, why, and how of economic intervention, and the question of the consequences, and benefits. Only by building up from systematic sectoral analyses can the asymmetrical bargaining processes, the impact of technology, the influence of markets and the politicisation of the international political economy be understood. She then offers in the second article one such sectoral analysis (of world shipping), which carries some material forward from (Strange and Holland 1976)."
-date: 1972
-lastmod: 2020-11-04T09:19:42+01:00
+
+title: "Demo/Template object"
+description: "This is the text displayed by the search results"
+datetext: "2023"
+excerpt: "Citation data"
+excerpt2: "Abstract content"
+excerpt3: "Extra content like key terms"
+
+date: 2023
+tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
+contributors: ["Daniel Brett"]
+categories: ["Source1", "Demo Paper"]
+
 draft: false
 weight: 50
 images: []
-categories: ["Journal Article", "Journal: International Affairs", "Publisher: Chatham House"]
-tags: ["International Political Economy", "Economy", "World Shipping"]
-contributors: ["Susan Strange"]
 pinned: false
 homepage: false
 ---
 
-In the first article Strange sets out an outline method for sectoral analysis in the international economy. This is prefaced by a critical engagement with the Nye and Keohane ‘transnational politics’ approach. After stressing the inseparability of politics and economics, and the crucial authority/market trade-off, she suggests three analytical questions that must be asked in any sectoral analysis; questions about the loci and distribution of power over economic processes, the who, why, and how of economic intervention, and the question of the consequences, and benefits. Only by building up from systematic sectoral analyses can the asymmetrical bargaining processes, the impact of technology, the influence of markets and the politicisation of the international political economy be understood. She then offers in the second article one such sectoral analysis (of world shipping), which carries some material forward from (Strange and Holland 1976).
+This is the text that fills the static page for this object.  
 
-International Affairs. Volume: 52 Issue: 3. Pages 346-367
+You can put anything you want here in plaintext.
+
+If you want to add special elemets like links or images you can use either markdown code:
+
+[This is a link](http://www.google.ca)
+
+or HTML code
+
+<a href="http://www.google.ca">This is also a link</a> 
+
+Images can be done similarly using markdown:
+
+![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
+
+Or HTML code:
+
+<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
+
