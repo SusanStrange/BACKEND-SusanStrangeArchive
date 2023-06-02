@@ -1,19 +1,41 @@
 ---
-title: "The World's Money: Expanding the Agenda for Research"
-description: "The World's Money: Expanding the Agenda for Research"
-excerpt: "After a survey of current modes of thought, both academic and practitioner, Strange concludes that while much analysis can usefully illuminate the mechanisms of the global monetary system, there is little attempt ally this to a consideration how the system links up with and effects the values of and outcomes in a globalised society. She wants work on the international monetary system to go beyond a mere mechanical explanation and to move towards a more political analysis (which would also include an assessment of the impact of technology on global finance). In this she compares the study of the financial system unfavourably with the increasing sophisticated account of the global ecological system. Strange also briefly touches on the creation of credit and the transfer of risk which would be taken up subsequently in (1983b) and (1983c)."
-date: 1981
-lastmod: 2020-11-04T09:19:42+01:00
+
+title: "Demo/Template object"
+description: "This is the text displayed by the search results"
+datetext: "2023"
+excerpt: "Citation data"
+excerpt2: "Abstract content"
+excerpt3: "Extra content like key terms"
+
+date: 2023
+tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
+contributors: ["Daniel Brett"]
+categories: ["Source1", "Demo Paper"]
+
 draft: false
 weight: 50
 images: []
-categories: ["Journal Article", "Journal: International Journal", "Publisher: Sage Journals"]
-tags: ["International Political Economy", "Global Monetray System", "International Relations", "Security"]
-contributors: ["Susan Strange", "Editor: Andy Knight", "Asa McKercher"]
 pinned: false
 homepage: false
 ---
 
-After a survey of current modes of thought, both academic and practitioner, Strange concludes that while much analysis can usefully illuminate the mechanisms of the global monetary system, there is little attempt ally this to a consideration how the system links up with and effects the values of and outcomes in a globalised society. She wants work on the international monetary system to go beyond a mere mechanical explanation and to move towards a more political analysis (which would also include an assessment of the impact of technology on global finance). In this she compares the study of the financial system unfavourably with the increasing sophisticated account of the global ecological system. Strange also briefly touches on the creation of credit and the transfer of risk which would be taken up subsequently in (1983b) and (1983c).
+This is the text that fills the static page for this object.  
 
-International Journal. Volume: 36 Issue: 4. Pages 691-712
+You can put anything you want here in plaintext.
+
+If you want to add special elemets like links or images you can use either markdown code:
+
+[This is a link](http://www.google.ca)
+
+or HTML code
+
+<a href="http://www.google.ca">This is also a link</a> 
+
+Images can be done similarly using markdown:
+
+![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
+
+Or HTML code:
+
+<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
+
