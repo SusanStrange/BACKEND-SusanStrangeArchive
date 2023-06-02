@@ -1,19 +1,40 @@
 ---
-title: "Changing Trends in World Trade"
-excerpt: "In the light of UNCTAD’s problems, declining optimism over foreign aid and the unfavourable terms of trade for developing states, Strange suggests that ‘Prebisch’s thesis’, allowing subsidised exporting by developing states, and the dropping of tariff barriers, while unpopular would be a useful way forward. She suggests an ‘import bounty’ system, to diffuse opposition, paid for through a tax on developed states domestic and exporting manufacturers. While encouraging industry in developing states, instead of commodity exports, this would reduce the ‘loading of the dice’ identified by G77. Even if not achievable multilaterally, bilateral implementation would help revive help to the developing world and help developed state’s industry to revive through competition. Strange posits the structural problems of international trade, while suggesting the way forward through a combination of economics and politics."
-date: 1966
-lastmod: 2020-11-04T09:19:42+01:00
+
+title: "Demo/Template object"
+description: "This is the text displayed by the search results"
+datetext: "2023"
+excerpt: "Citation data"
+excerpt2: "Abstract content"
+excerpt3: "Extra content like key terms"
+
+date: 2023
+tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
+contributors: ["Daniel Brett"]
+categories: ["Source1", "Demo Paper"]
+
 draft: false
 weight: 50
 images: []
-categories: ["Journal Article", "Publisher: Oxford University Press"]
-tags: ["Economy", "Structures"]
-contributors: [""]
 pinned: false
 homepage: false
 ---
 
-Journal Article: In the light of UNCTAD’s problems, declining optimism over foreign aid and the unfavourable terms of trade for developing states, Strange suggests that ‘Prebisch’s thesis’, allowing subsidised exporting by developing states, and the dropping of tariff barriers, while unpopular would be a useful way forward. She suggests an ‘import bounty’ system, to diffuse opposition, paid for through a tax on developed states domestic and exporting manufacturers. While encouraging industry in developing states, instead of commodity exports, this would reduce the ‘loading of the dice’ identified by G77. Even if not achievable multilaterally, bilateral implementation would help revive help to the developing world and help developed state’s industry to revive through competition. Strange posits the structural problems of international trade, while suggesting the way forward through a combination of economics and politics.
+This is the text that fills the static page for this object.  
 
-Volume 28, Issue 109 Pages 98-99
+You can put anything you want here in plaintext.
 
+If you want to add special elemets like links or images you can use either markdown code:
+
+[This is a link](http://www.google.ca)
+
+or HTML code
+
+<a href="http://www.google.ca">This is also a link</a> 
+
+Images can be done similarly using markdown:
+
+![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
+
+Or HTML code:
+
+<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
