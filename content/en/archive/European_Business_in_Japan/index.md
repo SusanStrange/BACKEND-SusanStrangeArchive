@@ -1,19 +1,40 @@
 ---
-title: "European Business in Japan. A Policy Cross-roads?"
-description: "European Business in Japan. A Policy Cross-roads?"
-excerpt: "Contrasting European and American proposals for the perceived difficulty of setting up foreign owned subsidiaries in Japan, Strange argues that this is a central issue for any nascent European foreign policy initiative. She argues that it may now be beyond any nationally elected government (even in the US.) to re-impose its hegemonic intent on other states. But some co-ordinated pressure from Japanese and European policy bodies may support the reintroduction into global politics of a more interdependent (and less free-market) approach to commercial and financial diplomacy. This would be to adopt the policy of ‘gaiatsu’ (pressure from foreigners) to encourage a less disruptive US. foreign policy in these areas."
-date: 1995
-lastmod: 2020-11-04T09:19:42+01:00
+
+title: "Demo/Template object"
+description: "This is the text displayed by the search results"
+datetext: "2023"
+excerpt: "Citation data"
+excerpt2: "Abstract content"
+excerpt3: "Extra content like key terms"
+
+date: 2023
+tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
+contributors: ["Daniel Brett"]
+categories: ["Source1", "Demo Paper"]
+
 draft: false
 weight: 50
 images: []
-categories: ["Journal Article", "Journal: Journal of Common Market Studies", "Publisher: The University Association for Contemporary European Studies", "Wiley"]
-tags: ["Japan", "United States", "Europe", "Economy", "Public Policy"]
-contributors: ["Susan Strange"]
 pinned: false
 homepage: false
 ---
 
-Contrasting European and American proposals for the perceived difficulty of setting up foreign owned subsidiaries in Japan, Strange argues that this is a central issue for any nascent European foreign policy initiative. She argues that it may now be beyond any nationally elected government (even in the US.) to re-impose its hegemonic intent on other states. But some co-ordinated pressure from Japanese and European policy bodies may support the reintroduction into global politics of a more interdependent (and less free-market) approach to commercial and financial diplomacy. This would be to adopt the policy of ‘gaiatsu’ (pressure from foreigners) to encourage a less disruptive US. foreign policy in these areas.
+This is the text that fills the static page for this object.  
 
-Journal of Common Market Studies. Volume: 33 Issue: 1. Pages 1-25
+You can put anything you want here in plaintext.
+
+If you want to add special elemets like links or images you can use either markdown code:
+
+[This is a link](http://www.google.ca)
+
+or HTML code
+
+<a href="http://www.google.ca">This is also a link</a> 
+
+Images can be done similarly using markdown:
+
+![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
+
+Or HTML code:
+
+<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
