@@ -1,18 +1,40 @@
 ---
-title: "Raeganomics, the Third World and the Future: Third World Affairs 1986"
-excerpts: "Strange starts this chapter with the suggestion that like Mark Twain reports of the demise of American hegemony are premature. She then presents a short history of U.S. economic policy towards the Third World and the global system as a whole. This allows her to emphasise the structural power approach that she would develop at some length in (1988e) and argue that while many on the left see America’s influence as entirely malign, she sees good and bad in its domination of the international system. She concludes the main problem is uncertainty regarding U.S. policy, which while leading to rational responses (risk-avoiding devices, such as hedging) in the financial structure. However, these responses also bring with them a shadow (speculation, gambling and both political and economic recklessness) which produces further financial instability for the system and most particularly Third World countries."
-date: 1986
-lastmod: 2020-11-04T09:19:42+01:00
+
+title: "Demo/Template object"
+description: "This is the text displayed by the search results"
+datetext: "2023"
+excerpt: "Citation data"
+excerpt2: "Abstract content"
+excerpt3: "Extra content like key terms"
+
+date: 2023
+tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
+contributors: ["Daniel Brett"]
+categories: ["Source1", "Demo Paper"]
+
 draft: false
 weight: 50
 images: []
-categories: ["Book Chapter", "Publisher: Theird World Foundation for Social and Economic Studies "]
-tags: ["Economy", "Structures"]
-contributors: ["Susan Strange", "Editor: R. Gauhar"]
 pinned: false
 homepage: false
 ---
 
-Book Chapter: Strange starts this chapter with the suggestion that like Mark Twain reports of the demise of American hegemony are premature. She then presents a short history of U.S. economic policy towards the Third World and the global system as a whole. This allows her to emphasise the structural power approach that she would develop at some length in (1988e) and argue that while many on the left see America’s influence as entirely malign, she sees good and bad in its domination of the international system. She concludes the main problem is uncertainty regarding U.S. policy, which while leading to rational responses (risk-avoiding devices, such as hedging) in the financial structure. However, these responses also bring with them a shadow (speculation, gambling and both political and economic recklessness) which produces further financial instability for the system and most particularly Third World countries.
+This is the text that fills the static page for this object.  
 
-Pages: 65-72
+You can put anything you want here in plaintext.
+
+If you want to add special elemets like links or images you can use either markdown code:
+
+[This is a link](http://www.google.ca)
+
+or HTML code
+
+<a href="http://www.google.ca">This is also a link</a> 
+
+Images can be done similarly using markdown:
+
+![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
+
+Or HTML code:
+
+<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
