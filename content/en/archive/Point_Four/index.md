@@ -1,16 +1,16 @@
 ---
 
-title: "Demo/Template object"
-description: "This is the text displayed by the search results"
-datetext: "2023"
-excerpt: "Citation data"
-excerpt2: "Abstract content"
+title: "Point Four Helping Devlop Half a World"
+description: "Journal article written by Susan Strange in 1950 on the Future of Palestine and the role of international organizations"
+datetext: "1950"
+excerpt: "(1950b) Point Four. Helping to Develop Half a World (Peacefinder Series: 7) (London: United Nations Association)."
+excerpt2: "Strange comments on the UN deliberations concerning the future of Palestine and highlights the central factor that gave the Zionists an in-built advantage at the assembly. While the Arabs were negotiating in a state that was essentially antipathetic to their struggle, their opposite numbers were surrounded by sympathisers and supporters both within and outside the organisation. She also discusses some of the limitations and problems with such negotiations within the forum of the UN, and alludes to structural impediments to the ‘fair’ settlement of differences."
 excerpt3: "Extra content like key terms"
 
-date: 2023
-tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
-contributors: ["Daniel Brett"]
-categories: ["Source1", "Demo Paper"]
+date: 1950
+tags: ["Hegemony", "United States"]
+contributors: ["Susan Strange"]
+categories: ["Journal Article"]
 
 draft: false
 weight: 50
@@ -19,22 +19,6 @@ pinned: false
 homepage: false
 ---
 
-This is the text that fills the static page for this object.  
+Strange comments on the UN deliberations concerning the future of Palestine and highlights the central factor that gave the Zionists an in-built advantage at the assembly. While the Arabs were negotiating in a state that was essentially antipathetic to their struggle, their opposite numbers were surrounded by sympathisers and supporters both within and outside the organisation. She also discusses some of the limitations and problems with such negotiations within the forum of the UN, and alludes to structural impediments to the ‘fair’ settlement of differences.
 
-You can put anything you want here in plaintext.
-
-If you want to add special elemets like links or images you can use either markdown code:
-
-[This is a link](http://www.google.ca)
-
-or HTML code
-
-<a href="http://www.google.ca">This is also a link</a> 
-
-Images can be done similarly using markdown:
-
-![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
-
-Or HTML code:
-
-<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
+[(1950b) Point Four. Helping to Develop Half a World (Peacefinder Series: 7) (London: United Nations Association).](Link)
