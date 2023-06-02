@@ -1,18 +1,41 @@
 ---
-title: "Towards a Theory of Transnational Empire: Global Changes and Theoretical Challenges: Approaches to World Politics for the 1990s"
-excerpt: "In this article Strange offers only her second explicit excursion into the epistemology of international theories, the first being a similar section in (1988e). She argues that theories must be more than description, taxonomy, importation of models from other disciplines or quantitative and that theories must explain some aspect of the international system not obvious to ‘commonsense’. In addition she argues for her own version of non-positivism stressing only that rationality of explanation is required for a theory to be scientific. In the second part of this article Strange argues for a non-territorial theory of imperialism based on her four structures of power. The transnational empire she identifies is centred on the ‘court’ in Washington DC, and she argues that new studies of empire are needed to understand this new type of transnational empire. What is required is a problem solving theory for such an empire, since it is manifestly in existence. "
-date: 1988
-lastmod: 2020-11-04T09:19:42+01:00
+
+title: "Demo/Template object"
+description: "This is the text displayed by the search results"
+datetext: "2023"
+excerpt: "Citation data"
+excerpt2: "Abstract content"
+excerpt3: "Extra content like key terms"
+
+date: 2023
+tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
+contributors: ["Daniel Brett"]
+categories: ["Source1", "Demo Paper"]
+
 draft: false
 weight: 50
 images: []
-categories: ["Book Chapter", "Publisher: Lexington"]
-tags: ["Economy", "Structures"]
-contributors: ["Susan Strange", "Editor: Ernst-Otto Czempiel", "James N. Roseneau"]
 pinned: false
 homepage: false
 ---
 
-Book Chapter: In this article Strange offers only her second explicit excursion into the epistemology of international theories, the first being a similar section in (1988e). She argues that theories must be more than description, taxonomy, importation of models from other disciplines or quantitative and that theories must explain some aspect of the international system not obvious to ‘commonsense’. In addition she argues for her own version of non-positivism stressing only that rationality of explanation is required for a theory to be scientific. In the second part of this article Strange argues for a non-territorial theory of imperialism based on her four structures of power. The transnational empire she identifies is centred on the ‘court’ in Washington DC, and she argues that new studies of empire are needed to understand this new type of transnational empire. What is required is a problem solving theory for such an empire, since it is manifestly in existence. 
+This is the text that fills the static page for this object.  
 
-Pages: 161-176
+You can put anything you want here in plaintext.
+
+If you want to add special elemets like links or images you can use either markdown code:
+
+[This is a link](http://www.google.ca)
+
+or HTML code
+
+<a href="http://www.google.ca">This is also a link</a> 
+
+Images can be done similarly using markdown:
+
+![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
+
+Or HTML code:
+
+<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
+
