@@ -1,7 +1,7 @@
 ---
 title : "Welcome to the Susan Strange Web Archive"
 description: "This website will act as an archive for Susan Strange's work."
-lead: "The Susan Strange Archive is devoted to promoting the work and ideas of the foundational International Political Economy scholar Susan Strange (1923-1998), recognizing Strange-influenced contemporary research. Our goal is to serve as a focal point for the community of Strange-influenced researchers. "
+lead: ""
 date: 2020-10-06T08:47:36+00:00
 lastmod: 2020-10-06T08:47:36+00:00
 draft: false
