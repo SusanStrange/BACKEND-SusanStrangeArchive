@@ -1,14 +1,14 @@
 ---
 
-title: "Point Four Helping Devlop Half a World"
-description: "Journal article written by Susan Strange in 1950 on the Future of Palestine and the role of international organizations"
+title: "Point Four. Helping Develop Half a World"
+description: "By Susan Strange"
 datetext: "1950"
-excerpt: "(1950b) Point Four. Helping to Develop Half a World (Peacefinder Series: 7) (London: United Nations Association)."
+excerpt: "Peacefinder Series no. 7 (1950)."
 excerpt2: "Strange comments on the UN deliberations concerning the future of Palestine and highlights the central factor that gave the Zionists an in-built advantage at the assembly. While the Arabs were negotiating in a state that was essentially antipathetic to their struggle, their opposite numbers were surrounded by sympathisers and supporters both within and outside the organisation. She also discusses some of the limitations and problems with such negotiations within the forum of the UN, and alludes to structural impediments to the ‘fair’ settlement of differences."
-excerpt3: "Extra content like key terms"
+excerpt3: "Keywords: Hegemony, United States"
 
 date: 1950
-tags: ["Hegemony", "United States"]
+tags: ["Hegemony", "United States", Susan Strange]
 contributors: ["Susan Strange"]
 categories: ["Journal Article"]
 
@@ -19,6 +19,8 @@ pinned: false
 homepage: false
 ---
 
-Strange comments on the UN deliberations concerning the future of Palestine and highlights the central factor that gave the Zionists an in-built advantage at the assembly. While the Arabs were negotiating in a state that was essentially antipathetic to their struggle, their opposite numbers were surrounded by sympathisers and supporters both within and outside the organisation. She also discusses some of the limitations and problems with such negotiations within the forum of the UN, and alludes to structural impediments to the ‘fair’ settlement of differences.
+Susan Strange, "Point Four. Helping Develop Half a World," Peacefinder Series no. 7 (1950)
 
-[(1950b) Point Four. Helping to Develop Half a World (Peacefinder Series: 7) (London: United Nations Association).](Link)
+Strange comments on the UN deliberations concerning the future of Palestine and highlights the central factor that gave the Zionists an in-built advantage at the assembly. While the Arabs were negotiating in a state that was essentially antipathetic to their struggle, their opposite numbers were surrounded by sympathisers and supporters both within and outside the organisation. She also discusses some of the limitations and problems with such negotiations within the forum of the UN, and alludes to structural impediments to the ‘fair’ settlement of differences.
+Keywords: Hegemony, United States, International-Relations, United-Nations
+[Text Access](link)
