@@ -6,41 +6,21 @@ lastmod: 2020-10-06T08:47:36+00:00
 draft: false
 ---
 
-![Placeholder](https://images.gr-assets.com/authors/1534446476p5/189890.jpg)
+![Susan Strange in a chair](https://raw.githubusercontent.com/SusanStrange/BACKEND-SusanStrangeArchive/main/images/Susan-Strange.jpeg)
 
 
-Who was Susan Strange? [LINK TO BIOGRAPHY PAGE] 
+The Susan Strange Archive is devoted to promoting the work and ideas of the foundational International Political Economy scholar Susan Strange (1923-1998), recognizing Strange-influenced contemporary research. Our goal is to serve as a focal point for the community of Strange-influenced researchers.
 
- 
+[**Who was Susan Strange?**](https://susanstrange.github.io/about-strange/)
 
-The Complete Susan Strange Annotated Bibliography: Browse the bibliography of 50 years of work by Susan Strange, with links to the original works. Searchable and organizable by decade and major themes. 
+[**The complete Susan Strange Annotated Bibliography**](https://susanstrange.github.io/contributors/susan-strange/): Browse the bibliography of 50 years of work by Susan Strange, with links to the original works, where available. Searchable and organizable by decade and major themes.
 
- 
+[**Highlighting and Promoting Strange-Influenced Research**](https://susanstrange.github.io/tags/strange-influenced-works/): Searchable and organizable by decade and major themes. Know of work (including your own) that draws on Strange? [**Let us know**](https://susanstrange.github.io/contact-us/)
 
-Promoting Strange-influenced research: Searchable and organizable by decade and major themes. 
+**Coming soon**: The Susan Strange at 100 Conference: New Ideas for Strange Times. Details to be announced.
 
- 
+[**Get in touch**](https://susanstrange.github.io/contact-us/)
 
-Susan Strange at 100 Conference: New Ideas for Strange Times, London, UK, February XX-XXX, 2024. Click here for more information. 
+![Susan Strange in a chair](https://github.com/SusanStrange/BACKEND-SusanStrangeArchive/blob/main/images/susan-strange-front-sketch.jpeg?raw=true)
 
- 
-
-The Susan Strange Podcast. 
-
------
-
-This is the homepage for the site.  
-
-Content on this page is updated from content>en>_index.html file.
-
-The button can be configured from the layouts>index.html file.
-
-The large title at the top is designated by the "title" parameter.
-
-The tagline text is designated by the "lead" parameter.
-
-The search function looks at all pages full text.  
-
-The elements displayed in the search menu are the "title" and "description" paremeters found in the index.html file for that page.
-
-The number of cards shown on both archive and keyword pages can be adjusted by altering the "paginate" value in the config>_default>config.toml file.
+Sketch credit: Erin Kavanagh [@geomythkavanagh](https://twitter.com/geomythkavanagh?lang=en)

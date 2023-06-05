@@ -7,6 +7,6 @@ draft: false
 images: []
 ---
 
-This page is edited from the content>en>tags>strange-influenced-works>_index.html file
+This page contains the searchable bibliography of academic and journalistic work that draws on Susan Strange’s theories and ideas. This bibliography remains a work in progress: if you have completed work, or know of works, that we should feature here, [please let us know](https://susanstrange.github.io/contact-us/).
 
-
+For copyright reasons, this site does not host any of Strange’s work, or of Strange-influenced work. Where available, we have provided links to external sites that host these works.
