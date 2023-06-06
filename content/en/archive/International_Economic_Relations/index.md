@@ -19,7 +19,7 @@ pinned: false
 homepage: false
 ---
 
-Strange, Susan. "International Economic Relations I: The Need for an Interdisciplinary Approach." In The Study of International Affairs: Essays in Honour of Kenneth Younger, edited by Roger Morgan, 63-84. London: RIIA/Oxford University Press, 1972.
+Strange, Susan. "International Economic Relations I: The Need for an Interdisciplinary Approach." In <i>The Study of International Affairs: Essays in Honour of Kenneth Younger</i>, edited by Roger Morgan, 63-84. London: RIIA/Oxford University Press, 1972.
 
 Strange’s second major attack on the discipline of international economics as it then stood, see also 'International economics and international relations: a case of mutual neglect' (1970). She derides the academic ‘apartheid’ that separates off political considerations from the economic and argues that what is required is a single international studies discipline that encompasses both the politics and economics of international relations (what would eventually become International Political Economy). The only part of international studies that has moved in this direction is ‘development economics’. Their openness to the insights of other approaches needs to be adopted by other sectors of study. She argues that this should start in the universities with more emphasis on multi-disciplinary training.
 
