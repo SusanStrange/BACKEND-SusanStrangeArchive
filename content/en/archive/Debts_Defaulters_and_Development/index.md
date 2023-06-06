@@ -1,16 +1,16 @@
 ---
 
-title: "Demo/Template object"
-description: "This is the text displayed by the search results"
-datetext: "2023"
-excerpt: "Citation data"
-excerpt2: "Abstract content"
-excerpt3: "Extra content like key terms"
+title: "Debts, Defaulters, and Development"
+description: "By Susan Strange"
+datetext: "1967"
+excerpt: "International Affairs 43, no. 3 (1967): 516-529."
+excerpt2: "Strange suggests that problems of national debt default have not been solved, merely suppressed by the expansion of credit provision. Developing states dependence on ‘supplier credit’, and frequent rescheduling of other debts will lead to eventual wide-spread default unless action is taken. She suggests that: principles governing international loans should be established; these ‘rules’ should be applied through aid-agencies and other international bodies; technical assistance to finance ministries should be available from multilateral institutions (the World Bank, possibly) to ensure states understand their fiscal position and their options. Strange argues that these measures are necessary to forestall a return to the nineteenth century policies of forced intervention, or economic ostracisation of developing states. Strange identifies the centrality of finance to international relations - a central theme of all her subsequent work."
+excerpt3: "Keywords: International-Institutions, Money-and-Finance"
 
-date: 2023
-tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
-contributors: ["Daniel Brett"]
-categories: ["Source1", "Demo Paper"]
+date: 1967
+tags: ["International-Institutions", "Money-and-Finance"]
+contributors: ["Susan Strange"]
+categories: ["Journal Article"]
 
 draft: false
 weight: 50
@@ -19,22 +19,10 @@ pinned: false
 homepage: false
 ---
 
-This is the text that fills the static page for this object.  
+Strange, Susan. "Debts, Defaulters, and Development." International Affairs 43, no. 3 (1967): 516-529.
 
-You can put anything you want here in plaintext.
+Strange suggests that problems of national debt default have not been solved, merely suppressed by the expansion of credit provision. Developing states dependence on ‘supplier credit’, and frequent rescheduling of other debts will lead to eventual wide-spread default unless action is taken. She suggests that: principles governing international loans should be established; these ‘rules’ should be applied through aid-agencies and other international bodies; technical assistance to finance ministries should be available from multilateral institutions (the World Bank, possibly) to ensure states understand their fiscal position and their options. Strange argues that these measures are necessary to forestall a return to the nineteenth century policies of forced intervention, or economic ostracisation of developing states. Strange identifies the centrality of finance to international relations - a central theme of all her subsequent work.
 
-If you want to add special elemets like links or images you can use either markdown code:
+Keywords: International Institutions, Money and Finance
 
-[This is a link](http://www.google.ca)
-
-or HTML code
-
-<a href="http://www.google.ca">This is also a link</a> 
-
-Images can be done similarly using markdown:
-
-![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
-
-Or HTML code:
-
-<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
+[Text Access (External Link)](https://doi.org/10.2307/2613731)
