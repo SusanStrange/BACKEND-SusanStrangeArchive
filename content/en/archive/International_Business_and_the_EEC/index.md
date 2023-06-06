@@ -1,16 +1,16 @@
 ---
 
-title: "Demo/Template object"
-description: "This is the text displayed by the search results"
-datetext: "2023"
-excerpt: "Citation data"
-excerpt2: "Abstract content"
-excerpt3: "Extra content like key terms"
+title: "International Business and the EEC"
+description: "By Susan Strange"
+datetext: "1974"
+excerpt: "In The Eruopean Economic Community, edited by James Barber, 82-95. Milton Keynes: Open University, 1974."
+excerpt2: "Strange discusses the relationship between international business and the EEC by briefly examining three partly overlapping assertions: that the main achievements of the EEC have resulted not from the community’s own work but from the impact of international business; that international business is a ‘Trojan horse’ for American influence and interest in Europe; and that the EEC is a necessary response to the problems brought by international business. She then concludes it is impossible to separate politics and economics, and that the indicators used to measure the level of European integration are unable to capture what is actually happening. Furthermore, the impact of international business is becoming a transnational process across states rather than an international process between them. Thus she advocates further moves to political unity in Europe to counter-balance the power of international business."
+excerpt3: "Keywords: Corporations, Europe"
 
-date: 2023
-tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
-contributors: ["Daniel Brett"]
-categories: ["Source1", "Demo Paper"]
+date: 1974
+tags: ["Corporations", "Europe"]
+contributors: ["Susan Strange", "Editor: James Barber"]
+categories: ["Book Chapter"]
 
 draft: false
 weight: 50
@@ -19,22 +19,10 @@ pinned: false
 homepage: false
 ---
 
-This is the text that fills the static page for this object.  
+Stange, Susan. "International Business and the EEC." In <i>The Eruopean Economic Community</i>, edited by James Barber, 82-95. Milton Keynes: Open University, 1974.
 
-You can put anything you want here in plaintext.
+Strange discusses the relationship between international business and the EEC by briefly examining three partly overlapping assertions: that the main achievements of the EEC have resulted not from the community’s own work but from the impact of international business; that international business is a ‘Trojan horse’ for American influence and interest in Europe; and that the EEC is a necessary response to the problems brought by international business. She then concludes it is impossible to separate politics and economics, and that the indicators used to measure the level of European integration are unable to capture what is actually happening. Furthermore, the impact of international business is becoming a transnational process across states rather than an international process between them. Thus she advocates further moves to political unity in Europe to counter-balance the power of international business.
 
-If you want to add special elemets like links or images you can use either markdown code:
+Keywords: Corporations, Europe, TRansnational-Corporations, European-Integration
 
-[This is a link](http://www.google.ca)
-
-or HTML code
-
-<a href="http://www.google.ca">This is also a link</a> 
-
-Images can be done similarly using markdown:
-
-![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
-
-Or HTML code:
-
-<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
+[Text Access (External Link)](Link)
