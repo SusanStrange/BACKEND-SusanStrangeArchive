@@ -1,16 +1,16 @@
 ---
 
-title: "Demo/Template object"
-description: "This is the text displayed by the search results"
-datetext: "2023"
-excerpt: "Citation data"
-excerpt2: "Abstract content"
-excerpt3: "Extra content like key terms"
+title: "International Economics and International Relations: a Case of Mutual Neglect"
+description: "By Susan Strange"
+datetext: "1970"
+excerpt: "International Affairs 46, no. 2 (1970): 304-315."
+excerpt2: "Strange’s first call for the development of International Political Economy as a separate discipline. She identifies a major void between the academic study of international relations and the study of international economics. The failure to fill this void will result in a loss of relevance for the subjects and an inability to deal with the major problems that beset the international economy. This will also lead to the inability to analyse the two main tendencies in the international economic system; growing international co-operation and organisation, and increased domestic defensiveness over national welfare issues. Only by introducing economics into International Relations courses, and politics into International Economics courses could these shortcomings be addressed."
+excerpt3: "Keywords: Political-Economy, Theory, Foundational-Work"
 
-date: 2023
-tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
-contributors: ["Daniel Brett"]
-categories: ["Source1", "Demo Paper"]
+date: 1970
+tags: ["Political-Economy", "Theory", "Foundational-Work"]
+contributors: ["Susan Strange"]
+categories: ["Journal Article"]
 
 draft: false
 weight: 50
@@ -19,22 +19,11 @@ pinned: false
 homepage: false
 ---
 
-This is the text that fills the static page for this object.  
+Strange, Susan. "International Economics and International Relations: a Case of Mutual Neglect." International Affairs 46, no. 2 (1970): 304-315.
 
-You can put anything you want here in plaintext.
+Strange’s first call for the development of International Political Economy as a separate discipline. She identifies a major void between the academic study of international relations and the study of international economics. The failure to fill this void will result in a loss of relevance for the subjects and an inability to deal with the major problems that beset the international economy. This will also lead to the inability to analyse the two main tendencies in the international economic system; growing international co-operation and organisation, and increased domestic defensiveness over national welfare issues. Only by introducing economics into International Relations courses, and politics into International Economics courses could these shortcomings be addressed."
+excerpt3: "Keywords: Political-Economy, Theory, Foundational-Work
 
-If you want to add special elemets like links or images you can use either markdown code:
+Keywords: Political-Economy, Theory, Foundational-Work, International-Relations, International-Economics
 
-[This is a link](http://www.google.ca)
-
-or HTML code
-
-<a href="http://www.google.ca">This is also a link</a> 
-
-Images can be done similarly using markdown:
-
-![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
-
-Or HTML code:
-
-<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
+[Text Access (External Link)](https://doi.org/10.2307/2613829)
