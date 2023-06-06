@@ -1,16 +1,16 @@
 ---
 
-title: "Demo/Template object"
-description: "This is the text displayed by the search results"
-datetext: "2023"
-excerpt: "Citation data"
-excerpt2: "Abstract content"
-excerpt3: "Extra content like key terms"
+title: "The Sterling Problem and the Six"
+description: "By Susan Strange"
+datetext: "1967"
+excerpt: "London:Chatham House/PEP, 1967."
+excerpt2: "In this small pamphlet Strange analyses the twin roles of sterling in the international economy - that of reserve currency and of vehicle currency (in which transactions are carried out), in a precursor to her typology of currencies in Sterling and British Policy (1971). She argues that while the City has benefited from the expansion of the ‘Euro-currency’ markets, in its ‘middleman’ role, this has led to a number of problems for sterling both in the wider context of the international economy and, more specifically, the context of the emerging European Community. Sterling had become more vulnerable to changes elsewhere. She is sceptical about the possibility of Britain enjoying any financial benefit from joining the ‘six’, noting that the CAP payments and the IMF repayments together would form an unendurable strain on the exchequer."
+excerpt3: "Keywords: Europe, Money-and-Finance, United-Kingdom"
 
-date: 2023
-tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
-contributors: ["Daniel Brett"]
-categories: ["Source1", "Demo Paper"]
+date: 1967
+tags: ["Europe", "Money-and-Finance", "United-Kingdom"]
+contributors: ["Susan Strange"]
+categories: ["Book"]
 
 draft: false
 weight: 50
@@ -19,22 +19,10 @@ pinned: false
 homepage: false
 ---
 
-This is the text that fills the static page for this object.  
+Strange, Susan. <i>The Sterling Problem and the Six</i>. London:Chatham House/PEP, 1967.
 
-You can put anything you want here in plaintext.
+In this small pamphlet Strange analyses the twin roles of sterling in the international economy - that of reserve currency and of vehicle currency (in which transactions are carried out), in a precursor to her typology of currencies in Sterling and British Policy (1971). She argues that while the City has benefited from the expansion of the ‘Euro-currency’ markets, in its ‘middleman’ role, this has led to a number of problems for sterling both in the wider context of the international economy and, more specifically, the context of the emerging European Community. Sterling had become more vulnerable to changes elsewhere. She is sceptical about the possibility of Britain enjoying any financial benefit from joining the ‘six’, noting that the CAP payments and the IMF repayments together would form an unendurable strain on the exchequer.
 
-If you want to add special elemets like links or images you can use either markdown code:
+Keywords: Europe, Money-and-Finance, United-Kingdom, European-Integration
 
-[This is a link](http://www.google.ca)
-
-or HTML code
-
-<a href="http://www.google.ca">This is also a link</a> 
-
-Images can be done similarly using markdown:
-
-![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
-
-Or HTML code:
-
-<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
+[Text Access (External Link)](link.gale.com/apps/doc/A16913976/LitRC?u=st46245&sid=bookmark-LitRC&xid=bb1c4e9a)
