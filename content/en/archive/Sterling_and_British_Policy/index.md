@@ -1,16 +1,16 @@
 ---
 
-title: "Demo/Template object"
-description: "This is the text displayed by the search results"
-datetext: "2023"
-excerpt: "Citation data"
-excerpt2: "Abstract content"
-excerpt3: "Extra content like key terms"
+title: "Sterling and British Policy: A Political View"
+description: "By Susan Strange"
+datetext: "1971"
+excerpt: "International Affairs 47, no. 2 (1971): 302-315."
+excerpt2: "Strange sets the decline of sterling and the rise of the dollar in the context of international politics. She stresses the need to integrate economic studies with those of international relations. Both state behaviour and the behaviour of international society, hitherto interpreted in terms of power and politics should now be extended to take in the monetary factor especially in the light of economic interdependence - the monetary factor is bound to become increasingly important in understanding state behaviour. These views are then developed in Sterling and British Policy  (1971) while the importance of monetary factors is a theme which underlies all of her subsequent work."
+excerpt3: "Keywords: Money-and-Finance, United-Kingdom"
 
-date: 2023
-tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
-contributors: ["Daniel Brett"]
-categories: ["Source1", "Demo Paper"]
+date: 1971
+tags: ["Money-and-Finance", "United-Kingdom"]
+contributors: ["Susan Strange"]
+categories: ["Journal Article"]
 
 draft: false
 weight: 50
@@ -19,22 +19,10 @@ pinned: false
 homepage: false
 ---
 
-This is the text that fills the static page for this object.  
+Strange, Susan. "Sterling and British Policy: A Political View." International Affairs 47, no. 2 (1971): 302-315.
 
-You can put anything you want here in plaintext.
+Strange sets the decline of sterling and the rise of the dollar in the context of international politics. She stresses the need to integrate economic studies with those of international relations. Both state behaviour and the behaviour of international society, hitherto interpreted in terms of power and politics should now be extended to take in the monetary factor especially in the light of economic interdependence - the monetary factor is bound to become increasingly important in understanding state behaviour. These views are then developed in Sterling and British Policy  (1971) while the importance of monetary factors is a theme which underlies all of her subsequent work.
 
-If you want to add special elemets like links or images you can use either markdown code:
+Keywords: Money-and-Finance, United-Kingdom, Interdependence
 
-[This is a link](http://www.google.ca)
-
-or HTML code
-
-<a href="http://www.google.ca">This is also a link</a> 
-
-Images can be done similarly using markdown:
-
-![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
-
-Or HTML code:
-
-<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
+[Text Access (External Link)](https://doi.org/10.2307/2613930)
