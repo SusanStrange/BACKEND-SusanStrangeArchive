@@ -1,16 +1,16 @@
 ---
 
-title: "Demo/Template object"
-description: "This is the text displayed by the search results"
-datetext: "2023"
-excerpt: "Citation data"
-excerpt2: "Abstract content"
-excerpt3: "Extra content like key terms"
+title: "Review of: J.L Allen Soviet Economic Power"
+description: "By Susan Strange"
+datetext: "1961"
+excerpt: "Economica 28, no. 109. (1961): 98-99."
+excerpt2: "Strange challenges the implicit assertion by the author that the interpretation of Soviet interest, or its choice of the means to an end, is static. She also doubts the ascription by the author of Finnish subservience to the Soviet Union as being solely one of economic dependence rather than strategic vulnerability. As one would expect Strange dismisses mono-causality, as she continues to do in all her work."
+excerpt3: "Keywords: Security"
 
-date: 2023
-tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
-contributors: ["Daniel Brett"]
-categories: ["Source1", "Demo Paper"]
+date: 1961
+tags: ["Security"]
+contributors: ["Susan Strange"]
+categories: ["Journal Article"]
 
 draft: false
 weight: 50
@@ -19,22 +19,10 @@ pinned: false
 homepage: false
 ---
 
-This is the text that fills the static page for this object.  
+Strange, Susan. "Review of: J.L Allen Soviet Economic Power." Economica 28, no. 109. (1961): 98-99.
 
-You can put anything you want here in plaintext.
+Strange challenges the implicit assertion by the author that the interpretation of Soviet interest, or its choice of the means to an end, is static. She also doubts the ascription by the author of Finnish subservience to the Soviet Union as being solely one of economic dependence rather than strategic vulnerability. As one would expect Strange dismisses mono-causality, as she continues to do in all her work.
 
-If you want to add special elemets like links or images you can use either markdown code:
+Keywords: Security, International-Relations
 
-[This is a link](http://www.google.ca)
-
-or HTML code
-
-<a href="http://www.google.ca">This is also a link</a> 
-
-Images can be done similarly using markdown:
-
-![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
-
-Or HTML code:
-
-<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
+[Text Access (External Link)](link)
