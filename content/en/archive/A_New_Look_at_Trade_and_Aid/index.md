@@ -27,4 +27,4 @@ Reprinted in: Roger Tooze and Christopher May, eds. <i>Authority and Markets: Su
 
 Keywords: Production, Trade, Economic Development
 
-[Text Access(external link)](https://doi.org/10.2307/2612436)
+[Text Access (external link)](https://doi.org/10.2307/2612436)
