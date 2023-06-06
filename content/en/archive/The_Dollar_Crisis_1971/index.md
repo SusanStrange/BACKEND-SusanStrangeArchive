@@ -1,16 +1,16 @@
 ---
 
-title: "Demo/Template object"
-description: "This is the text displayed by the search results"
-datetext: "2023"
-excerpt: "Citation data"
-excerpt2: "Abstract content"
-excerpt3: "Extra content like key terms"
+title: "The Dollar Crisis 1971"
+description: "By Susan Strange"
+datetext: "1972"
+excerpt: "International Affairs 48, no. 2 (1972): 191-216."
+excerpt2: "Strange feels that the author overstates the political power and influence of multinational in themselves. She identifies a close connection between the US government and larger corporations. Interestingly this is a position that she gradually moves away from in subsequent work, identifying transnational firms as actors in their own right by 67), arguing for their major importance as actors in the international political economy."
+excerpt3: "Keywords: Hegemony, Internationa-Institutions, Markets, Money-and-Finance, Political-Economy"
 
-date: 2023
-tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
-contributors: ["Daniel Brett"]
-categories: ["Source1", "Demo Paper"]
+date: 1972
+tags: ["Hegemony", "Internationa-Institutions", "Markets", "Money-and-Finance", "Political-Economy"]
+contributors: ["Susan Strange"]
+categories: ["Journal Article"]
 
 draft: false
 weight: 50
@@ -19,22 +19,10 @@ pinned: false
 homepage: false
 ---
 
-This is the text that fills the static page for this object.  
+Strange, Susan. "The Dollar Crisis 1971." International Affairs 48, no. 2 (1972): 191-216.
 
-You can put anything you want here in plaintext.
+Strange feels that the author overstates the political power and influence of multinational in themselves. She identifies a close connection between the US government and larger corporations. Interestingly this is a position that she gradually moves away from in subsequent work, identifying transnational firms as actors in their own right by 67), arguing for their major importance as actors in the international political economy.
 
-If you want to add special elemets like links or images you can use either markdown code:
+Keywords: Hegemony, Internationa-Institutions, Markets, Money-and-Finance, Political-Economy
 
-[This is a link](http://www.google.ca)
-
-or HTML code
-
-<a href="http://www.google.ca">This is also a link</a> 
-
-Images can be done similarly using markdown:
-
-![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
-
-Or HTML code:
-
-<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
+[Text Access (External Link)](https://doi.org/10.2307/2613437)
