@@ -1,16 +1,16 @@
 ---
 
-title: "Demo/Template object"
-description: "This is the text displayed by the search results"
-datetext: "2023"
-excerpt: "Citation data"
-excerpt2: "Abstract content"
-excerpt3: "Extra content like key terms"
+title: "Arab Oil and International Finance"
+description: "By Susan Strange"
+datetext: "1974"
+excerpt: "The Ditchley Journal, 1974"
+excerpt2: "Essentially a conference report, Strange discusses the meeting held at Ditchley in December 1973 to discuss the financial prospects and problems for industry and government in the world economy, and the inescapable problem of the oil crisis. Discussing the various aspects of monetary order, from balance of payments problems and trade barriers, to financial flows, she argues that at this point too little work had been done to understand the effects and causes of shifts in monetary flows. In a repeated theme of much of Strange’s work on finance she argues strongly for a move away from an exclusively economic/financial analysis of the problem, and a (re)introduction of political analysis. Again Strange, although less explicitly than elsewhere, argues for a ‘new’ International Political Economy."
+excerpt3: "Keywords: Hegemony, International-Institutions, Money-and-Finance, Structural-Power, Power"
 
-date: 2023
-tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
-contributors: ["Daniel Brett"]
-categories: ["Source1", "Demo Paper"]
+date: 1974
+tags: ["Hegemony", "International-Institutions", " Money-and-Finance", "Structural-Power"]
+contributors: ["Susan Strange"]
+categories: ["Conference Report"]
 
 draft: false
 weight: 50
@@ -19,22 +19,10 @@ pinned: false
 homepage: false
 ---
 
-This is the text that fills the static page for this object.  
+Strange, Susan. "Arab Oil and International Finance." The Ditchley Journal, 1974.
 
-You can put anything you want here in plaintext.
+Essentially a conference report, Strange discusses the meeting held at Ditchley in December 1973 to discuss the financial prospects and problems for industry and government in the world economy, and the inescapable problem of the oil crisis. Discussing the various aspects of monetary order, from balance of payments problems and trade barriers, to financial flows, she argues that at this point too little work had been done to understand the effects and causes of shifts in monetary flows. In a repeated theme of much of Strange’s work on finance she argues strongly for a move away from an exclusively economic/financial analysis of the problem, and a (re)introduction of political analysis. Again Strange, although less explicitly than elsewhere, argues for a ‘new’ International Political Economy
 
-If you want to add special elemets like links or images you can use either markdown code:
+Keywords: Hegemony, International-Institutions, Money-and-Finance, Structural-Power, Power
 
-[This is a link](http://www.google.ca)
-
-or HTML code
-
-<a href="http://www.google.ca">This is also a link</a> 
-
-Images can be done similarly using markdown:
-
-![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
-
-Or HTML code:
-
-<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
+[Text Access (External Link)](Link)
