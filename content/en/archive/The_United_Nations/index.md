@@ -1,16 +1,16 @@
 ---
 
-title: "Demo/Template object"
-description: "This is the text displayed by the search results"
-datetext: "2023"
-excerpt: "Citation data"
-excerpt2: "Abstract content"
-excerpt3: "Extra content like key terms"
+title: "The United Nations and International Economic Relations"
+description: "By Susan Strange"
+datetext: "1971"
+excerpt: "In The Evolving United Nations, edited by Kenneth J. Twitchet, 100-119. London: Europa Publications for the David Davies Memorial Institute of International Studies, 1971."
+excerpt2: "Contrasting a Unitarian (‘one-world’) or egalitarian vision of the United Nations mission with a reformist position, Strange argues that despite some early hopes that the UN might remake the global economy, its subsequent history has revealed it to be largely powerless over much of international economic relations. Where it has been able to influence the international economy this has been through symbolic actions rather than by direct intervention. Here, Strange stresses the political embededness of international markets, and relates the inability of the UN to intervene to the lack of any overarching international political authority, either represented by the UN or other international organisations."
+excerpt3: "Keywords: Politcal-Economy"
 
-date: 2023
-tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
-contributors: ["Daniel Brett"]
-categories: ["Source1", "Demo Paper"]
+date: 1971
+tags: ["Politcal-Economy"]
+contributors: ["Susan Strange"]
+categories: ["Book Chapter"]
 
 draft: false
 weight: 50
@@ -19,22 +19,8 @@ pinned: false
 homepage: false
 ---
 
-This is the text that fills the static page for this object.  
+Strange, Susan. "The United Nations and International Economic Relations." <i>In The Evolving United Nations</i>, edited by Kenneth J. Twitchet, 100-119. London: Europa Publications for the David Davies Memorial Institute of International Studies, 1971.
 
-You can put anything you want here in plaintext.
+Keywords: Politcal-Economy, United-Nations, International-Economics
 
-If you want to add special elemets like links or images you can use either markdown code:
-
-[This is a link](http://www.google.ca)
-
-or HTML code
-
-<a href="http://www.google.ca">This is also a link</a> 
-
-Images can be done similarly using markdown:
-
-![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
-
-Or HTML code:
-
-<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
+[Text Access (External Link)](https://www.worldcat.org/title/1023911677)
