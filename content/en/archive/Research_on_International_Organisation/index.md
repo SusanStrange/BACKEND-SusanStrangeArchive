@@ -1,16 +1,16 @@
 ---
 
-title: "Demo/Template object"
-description: "This is the text displayed by the search results"
-datetext: "2023"
-excerpt: "Citation data"
-excerpt2: "Abstract content"
-excerpt3: "Extra content like key terms"
+title: "Research on International Organisation"
+description: "By Susan Strange and Geoffry Goodwin"
+datetext: "1968"
+excerpt: "Social Science Research Council Review of Current Research 2. (1968)"
+excerpt2: "Acting as a rapporteur for the SSRC Advisory Group on International Organisation (chaired by Goodwin), Strange maps out current and future research as well as examining its organisation and administration. Though published two year prior to Strange’s first call for the establishment of International Political Economy, in 'International economics and international relations: a case of mutual neglect' (1970), this report on the discussion of research into international organisation and international relations reveals many themes (from the impact of structure and technology to the importance of international economics) she would develop in her own work."
+excerpt3: "Keywords: Knowledge, Political-Economy, Theory"
 
-date: 2023
-tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
-contributors: ["Daniel Brett"]
-categories: ["Source1", "Demo Paper"]
+date: 1968
+tags: ["Knowledge", "Political-Economy", "Theory"]
+contributors: ["Susan Strange","Geoffry Goodwin"]
+categories: ["Journal Article"]
 
 draft: false
 weight: 50
@@ -19,22 +19,10 @@ pinned: false
 homepage: false
 ---
 
-This is the text that fills the static page for this object.  
+Goodwin, Geoffry, and Susan Strange. "Research on International Organisation." Social Science Research Council Review of Current Research 2. (1968).
 
-You can put anything you want here in plaintext.
+Acting as a rapporteur for the SSRC Advisory Group on International Organisation (chaired by Goodwin), Strange maps out current and future research as well as examining its organisation and administration. Though published two year prior to Strange’s first call for the establishment of International Political Economy, in 'International economics and international relations: a case of mutual neglect' (1970), this report on the discussion of research into international organisation and international relations reveals many themes (from the impact of structure and technology to the importance of international economics) she would develop in her own work.
 
-If you want to add special elemets like links or images you can use either markdown code:
+Keywords: Knowledge, Political-Economy, Theory, International-Economics
 
-[This is a link](http://www.google.ca)
-
-or HTML code
-
-<a href="http://www.google.ca">This is also a link</a> 
-
-Images can be done similarly using markdown:
-
-![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
-
-Or HTML code:
-
-<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
+[Text Access (external Link)](link)
