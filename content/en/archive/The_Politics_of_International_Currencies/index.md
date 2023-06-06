@@ -1,16 +1,16 @@
 ---
 
-title: "Demo/Template object"
-description: "This is the text displayed by the search results"
-datetext: "2023"
-excerpt: "Citation data"
-excerpt2: "Abstract content"
-excerpt3: "Extra content like key terms"
+title: "The Politics of International Currencies"
+description: "By Susan Strange"
+datetext: "1970"
+excerpt: "World Politics 23, no. 2 (1970): 215-231."
+excerpt2: "Here Strange argues that because of interdependence states are not so much defenders of national territories or peoples but of national currencies and monetary systems. Conflict can be caused by one monetary system damaging another. The expansion of the international economy requires more and more sophisticated and complex monetary and financial arrangements and the forms of association among them. Strange starts to map out a political theory of international currencies which is developed in Sterling and British Policy (1971)."
+excerpt3: "Keywords: Money-and-Finance, Political-Economy"
 
-date: 2023
-tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
-contributors: ["Daniel Brett"]
-categories: ["Source1", "Demo Paper"]
+date: 1970
+tags: ["Money-and-Finance", "Political-Economy"]
+contributors: ["Susan Strange"]
+categories: ["Journal Article"]
 
 draft: false
 weight: 50
@@ -19,22 +19,10 @@ pinned: false
 homepage: false
 ---
 
-This is the text that fills the static page for this object.  
+Strange, Susan. "The Politics of International Currencies." World Politics 23, no. 2 (1970): 215-231.
 
-You can put anything you want here in plaintext.
+Here Strange argues that because of interdependence states are not so much defenders of national territories or peoples but of national currencies and monetary systems. Conflict can be caused by one monetary system damaging another. The expansion of the international economy requires more and more sophisticated and complex monetary and financial arrangements and the forms of association among them. Strange starts to map out a political theory of international currencies which is developed in Sterling and British Policy (1971).
 
-If you want to add special elemets like links or images you can use either markdown code:
+Keywords: Money-and-Finance, Political-Economy
 
-[This is a link](http://www.google.ca)
-
-or HTML code
-
-<a href="http://www.google.ca">This is also a link</a> 
-
-Images can be done similarly using markdown:
-
-![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
-
-Or HTML code:
-
-<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
+[Text Access (External Link)](https://doi.org/10.2307/200967)
