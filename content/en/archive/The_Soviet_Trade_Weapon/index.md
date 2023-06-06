@@ -1,16 +1,16 @@
 ---
 
-title: "Demo/Template object"
-description: "This is the text displayed by the search results"
-datetext: "2023"
-excerpt: "Citation data"
-excerpt2: "Abstract content"
-excerpt3: "Extra content like key terms"
+title: "The Soviet Trade Weapon"
+description: "By Susan Strange"
+datetext: "1959"
+excerpt: "London: Phoenix House, 1959."
+excerpt2: "This pamphlet appeared in Background Books series. Taking a rather optimistic (though at that time widespread view) of the Soviet Bloc’s economic situation vis-à-vis the West, Strange concludes that Soviet economic (and political) influence is reliant on economic ‘trouble-spots’ and the aversion by many developing states to the West’s recent history of colonialism. This leads her to suggest that money then spent on military aid might be better spent helping developing countries deal with agricultural surplus capacity in the global a market, a theme she would return to in 'The Management of Surplus Capacity' (1979). Furthermore, the economic cycle in the developed states could be better managed to reduce the destabilising effects on primary producers. Thus political activism by the West could do much to counter the ‘war without weapons’ represented by the contemporary Soviet trade and aid policy."
+excerpt3: "Key Terms: Production, Security, Trade"
 
-date: 2023
-tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
-contributors: ["Daniel Brett"]
-categories: ["Source1", "Demo Paper"]
+date: 1959
+tags: ["Production", "Security", "Trade"]
+contributors: ["Susan Strange"]
+categories: ["Book"]
 
 draft: false
 weight: 50
@@ -19,22 +19,10 @@ pinned: false
 homepage: false
 ---
 
-This is the text that fills the static page for this object.  
+Strange, Susan. <i>The Soviet Trade Weapon</i>. London: Phoenix House, 1959.
 
-You can put anything you want here in plaintext.
+This pamphlet appeared in Background Books series. Taking a rather optimistic (though at that time widespread view) of the Soviet Bloc’s economic situation vis-à-vis the West, Strange concludes that Soviet economic (and political) influence is reliant on economic ‘trouble-spots’ and the aversion by many developing states to the West’s recent history of colonialism. This leads her to suggest that money then spent on military aid might be better spent helping developing countries deal with agricultural surplus capacity in the global a market, a theme she would return to in 'The Management of Surplus Capacity' (1979). Furthermore, the economic cycle in the developed states could be better managed to reduce the destabilising effects on primary producers. Thus political activism by the West could do much to counter the ‘war without weapons’ represented by the contemporary Soviet trade and aid policy.
 
-If you want to add special elemets like links or images you can use either markdown code:
+Keywords: Porduction, Security, Trade, International-Relations
 
-[This is a link](http://www.google.ca)
-
-or HTML code
-
-<a href="http://www.google.ca">This is also a link</a> 
-
-Images can be done similarly using markdown:
-
-![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
-
-Or HTML code:
-
-<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
+[Text Access (external Link)](http://hermes-ir.lib.hit-u.ac.jp/hermes/ir/re/8191/HJlaw0220S00050.pdf)
