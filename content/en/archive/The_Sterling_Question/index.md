@@ -1,16 +1,16 @@
 ---
 
-title: "Demo/Template object"
-description: "This is the text displayed by the search results"
-datetext: "2023"
-excerpt: "Citation data"
-excerpt2: "Abstract content"
-excerpt3: "Extra content like key terms"
+title: "The Sterling Question"
+description: "By Susan Strange"
+datetext: "1967"
+excerpt: "In Britain and the Common Market edited by Anthony Moncrieff, 43-50. London, BBC, 1967."
+excerpt2: "In this text of a radio talk first broadcast on 19th February 1967, Strange summarises the arguments she made in The Sterling Problem and the Six (1967). Discussing the links between Britain and the European Community, she examines the international position of sterling in a time of monetary crisis. Noting both the lack of reserves held by the British government and Britain’s extra-European financial commitments, Strange argues that de Gaulle may be correct in thinking it is impossible for Britain to act ‘like good Europeans’. Thus, one proposed solution to the sterling problem, monetary association with Europe, would have little support on the Continent. Strange finally focuses on the British government’s economic philosophy and its lack of political will as the key problems; issues she would return to frequently, not least of all in her later criticisms of American foreign economic policy."
+excerpt3: "Keywords: Europe, Money-and-Finance"
 
-date: 2023
-tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
-contributors: ["Daniel Brett"]
-categories: ["Source1", "Demo Paper"]
+date: 1967
+tags: ["Europe", "Money-and-Finance"]
+contributors: ["Susan Strange","Editor: Anthony Moncrieff"]
+categories: ["Book Chapter"]
 
 draft: false
 weight: 50
@@ -19,22 +19,10 @@ pinned: false
 homepage: false
 ---
 
-This is the text that fills the static page for this object.  
+Strange, Susan. "The Sterling Question." In <i>Britain and the Common Market</i> edited by Anthony Moncrieff, 43-50. London, BBC, 1967.
 
-You can put anything you want here in plaintext.
+In this text of a radio talk first broadcast on 19th February 1967, Strange summarises the arguments she made in The Sterling Problem and the Six (1967). Discussing the links between Britain and the European Community, she examines the international position of sterling in a time of monetary crisis. Noting both the lack of reserves held by the British government and Britain’s extra-European financial commitments, Strange argues that de Gaulle may be correct in thinking it is impossible for Britain to act ‘like good Europeans’. Thus, one proposed solution to the sterling problem, monetary association with Europe, would have little support on the Continent. Strange finally focuses on the British government’s economic philosophy and its lack of political will as the key problems; issues she would return to frequently, not least of all in her later criticisms of American foreign economic policy.
 
-If you want to add special elemets like links or images you can use either markdown code:
+Keywords: Europe, Money-and-Finance, European Integration
 
-[This is a link](http://www.google.ca)
-
-or HTML code
-
-<a href="http://www.google.ca">This is also a link</a> 
-
-Images can be done similarly using markdown:
-
-![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
-
-Or HTML code:
-
-<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
+[Text Access {External Link)](https://www.worldcat.org/title/1070865108)
