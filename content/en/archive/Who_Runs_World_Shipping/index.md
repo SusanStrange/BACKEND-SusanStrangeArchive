@@ -1,16 +1,16 @@
 ---
 
-title: "Demo/Template object"
-description: "This is the text displayed by the search results"
-datetext: "2023"
-excerpt: "Citation data"
-excerpt2: "Abstract content"
-excerpt3: "Extra content like key terms"
+title: "Who Runs World Shipping?"
+description: "By Susan Strange"
+datetext: "1976"
+excerpt: "International Affairs 52, no. 3 (1976): 346-367."
+excerpt2: "In the first article Strange sets out an outline method for sectoral analysis in the international economy. This is prefaced by a critical engagement with the Nye and Keohane ‘transnational politics’ approach. After stressing the inseparability of politics and economics, and the crucial authority/market trade-off, she suggests three analytical questions that must be asked in any sectoral analysis; questions about the loci and distribution of power over economic processes, the who, why, and how of economic intervention, and the question of the consequences, and benefits. Only by building up from systematic sectoral analyses can the asymmetrical bargaining processes, the impact of technology, the influence of markets and the politicisation of the international political economy be understood. She then offers in the second article one such sectoral analysis (of world shipping), which carries some material forward from 'International shipping and the developing countries' (with Richard Holland, 1976)."
+excerpt3: "Keywords: Theory, Trade, International Institutions"
 
-date: 2023
-tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
-contributors: ["Daniel Brett"]
-categories: ["Source1", "Demo Paper"]
+date: 1976
+tags: ["Theory", "Trade", "International Institutions", "1970's", "Susan Strange"]
+contributors: ["Susan Strange"]
+categories: ["Journal Article"]
 
 draft: false
 weight: 50
@@ -19,23 +19,10 @@ pinned: false
 homepage: false
 ---
 
-This is the text that fills the static page for this object.  
+Strange, Susan."Who Runs World Shipping?" International Affairs 52, no. 3 (1976): 346-367.
 
-You can put anything you want here in plaintext.
+In the first article Strange sets out an outline method for sectoral analysis in the international economy. This is prefaced by a critical engagement with the Nye and Keohane ‘<b>transnational politics</b>’ approach. After stressing the inseparability of politics and economics, and the crucial authority/market trade-off, she suggests three analytical questions that must be asked in any sectoral analysis; questions about the loci and distribution of power over economic processes, the who, why, and how of economic intervention, and the question of the consequences, and benefits. Only by building up from systematic sectoral analyses can the asymmetrical bargaining processes, the impact of technology, the influence of markets and the politicisation of the international political economy be understood. She then offers in the second article one such sectoral analysis (of world shipping), which carries some material forward from '<b>International shipping and the developing countries</b>' (with Richard Holland, 1976).
 
-If you want to add special elemets like links or images you can use either markdown code:
+Keywords: Theory, Trade, International Institutions
 
-[This is a link](http://www.google.ca)
-
-or HTML code
-
-<a href="http://www.google.ca">This is also a link</a> 
-
-Images can be done similarly using markdown:
-
-![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
-
-Or HTML code:
-
-<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
-
+[Text Access (External Link)](https://doi.org/10.2307/2616550)
