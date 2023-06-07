@@ -8,7 +8,7 @@ excerpt2: "Strange challenges the implicit assertion by the author that the inte
 excerpt3: "Keywords: Security"
 
 date: 1961
-tags: ["Security"]
+tags: ["Security", "1960's'", "Susan Strange"]
 contributors: ["Susan Strange"]
 categories: ["Journal Article"]
 
