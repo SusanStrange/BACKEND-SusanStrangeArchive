@@ -8,7 +8,7 @@ excerpt2: "Essentially a conference report, Strange discusses the meeting held a
 excerpt3: "Keywords: Hegemony, International-Institutions, Money-and-Finance, Structural-Power, Power"
 
 date: 1974
-tags: ["Hegemony", "International-Institutions", " Money-and-Finance", "Structural-Power"]
+tags: ["Hegemony", "International-Institutions", " Money-and-Finance", "Structural-Power", "1970's"]
 contributors: ["Susan Strange"]
 categories: ["Conference Report"]
 
