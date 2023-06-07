@@ -8,7 +8,7 @@ excerpt2: "In one of her earliest pieces to deal directly with multinational com
 excerpt3: "Keywords: Corportations, Political-Economy"
 
 date: 1972
-tags: ["Corportations", "Political-Economy"]
+tags: ["Corportations", "Political Economy", "1970's", "Susan Strange"]
 contributors: ["Susan Strange", "Editor: James Barber"]
 categories: ["Book Chapter"]
 
@@ -23,6 +23,6 @@ Strange, Susan. "The Multinational Corporation and the National Interest." In <i
 
 In one of her earliest pieces to deal directly with multinational companies or corporations Strange argues that an analysis of the companies not only leads to both domestic and foreign policy making but also into the realm of international (regulatory) policy making. Much of the text is taken up with a discussion of the likely conflicts in interest between governments and corporations with multinational operations (as she prefers to term them). In the main she is concerned to note the national interest in control and the difficulty of trying to control non-national companies, but she notes the already troublesome problems of taxation and regulation. She concludes that rather than threats by other states, the main problems that states need to deal with are linked with the operations of international business in one way or another.
 
-Keywords: Corportations, Political-Economy, Transnational-Corporations, International-Economics
+Keywords: Corportations, Political Economy, Transnational Corporations, International Economics
 
 [Text Access (External Access)](Link)
