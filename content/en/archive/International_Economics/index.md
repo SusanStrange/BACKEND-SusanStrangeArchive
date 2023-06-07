@@ -8,7 +8,7 @@ excerpt2: "Strange’s first call for the development of International Political
 excerpt3: "Keywords: Political Economy, Theory, Foundational Work"
 
 date: 1970
-tags: ["Political Economy", "Theory", "Foundational Work","1970's"]
+tags: ["Political Economy", "Theory", "Foundational Work","1970's", "Susan Strange"]
 contributors: ["Susan Strange"]
 categories: ["Journal Article"]
 
