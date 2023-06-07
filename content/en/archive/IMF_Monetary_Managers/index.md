@@ -8,7 +8,7 @@ excerpt2: "This is a detailed case study of the IMF, which Strange uses to back 
 excerpt3: "Keywords: Money and Finance, Political Economy"
 
 date: 1974
-tags: ["Money and Finance", "Political Economy", "1970's"]
+tags: ["Money and Finance", "Political Economy", "1970's", "Susan Strange"]
 contributors: ["Susan Strange", "Editor: Robert W. Cox", "Editor: Harold K. Jacobson"]
 categories: ["Book Chapter"]
 
