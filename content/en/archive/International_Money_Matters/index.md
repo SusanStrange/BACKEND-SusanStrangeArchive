@@ -8,7 +8,7 @@ excerpt2: "Strange uses a survey of a number of recent textbooks (and other writ
 excerpt3: "Keywords: Money-and-Finance, Political-Economy"
 
 date: 1970
-tags: ["Money-and-Finance", "Political-Economy"]
+tags: ["Money-and-Finance", "Political-Economy","1970's"]
 contributors: ["Susan Strange"]
 categories: ["Journal Article"]
 
