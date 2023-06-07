@@ -1,16 +1,16 @@
 ---
 
-title: "Demo/Template object"
-description: "This is the text displayed by the search results"
-datetext: "2023"
-excerpt: "Citation data"
-excerpt2: "Abstract content"
-excerpt3: "Extra content like key terms"
+title: "Interdependence in the International Monetary System"
+description: "By Susan Strange"
+datetext: "1976"
+excerpt: "In The Euro-American System: Economic and Political Relations Between North America and Western Europe, edited by Ernst-Otto Czempiel and Dankwar A. Rustow, 31-49. Frankfurt: Westview Press, 1976."
+excerpt2: "Strange briefly outlines the character of the international monetary system, noting that while it has become at least partially transnational, posited solutions are still conceived at a national level. This leads her to argue that there needs to be a better attempt made to fit the response to crisis to the level at which it is manifest. Having suggested that the central country in the monetary system (the U.S.) could either try to co-ordinate activities, or by its very dominance alleviate the crisis by putting its own house in order, she suggests the best (though least likely) solution would be some form of global central bank. This leads her to conclude by stressing the political issues at the centre of the international financial system and the need to included justice as well as order or security in the academic assessment of the crisis."
+excerpt3: "Keywords: Hegemony, Money and Finance"
 
-date: 2023
-tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
-contributors: ["Daniel Brett"]
-categories: ["Source1", "Demo Paper"]
+date: 1976
+tags: ["Hegemony", "Money and Finance", "1970's", "Susan Strange"]
+contributors: ["Susan Strange"]
+categories: ["Book Chapter"]
 
 draft: false
 weight: 50
@@ -19,22 +19,10 @@ pinned: false
 homepage: false
 ---
 
-This is the text that fills the static page for this object.  
+Strange, Susan. "Interdependence in the International Monetary System." In The Euro-American System: Economic and Political Relations Between North America and Western Europe, edited by Ernst-Otto Czempiel and Dankwar A. Rustow, 31-49. Frankfurt: Westview Press, 1976."
 
-You can put anything you want here in plaintext.
+Strange briefly outlines the character of the international monetary system, noting that while it has become at least partially transnational, posited solutions are still conceived at a national level. This leads her to argue that there needs to be a better attempt made to fit the response to crisis to the level at which it is manifest. Having suggested that the central country in the monetary system (the U.S.) could either try to co-ordinate activities, or by its very dominance alleviate the crisis by putting its own house in order, she suggests the best (though least likely) solution would be some form of global central bank. This leads her to conclude by stressing the political issues at the centre of the international financial system and the need to included justice as well as order or security in the academic assessment of the crisis
 
-If you want to add special elemets like links or images you can use either markdown code:
+Keywords: Hegemony, Money and Finance
 
-[This is a link](http://www.google.ca)
-
-or HTML code
-
-<a href="http://www.google.ca">This is also a link</a> 
-
-Images can be done similarly using markdown:
-
-![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
-
-Or HTML code:
-
-<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
+[Text Access (External Link)](https://www.worldcat.org/title/1229549033)
