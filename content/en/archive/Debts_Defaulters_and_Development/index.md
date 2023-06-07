@@ -8,7 +8,7 @@ excerpt2: "Strange suggests that problems of national debt default have not been
 excerpt3: "Keywords: International Institutions, Money and Finance"
 
 date: 1967
-tags: ["International Institutions", "Money and Finance","1960's"]
+tags: ["International Institutions", "Money and Finance","1960's", "Susan Strange"]
 contributors: ["Susan Strange"]
 categories: ["Journal Article"]
 
