@@ -8,7 +8,7 @@ excerpt2: "Strange feels that the author overstates the political power and infl
 excerpt3: "Keywords: Corporations, Hegemony"
 
 date: 1972
-tags: ["Corporations", "Hegemony"]
+tags: ["Corporations", "Hegemony", "1970's", "Susan Strange"]
 contributors: ["Susan Strange"]
 categories: ["Journal Article"]
 
@@ -23,6 +23,6 @@ Strange, Susan. "Review of : R.J Barber The American Corporation: Its Power, Its
 
 Strange feels that the author overstates the political power and influence of multinational in themselves. She identifies a close connection between the US government and larger corporations. Interestingly this is a position that she gradually moves away from in subsequent work, identifying transnational firms as actors in their own right by 67), arguing for their major importance as actors in the international political economy.
 
-Keywords: Corporations, Hegemony, Transnational-Corporations
+Keywords: Corporations, Hegemony, Transnational Corporations
 
 [Text Access (External Link)](Link)
