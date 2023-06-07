@@ -19,7 +19,7 @@ pinned: false
 homepage: false
 ---
 
-This is the text that fills the static page for this object.  
+This is the text that fills the static page for this object okay.  
 
 You can put anything you want here in plaintext.
 
