@@ -1,16 +1,16 @@
 ---
 
-title: "Demo/Template object"
-description: "This is the text displayed by the search results"
-datetext: "2023"
-excerpt: "Citation data"
-excerpt2: "Abstract content"
-excerpt3: "Extra content like key terms"
+title: "International Shipping and the Developing Countries"
+description: "By Susan Strange and Richard Holland"
+datetext: "1976"
+excerpt: "World Development 4, no. 4 (1976): 241-251."
+excerpt2: "Focusing on the importance of sea transport for developing countries that need to gain access to other markets (both for imports and their own exports) Strange and Holland examine the political economy of liner conferences by which international shipping capacity is managed. This private management system does not serve the developing states well leading UNCTAD to press for fairer international rules of conduct for international shipping. On one side the authors suggest that developing countries, where possible may need to develop national carriers to allow them to influence the management of shipping as well offering an secure avenue for their own trade. However, the authors also stress that a political response to the problems is required from the developed states before the problem leads to major disruption in international trade. The authors conclude that a form of international shipping authority needs to be set up to replace the market driven liner conferences."
+excerpt3: "Keywords: Trade, International Institutions"
 
-date: 2023
-tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
-contributors: ["Daniel Brett"]
-categories: ["Source1", "Demo Paper"]
+date: 1976
+tags: ["International Institutions", "1970's", "Susan Strange"]
+contributors: ["Susan Strange", "Richard Holland"]
+categories: ["Journal Article"]
 
 draft: false
 weight: 50
@@ -19,22 +19,11 @@ pinned: false
 homepage: false
 ---
 
-This is the text that fills the static page for this object.  
+Strange, Susan. "International Shipping and the Developing Countries." World Development 4, no. 4 (1976): 241-251.
 
-You can put anything you want here in plaintext.
+Focusing on the importance of sea transport for developing countries that need to gain access to other markets (both for imports and their own exports) Strange and Holland examine the political economy of liner conferences by which international shipping capacity is managed. This private management system does not serve the developing states well leading UNCTAD to press for fairer international rules of conduct for international shipping. On one side the authors suggest that developing countries, where possible may need to develop national carriers to allow them to influence the management of shipping as well offering an secure avenue for their own trade. However, the authors also stress that a political response to the problems is required from the developed states before the problem leads to major disruption in international trade. The authors conclude that a form of international shipping authority needs to be set up to replace the market driven liner conferences.
 
-If you want to add special elemets like links or images you can use either markdown code:
+Keywords: Transportation, Trade, International Institutions, International Development
 
-[This is a link](http://www.google.ca)
+[Text Access (External Link)](https://doi.org/10.1016/0305-750X(76)90030-9)
 
-or HTML code
-
-<a href="http://www.google.ca">This is also a link</a> 
-
-Images can be done similarly using markdown:
-
-![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
-
-Or HTML code:
-
-<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
