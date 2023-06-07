@@ -8,7 +8,7 @@ excerpt2: "Strange’s second major attack on the discipline of international ec
 excerpt3: "Keyowrds: Politcal-Economy, Theory"
 
 date: 1972
-tags: ["Politcal-Economy", "Theory"]
+tags: ["Politcal-Economy", "Theory","1970's"]
 contributors: ["Susan Strange", "Editor: Roger Morgan"]
 categories: ["Book Chapter"]
 
