@@ -8,7 +8,7 @@ excerpt2: "Strange comments on the UN deliberations concerning the future of Pal
 excerpt3: "Keywords: Hegemony, United States"
 
 date: 1950
-tags: ["Hegemony", "United States", "1950's" "Susan Strange"]
+tags: ["Hegemony", "United States", "1950's", "Susan Strange"]
 contributors: ["Susan Strange"]
 categories: ["Journal Article"]
 
