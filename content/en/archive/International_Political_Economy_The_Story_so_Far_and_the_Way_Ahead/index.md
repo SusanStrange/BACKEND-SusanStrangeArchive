@@ -8,7 +8,7 @@ excerpt2: "After noting again the essential role of economic historians in the s
 excerpt3: "Political Economy; Theory"
 
 date: 1985
-tags: ["Political Economy", "Theory", "190's", "Susan Strange"]
+tags: ["Political Economy", "Theory", "1980's", "Susan Strange"]
 contributors: ["Susan Strange". "Editor: W.Ladd Hollist", Editor:F.Lamond Tullis"]
 categories: ["Book Chapter"]
 
