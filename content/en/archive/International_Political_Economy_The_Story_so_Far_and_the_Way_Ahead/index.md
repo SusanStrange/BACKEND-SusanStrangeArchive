@@ -1,16 +1,16 @@
 ---
 
-title: "Demo/Template object"
-description: "This is the text displayed by the search results"
-datetext: "2023"
-excerpt: "Citation data"
-excerpt2: "Abstract content"
-excerpt3: "Extra content like key terms"
+title: "International Political Economy: The Story so Far and the Way Ahead"
+description: "By Susan Strange"
+datetext: "1985"
+excerpt: "*In An International Political Economy (International Political Economy Yearbook No.1)*, edited by W. Ladd Hollist and F. LaMond Tullis, 13-25.Boulder:Westview Press, 1985."
+excerpt2: "After noting again the essential role of economic historians in the study and understanding of the international political economy, Strange builds on an appreciation of the value of development economists, a plea for the re-inclusion of values into the study of IPE. This in the main is because they are already tacitly included, but there is little engagement with the economist’s prioritising of efficiency or the International Relations scholar’s of peace. Part of the job of IPE must be to make clear what choices these priorities represent and to discuss alternatives and different value hierarchies."
+excerpt3: "Political Economy; Theory"
 
-date: 2023
-tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
-contributors: ["Daniel Brett"]
-categories: ["Source1", "Demo Paper"]
+date: 1985
+tags: ["Political Economy", "Theory", "190's", "Susan Strange"]
+contributors: ["Susan Strange". "Editor: W.Ladd Hollist", Editor:F.Lamond Tullis"]
+categories: ["Book Chapter"]
 
 draft: false
 weight: 50
@@ -19,22 +19,8 @@ pinned: false
 homepage: false
 ---
 
-This is the text that fills the static page for this object.  
-
-You can put anything you want here in plaintext.
-
-If you want to add special elemets like links or images you can use either markdown code:
-
-[This is a link](http://www.google.ca)
-
-or HTML code
-
-<a href="http://www.google.ca">This is also a link</a> 
-
-Images can be done similarly using markdown:
-
-![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
-
-Or HTML code:
-
-<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
+In *An International Political Economy (International Political Economy Yearbook No.1)*, edited by W. Ladd Hollist and F. LaMond Tullis, 13-25.Boulder:Westview Press, 1985.
+After noting again the essential role of economic historians in the study and understanding of the international political economy, Strange builds on an appreciation of the value of development economists, a plea for the re-inclusion of values into the study of IPE. This in the main is because they are already tacitly included, but there is little engagement with the economist’s prioritising of efficiency or the International Relations scholar’s of peace. Part of the job of IPE must be to make clear what choices these priorities represent and to discuss alternatives and different value hierarchies.
+Keywords: Politcal Economy;Theory
+Text access (external link)]
+(https://www.routledge.com/International-Political-Economy-Yearbook-Volume-1-An-International-Political/Hollist/p/book/9780367165239)
