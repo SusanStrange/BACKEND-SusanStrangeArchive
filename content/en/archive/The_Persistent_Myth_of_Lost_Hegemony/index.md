@@ -1,7 +1,7 @@
 ---
 
-title: "Demo/Template object"
-description: "This is the text displayed by the search results"
+title: "The Persistent Myth of Lost Hegemony"
+description: "By Susan Strange"
 datetext: "2023"
 excerpt: "Citation data"
 excerpt2: "Abstract content"
