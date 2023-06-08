@@ -10,7 +10,7 @@ excerpt3: "Political Economy; Theory"
 date: 1985
 tags: ["Political Economy", "Theory", "1980's", "Susan Strange"]
 contributors: ["Susan Strange". "Editor: W.Ladd Hollist", Editor:F.Lamond Tullis"]
-categories: ["Book Chapter"]
+categories: ["Book Chapter", Demo Paper"]
 
 draft: false
 weight: 50
