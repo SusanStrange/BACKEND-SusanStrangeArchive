@@ -2,8 +2,8 @@
 
 title: "The Persistent Myth of Lost Hegemony"
 description: "By Susan Strange"
-datetext: "2023"
-excerpt: "Citation data"
+datetext: "1987"
+excerpt: "In *The persistent myth of lost hegemony International Organization"
 excerpt2: "Abstract content"
 excerpt3: "Extra content like key terms"
 
