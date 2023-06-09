@@ -1,16 +1,16 @@
 ---
 
-title: "Demo/Template object"
-description: "This is the text displayed by the search results"
-datetext: "2023"
-excerpt: "Citation data"
-excerpt2: "Abstract content"
-excerpt3: "Extra content like key terms"
+title: "Cave! Hic Dragones: A Critique of Regime Analysis"
+description: "By Susan Strange"
+datetext: "1982"
+excerpt: "International Organisation 36 no. 2, (1982): 337-354."
+excerpt2: "Strange’s classic critique of regime theory, often used as a touchstone for those regime-theorists wanting to make the point they recognise that there have been criticisms of their approach. As such it has at least a totemic importance. Strange argues for five shortcoming of regime theory: that it is a passing fad, is imprecise, has a value bias, is too static and is too state-centred. As in ‘What is Economic Power, and Who has it?’ (1975) the underlying history of bargains, which condition regimes are emphasised as being crucial to any understanding of the IPE. The rather brief structural power analysis conflates what Strange would come to term primary and secondary structures."
+excerpt3: "Keywords: Foundational Work, Political Economy, Structural Power, Power, Theory"
 
-date: 2023
-tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
-contributors: ["Daniel Brett"]
-categories: ["Source1", "Demo Paper"]
+date: 1982
+tags: ["Foundational Work", "Political Economy", "Strcutural Power, "Power", "Theory", "1980's", "Susan Strange"]
+contributors: ["Susan Strange"]
+categories: ["Journal Article"]
 
 draft: false
 weight: 50
@@ -19,22 +19,10 @@ pinned: false
 homepage: false
 ---
 
-This is the text that fills the static page for this object.  
+Strange, Susan. "Cave! Hic Dragones: A Critique of Regime Analysis," International Organisation 36 no. 2, (1982): 337-354.
 
-You can put anything you want here in plaintext.
+Strange’s classic critique of regime theory, often used as a touchstone for those regime-theorists wanting to make the point they recognise that there have been criticisms of their approach. As such it has at least a totemic importance. Strange argues for five shortcoming of regime theory: that it is a passing fad, is imprecise, has a value bias, is too static and is too state-centred. As in ‘<b>What is Economic Power, and Who has it?</b>’ (1975) the underlying history of bargains, which condition regimes are emphasised as being crucial to any understanding of the IPE. The rather brief structural power analysis conflates what Strange would come to term primary and secondary structures.
 
-If you want to add special elemets like links or images you can use either markdown code:
+Keywords: Foundational Work, Political Economy, Structural Power, Power, Theory, Regime Theory
 
-[This is a link](http://www.google.ca)
-
-or HTML code
-
-<a href="http://www.google.ca">This is also a link</a> 
-
-Images can be done similarly using markdown:
-
-![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
-
-Or HTML code:
-
-<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
+[Text Access (External Link)](https://doi.org/10.1017/S0020818300019020)
