@@ -8,7 +8,7 @@ excerpt2: "This is a collection of 17 essays resulting from a conference held by
 excerpt3: "Keywords: Political Economy, Structural Power, Power, Theory"
 
 date: 1981
-tags: ["Poltical Economy", "Strcutural Power", "Power: "2020's", "Strange-Influenced Works"]
+tags: ["Poltical Economy", "Strcutural Power", "Power", "2020's", "Strange-Influenced Works"]
 contributors: ["Editor: Susan Strange", "Editor: Roger Tooze"]
 categories: ["Edited Volume"]
 
