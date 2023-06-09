@@ -24,5 +24,3 @@ Strange, Susan. "Arab Oil and International Finance." The Ditchley Journal, 1974
 Essentially a conference report, Strange discusses the meeting held at Ditchley in December 1973 to discuss the financial prospects and problems for industry and government in the world economy, and the inescapable problem of the oil crisis. Discussing the various aspects of monetary order, from balance of payments problems and trade barriers, to financial flows, she argues that at this point too little work had been done to understand the effects and causes of shifts in monetary flows. In a repeated theme of much of Strange’s work on finance she argues strongly for a move away from an exclusively economic/financial analysis of the problem, and a (re)introduction of political analysis. Again Strange, although less explicitly than elsewhere, argues for a ‘new’ International Political Economy
 
 Keywords: Hegemony, International Institutions, Money and Finance, Structural Power, Power
-
-[Text Access (External Link)](Link)
