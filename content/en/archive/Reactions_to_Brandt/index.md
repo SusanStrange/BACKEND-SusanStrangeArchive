@@ -1,16 +1,16 @@
 ---
 
-title: "Demo/Template object"
-description: "This is the text displayed by the search results"
-datetext: "2023"
-excerpt: "Citation data"
-excerpt2: "Abstract content"
-excerpt3: "Extra content like key terms"
+title: "Reactions to Brandt. Popular Acclaim and Academic Attack"
+description: "By Susan Strange"
+datetext: "1981"
+excerpt: "International Studies Quarterly 25, no. 2 (1981): 328-342."
+excerpt2: "Strange’s ‘review of the reviews’ draws two distinctions between reactions to the Brandt Report - American and European, popular and academic. Her discussion briefly outlines the ‘global Keynsianism’ aspects of the report before noting the criticisms that were levelled at it. After noting that in the academy many of the analyses of the problems and ‘pie in the sky’ solutions were nothing new, her final lament is that the report continues to accept the curative value of research and knowledge, set aside from the political process. She concludes by arguing that the report cannot be safely dispensed with as whatever its faults and shortcomings it identifies major problems that will continue to beset the global system without some sort of political determination to address the problem of mal-distribution of welfare. The recognition of the importance of global political processes continues to be a central theme in her work."
+excerpt3: "Keywords: Politcal Economy, Theory"
 
-date: 2023
-tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
-contributors: ["Daniel Brett"]
-categories: ["Source1", "Demo Paper"]
+date: 1981
+tags: ["Poltical Economy", "Theory", "1980's", "Susan Strange"]
+contributors: ["Susan Strange"]
+categories: ["Journal Article"]
 
 draft: false
 weight: 50
@@ -19,22 +19,10 @@ pinned: false
 homepage: false
 ---
 
-This is the text that fills the static page for this object.  
+Strange, Susan. "Reactions to Brandt. Popular Acclaim and Academic Attack," International Studies Quarterly 25, no. 2 (1981): 328-342.
 
-You can put anything you want here in plaintext.
+Strange’s ‘review of the reviews’ draws two distinctions between reactions to the Brandt Report - American and European, popular and academic. Her discussion briefly outlines the ‘global Keynsianism’ aspects of the report before noting the criticisms that were levelled at it. After noting that in the academy many of the analyses of the problems and ‘pie in the sky’ solutions were nothing new, her final lament is that the report continues to accept the curative value of research and knowledge, set aside from the political process. She concludes by arguing that the report cannot be safely dispensed with as whatever its faults and shortcomings it identifies major problems that will continue to beset the global system without some sort of political determination to address the problem of mal-distribution of welfare. The recognition of the importance of global political processes continues to be a central theme in her work.
 
-If you want to add special elemets like links or images you can use either markdown code:
+Keywords: Politcal Economy, Theory, International Economics
 
-[This is a link](http://www.google.ca)
-
-or HTML code
-
-<a href="http://www.google.ca">This is also a link</a> 
-
-Images can be done similarly using markdown:
-
-![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
-
-Or HTML code:
-
-<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
+[Text Access (External Link)](https://doi.org/10.2307/2600360)
