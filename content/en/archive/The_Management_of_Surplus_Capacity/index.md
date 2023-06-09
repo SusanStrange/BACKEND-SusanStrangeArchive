@@ -23,6 +23,6 @@ Strange, Susan. "The Management of Surplus Productive Capacity," In <i>Economic 
 
 This chapter is a lightly edited version of '<b>The Management of Surplus Capacity: Or how does theory stand up to protectionism 1970s style?' (1979)</b>.
 
-Keywords: Production, Structural Power, Power, Theory, Trade, Regime Theory
+Keywords: Production, Structural Power, Power, Theory, Trade
 
 [Text Access (External Link)](https://openlibrary.org/books/OL4413078M/Economic_issues_of_the_eighties)
