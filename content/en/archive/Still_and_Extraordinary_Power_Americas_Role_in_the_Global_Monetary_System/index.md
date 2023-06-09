@@ -1,16 +1,16 @@
 ---
 
-title: "Demo/Template object"
-description: "This is the text displayed by the search results"
-datetext: "2023"
-excerpt: "Citation data"
-excerpt2: "Abstract content"
-excerpt3: "Extra content like key terms"
+title: "Still and Extraordinary Power: America's Role in the Global Monetary System (Paper 3) (with discussants section)"
+description: "By Susan Strange"
+datetext: "1982"
+excerpt: "In The Political Economy of Interdependence and Domestic Monetary Relations, edited by Raymond E. Lomra and Willard E. Witte, 73-93. Ames: Iowa State University Press, 1982."
+excerpt2: "A paper delivered to a conference on international monetary relations. As well as considering power in the financial markets, Strange also makes a provisional (in light of her later work) analysis of structural power in the international political economy more generally. This analysis therefore widens out from an initial discussion of power in a specific sector (here the financial system) to examine the power of the U.S. more generally. While this includes elements of the later four dimensions - the idea of the authority/market balance and the security structure - her arguments here are not fully developed, as is evident from the rather heated discussion between her and the discussants (Robert Z. Alibar and Robert Solomon) that is reproduced following the main paper. A central part of the dispute is her refusal to separate out politics and economics, and define power in a narrow way, leading to veiled accusations of a lack of rigour, a not unfamiliar criticism."
+excerpt3: "Keywords: Authority, Hegemony, Structural Power, Power, Markets, Money and Finance"
 
-date: 2023
-tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
-contributors: ["Daniel Brett"]
-categories: ["Source1", "Demo Paper"]
+date: 1982
+tags: ["Authority", "Hegemony", "Structural Power", "Power", "Money and Finance", "1980's", "Susan Strange"]
+contributors: ["Susan Strange", "Editor: Raymond E. Lorma", "Editor: Willard E. Witte"]
+categories: ["Book Chapter"]
 
 draft: false
 weight: 50
@@ -19,22 +19,8 @@ pinned: false
 homepage: false
 ---
 
-This is the text that fills the static page for this object.  
+Strange, Susan. "Still and Extraordinary Power: America's Role in the Global Monetary System (Paper 3) (with discussants section)," <i>In The Political Economy of Interdependence and Domestic Monetary Relations</i>, edited by Raymond E. Lomra and Willard E. Witte, 73-93. Ames: Iowa State University Press, 1982.
 
-You can put anything you want here in plaintext.
+excerpt2: "A paper delivered to a conference on international monetary relations. As well as considering power in the financial markets, Strange also makes a provisional (in light of her later work) analysis of structural power in the international political economy more generally. This analysis therefore widens out from an initial discussion of power in a specific sector (here the financial system) to examine the power of the U.S. more generally. While this includes elements of the later four dimensions - the idea of the authority/market balance and the security structure - her arguments here are not fully developed, as is evident from the rather heated discussion between her and the discussants (Robert Z. Alibar and Robert Solomon) that is reproduced following the main paper. A central part of the dispute is her refusal to separate out politics and economics, and define power in a narrow way, leading to veiled accusations of a lack of rigour, a not unfamiliar criticism.
 
-If you want to add special elemets like links or images you can use either markdown code:
-
-[This is a link](http://www.google.ca)
-
-or HTML code
-
-<a href="http://www.google.ca">This is also a link</a> 
-
-Images can be done similarly using markdown:
-
-![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
-
-Or HTML code:
-
-<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
+Keywords: Authority, Hegemony, Structural Power, Power, Markets, Money and Finance, Political Economy
