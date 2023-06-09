@@ -24,5 +24,3 @@ Stange, Susan. "International Business and the EEC." In <i>The Eruopean Economic
 Strange discusses the relationship between international business and the EEC by briefly examining three partly overlapping assertions: that the main achievements of the EEC have resulted not from the community’s own work but from the impact of international business; that international business is a ‘Trojan horse’ for American influence and interest in Europe; and that the EEC is a necessary response to the problems brought by international business. She then concludes it is impossible to separate politics and economics, and that the indicators used to measure the level of European integration are unable to capture what is actually happening. Furthermore, the impact of international business is becoming a transnational process across states rather than an international process between them. Thus she advocates further moves to political unity in Europe to counter-balance the power of international business.
 
 Keywords: Corporations, Europe, TRansnational Corporations, European Integration
-
-[Text Access (External Link)](Link)
