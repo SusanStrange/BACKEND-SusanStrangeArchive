@@ -9,7 +9,7 @@ excerpt3: "Keywords: Money and Finance"
 
 date: 1979
 tags: ["Money and Finance", "1970's", "Susan Strange"]
-contributors: ["Susan Strange"]
+contributors: ["Susan Strange", "Editor: Johnathan David"]
 categories: ["Book Chapter"]
 
 draft: false
