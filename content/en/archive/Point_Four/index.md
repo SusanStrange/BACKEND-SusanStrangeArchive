@@ -25,4 +25,3 @@ Strange comments on the UN deliberations concerning the future of Palestine and 
 
 Keywords: Hegemony, United States, Economic Development, US Foreign Policy
 
-[Text Access (external link)](link)
