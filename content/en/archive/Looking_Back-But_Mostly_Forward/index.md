@@ -1,16 +1,16 @@
 ---
 
-title: "Demo/Template object"
-description: "This is the text displayed by the search results"
-datetext: "2023"
-excerpt: "Citation data"
-excerpt2: "Abstract content"
-excerpt3: "Extra content like key terms"
+title: "Looking Back - But Mostly Forward"
+description: "By Susan Strange"
+datetext: "1982"
+excerpt: "Millennium Journal of International Relations 11, no. 1 (1982):38-49."
+excerpt2: "In this survey article, Strange looks back across the first ten years of Millennium to examine the development of International Relations, although as she makes plain she prefers the term International Studies. Having seen the field expand from a focus on the foreign polices of various states, she maps the increasing interest in the international system itself. However, she then argues that what is now needed is a further development of research into the structures of this system. This acts as a useful complement to the final section of ‘Cave! Hic Dragones: A Critique of Regime Analysis' (1982) giving a discipline based context for her arguments regarding the development of her research programme for International Political Economy."
+excerpt3: "Keywords: Political Economy, Theory "
 
-date: 2023
-tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
-contributors: ["Daniel Brett"]
-categories: ["Source1", "Demo Paper"]
+date: 1982
+tags: ["Political Economy", "Theory", "1980's", "Susan Strange"]
+contributors: ["Susan Strange"]
+categories: ["Journal Article"]
 
 draft: false
 weight: 50
@@ -19,22 +19,10 @@ pinned: false
 homepage: false
 ---
 
-This is the text that fills the static page for this object.  
+Strange, Susan. "Looking Back - But Mostly Forward," Millennium Journal of International Relations 11, no. 1 (1982):38-49.
 
-You can put anything you want here in plaintext.
+In this survey article, Strange looks back across the first ten years of Millennium to examine the development of International Relations, although as she makes plain she prefers the term International Studies. Having seen the field expand from a focus on the foreign polices of various states, she maps the increasing interest in the international system itself. However, she then argues that what is now needed is a further development of research into the structures of this system. This acts as a useful complement to the final section of ‘<b>Cave! Hic Dragones: A Critique of Regime Analysis</b>' (1982) giving a discipline based context for her arguments regarding the development of her research programme for International Political Economy.
 
-If you want to add special elemets like links or images you can use either markdown code:
+Keywords: Political Economy, Theory
 
-[This is a link](http://www.google.ca)
-
-or HTML code
-
-<a href="http://www.google.ca">This is also a link</a> 
-
-Images can be done similarly using markdown:
-
-![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
-
-Or HTML code:
-
-<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
+[Text Access (External Link)](https://doi.org/10.1177/03058298820110010501)
