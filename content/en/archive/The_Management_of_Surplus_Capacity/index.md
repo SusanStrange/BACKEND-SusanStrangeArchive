@@ -9,7 +9,7 @@ excerpt3: "Keywords: Production, Structural Power, Power, Theory, Trade"
 
 date: 1979
 tags: ["Production", "Structural Power", "Power", "Theory", "Trade", "1970's", "Susan Strange"]
-contributors: ["Susan Strange"]
+contributors: ["Susan Strange", "Editor: Nake M. Karamy", "Editor: Richard H. Day"]
 categories: ["Book Chapter"]
 
 draft: false
