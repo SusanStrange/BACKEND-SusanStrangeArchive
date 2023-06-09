@@ -1,16 +1,16 @@
 ---
 
-title: "Demo/Template object"
-description: "This is the text displayed by the search results"
-datetext: "2023"
-excerpt: "Citation data"
-excerpt2: "Abstract content"
-excerpt3: "Extra content like key terms"
+title: "Europe and the United States: The Transatlantic Aspects of Inflation"
+description: "By Susan Strange"
+datetext: "1982"
+excerpt: "In The Politics of Inflation: Acomparative Analysis, edited by Richard Medley, 65-76. New York: Pergamon Press, 1982."
+excerpt2: "This short article discusses the international financial sector and the interaction between American monetary policy and European exchange rates, monetary policy and the then new European Monetary System. While containing little explication of structural power, being more of an historical overview, the article is of interest for Strange’s concluding discussion of the reasons for American domination of the international financial structure. From these empirical reasons, there is a hint of the structural analysis that was implicitly being developed, not least of all because much of the evidence she cites re-emerges in later works regarding American economic hegemony."
+excerpt3: "Keywords: Hegemony, Money and Finance, Structural Power, Power"
 
-date: 2023
-tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
-contributors: ["Daniel Brett"]
-categories: ["Source1", "Demo Paper"]
+date: 1982
+tags: ["Hegemony", "Money and Finance", "Structural Power", "Power", "1980's", "Susan Strange"]
+contributors: ["Susan Strange", "Editor: Richard Medley]
+categories: ["Book Chapter"]
 
 draft: false
 weight: 50
@@ -19,22 +19,10 @@ pinned: false
 homepage: false
 ---
 
-This is the text that fills the static page for this object.  
+Strange, Susan. "Europe and the United States: The Transatlantic Aspects of Inflation," In <i>The Politics of Inflation: Acomparative Analysis</i>, edited by Richard Medley, 65-76. New York: Pergamon Press, 1982.
 
-You can put anything you want here in plaintext.
+This short article discusses the international financial sector and the interaction between American monetary policy and European exchange rates, monetary policy and the then new European Monetary System. While containing little explication of structural power, being more of an historical overview, the article is of interest for Strange’s concluding discussion of the reasons for American domination of the international financial structure. From these empirical reasons, there is a hint of the structural analysis that was implicitly being developed, not least of all because much of the evidence she cites re-emerges in later works regarding American economic hegemony.
 
-If you want to add special elemets like links or images you can use either markdown code:
+Keywords: Hegemony, Money and Finance, Structural Power, Power
 
-[This is a link](http://www.google.ca)
-
-or HTML code
-
-<a href="http://www.google.ca">This is also a link</a> 
-
-Images can be done similarly using markdown:
-
-![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
-
-Or HTML code:
-
-<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
+[Text Access (External Link)](https://shop.elsevier.com/books/the-politics-of-inflation/medley/978-0-08-024625-3)
