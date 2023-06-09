@@ -22,6 +22,7 @@ In *An International Political Economy (International Political Economy Yearbook
 After noting again the essential role of economic historians in the study and understanding of the international political economy, Strange builds on an appreciation of the value of development economists, a plea for the re-inclusion of values into the study of IPE. This in the main is because they are already tacitly included, but there is little engagement with the economist’s prioritising of efficiency or the International Relations scholar’s of peace. Part of the job of IPE must be to make clear what choices these priorities represent and to discuss alternatives and different value hierarchies.
 
 Keywords: Politcal Economy;Theory
+
 Text access (external link)]
 https://www.routledge.com/International-Political-Economy-Yearbook-Volume-1-An-International-Political/Hollist/p/book/9780367165239	
 
