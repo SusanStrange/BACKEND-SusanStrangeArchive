@@ -1,16 +1,16 @@
 ---
 
-title: "Demo/Template object"
-description: "This is the text displayed by the search results"
-datetext: "2023"
-excerpt: "Citation data"
-excerpt2: "Abstract content"
-excerpt3: "Extra content like key terms"
+title: "The World's Money: Expanding the Agenda for Research"
+description: "By Susan Strange"
+datetext: "1981"
+excerpt: "International Journal 36, no. 4 (1981): 691-712."
+excerpt2: "After a survey of current modes of thought, both academic and practitioner, Strange concludes that while much analysis can usefully illuminate the mechanisms of the global monetary system, there is little attempt ally this to a consideration how the system links up with and effects the values of and outcomes in a globalised society. She wants work on the international monetary system to go beyond a mere mechanical explanation and to move towards a more political analysis (which would also include an assessment of the impact of technology on global finance). In this she compares the study of the financial system unfavourably with the increasing sophisticated account of the global ecological system. Strange also briefly touches on the creation of credit and the transfer of risk which would be taken up subsequently in ‘The Credit Crisis: A European View’ (1983) and ‘Structures, Values and Risk in the Study of the International Political Economy’ (1983)."
+excerpt3: "Keywords: Money and Finance, Theory"
 
-date: 2023
-tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
-contributors: ["Daniel Brett"]
-categories: ["Source1", "Demo Paper"]
+date: 1981
+tags: ["Money and Finance", "Thoery", "1980's", "Susan Strange"]
+contributors: ["Susan Strange"]
+categories: ["Journal Article"]
 
 draft: false
 weight: 50
@@ -19,23 +19,10 @@ pinned: false
 homepage: false
 ---
 
-This is the text that fills the static page for this object.  
+Strnage, Susan. "The World's Money: Expanding the Agenda for Research," International Journal 36, no. 4 (1981): 691-712.
 
-You can put anything you want here in plaintext.
+After a survey of current modes of thought, both academic and practitioner, Strange concludes that while much analysis can usefully illuminate the mechanisms of the global monetary system, there is little attempt ally this to a consideration how the system links up with and effects the values of and outcomes in a globalised society. She wants work on the international monetary system to go beyond a mere mechanical explanation and to move towards a more political analysis (which would also include an assessment of the impact of technology on global finance). In this she compares the study of the financial system unfavourably with the increasing sophisticated account of the global ecological system. Strange also briefly touches on the creation of credit and the transfer of risk which would be taken up subsequently in ‘<b>The Credit Crisis: A European View</b>’ (1983) and ‘<b>Structures, Values and Risk in the Study of the International Political Economy’ (1983)</b>.
 
-If you want to add special elemets like links or images you can use either markdown code:
+Keywords: Money and Finance, Theory
 
-[This is a link](http://www.google.ca)
-
-or HTML code
-
-<a href="http://www.google.ca">This is also a link</a> 
-
-Images can be done similarly using markdown:
-
-![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
-
-Or HTML code:
-
-<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
-
+[Text Access (External Link)](https://doi.org/10.1177/002070208103600401)
