@@ -25,4 +25,3 @@ Strange challenges the implicit assertion by the author that the interpretation 
 
 Keywords: Security, International-Relations
 
-[Text Access (External Link)](link)
