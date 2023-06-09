@@ -1,16 +1,16 @@
 ---
 
-title: "Demo/Template object"
-description: "This is the text displayed by the search results"
-datetext: "2023"
-excerpt: "Citation data"
-excerpt2: "Abstract content"
-excerpt3: "Extra content like key terms"
+title: "Debt and Default in the International Political Economy"
+description: "By Susan Strange"
+datetext: "1979"
+excerpt: "In Debt and the Less Developed Countries, edited by Johnathan David, 7-26. Boulder, Westview Press, 1979."
+excerpt2: "Explicitly linking back to 'Debts, Defaulters and Development' (1967) Strange examines the contemporary political economy of international debt, but also seeks to put this situation into a longer historical context than merely the previous ten years. Suggesting that states can choose to grow by direction (the socialist route) or via debt, she argues that recently the combination of the welfare state and more complex credit system has allowed many states to reduce the debt risk they explicitly face and therefore expand through the extensive use of credit. In the second part of the chapter she places the recent debt crises into the context of international credit since the mid-nineteenth century, and concludes that despite the supposed risks of default, historically the best growth rates have been in those countries extended the greatest credit (in Latin America). Furthermore, provided it is well managed there is nothing to indicate that a larger pool of credit (and therefore indebtedness) is any more problematic than a smaller pool, explicitly modifying her conclusion regarding the links between risky loans and political conflict in 'Debts, Defaulters and Development'."
+excerpt3: "Keywords: Money and Finance"
 
-date: 2023
-tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
-contributors: ["Daniel Brett"]
-categories: ["Source1", "Demo Paper"]
+date: 1979
+tags: ["Money and Finance", "1970's", "Susan Strange"]
+contributors: ["Susan Strange"]
+categories: ["Book Chapter"]
 
 draft: false
 weight: 50
@@ -19,22 +19,10 @@ pinned: false
 homepage: false
 ---
 
-This is the text that fills the static page for this object.  
+Strange, Susan. "Debt and Default in the International Political Economy," In <i>Debt and the Less Developed Countries</i>, edited by Johnathan David, 7-26. Boulder, Westview Press, 1979.
 
-You can put anything you want here in plaintext.
+Explicitly linking back to '<b>Debts, Defaulters and Development</b>' (1967) Strange examines the contemporary political economy of international debt, but also seeks to put this situation into a longer historical context than merely the previous ten years. Suggesting that states can choose to grow by direction (the socialist route) or via debt, she argues that recently the combination of the welfare state and more complex credit system has allowed many states to reduce the debt risk they explicitly face and therefore expand through the extensive use of credit. In the second part of the chapter she places the recent debt crises into the context of international credit since the mid-nineteenth century, and concludes that despite the supposed risks of default, historically the best growth rates have been in those countries extended the greatest credit (in Latin America). Furthermore, provided it is well managed there is nothing to indicate that a larger pool of credit (and therefore indebtedness) is any more problematic than a smaller pool, explicitly modifying her conclusion regarding the links between risky loans and political conflict in '<b>Debts, Defaulters and Development</b>'
 
-If you want to add special elemets like links or images you can use either markdown code:
+Keywords: Money and Finance
 
-[This is a link](http://www.google.ca)
-
-or HTML code
-
-<a href="http://www.google.ca">This is also a link</a> 
-
-Images can be done similarly using markdown:
-
-![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
-
-Or HTML code:
-
-<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
+[Text Access (External Link)](https://www.routledge.com/Debt-And-The-Less-Developed-Countries/Aronson/p/book/9780367164904)
