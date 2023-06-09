@@ -9,7 +9,7 @@ excerpt3: "Keywords: Hegemony, Money and Finance, Structural Power, Power"
 
 date: 1982
 tags: ["Hegemony", "Money and Finance", "Structural Power", "Power", "1980's", "Susan Strange"]
-contributors: ["Susan Strange", "Editor: Richard Medley]
+contributors: ["Susan Strange", "Editor: Richard Medley"]
 categories: ["Book Chapter"]
 
 draft: false
