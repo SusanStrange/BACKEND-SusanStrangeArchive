@@ -1,16 +1,16 @@
 ---
 
-title: "Demo/Template object"
-description: "This is the text displayed by the search results"
-datetext: "2023"
-excerpt: "Citation data"
-excerpt2: "Abstract content"
-excerpt3: "Extra content like key terms"
+title: "Germany and the World Monetary System"
+description: "By Susan Strange"
+datetext: "1980"
+excerpt: "In West Germany: A European and Global Power, edited by Wilfrid L. Kohl and Georgio Basevi, 45-62. Lexington: Lexington Books, 1980."
+excerpt2: "Strange suggests that for any major state in the global system, such as Germany there are five roles that could be adopted by its government: ‘leader of the system’, ‘obedient ally’, ‘bigemonist partner’, ‘lone ranger’ or ‘leader of the opposition’. After discussing recent developments in the political economy of German and Europe, Strange suggests that it is time for Germany to consider a role more like that adopted briefly by De Gaulle’s France in the early 1960s, that of ‘leader of the opposition’. Essentially, Strange suggests that increasingly Germany must find the political will to match its growing economic importance in the global system."
+excerpt3: "Keywords: Money and Finance"
 
-date: 2023
-tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
-contributors: ["Daniel Brett"]
-categories: ["Source1", "Demo Paper"]
+date: 1980
+tags: ["Money and Finance", "1980's", "Susan Strange"]
+contributors: ["Susan Strange", "Editor: Wilfrid L Kohl", "Ediotor: Georgio Basevi"]
+categories: ["Book Chapter"]
 
 draft: false
 weight: 50
@@ -19,22 +19,10 @@ pinned: false
 homepage: false
 ---
 
-This is the text that fills the static page for this object.  
+Strange, Susan. "Germany and the World Monetary System," In West Germany: A European and Global Power, edited by Wilfrid L. Kohl and Georgio Basevi, 45-62. Lexington: Lexington Books, 1980.
 
-You can put anything you want here in plaintext.
+Strange suggests that for any major state in the global system, such as Germany there are five roles that could be adopted by its government: ‘leader of the system’, ‘obedient ally’, ‘bigemonist partner’, ‘lone ranger’ or ‘leader of the opposition’. After discussing recent developments in the political economy of German and Europe, Strange suggests that it is time for Germany to consider a role more like that adopted briefly by De Gaulle’s France in the early 1960s, that of ‘leader of the opposition’. Essentially, Strange suggests that increasingly Germany must find the political will to match its growing economic importance in the global system.
 
-If you want to add special elemets like links or images you can use either markdown code:
+Keywords: Money and Finance
 
-[This is a link](http://www.google.ca)
-
-or HTML code
-
-<a href="http://www.google.ca">This is also a link</a> 
-
-Images can be done similarly using markdown:
-
-![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
-
-Or HTML code:
-
-<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
+[Text ACcecss (External Link)](https://worldcat.org/title/6014891)
