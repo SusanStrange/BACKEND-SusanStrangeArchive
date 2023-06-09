@@ -25,4 +25,4 @@ Strange here uses the term crisis, but notes that the implication that some sort
 
 Keywords: Europe, Hegemony, Money and Finance, United States
 
-[Text Access (External Link)](
+[Text Access (External Link)](https://doi.org/10.1353/sais.1983.0004)
