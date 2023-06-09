@@ -10,7 +10,7 @@ excerpt3: "Foundational Work;Hegemony;Structural Power, Power;Theory"
 date: 1987
 tags: ["Foundational Work", "Hegemony", "1980's", "Susan Strange"]
 contributors: ["Susan Strange"]
-categories: ["Journal Article", "Demo Paper"]
+categories: ["Journal Article", ""]
 
 draft: false
 weight: 50
