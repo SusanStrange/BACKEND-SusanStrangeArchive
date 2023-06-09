@@ -8,7 +8,7 @@ excerpt2: "Strange’s classic critique of regime theory, often used as a touchs
 excerpt3: "Keywords: Foundational Work, Political Economy, Structural Power, Power, Theory"
 
 date: 1982
-tags: ["Foundational Work", "Political Economy", "Strcutural Power, "Power", "Theory", "1980's", "Susan Strange"]
+tags: ["Foundational Work", "Political Economy", "Strcutural Power", "Power", "Theory", "1980's", "Susan Strange"]
 contributors: ["Susan Strange"]
 categories: ["Journal Article"]
 
