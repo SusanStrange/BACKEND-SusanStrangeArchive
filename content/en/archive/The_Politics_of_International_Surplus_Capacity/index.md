@@ -1,16 +1,16 @@
 ---
 
-title: "Demo/Template object"
-description: "This is the text displayed by the search results"
-datetext: "2023"
-excerpt: "Citation data"
-excerpt2: "Abstract content"
-excerpt3: "Extra content like key terms"
+title: "The Politics of International Surplus Capacity"
+description: "Edited By Susan Strange and Roger Tooze"
+datetext: "1981"
+excerpt: "London: Allen and Unwin, 1981."
+excerpt2: "This is a collection of 17 essays resulting from a conference held by the International Political Economy Group of the BISA, together with an editorial overview of theoretical approaches to IPE and a conclusion concerning the agreements and differences among the contributors. Writing with Tooze, Strange notes that it is not intended to dispense with the ‘insights’ of the realists, but it is necessary to widen their approach considerably. Any analysis should start by recognising the key historical bargains that were made within the economic structure. But the editors are not sure of the present possibility of an all embracing theory of international political economy. They conclude: there is a lessening possibility of dividing off the national from the international; any study of international relations (political or economic) must take account of values to avoid sterility in the analysis of outcomes; a structural analysis is not necessarily incompatible with realism; and IPE can only be meaningful where it builds on international economic history. Strange here identifies the following structures in international society: security, finance, distribution of knowledge, provision of welfare, transport services and communications; exchange and employment structures, without extensive analysis."
+excerpt3: "Keywords: Political Economy, Structural Power, Power, Theory"
 
-date: 2023
-tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
-contributors: ["Daniel Brett"]
-categories: ["Source1", "Demo Paper"]
+date: 1981
+tags: ["Poltical Economy", "Strcutural Power", "Power: "2020's", "Strange-Influenced Works"]
+contributors: ["Editor: Susan Strange", "Editor: Roger Tooze"]
+categories: ["Edited Volume"]
 
 draft: false
 weight: 50
@@ -19,22 +19,10 @@ pinned: false
 homepage: false
 ---
 
-This is the text that fills the static page for this object.  
+Strange, Susan, and Roger Tooze, eds., <i>The Politics of International Surplus Capacity</i>. London: Allen and Unwin, 1981.
 
-You can put anything you want here in plaintext.
+This is a collection of 17 essays resulting from a conference held by the International Political Economy Group of the BISA, together with an editorial overview of theoretical approaches to IPE and a conclusion concerning the agreements and differences among the contributors. Writing with Tooze, Strange notes that it is not intended to dispense with the ‘insights’ of the realists, but it is necessary to widen their approach considerably. Any analysis should start by recognising the key historical bargains that were made within the economic structure. But the editors are not sure of the present possibility of an all embracing theory of international political economy. They conclude: there is a lessening possibility of dividing off the national from the international; any study of international relations (political or economic) must take account of values to avoid sterility in the analysis of outcomes; a structural analysis is not necessarily incompatible with realism; and IPE can only be meaningful where it builds on international economic history. Strange here identifies the following structures in international society: security, finance, distribution of knowledge, provision of welfare, transport services and communications; exchange and employment structures, without extensive analysis.
 
-If you want to add special elemets like links or images you can use either markdown code:
+Keywords: Political Economy, Structural Power, Power, Theory, Realism
 
-[This is a link](http://www.google.ca)
-
-or HTML code
-
-<a href="http://www.google.ca">This is also a link</a> 
-
-Images can be done similarly using markdown:
-
-![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
-
-Or HTML code:
-
-<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
+[Text Acccess (External Link)](https://worldcat.org/title/7576510)
