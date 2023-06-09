@@ -1,16 +1,16 @@
 ---
 
-title: "Demo/Template object"
-description: "This is the text displayed by the search results"
-datetext: "2023"
-excerpt: "Citation data"
-excerpt2: "Abstract content"
-excerpt3: "Extra content like key terms"
+title: "The Management of Surplus Productive Capacity"
+description: "By Susan Strange"
+datetext: "1979"
+excerpt: "In Economic Issues of the Eighties edited by Nake M. Kamrany and Richard H. Day, 226-246. Baltimore, Johns Hopkins University Press, 1979."
+excerpt2: "This chapter is a lightly edited version of 'The Management of Surplus Capacity: Or how does theory stand up to protectionism 1970s style?' (1979)."
+excerpt3: "Keywords: Production, Structural Power, Power, Theory, Trade"
 
-date: 2023
-tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
-contributors: ["Daniel Brett"]
-categories: ["Source1", "Demo Paper"]
+date: 1979
+tags: ["Production", "Structural Power", "Power", "Theory", "Trade", "1970's", "Susan Strange"]
+contributors: ["Susan Strange"]
+categories: ["Book Chapter"]
 
 draft: false
 weight: 50
@@ -19,22 +19,10 @@ pinned: false
 homepage: false
 ---
 
-This is the text that fills the static page for this object.  
+Strange, Susan. "The Management of Surplus Productive Capacity," In <i>Economic Issues of the Eighties</i> edited by Nake M. Kamrany and Richard H. Day, 226-246. Baltimore, Johns Hopkins University Press, 1979.
 
-You can put anything you want here in plaintext.
+This chapter is a lightly edited version of '<b>The Management of Surplus Capacity: Or how does theory stand up to protectionism 1970s style?' (1979)</b>.
 
-If you want to add special elemets like links or images you can use either markdown code:
+Keywords: Production, Structural Power, Power, Theory, Trade
 
-[This is a link](http://www.google.ca)
-
-or HTML code
-
-<a href="http://www.google.ca">This is also a link</a> 
-
-Images can be done similarly using markdown:
-
-![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
-
-Or HTML code:
-
-<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
+[Text Access (External Link)](https://openlibrary.org/books/OL4413078M/Economic_issues_of_the_eighties)
