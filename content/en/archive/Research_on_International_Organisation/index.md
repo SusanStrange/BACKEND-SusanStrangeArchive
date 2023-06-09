@@ -25,4 +25,3 @@ Acting as a rapporteur for the SSRC Advisory Group on International Organisation
 
 Keywords: Knowledge, Political Economy, Theory, International Economics
 
-[Text Access (external Link)](link)
