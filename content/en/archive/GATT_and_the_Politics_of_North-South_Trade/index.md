@@ -1,16 +1,16 @@
 ---
 
-title: "Demo/Template object"
-description: "This is the text displayed by the search results"
-datetext: "2023"
-excerpt: "Citation data"
-excerpt2: "Abstract content"
-excerpt3: "Extra content like key terms"
+title: "GATT and the Politics of North-South Trade"
+description: "By Susan Strange"
+datetext: "1984"
+excerpt: "Austrailian Outlook 38, no. 2 (1984): 106-110."
+excerpt2: "Strange identifies three ‘shaky assumptions’ underlying the call to revive the GATT negotiations, that protectionism was the main cause of the 1930s depression, that the GATT was a necessary condition of post-war recovery, and free trade was ever a widely followed ‘norm’. However, though the alternatives are presented as a hegemonic system run by the US or a multilateral system managed through the GATT, Strange argues that the reality is a cob-web of bi-lateral agreements which accords with many people’s desire to have their own state manage their affairs."
+excerpt3: "Keywords: International Institutions, Trade"
 
-date: 2023
-tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
-contributors: ["Daniel Brett"]
-categories: ["Source1", "Demo Paper"]
+date: 1984
+tags: ["International Institutions", "Trade", "1980's", "Susan Strange"]
+contributors: ["Susan Strange"]
+categories: ["Journal Article"]
 
 draft: false
 weight: 50
@@ -18,23 +18,10 @@ images: []
 pinned: false
 homepage: false
 ---
+Strange, Susan. "GATT and the Politics of North-South Trade," Austrailian Outlook 38, no. 2 (1984): 106-110.
 
-This is the text that fills the static page for this object.  
+Strange identifies three ‘shaky assumptions’ underlying the call to revive the GATT negotiations, that protectionism was the main cause of the 1930s depression, that the GATT was a necessary condition of post-war recovery, and free trade was ever a widely followed ‘norm’. However, though the alternatives are presented as a hegemonic system run by the US or a multilateral system managed through the GATT, Strange argues that the reality is a cob-web of bi-lateral agreements which accords with many people’s desire to have their own state manage their affairs.
 
-You can put anything you want here in plaintext.
+Keywords: International Institutions, Trade
 
-If you want to add special elemets like links or images you can use either markdown code:
-
-[This is a link](http://www.google.ca)
-
-or HTML code
-
-<a href="http://www.google.ca">This is also a link</a> 
-
-Images can be done similarly using markdown:
-
-![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
-
-Or HTML code:
-
-<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
+[Text Access (External Link)](https://doi.org/10.1080/10357718408444844)
