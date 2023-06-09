@@ -1,16 +1,16 @@
 ---
 
-title: "Demo/Template object"
-description: "This is the text displayed by the search results"
-datetext: "2023"
-excerpt: "Citation data"
-excerpt2: "Abstract content"
-excerpt3: "Extra content like key terms"
+title: "The Mamagement of Surplus Capacity: Or How Does Theory Stand up to Protectionism 1970s style?"
+description: "By Susan Strange"
+datetext: "1979"
+excerpt: "International Organisation 36, no. 2 (1979): 303-335."
+excerpt2: "In this article, which is a clear precursor to (Strange and Tooze 1981), Strange discusses the management of surplus capacity in three sectors of the international economy - steel, textiles and shipbuilding, and the recourse to protectionism. She then goes on to discuss the problems this implies for mainstream theories of international economics. She argues that Liberalism, theories of development, and organisational or functionalist theories do not offer satisfactory explanations for the resurgence of tariff barriers. This is partly because none of these theories deal with economic power satisfactorily, though Strange offers little in the way of a corrective. She concludes by again arguing that it is increasingly difficult to draw a line between international and domestic policy, and thus theories that only deal with one or other side of this duality will by implication fail in their analysis. An earlier version was presented at the Tokyo meeting of the ISA, BISA and the Japan Association of International Relations in October 1977."
+excerpt3: "Keyowrds: Production, Theory, Trade, Structural Power"
 
-date: 2023
-tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
-contributors: ["Daniel Brett"]
-categories: ["Source1", "Demo Paper"]
+date: 1979
+tags: ["Production", "Theory", "Trade", "Structural Power", "1970's", "Susan Strange"]
+contributors: ["Susan Strange"]
+categories: ["Journal Article"]
 
 draft: false
 weight: 50
@@ -19,22 +19,10 @@ pinned: false
 homepage: false
 ---
 
-This is the text that fills the static page for this object.  
+Strange, Susan. "The Mamagement of Surplus Capacity: Or How Does Theory Stand up to Protectionism 1970s style?" International Organisation 36, no. 2 (1979): 303-335.
 
-You can put anything you want here in plaintext.
+In this article, which is a clear precursor to (Strange and Tooze 1981), Strange discusses the management of surplus capacity in three sectors of the international economy - steel, textiles and shipbuilding, and the recourse to protectionism. She then goes on to discuss the problems this implies for mainstream theories of international economics. She argues that Liberalism, theories of development, and organisational or functionalist theories do not offer satisfactory explanations for the resurgence of tariff barriers. This is partly because none of these theories deal with economic power satisfactorily, though Strange offers little in the way of a corrective. She concludes by again arguing that it is increasingly difficult to draw a line between international and domestic policy, and thus theories that only deal with one or other side of this duality will by implication fail in their analysis. An earlier version was presented at the Tokyo meeting of the ISA, BISA and the Japan Association of International Relations in October 1977.
 
-If you want to add special elemets like links or images you can use either markdown code:
+Keyowrds: Production, Theory, Trade, Structural Power
 
-[This is a link](http://www.google.ca)
-
-or HTML code
-
-<a href="http://www.google.ca">This is also a link</a> 
-
-Images can be done similarly using markdown:
-
-![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
-
-Or HTML code:
-
-<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
+[Text Access (External Link)](https://doi.org/10.1017/S0020818300032185)
