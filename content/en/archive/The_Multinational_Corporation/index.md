@@ -25,3 +25,4 @@ In one of her earliest pieces to deal directly with multinational companies or c
 
 Keywords: Corportations, Political Economy, Transnational Corporations, International Economics
 
+[Text Access (External Link)](https://worldcat.org/title/16207543)
