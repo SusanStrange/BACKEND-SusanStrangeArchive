@@ -1,6 +1,6 @@
 ---
 
-title: ""Take six eggs": theory, finance, and the real economy in the work of Susan Strange"
+title: "'Take six eggs': theory, finance, and the real economy in the work of Susan Strange"
 description: "By Robert W. Cox"
 datetext: "1992"
 excerpt: "Robert W. Cox. In Approaches to World Order. Robert W. Cox, Timothy J. Sinclair, editors. 174-187. Cambridge: Cambridge University Press, 1992."
