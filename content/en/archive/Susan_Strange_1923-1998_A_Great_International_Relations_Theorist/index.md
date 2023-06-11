@@ -1,16 +1,16 @@
 ---
 
-title: "Demo/Template object"
-description: "This is the text displayed by the search results"
-datetext: "2023"
-excerpt: "Citation data"
-excerpt2: "Abstract content"
-excerpt3: "Extra content like key terms"
+title: "Susan Strange 1923-1998: A Great International Relations Theorist"
+description: "By Ronen Palen"
+datetext: "1999"
+excerpt: "Ronen Palen. Review of International Political Economy 6, no. 2 (1999): 121-132."
+excerpt2: 
+excerpt3: "Keywords: Theory; Other"
 
-date: 2023
-tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
-contributors: ["Daniel Brett"]
-categories: ["Source1", "Demo Paper"]
+date: 1999
+tags: ["Theory", "Other", "Strange-Influenced Work", "1990's"]
+contributors: ["Ronen Palen"]
+categories: ["Journal Article"]
 
 draft: false
 weight: 50
@@ -19,22 +19,6 @@ pinned: false
 homepage: false
 ---
 
-This is the text that fills the static page for this object.  
-
-You can put anything you want here in plaintext.
-
-If you want to add special elemets like links or images you can use either markdown code:
-
-[This is a link](http://www.google.ca)
-
-or HTML code
-
-<a href="http://www.google.ca">This is also a link</a> 
-
-Images can be done similarly using markdown:
-
-![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
-
-Or HTML code:
-
-<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
+Ronen Palen. *Review of International Political Economy* 6, no. 2 (1999): 121-132.
+Keywords: Theory; Other
+[Text access (external link)](https://doi.org/10.1080/096922999347254)
