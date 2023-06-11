@@ -1,16 +1,16 @@
 ---
 
-title: "Demo/Template object"
-description: "This is the text displayed by the search results"
-datetext: "2023"
-excerpt: "Citation data"
-excerpt2: "Abstract content"
-excerpt3: "Extra content like key terms"
+title: "Strange fruit: Susan Strange's theory of structural power in the international political economy"
+description: "By Christopher May"
+datetext: "1996"
+excerpt: "Christopher May. Global Society 10, no. 2 (1996): 167-189."
+excerpt2: 
+excerpt3: "Keywords: Structural Power, Power; Theory Knowledge"
 
-date: 2023
-tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
-contributors: ["Daniel Brett"]
-categories: ["Source1", "Demo Paper"]
+date: 1996
+tags: ["Theory", "Structural Power, Power", "Knowledge", "Strange-Influenced Work", "1990's"]
+contributors: ["Christopher May"]
+categories: ["Journal Article"]
 
 draft: false
 weight: 50
@@ -19,22 +19,6 @@ pinned: false
 homepage: false
 ---
 
-This is the text that fills the static page for this object.  
-
-You can put anything you want here in plaintext.
-
-If you want to add special elemets like links or images you can use either markdown code:
-
-[This is a link](http://www.google.ca)
-
-or HTML code
-
-<a href="http://www.google.ca">This is also a link</a> 
-
-Images can be done similarly using markdown:
-
-![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
-
-Or HTML code:
-
-<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
+Christopher May. *Global Society* 10, no. 2 (1996): 167-189.
+Keywords: Structural Power, Power; Knowledge
+[Text access (external link)](https://doi.org/10.1080/13600829608443105)
