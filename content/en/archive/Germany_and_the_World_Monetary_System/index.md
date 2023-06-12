@@ -19,7 +19,7 @@ pinned: false
 homepage: false
 ---
 
-Strange, Susan. "Germany and the World Monetary System," In *West Germany: A European and Global Power*, edited by Wilfrid L. Kohl and Georgio Basevi, 45-62. Lexington: Lexington Books, 1980.
+Strange, Susan. "Germany and the World Monetary System," In *West Germany: A European and Global Power*, Wilfrid L. Kohl and Georgio Basevi, editors. 45-62. Lexington: Lexington Books, 1980.
 
 Strange suggests that for any major state in the global system, such as Germany there are five roles that could be adopted by its government: ‘leader of the system’, ‘obedient ally’, ‘bigemonist partner’, ‘lone ranger’ or ‘leader of the opposition’. After discussing recent developments in the political economy of German and Europe, Strange suggests that it is time for Germany to consider a role more like that adopted briefly by De Gaulle’s France in the early 1960s, that of ‘leader of the opposition’. Essentially, Strange suggests that increasingly Germany must find the political will to match its growing economic importance in the global system.
 
