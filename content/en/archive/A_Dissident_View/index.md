@@ -1,16 +1,16 @@
 ---
 
-title: "Demo/Template object"
-description: "This is the text displayed by the search results"
-datetext: "2023"
-excerpt: "Citation data"
-excerpt2: "Abstract content"
-excerpt3: "Extra content like key terms"
+title: "A Dissident View"
+description: "By Susan Strange"
+datetext: "1988"
+excerpt: "Strange, Susan. In One European Market? A Critical Analysis of the Commission's Internal Market Strategy. Roland Bieber, John Pinder, Joseph H.H. Weiler, editors. 73-76. Baden-Baden: Nomos Verlasgesellschaft, 1988."
+excerpt2: "A brief article in which Strange argues that in the national competition for market shares within the global economy, there are two important strategies, neither of which at that time could the European Community realistically follow. Firstly, state procurement can be used as a stimulus to research and development and secondly the control of market access can be used as a bargaining lever. Unless the single market is used in this way, and a common defence policy is adopted, along with centralised procurement, then Strange envisages Europe (even with closer union) still loosing out to the Americans and Japanese. Strange reveals her mercantilist side, as she had done in her discussions of protectionism in 'The Management of Surplus Capacity: Or how does theory stand up to protectionism 1970s style?' (1979), 'Protectionism and World Politics' ( 1985) and 'Defending Benign Mercantilism' (1988)."
+excerpt3: "Keywords: Europe; Markets; Trade; Economic Competition; European Integration"
 
-date: 2023
-tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
-contributors: ["Daniel Brett"]
-categories: ["Source1", "Demo Paper"]
+date: 1988
+tags: ["Europe", "Markets", "Trade", "1980's"]
+contributors: ["Susan Strange", "Editor: Roland Bieber", "Editor: John Pinder"]
+categories: ["Book Chapter"]
 
 draft: false
 weight: 50
@@ -19,22 +19,10 @@ pinned: false
 homepage: false
 ---
 
-This is the text that fills the static page for this object.  
+Strange, Susan. "A Dissident View." In *One European Market? A Critical Analysis of the Commission's Internal Market Strategy *, Roland Bieber, John Pinder, Joseph H.H. Weiler, editors. 73-76. Baden-Baden: Nomos Verlasgesellschaft, 1988.
 
-You can put anything you want here in plaintext.
+A brief article in which Strange argues that in the national competition for market shares within the global economy, there are two important strategies, neither of which at that time could the European Community realistically follow. Firstly, state procurement can be used as a stimulus to research and development and secondly the control of market access can be used as a bargaining lever. Unless the single market is used in this way, and a common defence policy is adopted, along with centralised procurement, then Strange envisages Europe (even with closer union) still loosing out to the Americans and Japanese. Strange reveals her mercantilist side, as she had done in her discussions of protectionism in **'The Management of Surplus Capacity' (1979)**, **'Protectionism and World Politics' (1985)** and **'Defending Benign Mercantilism' (1988)**.
 
-If you want to add special elemets like links or images you can use either markdown code:
+Keywords: Europe; Markets; Trade; Economic Competition; European Integration
 
-[This is a link](http://www.google.ca)
-
-or HTML code
-
-<a href="http://www.google.ca">This is also a link</a> 
-
-Images can be done similarly using markdown:
-
-![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
-
-Or HTML code:
-
-<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
+[Text access (external link)](https://cadmus.eui.eu/handle/1814/52366)
