@@ -1,16 +1,16 @@
 ---
 
-title: "Demo/Template object"
-description: "This is the text displayed by the search results"
-datetext: "2023"
-excerpt: "Citation data"
-excerpt2: "Abstract content"
-excerpt3: "Extra content like key terms"
+title: "Cuba and After"
+description: "By Susan Strange"
+datetext: "1963"
+excerpt: "Strange, Susan. In Year Book of World Affairs 1963. George W. Keeton, Georg Schwarzenberger, editors. 1-28. London: Stevens, 1963."
+excerpt2: "Resisting the prevailing 'informed' analysis that the Cuban Missile Crisis was more an apparent danger than a real one, Strange sides with the 'man in the street' to argue it was a very real moment of possible war and as such profoundly affected the US system of alliances. However, she also suggests that the immediate aftermath appears to have been a retreat into détente, rather than renewed confrontation. She then turns to survey the impact of the crisis on the various strands of the Western alliance(s), and concludes that the inability of Britain to choose between America and Europe is as much a product of an American inability to decide whether it is serious about an Atlantic Union or not. Interestingly as in her later work, Strange was concerned about the manner in which the US was a hegemonic power and the problem of political will when it was threatened outside its traditional regional sphere of domination, or by the needs of multilateralism in the international system."
+excerpt3: "Keywords: Hegemony; Security; United States; International Relations"
 
-date: 2023
-tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
-contributors: ["Daniel Brett"]
-categories: ["Source1", "Demo Paper"]
+date: 1963
+tags: ["Hegemony", "Security", "United States", "1960's"]
+contributors: ["Susan Strange", "Editor: George W. Keeton", "Editor: Georg Schwarzenberger"]
+categories: ["Book Chapter"]
 
 draft: false
 weight: 50
@@ -19,22 +19,10 @@ pinned: false
 homepage: false
 ---
 
-This is the text that fills the static page for this object.  
+Strange, Susan. "Cuba and After." In *Year Book of World Affairs 1963*, George W. Keeton, Georg Schwarzenberger, editors. 1-28. London: Stevens, 1963.
 
-You can put anything you want here in plaintext.
+Resisting the prevailing 'informed' analysis that the Cuban Missile Crisis was more an apparent danger than a real one, Strange sides with the 'man in the street' to argue it was a very real moment of possible war and as such profoundly affected the US system of alliances. However, she also suggests that the immediate aftermath appears to have been a retreat into détente, rather than renewed confrontation. She then turns to survey the impact of the crisis on the various strands of the Western alliance(s), and concludes that the inability of Britain to choose between America and Europe is as much a product of an American inability to decide whether it is serious about an Atlantic Union or not. Interestingly as in her later work, Strange was concerned about the manner in which the US was a hegemonic power and the problem of political will when it was threatened outside its traditional regional sphere of domination, or by the needs of multilateralism in the international system.
 
-If you want to add special elemets like links or images you can use either markdown code:
+Keywords: Hegemony; Security; United States; International Relations
 
-[This is a link](http://www.google.ca)
-
-or HTML code
-
-<a href="http://www.google.ca">This is also a link</a> 
-
-Images can be done similarly using markdown:
-
-![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
-
-Or HTML code:
-
-<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
+[Text access (external link)](https://www.worldcat.org/title/4663018929)
