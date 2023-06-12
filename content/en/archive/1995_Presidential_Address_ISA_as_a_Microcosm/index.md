@@ -1,16 +1,16 @@
 ---
 
-title: "Demo/Template object"
-description: "This is the text displayed by the search results"
-datetext: "2023"
-excerpt: "Citation data"
-excerpt2: "Abstract content"
-excerpt3: "Extra content like key terms"
+title: "1995 Presidential Address: ISA as a Microcosm"
+description: "By Susan Strange"
+datetext: "1995"
+excerpt: "Strange, Susan. International Studies Quarterly 39, no. 3 (1995): 289-295."
+excerpt2: "After briefly discussing the history of the ISA, Strange points out that it is the International Studies Association, despite the current domination of International Relations. Once again Strange argues for the constructive engagement with other discipline interested in the international system, from political geographers to business economists. Strange points to the relative decline of state-state violence relative to civil and local violence, the increasing interest in the environment, and the dangers stemming from the financial markets, as reasons for widening the ISA's implicit agenda. Stressing that in the post-Cold War world there is only one superpower, Strange argues that for millions America is a common second-country. This is a very powerful position to be in, but it also requires the US. to remain part of the world system - not to flee into isolationism. The ISA as an embryonic epistemic community can do a lot to ensure this does not happen."
+excerpt3: "Keywords: Global Governance; Hegemony; Theory"
 
-date: 2023
-tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
-contributors: ["Daniel Brett"]
-categories: ["Source1", "Demo Paper"]
+date: 1995
+tags: ["Global Governance", "Hegemony", "Theory", "1990's"]
+contributors: ["Susan Strange"]
+categories: ["Journal Article"]
 
 draft: false
 weight: 50
@@ -19,22 +19,10 @@ pinned: false
 homepage: false
 ---
 
-This is the text that fills the static page for this object okay.  
+Strange, Susan "1995 Presidential Address: ISA as a Microcosm." *International Studies Quality* 39, no. 3 (1995): 289-295.
 
-You can put anything you want here in plaintext.
+After briefly discussing the history of the ISA, Strange points out that it is the International Studies Association, despite the current domination of International Relations. Once again Strange argues for the constructive engagement with other discipline interested in the international system, from political geographers to business economists. Strange points to the relative decline of state-state violence relative to civil and local violence, the increasing interest in the environment, and the dangers stemming from the financial markets, as reasons for widening the ISA's implicit agenda. Stressing that in the post-Cold War world there is only one superpower, Strange argues that for millions America is a common second-country. This is a very powerful position to be in, but it also requires the US. to remain part of the world system - not to flee into isolationism. The ISA as an embryonic epistemic community can do a lot to ensure this does not happen.
 
-If you want to add special elemets like links or images you can use either markdown code:
+Keywords: Global Governance; Hegemony; Theory
 
-[This is a link](http://www.google.ca)
-
-or HTML code
-
-<a href="http://www.google.ca">This is also a link</a> 
-
-Images can be done similarly using markdown:
-
-![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
-
-Or HTML code:
-
-<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
+[Text access (external link)](https://doi.org/10.2307/2600921)
