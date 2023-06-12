@@ -1,16 +1,16 @@
 ---
 
-title: "Demo/Template object"
-description: "This is the text displayed by the search results"
-datetext: "2023"
-excerpt: "Citation data"
-excerpt2: "Abstract content"
-excerpt3: "Extra content like key terms"
+title: "Globaloney? (Review Essay)"
+description: "By Susan Strange"
+datetext: "1998"
+excerpt: "Strange, Susan. Review of International Political Economy 5, no. 4 (1998): 704-711."
+excerpt2: "In this review of the influential Paul Hirst and Grahame Thompson Globalisation in Question (Oxford: Polity Press, 1996) alongside two other books arguing a similar position, Strange makes a major intervention in the debate over the 'myth' of globalisation. Arguing that the authors (like others) miss the deterritorialisation of commercial power in the global system, Strange allows that there needs to be a corrective to the extreme globalisation thesis of complete transformation, but that a failure to examine what is really happening in the global political economy, while relying on aggregated and out-of-date statistics has led too many political economists to fail to recognise the very real changes in the balance of power between multinational corporations and states. For Strange it is this balance of power that is of major importance for understanding globalisation."
+excerpt3: "Keywords: Globalization; Theory; Corporations; States; Transnational Corporations; Authority vs Markets"
 
-date: 2023
-tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
-contributors: ["Daniel Brett"]
-categories: ["Source1", "Demo Paper"]
+date: 1998
+tags: ["Globalization", "Theory", Corporations", "States", "1990's"]
+contributors: ["Susan Strange"]
+categories: ["Journal Article"]
 
 draft: false
 weight: 50
@@ -19,22 +19,10 @@ pinned: false
 homepage: false
 ---
 
-This is the text that fills the static page for this object.  
+Strange, Susan "Globaloney? (Review Essay)." *Review of International Political Economy * 5, no. 4 (1998): 704-711.
 
-You can put anything you want here in plaintext.
+In this review of the influential Paul Hirst and Grahame Thompson Globalisation in Question (Oxford: Polity Press, 1996) alongside two other books arguing a similar position, Strange makes a major intervention in the debate over the 'myth' of globalisation. Arguing that the authors (like others) miss the deterritorialisation of commercial power in the global system, Strange allows that there needs to be a corrective to the extreme globalisation thesis of complete transformation, but that a failure to examine what is really happening in the global political economy, while relying on aggregated and out-of-date statistics has led too many political economists to fail to recognise the very real changes in the balance of power between multinational corporations and states. For Strange it is this balance of power that is of major importance for understanding globalisation.
 
-If you want to add special elemets like links or images you can use either markdown code:
+Keywords: Globalization; Theory; Corporations; States; Transnational Corporations; Authority vs Markets
 
-[This is a link](http://www.google.ca)
-
-or HTML code
-
-<a href="http://www.google.ca">This is also a link</a> 
-
-Images can be done similarly using markdown:
-
-![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
-
-Or HTML code:
-
-<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
+[Text access (external link)](https://doi.org/10.1080/096922998347435)
