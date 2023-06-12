@@ -1,16 +1,16 @@
 ---
 
-title: "Demo/Template object"
-description: "This is the text displayed by the search results"
-datetext: "2023"
-excerpt: "Citation data"
-excerpt2: "Abstract content"
-excerpt3: "Extra content like key terms"
+title: "British Foreign Policy"
+description: "By Susan Strange"
+datetext: "1955"
+excerpt: "Strange, Susan. In Year Book of World Affairs 1955. George W. Keeton, Georg Schwarzenberger, editors. 35-53. London: Stevens, 1955."
+excerpt2: "Strange argues that a state whose power is waning is more liable to make fatal mistakes. British economic survival could only be made possible by conditions of expanding world trade, rising standards of living in export markets and a minimum of economic nationalism. Britain's future thus largely depends on the US, as she is no longer as essential as a market and supplier of capital as she once was to the members of the Commonwealth. As she notes, a small fall in American consumption led to a large cut in American imports from the Sterling Area, revealing this dependence. Strange suggests that as a result a major role of British foreign policy is to sustain the US's role in the international economy to ensure continued expansion and growth."
+excerpt3: "Keywords: Hegemony; Money and Finance; Trade; United Kingdom; United States; Economic Development"
 
-date: 2023
-tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
-contributors: ["Daniel Brett"]
-categories: ["Source1", "Demo Paper"]
+date: 1955
+tags: ["Hegemony", "Money and Finance", "Trade", "United Kingdom", "United States", "1950's and earlier", "Susan Strange"]
+contributors: ["Susan Strange", "Editor: George W. Keeton", "Editor: Georg Schwarzenberger"]
+categories: ["Book Chapter"]
 
 draft: false
 weight: 50
@@ -19,22 +19,10 @@ pinned: false
 homepage: false
 ---
 
-This is the text that fills the static page for this object.  
+Strange, Susan. "British Foreign Policy." In *Year Book of World Affairs 1955*, George W. Keeton, Georg Schwarzenberger, editors. 35-53. London: Stevens, 1955.
 
-You can put anything you want here in plaintext.
+Strange argues that a state whose power is waning is more liable to make fatal mistakes. British economic survival could only be made possible by conditions of expanding world trade, rising standards of living in export markets and a minimum of economic nationalism. Britain's future thus largely depends on the US, as she is no longer as essential as a market and supplier of capital as she once was to the members of the Commonwealth. As she notes, a small fall in American consumption led to a large cut in American imports from the Sterling Area, revealing this dependence. Strange suggests that as a result a major role of British foreign policy is to sustain the US's role in the international economy to ensure continued expansion and growth.
 
-If you want to add special elemets like links or images you can use either markdown code:
+Keywords: Hegemony; Money and Finance; Trade; United Kingdom; United States; Economic Development
 
-[This is a link](http://www.google.ca)
-
-or HTML code
-
-<a href="http://www.google.ca">This is also a link</a> 
-
-Images can be done similarly using markdown:
-
-![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
-
-Or HTML code:
-
-<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
+[Text access (external link)](https://www.worldcat.org/title/56633364)
