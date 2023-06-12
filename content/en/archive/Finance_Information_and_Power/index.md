@@ -1,16 +1,16 @@
 ---
 
-title: "Demo/Template object"
-description: "This is the text displayed by the search results"
-datetext: "2023"
-excerpt: "Citation data"
-excerpt2: "Abstract content"
-excerpt3: "Extra content like key terms"
+title: "Finance, Information and Power"
+description: "By Susan Strange"
+datetext: "1990"
+excerpt: "Strange, Susan. Review of International Studies 16, no. 3 (1990): 259-274."
+excerpt2: "Strange discusses the difference between American structural power and Japanese relational power in the financial structure. In addition she discusses the impact of communications technology changes on the operation of international financial markets, which represents an illuminating case study of how two structures interact with each other to bring about changes in the international political economy, in this case the financial and knowledge structures. In addition Strange notes that at least part of American structural power is derived from the privileged position of the 'American-English' language in the knowledge structure. Reprinted in: Authority and Markets: Susan Strange’s Writings on International Political Economy. Roger Tooze and Christopher May, editors. Basingstoke: Palgrave Macmillan, 2002."
+excerpt3: "Keywords: Knowledge; Money and Finance; Structural Power, Power; Theory; Knowledge Production"
 
-date: 2023
-tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
-contributors: ["Daniel Brett"]
-categories: ["Source1", "Demo Paper"]
+date: 1990
+tags: ["Knowledge", "Money and Finance", "Structural Power, Power", "Theory", "1990's"]
+contributors: ["Susan Strange"]
+categories: ["Journal Article"]
 
 draft: false
 weight: 50
@@ -19,22 +19,12 @@ pinned: false
 homepage: false
 ---
 
-This is the text that fills the static page for this object.  
+Strange, Susan "Finance, Information and Power." *Review of International Studies* 16, no. 3 (1990): 259-274.
 
-You can put anything you want here in plaintext.
+Strange discusses the difference between American structural power and Japanese relational power in the financial structure. In addition she discusses the impact of communications technology changes on the operation of international financial markets, which represents an illuminating case study of how two structures interact with each other to bring about changes in the international political economy, in this case the financial and knowledge structures. In addition Strange notes that at least part of American structural power is derived from the privileged position of the 'American-English' language in the knowledge structure.
 
-If you want to add special elemets like links or images you can use either markdown code:
+Reprinted in: *Authority and Markets: Susan Strange’s Writings on International Political Economy*. Roger Tooze and Christopher May, editors. Basingstoke: Palgrave Macmillan, 2002.
 
-[This is a link](http://www.google.ca)
+Keywords: Knowledge; Money and Finance; Structural Power, Power; Theory; Knowledge Production
 
-or HTML code
-
-<a href="http://www.google.ca">This is also a link</a> 
-
-Images can be done similarly using markdown:
-
-![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
-
-Or HTML code:
-
-<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
+[Text access (external link)](https://doi.org/10.1017/S0260210500112501)
