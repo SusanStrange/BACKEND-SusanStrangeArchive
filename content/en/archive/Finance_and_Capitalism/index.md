@@ -1,16 +1,16 @@
 ---
 
-title: "Demo/Template object"
-description: "This is the text displayed by the search results"
-datetext: "2023"
-excerpt: "Citation data"
-excerpt2: "Abstract content"
-excerpt3: "Extra content like key terms"
+title: "Finance and Capitalism: The City's Imperial Role Yesterday and Today"
+description: "By Susan Strange"
+datetext: "1994"
+excerpt: "Strange, Susan. Review of International Studies 20, no. 4 (1994): 407-410."
+excerpt2: "In this short review of P.J. Cain and A.G. Hopkins British Imperialism (2 vols) (London: Longman 1993), Strange again emphasises the structural characteristics of US power in the global system and suggest that Britain's structural power was more long lasting than is sometimes presumed, with clear implications for the continuing power of the US in the global economy."
+excerpt3: "Keywords: Hegemony; Money and Finance; Structural Power, Power; United Kingdom"
 
-date: 2023
-tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
-contributors: ["Daniel Brett"]
-categories: ["Source1", "Demo Paper"]
+date: 1994
+tags: ["Hegemony", "Money and Finance", "Structural Power, Power", "United Kingdom", "1990's"]
+contributors: ["Susan Strange"]
+categories: ["Journal Article"]
 
 draft: false
 weight: 50
@@ -19,22 +19,10 @@ pinned: false
 homepage: false
 ---
 
-This is the text that fills the static page for this object.  
+Strange, Susan "Finance and Capitalism: The City's Imperial Role Yesterday and Today." *Review of International Studies* 20, no. 4 (1994): 407-410.
 
-You can put anything you want here in plaintext.
+In this short review of P.J. Cain and A.G. Hopkins British Imperialism (2 vols) (London: Longman 1993), Strange again emphasises the structural characteristics of US power in the global system and suggest that Britain's structural power was more long lasting than is sometimes presumed, with clear implications for the continuing power of the US in the global economy.
 
-If you want to add special elemets like links or images you can use either markdown code:
+Keywords: Hegemony; Money and Finance; Structural Power, Power; United Kingdom
 
-[This is a link](http://www.google.ca)
-
-or HTML code
-
-<a href="http://www.google.ca">This is also a link</a> 
-
-Images can be done similarly using markdown:
-
-![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
-
-Or HTML code:
-
-<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
+[Text access (external link)](https://doi.org/10.1017/S0260210500118194)
