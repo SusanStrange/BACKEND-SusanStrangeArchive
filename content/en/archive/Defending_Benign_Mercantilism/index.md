@@ -1,16 +1,16 @@
 ---
 
-title: "Demo/Template object"
-description: "This is the text displayed by the search results"
-datetext: "2023"
-excerpt: "Citation data"
-excerpt2: "Abstract content"
-excerpt3: "Extra content like key terms"
+title: "Defending Benign Mercantilism"
+description: "By Susan Strange"
+datetext: "1988"
+excerpt: "Strange, Susan. Journal of Peace Research 25, no. 3 (1988): 273-277."
+excerpt2: "In this review of Robert Gilpin's Political Economy of International Relations, Strange again argues against 'Hegemonic Stability Theory', see 'The persistent myth of lost hegemony' (1987), but has started to develop a theory of transnational empire to explain the structural power of the United States. Part of this argument is the increasing non-territoriality of structural power, which is developed in a number of works below.
+excerpt3: "Keywords: Hegemony; Structural Power, Power; Theory; Trade"
 
-date: 2023
-tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
-contributors: ["Daniel Brett"]
-categories: ["Source1", "Demo Paper"]
+date: 1988
+tags: ["Hegemony", "Structural Power, Power", "Theory", "Trade", "1980's"]
+contributors: ["Susan Strange"]
+categories: ["Journal Article"]
 
 draft: false
 weight: 50
@@ -19,22 +19,10 @@ pinned: false
 homepage: false
 ---
 
-This is the text that fills the static page for this object.  
+Strange, Susan "Defending Benign Mercantilism." *Journal of Peace Research* 25, no. 3 (1988): 273-277.
 
-You can put anything you want here in plaintext.
+In this review of Robert Gilpin's Political Economy of International Relations, Strange again argues against 'Hegemonic Stability Theory', see 'The persistent myth of lost hegemony' (1987), but has started to develop a theory of transnational empire to explain the structural power of the United States. Part of this argument is the increasing non-territoriality of structural power, which is developed in a number of works below.
 
-If you want to add special elemets like links or images you can use either markdown code:
+Keywords: Hegemony; Structural Power, Power; Theory; Trade
 
-[This is a link](http://www.google.ca)
-
-or HTML code
-
-<a href="http://www.google.ca">This is also a link</a> 
-
-Images can be done similarly using markdown:
-
-![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
-
-Or HTML code:
-
-<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
+[Text access (external link)](https://doi.org/10.1177/002234338802500307)
