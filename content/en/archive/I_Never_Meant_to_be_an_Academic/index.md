@@ -1,16 +1,16 @@
 ---
 
-title: "Demo/Template object"
-description: "This is the text displayed by the search results"
-datetext: "2023"
-excerpt: "Citation data"
-excerpt2: "Abstract content"
-excerpt3: "Extra content like key terms"
+title: "I Never Meant to be an Academic"
+description: "By Susan Strange"
+datetext: "1989"
+excerpt: "Strange, Susan. In Journeys Through World Politics: Autobiographical Reflections of Thirty-four Academic Travellers. James Kruzel, James N. Roseneau, editors. 429-436. Lexington: Lexington Books, 1989."
+excerpt2: "This brief autobiographical essay makes interesting reading and, if one so chooses, may give clues to the personal foundations for Strange's approach. The essay is weighted towards her earlier life but is none the less informative for that. Reprinted in: Authority and Markets: Susan Strange’s Writings on International Political Economy. Roger Tooze and Christopher May, editors. Basingstoke: Palgrave Macmillan, 2002.""
+excerpt3: "Keywords: Other; Personal Reflection"
 
-date: 2023
-tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
-contributors: ["Daniel Brett"]
-categories: ["Source1", "Demo Paper"]
+date: 1989
+tags: ["Other", "1980's"]
+contributors: ["Susan Strange", "Editor: James Kruzel", "Editor: James N. Roseneau"]
+categories: ["Book Chapter"]
 
 draft: false
 weight: 50
@@ -19,22 +19,12 @@ pinned: false
 homepage: false
 ---
 
-This is the text that fills the static page for this object.  
+Strange, Susan. "I Never Meant to be an Academic." In *Journeys Through World Politics: Autobiographical Reflections of Thirty-four Academic Travellers *, James Kruzel, James N. Roseneau, editors. 429-436. Lexington: Lexington Books, 1989.
 
-You can put anything you want here in plaintext.
+This brief autobiographical essay makes interesting reading and, if one so chooses, may give clues to the personal foundations for Strange's approach. The essay is weighted towards her earlier life but is none the less informative for that.
 
-If you want to add special elemets like links or images you can use either markdown code:
+Reprinted in: *Authority and Markets: Susan Strange’s Writings on International Political Economy*. Roger Tooze and Christopher May, editors. Basingstoke: Palgrave Macmillan, 2002.
 
-[This is a link](http://www.google.ca)
+Keywords: Other; Personal Reflection
 
-or HTML code
-
-<a href="http://www.google.ca">This is also a link</a> 
-
-Images can be done similarly using markdown:
-
-![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
-
-Or HTML code:
-
-<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
+[Text access (external link)](https://www.worldcat.org/title/1023962570)
