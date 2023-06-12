@@ -9,7 +9,7 @@ excerpt3: "Keywords: Theory; Markets; States; Structural Power, Power; Technolog
 
 date: 1991
 tags: ["Theory", "Markets", "States", "Structural Power, Power", "1990's", "Susan Strange"]
-contributors: ["Susan Strange"]
+contributors: ["Susan Strange", "Editor: Craig N. Murphy ", "Editor: Roger Tooze"]
 categories: ["Book Chapter"]
 
 draft: false
