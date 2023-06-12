@@ -1,16 +1,16 @@
 ---
 
-title: "Demo/Template object"
-description: "This is the text displayed by the search results"
-datetext: "2023"
-excerpt: "Citation data"
-excerpt2: "Abstract content"
-excerpt3: "Extra content like key terms"
+title: "Ethics and the Movement of Money: Realist Approaches"
+description: "Ethics and the Movement of Money: Realist Approaches"
+datetext: "1992"
+excerpt: "Strange, Susan. In Free Movement. Ethical Issues in Transnational Migration of People and Money. Brian Barry, Robert E. Goodin, editors. 232-247. Hemel Hempstead: Harvester Wheatsheaf, 1992."
+excerpt2: "Identifying herself as a Realist, Strange notes that there is not one easily defined Realist perspective on the ethics of international monetary flows. Focusing on the continued existence and relative power of states she explores the problems these flows cause for states and stability in the international system overall. Here she examines international debt, free trade and protectionism, the transfer of profits, and but-outs or take-overs. Strange still seems to have some confidence that the state may play a useful regulatory and political role in economic affairs, a position she would move away from by the end of her career in 'The Defective State' (1995) and The Retreat of the State. The Diffusion of Power in the World Economy (1996) and elsewhere."
+excerpt3: "Keywords: Money and Finance; States; Realism"
 
-date: 2023
-tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
-contributors: ["Daniel Brett"]
-categories: ["Source1", "Demo Paper"]
+date: 1992
+tags: ["Money and Finance", "States", "1990's"]
+contributors: ["Susan Strange", "Editor: Brian Barry", "Editor: Robert E. Goodin"]
+categories: ["Book Chapter"]
 
 draft: false
 weight: 50
@@ -19,22 +19,10 @@ pinned: false
 homepage: false
 ---
 
-This is the text that fills the static page for this object.  
+Strange, Susan. "Ethics and the Movement of Money: Realist Approaches." In *Free Movement. Ethical Issues in Transnational Migration of People and Money *, Brian Barry, Robert E. Goodin, editors. 232-247. Hemel Hempstead: Harvester Wheatsheaf, 1992.
 
-You can put anything you want here in plaintext.
+Identifying herself as a Realist, Strange notes that there is not one easily defined Realist perspective on the ethics of international monetary flows. Focusing on the continued existence and relative power of states she explores the problems these flows cause for states and stability in the international system overall. Here she examines international debt, free trade and protectionism, the transfer of profits, and but-outs or take-overs. Strange still seems to have some confidence that the state may play a useful regulatory and political role in economic affairs, a position she would move away from by the end of her career in **'The Defective State' (1995)** and **The Retreat of the State (1996)** and elsewhere.
 
-If you want to add special elemets like links or images you can use either markdown code:
+Keywords: Money and Finance; States; Realism
 
-[This is a link](http://www.google.ca)
-
-or HTML code
-
-<a href="http://www.google.ca">This is also a link</a> 
-
-Images can be done similarly using markdown:
-
-![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
-
-Or HTML code:
-
-<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
+[Text access (external link)](https://www.worldcat.org/title/1069716072)
