@@ -1,16 +1,16 @@
 ---
 
-title: "Demo/Template object"
-description: "This is the text displayed by the search results"
-datetext: "2023"
-excerpt: "Citation data"
-excerpt2: "Abstract content"
-excerpt3: "Extra content like key terms"
+title: "Changing Trends in World Trade"
+description: "By Susan Strange"
+datetext: "1962"
+excerpt: "Strange, Susan. In Year Book of World Affairs 1962. George W. Keeton, Georg Schwarzenberger, editors. 139-158. London: Stevens, 1962."
+excerpt2: "Here Strange notes that since 1945 although manufacturing growth has accelerated expanding the trade between developed states there has been less growth in the demand for raw materials and agricultural goods. This distorted or uneven growth in trade had not only had an unsettling effect of world trade, but has also required developing states to take out loans to support their development. Strange suggests that in the long term such an approach is not sustainable, especially if the benefits of international trade are unevenly enjoyed. This leads Strange to suggest four international economic policies to alleviate these problems: the stabilisation of commodity prices to reduce the risks of underdeveloped states' trade; the opening of developed markets (the reduction of tariffs) to the products of the developing states; the use of developed states agricultural surpluses to aid industrial development in poorer states; and international exchange rate co-ordination to stabilise the terms of trade. As so often Strange identifies not a lack of policy choice in developed state inaction but rather a lack of political will."
+excerpt3: "Keywords: Production; Trade; Economic Development"
 
-date: 2023
-tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
-contributors: ["Daniel Brett"]
-categories: ["Source1", "Demo Paper"]
+date: 1962
+tags: ["Production", "Trade", "1960's"]
+contributors: ["Susan Strange", "Editor: George W. Keeton", "Editor: Georg Schwarzenberger"]
+categories: ["Book Chpater"]
 
 draft: false
 weight: 50
@@ -19,22 +19,10 @@ pinned: false
 homepage: false
 ---
 
-This is the text that fills the static page for this object.  
+Strange, Susan. "Changing Trends in World Trade." In *Year Book of World Affairs 1962*, George W. Keeton, Georg Schwarzenberger, editors. 139-158. London: Stevens, 1962.
 
-You can put anything you want here in plaintext.
+Here Strange notes that since 1945 although manufacturing growth has accelerated expanding the trade between developed states there has been less growth in the demand for raw materials and agricultural goods. This distorted or uneven growth in trade had not only had an unsettling effect of world trade, but has also required developing states to take out loans to support their development. Strange suggests that in the long term such an approach is not sustainable, especially if the benefits of international trade are unevenly enjoyed. This leads Strange to suggest four international economic policies to alleviate these problems: the stabilisation of commodity prices to reduce the risks of underdeveloped states' trade; the opening of developed markets (the reduction of tariffs) to the products of the developing states; the use of developed states agricultural surpluses to aid industrial development in poorer states; and international exchange rate co-ordination to stabilise the terms of trade. As so often Strange identifies not a lack of policy choice in developed state inaction but rather a lack of political will.
 
-If you want to add special elemets like links or images you can use either markdown code:
+Keywords: Production; Trade; Economic Development
 
-[This is a link](http://www.google.ca)
-
-or HTML code
-
-<a href="http://www.google.ca">This is also a link</a> 
-
-Images can be done similarly using markdown:
-
-![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
-
-Or HTML code:
-
-<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
+[Text access (external link)](https://www.worldcat.org/title/53147249)
