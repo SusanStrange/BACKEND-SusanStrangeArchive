@@ -1,6 +1,6 @@
 ---
 
-title: "Comment [on David T. Llewellyn 'International Monetary System Since 1972: Structural Change and Financial Innovation': pp. 14-47"]"
+title: "Comment on David T. Llewellyn 'International Monetary System Since 1972: Structural Change and Financial Innovation': pp. 14-47"
 description: "By Susan Strange"
 datetext: "1986"
 excerpt: "Strange, Susan. In Problems of International Money, 1972-85. Michael Posner, editor. 44-45. Washington D.C.: IMF/London: ODI, 1986."
