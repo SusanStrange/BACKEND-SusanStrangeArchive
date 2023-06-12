@@ -1,16 +1,15 @@
 ---
 
-title: "Demo/Template object"
-description: "This is the text displayed by the search results"
-datetext: "2023"
-excerpt: "Citation data"
-excerpt2: "Abstract content"
-excerpt3: "Extra content like key terms"
-
-date: 2023
-tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
-contributors: ["Daniel Brett"]
-categories: ["Source1", "Demo Paper"]
+title: "The Defective State"
+description: "By Susan Strange"
+datetext: "1995"
+excerpt: "Strange, Susan. Daedelus 124, no. 2 (1995): 55-74."
+excerpt2: "Strange argues that while states remain superficially important as major actors within the global system, the underlying power relations have hollowed out their authority. This authority has in some cases flowed 'upwards' to international institutions, and in other cases flowed down to markets (and also more localised organisations). These movements have led to an asymmetry of structural authority in the global system. Strange also makes some comments regarding the state-centric nature of the discipline of International Relations and suggests a new research agenda based around her conception of structural power and the importance of non-state actors in the functioning of authority. Thus while competition between states continues in some sense, it has been joined by other fields of competition that the disciplines of International Relations and International Political Economy need to contend with if they are to remain relevant to the global political economy."
+excerpt3: "Keywords: Corporations; International Institutions; States; Structural Power, Power; Transnational Corporations"
+date: 1995
+tags: ["Corporations", "International Institutions", "States", "Structural Power, Power", "1990's"]
+contributors: ["Susan Strange"]
+categories: ["Journal Article"]
 
 draft: false
 weight: 50
@@ -19,22 +18,10 @@ pinned: false
 homepage: false
 ---
 
-This is the text that fills the static page for this object.  
+Strange, Susan "The Defective State." *Daedelus* 124, no. 2 (1995): 55-74.
 
-You can put anything you want here in plaintext.
+Strange argues that while states remain superficially important as major actors within the global system, the underlying power relations have hollowed out their authority. This authority has in some cases flowed 'upwards' to international institutions, and in other cases flowed down to markets (and also more localised organisations). These movements have led to an asymmetry of structural authority in the global system. Strange also makes some comments regarding the state-centric nature of the discipline of International Relations and suggests a new research agenda based around her conception of structural power and the importance of non-state actors in the functioning of authority. Thus while competition between states continues in some sense, it has been joined by other fields of competition that the disciplines of International Relations and International Political Economy need to contend with if they are to remain relevant to the global political economy.
 
-If you want to add special elemets like links or images you can use either markdown code:
+Keywords: Corporations; International Institutions; States; Structural Power, Power; Transnational Corporations
 
-[This is a link](http://www.google.ca)
-
-or HTML code
-
-<a href="http://www.google.ca">This is also a link</a> 
-
-Images can be done similarly using markdown:
-
-![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
-
-Or HTML code:
-
-<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
+[Text access (external link)](link.gale.com/apps/doc/A16913976/LitRC?u=st46245&sid=bookmark-LitRC&xid=bb1c4e9a)
