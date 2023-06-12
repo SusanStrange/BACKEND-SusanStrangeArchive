@@ -9,7 +9,7 @@ excerpt3: "Keywords: Globalization; Political Economy; Theory"
 
 date: 1997
 tags: ["Globalization", "Political Economy", "Theory", "1990's", "Susan Strange"]
-contributors: ["Susan Strange"]
+contributors: ["Susan Strange", "Editor: John H. Dunning"]
 categories: [Book Chapter]
 
 draft: false
