@@ -1,16 +1,16 @@
 ---
 
-title: "Demo/Template object"
-description: "This is the text displayed by the search results"
-datetext: "2023"
-excerpt: "Citation data"
-excerpt2: "Abstract content"
-excerpt3: "Extra content like key terms"
+title: "Casino Capitalism"
+description: "By Susan Strange"
+datetext: "1986"
+excerpt: "Strange, Susan. Oxford: Blackwell Publishers, 1986."
+excerpt2: "Strange argues that uncertainty and risk in the financial sector/structure have provoked major economic disturbances in the last twenty or so years. This work represents a detailed sectoral history and analysis which argues against many of the proposed solutions to the international economic crisis she identifies. Strange argues that the United States must once again take up the leadership role (which it enjoys by virtue of economic preponderance) and more radically suggests that in the future financial regulation of credit creating agencies should not be a territorially based jurisdiction, but based on the currencies themselves wherever the credit transactions take place. Using her analysis, locating and understanding 'key decisions' in one sector/structure of power in the international political economy, Strange shows how disruption has spread to affect the other structures, and concludes with suggestions for how constitutional and governmental changes in the United States would benefit the international system. Alongside States and Markets (1988) and Rival States, Rival Firms: Competition for world market shares (with John M. Stopford and John S. Henley, 1991) this represents a major part of the influential core of Strange's work on international political economy. Reprinted, Manchester: Manchester University Press, 1997."
+excerpt3: "Keywords:  Foundational Work; Money and Finance; Theory; General Framework"
 
-date: 2023
-tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
-contributors: ["Daniel Brett"]
-categories: ["Source1", "Demo Paper"]
+date: 1986
+tags: ["Foundational Work", "Money and Finance", "Theory", "1980's", "Susan Strange"]
+contributors: ["Susan Strange"]
+categories: ["Book"]
 
 draft: false
 weight: 50
@@ -19,22 +19,12 @@ pinned: false
 homepage: false
 ---
 
-This is the text that fills the static page for this object.  
+Strange, Susan. *Casino Capitalism*. Oxford: Blackwell Publishers, 1986.
 
-You can put anything you want here in plaintext.
+Strange argues that uncertainty and risk in the financial sector/structure have provoked major economic disturbances in the last twenty or so years. This work represents a detailed sectoral history and analysis which argues against many of the proposed solutions to the international economic crisis she identifies. Strange argues that the United States must once again take up the leadership role (which it enjoys by virtue of economic preponderance) and more radically suggests that in the future financial regulation of credit creating agencies should not be a territorially based jurisdiction, but based on the currencies themselves wherever the credit transactions take place. Using her analysis, locating and understanding 'key decisions' in one sector/structure of power in the international political economy, Strange shows how disruption has spread to affect the other structures, and concludes with suggestions for how constitutional and governmental changes in the United States would benefit the international system. Alongside **States and Markets (1988)** and **Rival States, Rival Firms (with John M. Stopford, 1991)** this represents a major part of the influential core of Strange's work on international political economy.
 
-If you want to add special elemets like links or images you can use either markdown code:
+Reprinted, Manchester: Manchester University Press, 1997.
 
-[This is a link](http://www.google.ca)
+Keywords:  Foundational Work; Money and Finance; Theory; General Framework
 
-or HTML code
-
-<a href="http://www.google.ca">This is also a link</a> 
-
-Images can be done similarly using markdown:
-
-![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
-
-Or HTML code:
-
-<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
+[Text access (external link)](https://www.worldcat.org/title/953456290)
