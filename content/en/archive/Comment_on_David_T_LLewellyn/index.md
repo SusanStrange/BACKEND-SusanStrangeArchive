@@ -1,16 +1,16 @@
 ---
 
-title: "Demo/Template object"
-description: "This is the text displayed by the search results"
-datetext: "2023"
-excerpt: "Citation data"
-excerpt2: "Abstract content"
-excerpt3: "Extra content like key terms"
+title: "Comment [on David T. Llewellyn 'International Monetary System Since 1972: Structural Change and Financial Innovation': pp. 14-47"]"
+description: "By Susan Strange"
+datetext: "1986"
+excerpt: "Strange, Susan. In Problems of International Money, 1972-85. Michael Posner, editor. 44-45. Washington D.C.: IMF/London: ODI, 1986."
+excerpt2: "Identifying herself as a 'political realist', Strange stresses the need to accord sufficient weight to the 'realities' of power and the profit motive when examining the interaction of authority and markets in the international financial system. Thus while Llewellyn's paper is well received, he is too polite about the problems policy makers and economic 'experts' have been unable to solve."
+excerpt3: "Keywords: Authority; Markets; Money and Finance; Theory; Realism"
 
-date: 2023
-tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
-contributors: ["Daniel Brett"]
-categories: ["Source1", "Demo Paper"]
+date: 1986
+tags: ["Authority", "Markets", "Money and Finance", "Theory", "1980's"]
+contributors: ["Susan Strange", "Editor: Michael Posner"]
+categories: ["Book Chapter"]
 
 draft: false
 weight: 50
@@ -19,22 +19,10 @@ pinned: false
 homepage: false
 ---
 
-This is the text that fills the static page for this object.  
+Strange, Susan. "Comment [on David T. Llewellyn 'International Monetary System Since 1972: Structural Change and Financial Innovation': pp. 14-47"]." In *Problems of International Money, 1972-85*, Michael Posner, editor. 44-45. Washington D.C: IMF/London: ODI, 1986.
 
-You can put anything you want here in plaintext.
+Identifying herself as a 'political realist', Strange stresses the need to accord sufficient weight to the 'realities' of power and the profit motive when examining the interaction of authority and markets in the international financial system. Thus while Llewellyn's paper is well received, he is too polite about the problems policy makers and economic 'experts' have been unable to solve.
 
-If you want to add special elemets like links or images you can use either markdown code:
+Keywords: Authority; Markets; Money and Finance; Theory; Realism
 
-[This is a link](http://www.google.ca)
-
-or HTML code
-
-<a href="http://www.google.ca">This is also a link</a> 
-
-Images can be done similarly using markdown:
-
-![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
-
-Or HTML code:
-
-<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
+[Text access (external link)](https://doi.org/10.5089/9780939934584.071)
