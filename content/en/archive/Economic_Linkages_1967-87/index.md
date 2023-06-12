@@ -1,16 +1,16 @@
 ---
 
-title: "Demo/Template object"
-description: "This is the text displayed by the search results"
-datetext: "2023"
-excerpt: "Citation data"
-excerpt2: "Abstract content"
-excerpt3: "Extra content like key terms"
+title: "Economic Linkages 1967-87"
+description: "By Susan Strange"
+datetext: "1990"
+excerpt: "Strange, Susan. In The West and the Third World: Essays in Honour of J.D.B. Miller. Robert O'Neill, John Vincent, editors. 224-241. Basingstoke: Macmillan Academic and Professional, 1990."
+excerpt2: "In this article Strange sets Miller's work into the context of the analysis of international relations. Her central argument is two-fold - firstly, changes in the international political economy can only by understood through an analysis of structural power. And again she explicitly recognises the Marxist approach as both powerful and incomplete. She then stresses the continuing if changing role of the state, and state based authority. She suggests that this accounts for the continuing appeal of Realism. Having discussed a number of changes in international relations, she attributes to her former colleague (Miller was at Chatham House at the same time she was) a perspective consistent with her own."
+excerpt3: "Keywords: Structural Power, Power; Theory; Realism; International Relations"
 
-date: 2023
-tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
-contributors: ["Daniel Brett"]
-categories: ["Source1", "Demo Paper"]
+date: 1990
+tags: ["Structural Power, Power", "Theory", "1990's"]
+contributors: ["Susan Strange", "Editor: Robert O'Neill", "Editor: John Vincent"]
+categories: ["Book Chapter"]
 
 draft: false
 weight: 50
@@ -19,22 +19,10 @@ pinned: false
 homepage: false
 ---
 
-This is the text that fills the static page for this object.  
+Strange, Susan. "Economic Linkages 1967-87." In *The West and the Third World: Essays in Honour of J.D.B Miller*, Robert O'Neill, John Vincent, editors. 224-241. Basingstoke: Macmillan Academic and Professional, 1990.
 
-You can put anything you want here in plaintext.
+In this article Strange sets Miller's work into the context of the analysis of international relations. Her central argument is two-fold - firstly, changes in the international political economy can only by understood through an analysis of structural power. And again she explicitly recognises the Marxist approach as both powerful and incomplete. She then stresses the continuing if changing role of the state, and state based authority. She suggests that this accounts for the continuing appeal of Realism. Having discussed a number of changes in international relations, she attributes to her former colleague (Miller was at Chatham House at the same time she was) a perspective consistent with her own.
 
-If you want to add special elemets like links or images you can use either markdown code:
+Keywords: Structural Power, Power; Theory; Realism; International Relations
 
-[This is a link](http://www.google.ca)
-
-or HTML code
-
-<a href="http://www.google.ca">This is also a link</a> 
-
-Images can be done similarly using markdown:
-
-![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
-
-Or HTML code:
-
-<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
+[Text access (external link)](https://www.worldcat.org/title/26262661)
