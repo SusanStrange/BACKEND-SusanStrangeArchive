@@ -1,16 +1,16 @@
 ---
 
-title: "Demo/Template object"
-description: "This is the text displayed by the search results"
-datetext: "2023"
-excerpt: "Citation data"
-excerpt2: "Abstract content"
-excerpt3: "Extra content like key terms"
+title: "Big Business and the State"
+description: "By Susan Strange"
+datetext: "1991"
+excerpt: "Strange, Susan. Millennium Journal of International Studies 20, no. 2 (1991): 245-250."
+excerpt2: "Strange argues in this short piece that TNCs should be placed at the centre of IPE analysis along with the state and should not be left on the periphery. She also argues for an outside-in understanding of TNCs, putting them into the context in which they operate to understand them. This context is being transformed by changes in the production and financial structures, while she implicitly also argues for the centrality of changes in the 'knowledge' structure."
+excerpt3: "Keywords: Corporations; Knowledge; Structural Power, Power; Theory"
 
-date: 2023
-tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
-contributors: ["Daniel Brett"]
-categories: ["Source1", "Demo Paper"]
+date: 1991
+tags: ["Corporations", "Knowledge", "Structural Power, Power", "Theory", "1990's", "Susan Strange"]
+contributors: ["Susan Strange"]
+categories: [Journal Article]
 
 draft: false
 weight: 50
@@ -19,22 +19,10 @@ pinned: false
 homepage: false
 ---
 
-This is the text that fills the static page for this object.  
+Strange, Susan "Big Business and the State." *Millennium Journal of International Studies* 20, no. 2 (1991): 245-250.
 
-You can put anything you want here in plaintext.
+Strange argues in this short piece that TNCs should be placed at the centre of IPE analysis along with the state and should not be left on the periphery. She also argues for an outside-in understanding of TNCs, putting them into the context in which they operate to understand them. This context is being transformed by changes in the production and financial structures, while she implicitly also argues for the centrality of changes in the 'knowledge' structure.
 
-If you want to add special elemets like links or images you can use either markdown code:
+Keywords: Corporations; Knowledge; Structural Power, Power; Theory
 
-[This is a link](http://www.google.ca)
-
-or HTML code
-
-<a href="http://www.google.ca">This is also a link</a> 
-
-Images can be done similarly using markdown:
-
-![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
-
-Or HTML code:
-
-<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
+[Text access (external link)](https://doi.org/10.1177/03058298910200021501)
