@@ -19,7 +19,7 @@ pinned: false
 homepage: false
 ---
 
-Strange, Susan. "Territory, State, Authority and Economy: A New Realist Ontology of Global Political Economy." In *The New Realism: Perspectives on Multilateralism and World Order *, Robert W. Cox, editor. 3-19. Basingstoke: Macmillan Press/ United Nations University Press, 1997.
+Strange, Susan. "Territory, State, Authority and Economy: A New Realist Ontology of Global Political Economy." In *The New Realism: Perspectives on Multilateralism and World Order*, Robert W. Cox, editor. 3-19. Basingstoke: Macmillan Press/ United Nations University Press, 1997.
 
 Strange argues that the global economy is in the midst of a transition; the close incidence of political authority, economic activity and geographical territory no longer holds. This has been caused by two main groups of factors: firstly changes derived from science and technology; and secondly structural changes within the global finance structure. Authority has shifted, or is shifting, from states to other actors in the international political economy. She disputes Rosenau's hypothesis of the emergence of a second world of turbulent complexity, disturbing the old world of international relations, instead arguing that it is all the same world, just more complex!
 
