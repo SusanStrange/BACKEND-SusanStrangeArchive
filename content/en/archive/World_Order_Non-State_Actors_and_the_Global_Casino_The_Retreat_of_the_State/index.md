@@ -1,7 +1,6 @@
 ---
 
 title: "World Order, Non-State Actors, and the Global Casino: The Retreat of the State?"
-
 description: "By Susan Strange"
 datetext: "2000"
 excerpt: "Strange, Susan. In Political Economy and the Changing Global Order. Richard Stubbs, Geoffrey R.D. Underhill, editors. 82-90. Oxford: Oxford University Press, 2000."
