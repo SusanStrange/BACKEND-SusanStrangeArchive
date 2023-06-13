@@ -1,16 +1,15 @@
 ---
 
-title: "Demo/Template object"
-description: "This is the text displayed by the search results"
-datetext: "2023"
-excerpt: "Citation data"
-excerpt2: "Abstract content"
-excerpt3: "Extra content like key terms"
-
-date: 2023
-tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
-contributors: ["Daniel Brett"]
-categories: ["Source1", "Demo Paper"]
+title: ""Reflection IV"
+description: "By Jennifer Musto"
+datetext: "2019"
+excerpt: "Jennifer Musto. In Information, Technology and Control in a Changing World: Understanding Power Structures in the 21st Century. Blayne Haggart, Kathryn Henne, Natasha Tusikov, editors. 273-284. Cham: Palgrave Macmillan, 2019."
+excerpt2: "Jennifer Musto reflects on the chapters by Kathryn Henne and Allison Fish."
+excerpt3: "Keywords: Knowledge"
+date: 2019
+tags: ["Knowledge", "Strange-Influenced Works", "2010's"]
+contributors: ["Jennifer Musto", "Editor: Blayne Haggart", "Editor: Kathryn Henne", "Editor: Natasha Tusikov"]
+categories: ["Book Chapter"]
 
 draft: false
 weight: 50
@@ -19,22 +18,10 @@ pinned: false
 homepage: false
 ---
 
-This is the text that fills the static page for this object.  
+Jennifer Musto. In *Information, Technology and Control in a Changing World: Understanding Power Structures in the 21st Century.* Blayne Haggart, Kathryn Henne, Natasha Tusikov, editors. 273-284. Cham: Palgrave Macmillan, 2019.
 
-You can put anything you want here in plaintext.
+Our goal in this book was to spur an inter- and multi-disciplinary dialogue on the rising importance of knowledge in the global political economy and the role of knowledge in contemporary governance. Each of the chapters critically reflects on the control over knowledge as an important form of power, interactions between state and non-state actors, and knowledge regulation in its many forms. Knowledge regulation entails considering how and why knowledge is legitimised and by whom, the interests served, and the specific power structures underlying these arrangements. To understand the dynamics of a world dominated by the knowledge structure, we need to focus on the rules and norms that shape the legitimation, creation, use, and dissemination of knowledge, as well as those who are shaping these rules, which includes the state and non-state actors, and the interests being served.
 
-If you want to add special elemets like links or images you can use either markdown code:
+Keywords: Knowledge; 
 
-[This is a link](http://www.google.ca)
-
-or HTML code
-
-<a href="http://www.google.ca">This is also a link</a> 
-
-Images can be done similarly using markdown:
-
-![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
-
-Or HTML code:
-
-<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
+[Text access (external link)](https://www.worldcat.org/title/1111084507)
