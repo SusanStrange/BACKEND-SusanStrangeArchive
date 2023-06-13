@@ -7,8 +7,8 @@ excerpt: "Strange, Susan. In Political Economy and the Changing Global Order. Ri
 excerpt2: "This is the an edited version of the text published as What Theory? The Theory in Mad Money (1998) with the addition of a new introduction which briefly lays out many of the arguments which Strange made her own over her long and distinguished career."
 excerpt3: "Keywords: Corporations; Knowledge; States; Theory; Authority vs Markets; Technology"
 
-date:2000
-tags: ["Corporations", "Knowledge", "States, "Theory", "2000's"]
+date: 2000
+tags: ["Corporations", "Knowledge", "States", "Theory", "2000's"]
 contributors: ["Susan Strange", "Editor: Richard Stubbs", "Editor: Geoffrey R.D. Underhill"]
 categories: ["Book Chapter"]
 
