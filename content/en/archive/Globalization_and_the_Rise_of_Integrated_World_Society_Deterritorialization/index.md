@@ -8,7 +8,7 @@ excerpt2: "There is a widespread feeling that globalization represents a major s
 excerpt3: "Keywords: Globalization; Structural Power, Power; Money and Finance; Security; General Framework"
 date: 2019
 tags: ["Globalization", "Structural Power, Power", "Money and Finance", "Security", "General Framework", "Strange-Influenced Works", "2010's"]
-contributors: ["Salvatore Babones", "John H.S. Aberg"]
+contributors: ["Salvatore Babones", "John H.S. Aberg""Salvatore Babones", "John H.S. Aberg"]
 categories: ["Journal Article"]
 
 draft: false
