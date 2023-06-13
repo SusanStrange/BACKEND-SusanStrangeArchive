@@ -1,6 +1,6 @@
 ---
 
-title: ""The Defective State"
+title: "The Defective State"
 description: "By Susan Strange"
 datetext: "1995"
 excerpt: "Strange, Susan. Daedelus 124, no. 2 (1995): 55-74."
