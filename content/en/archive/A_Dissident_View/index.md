@@ -19,7 +19,7 @@ pinned: false
 homepage: false
 ---
 
-Strange, Susan. "A Dissident View." In *One European Market? A Critical Analysis of the Commission's Internal Market Strategy *, Roland Bieber, John Pinder, Joseph H.H. Weiler, editors. 73-76. Baden-Baden: Nomos Verlasgesellschaft, 1988.
+Strange, Susan. "A Dissident View." In *One European Market? A Critical Analysis of the Commission's Internal Market Strategy*, Roland Bieber, John Pinder, Joseph H.H. Weiler, editors. 73-76. Baden-Baden: Nomos Verlasgesellschaft, 1988.
 
 A brief article in which Strange argues that in the national competition for market shares within the global economy, there are two important strategies, neither of which at that time could the European Community realistically follow. Firstly, state procurement can be used as a stimulus to research and development and secondly the control of market access can be used as a bargaining lever. Unless the single market is used in this way, and a common defence policy is adopted, along with centralised procurement, then Strange envisages Europe (even with closer union) still loosing out to the Americans and Japanese. Strange reveals her mercantilist side, as she had done in her discussions of protectionism in **'The Management of Surplus Capacity' (1979)**, **'Protectionism and World Politics' (1985)** and **'Defending Benign Mercantilism' (1988)**.
 
