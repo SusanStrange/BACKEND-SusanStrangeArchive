@@ -8,7 +8,7 @@ excerpt2: "Once again Strange argues at length that the notion of American decli
 excerpt3: "Keywords: Hegemony; Structural Power, Power; United States"
 
 date: 1994	
-tags: ["Hegemony", "Structural Power, Power", "United States", "1990's"]
+tags: ["Hegemony", "Structural Power", Power", "United States", "1990's"]
 contributors: ["Susan Strange", "Editor: Geir Lundestad"]
 categories: ["Book Chapter"]
 
