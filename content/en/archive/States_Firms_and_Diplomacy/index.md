@@ -1,16 +1,16 @@
 ---
 
-title: "Demo/Template object"
-description: "This is the text displayed by the search results"
-datetext: "2023"
-excerpt: "Citation data"
-excerpt2: "Abstract content"
-excerpt3: "Extra content like key terms"
+title: "States, Firms and Diplomacy"
+description: "By Susan Strange"
+datetext: "1992"
+excerpt: "Strange, Susan. International Affairs 68, no. 1 (1992): 1-15."
+excerpt2: "This article in a brief summation of Rival States, Rival Firms: Competition for world market shares (with John M. Stopford and John S. Henley, 1991)  outlining the central argument of the book concerning the diplomacy between firms and states, and discusses some areas for further research. This represents a useful entry to the book picking out the salient points from the longer work, without the empirical elements. Reprinted in: Authority and Markets: Susan Strange’s Writings on International Political Economy. Roger Tooze and Christopher May, editors. Basingstoke: Palgrave Macmillan, 2002."
+excerpt3: "Keywords: Theory; Markets; States; Structural Power, Power; Technology"
 
-date: 2023
-tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
-contributors: ["Daniel Brett"]
-categories: ["Source1", "Demo Paper"]
+date: 1992
+tags: ["Theory", "Markets", "States", "Structural Power, Power", "1990's"]
+contributors: ["Susan Strange"]
+categories: ["Journal Article"]
 
 draft: false
 weight: 50
@@ -19,22 +19,12 @@ pinned: false
 homepage: false
 ---
 
-This is the text that fills the static page for this object.  
+Strange, Susan "States, Firms and Diplomacy." *International Affairs* 68, no. 1 (1992): 1-15.
 
-You can put anything you want here in plaintext.
+This article in a brief summation of **Rival States, Rival Firms (with John M. Stopford, 1991)**  outlining the central argument of the book concerning the diplomacy between firms and states, and discusses some areas for further research. This represents a useful entry to the book picking out the salient points from the longer work, without the empirical elements.
 
-If you want to add special elemets like links or images you can use either markdown code:
+Reprinted in: *Authority and Markets: Susan Strange’s Writings on International Political Economy*. Roger Tooze and Christopher May, editors. Basingstoke: Palgrave Macmillan, 2002.
 
-[This is a link](http://www.google.ca)
+Keywords: Theory; Markets; States; Structural Power, Power; Technology
 
-or HTML code
-
-<a href="http://www.google.ca">This is also a link</a> 
-
-Images can be done similarly using markdown:
-
-![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
-
-Or HTML code:
-
-<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
+[Text access (external link)](https://doi.org/10.2307/2620458)
