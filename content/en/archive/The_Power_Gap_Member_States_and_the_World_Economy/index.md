@@ -1,16 +1,16 @@
 ---
 
-title: "Demo/Template object"
-description: "This is the text displayed by the search results"
-datetext: "2023"
-excerpt: "Citation data"
-excerpt2: "Abstract content"
-excerpt3: "Extra content like key terms"
+title: "The Power Gap: Member States and the World Economy"
+description: "By Susan Strange"
+datetext: "1994"
+excerpt: "Strange, Susan. In Economic Policy Making and the European Union. Frank Brouwer, Valerio Linter, Mike Newman, editors. 19-26. London: Federal Trust, 1994."
+excerpt2: "Strange criticises arguments that suggest the European Union is a sui generis political institution. She criticises such claims, self avowedly, not from a lengthy engagement with European political analysis, but from a more global concern with political economy. She suggests that except for the Commission there is little to distinguish the EU from some other intergovernmental organisations. And given the Commission's inability to move on anything but essentially trivial matters she remains sceptical of the entire European project, remaining as she contends merely a sophisticated free-trade area. The problem, however, is not a particularly European one; the decline of state power vis-a-vis the global economy has been evident for some time. Only by recognising the problems for sovereign political authorities in the global political economy and planning for new constitutional developments in Europe to address this problem can this 'power gap' be narrowed. Strange here implicitly draws on the elements of her work that have supported the 'state-in-decline' thesis even though at other times she seems less willing to accept the absolute decline of state power than such arguments suggest."
+excerpt3: "Keywords: Europe; Global Governance; States; Global System; European Integration"
 
-date: 2023
-tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
-contributors: ["Daniel Brett"]
-categories: ["Source1", "Demo Paper"]
+date: 1994
+tags: ["Europe", "Global Governance", "States", "1990's"]
+contributors: ["Susan Strange", "Editor: Frank Brouwer", "Editor: Valerio Linter"]
+categories: ["Book Chapter"]
 
 draft: false
 weight: 50
@@ -19,22 +19,10 @@ pinned: false
 homepage: false
 ---
 
-This is the text that fills the static page for this object.  
+Strange, Susan. "The Power Gap: Member States and the World Economy." In *Economic Policy Making and the European Union*, Frank Brouwer, Valerio Linter, Mike Newman, editors. 19-26. London: Federal Trust, 1994.
 
-You can put anything you want here in plaintext.
+Strange criticises arguments that suggest the European Union is a sui generis political institution. She criticises such claims, self avowedly, not from a lengthy engagement with European political analysis, but from a more global concern with political economy. She suggests that except for the Commission there is little to distinguish the EU from some other intergovernmental organisations. And given the Commission's inability to move on anything but essentially trivial matters she remains sceptical of the entire European project, remaining as she contends merely a sophisticated free-trade area. The problem, however, is not a particularly European one; the decline of state power vis-a-vis the global economy has been evident for some time. Only by recognising the problems for sovereign political authorities in the global political economy and planning for new constitutional developments in Europe to address this problem can this 'power gap' be narrowed. Strange here implicitly draws on the elements of her work that have supported the 'state-in-decline' thesis even though at other times she seems less willing to accept the absolute decline of state power than such arguments suggest.
 
-If you want to add special elemets like links or images you can use either markdown code:
+Keywords: Europe; Global Governance; States; Global System; European Integration
 
-[This is a link](http://www.google.ca)
-
-or HTML code
-
-<a href="http://www.google.ca">This is also a link</a> 
-
-Images can be done similarly using markdown:
-
-![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
-
-Or HTML code:
-
-<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
+[Text access (external link)](https://www.worldcat.org/title/31371126)
