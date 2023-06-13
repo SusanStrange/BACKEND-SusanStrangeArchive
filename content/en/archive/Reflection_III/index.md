@@ -1,16 +1,16 @@
 ---
 
-title: "Demo/Template object"
-description: "This is the text displayed by the search results"
-datetext: "2023"
-excerpt: "Citation data"
-excerpt2: "Abstract content"
-excerpt3: "Extra content like key terms"
+title: "Reflection III"
+description: "By Blayne Haggart"
+datetext: "2019"
+excerpt: "Blayne Haggart. In Information, Technology and Control in a Changing World: Understanding Power Structures in the 21st Century. Blayne Haggart, Kathryn Henne, Natasha Tusikov, editors. 213-218. Cham: Palgrave Macmillan, 2019."
+excerpt2: "Blayne Haggart reflects on the chapters by Debora Halbert, and Jenna Harb and Kathryn Henne."
+excerpt3: "Keywords: Knowledge; Security"
 
-date: 2023
-tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
-contributors: ["Daniel Brett"]
-categories: ["Source1", "Demo Paper"]
+date: 2019
+tags: ["Knowledge", "Strange-Influenced Works", "2010's"]
+contributors: ["Blayne Haggart", "Editor: Blayne Haggart", "Editor: Kathryn Henne", "Editor: Natasha Tusikov"]
+categories: ["Book Chapter"]
 
 draft: false
 weight: 50
@@ -19,22 +19,10 @@ pinned: false
 homepage: false
 ---
 
-This is the text that fills the static page for this object.  
+Blayne Haggart. In *Information, Technology and Control in a Changing World: Understanding Power Structures in the 21st Century.* Blayne Haggart, Kathryn Henne, Natasha Tusikov, editors. 213-218. Cham: Palgrave Macmillan, 2019.
 
-You can put anything you want here in plaintext.
+Blayne Haggart reflects on the chapters by Debora Halbert, and Jenna Harb and Kathryn Henne.
 
-If you want to add special elemets like links or images you can use either markdown code:
+Keywords: Knowledge; 
 
-[This is a link](http://www.google.ca)
-
-or HTML code
-
-<a href="http://www.google.ca">This is also a link</a> 
-
-Images can be done similarly using markdown:
-
-![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
-
-Or HTML code:
-
-<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
+[Text access (external link)](https://www.worldcat.org/title/1111084507)
