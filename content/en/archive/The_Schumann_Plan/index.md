@@ -1,16 +1,16 @@
 ---
 
-title: "Demo/Template object"
-description: "This is the text displayed by the search results"
-datetext: "2023"
-excerpt: "Citation data"
-excerpt2: "Abstract content"
-excerpt3: "Extra content like key terms"
+title: "The Schumann Plan"
+description: "By Susan Strange"
+datetext: "1951"
+excerpt: "Strange, Susan. In Year Book of World Affairs 1951. George W. Keeton, Georg Schwarzenberger, editors. 109-130. London: Stevens, 1951."
+excerpt2:"Again discussing the linkage between politics and economics, Strange points out that economic integration could not be achieved without political control from above, that it is not possible for economic integration to move forward without the political will for it to happen. However the clear aim of the Schumann Plan was to redress the balance of economic power in Western Europe in favour of France and at the expense of Germany, rather than necessarily provide for increased integration."
+excerpt3: "Keywords: Europe; Hegemony; Political Economy; United States; International Relations; European Integration"
 
-date: 2023
-tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
-contributors: ["Daniel Brett"]
-categories: ["Source1", "Demo Paper"]
+date: 1951
+tags: ["Europe", "Hegemony", "Political Economy", "United States", "1950's and earlier"]
+contributors: ["Susan Strange", "Editor: George W. Keeton", "Editor: Georg Schwarzenberger"]
+categories: ["Book Chapter"]
 
 draft: false
 weight: 50
@@ -19,22 +19,10 @@ pinned: false
 homepage: false
 ---
 
-This is the text that fills the static page for this object.  
+Strange, Susan. "The Schumann Plan." In *Year Book of World Affairs 1951*, George W. Keeton, Georg Schwarzenberger, editors. 109-130. London: Stevens, 1951.
 
-You can put anything you want here in plaintext.
+Again discussing the linkage between politics and economics, Strange points out that economic integration could not be achieved without political control from above, that it is not possible for economic integration to move forward without the political will for it to happen. However the clear aim of the Schumann Plan was to redress the balance of economic power in Western Europe in favour of France and at the expense of Germany, rather than necessarily provide for increased integration.
 
-If you want to add special elemets like links or images you can use either markdown code:
+Keywords: Europe; Hegemony; Political Economy; United States; International Relations; European Integration
 
-[This is a link](http://www.google.ca)
-
-or HTML code
-
-<a href="http://www.google.ca">This is also a link</a> 
-
-Images can be done similarly using markdown:
-
-![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
-
-Or HTML code:
-
-<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
+[Text access (external link)](https://www.worldcat.org/title/5162914879)
