@@ -1,16 +1,16 @@
 ---
 
-title: "Demo/Template object"
-description: "This is the text displayed by the search results"
-datetext: "2023"
-excerpt: "Citation data"
-excerpt2: "Abstract content"
-excerpt3: "Extra content like key terms"
+title: "The Problem of the Solution? Capitalism and the State System"
+description: "By Susan Strange"
+datetext: "1997"
+excerpt: "Strange, Susan. In Innovation and Transformation in International Studies. Stephen Gill, James H. Mitelman, editors. 236-247. Cambridge: Cambridge University Press, 1997."
+excerpt2: "Again Strange criticises International Relations for not focusing on the systemic problems, not least of all environmental and financial issues which a concern for inter-state relations misses. Thus International Political Economy is open to approaches from political geography, historical sociology and elsewhere that have not been fixated on the relations between states as the key causal factor in the global system. Globalised production and finance are integrating most areas into a global system and it is the system not states which analysis should focus on in the future. "
+excerpt3: "Keywords: Global Governance; Globalization; Money and Finance; Production; International Relations; Global System"
 
-date: 2023
-tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
-contributors: ["Daniel Brett"]
-categories: ["Source1", "Demo Paper"]
+date: 1997
+tags: ["Global Governance", "Globalization", "Money and Finance", "Production", "1990's"]
+contributors: ["Susan Strange", "Editor: Stephen Gill", "Editor: James H. Mittelman"]
+categories: ["Book Chapter"]
 
 draft: false
 weight: 50
@@ -19,22 +19,10 @@ pinned: false
 homepage: false
 ---
 
-This is the text that fills the static page for this object.  
+Strange, Susan. "The Problem of the Solution? Capitalism and the State System." In *Innovation and Transformation in International Studies *, Stephen Gill, James H. Mittelman, editors. 236-247. Cambridge: Cambridge University Press, 1997.
 
-You can put anything you want here in plaintext.
+Again Strange criticises International Relations for not focusing on the systemic problems, not least of all environmental and financial issues which a concern for inter-state relations misses. Thus International Political Economy is open to approaches from political geography, historical sociology and elsewhere that have not been fixated on the relations between states as the key causal factor in the global system. Globalised production and finance are integrating most areas into a global system and it is the system not states which analysis should focus on in the future. 
 
-If you want to add special elemets like links or images you can use either markdown code:
+Keywords: Global Governance; Globalization; Money and Finance; Production; International Relations; Global System
 
-[This is a link](http://www.google.ca)
-
-or HTML code
-
-<a href="http://www.google.ca">This is also a link</a> 
-
-Images can be done similarly using markdown:
-
-![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
-
-Or HTML code:
-
-<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
+[Text access (external link, Open Access)](https://www.worldcat.org/title/988811823)
