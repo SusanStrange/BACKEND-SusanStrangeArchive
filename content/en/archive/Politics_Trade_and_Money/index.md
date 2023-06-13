@@ -1,16 +1,16 @@
 ---
 
-title: "Demo/Template object"
-description: "This is the text displayed by the search results"
-datetext: "2023"
-excerpt: "Citation data"
-excerpt2: "Abstract content"
-excerpt3: "Extra content like key terms"
+title: "Politics, Trade and Money"
+description: "By Susan Strange"
+datetext: "1986"
+excerpt: "Strange, Susan. In Europe, America and the World Economy. Loukas Tsoukalis, editor. 243-255. Oxford: Basil Blackwell for the College of Europe, 1986."
+excerpt2: "Strange identifies two main obstructions to a constructive dialogue between the United States and Europe over international trade: America's lack of interest in maintaining a steady provision of credit to the interdependent international system; and Europe's inability to take responsibility for its own defence and security, and therefore reducing its dependence on America. This leads Strange to conclude that the U.S. has abused rather than lost its power in the international economy, refusing to allow the separation the international risks from domestic bank activities in developing countries, taking no notice of the Brandt's commissions call for a independent multilateral financial institution, and not taking the role of international lender of last resort. This refusal led to the upheavals which the system was then experiencing. Underlying these problems is the lack of political will on behalf of the United States government to act as a responsible hegemon. Thus the problem is not declining US power, but rather the lack of a counter-balance from Europe, a theme she first explored at length in 'Cuba and After' (1963) and to which she would return to in 'The persistence of problems in EC-US relations: conflicts of perception?' (1989) and elsewhere."
+excerpt3: "Keywords: Money and Finance; Hegemony; Europe; United States"
 
-date: 2023
-tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
-contributors: ["Daniel Brett"]
-categories: ["Source1", "Demo Paper"]
+date: 1986
+tags: ["Money and Finance", "Hegemony", "Europe", "United States", "1980's"]
+contributors: ["Susan Strange", "Editor: Loukas Tsoukalis"]
+categories: ["Book Chapter"]
 
 draft: false
 weight: 50
@@ -19,22 +19,10 @@ pinned: false
 homepage: false
 ---
 
-This is the text that fills the static page for this object.  
+Strange, Susan. "Politics, Trade and Money." In *Europe, America and the World Economy*, Loukas Tsoukalis, editor. 243-255. Oxford: Basil Blackwell for the College of Europe, 1986.
 
-You can put anything you want here in plaintext.
+Strange identifies two main obstructions to a constructive dialogue between the United States and Europe over international trade: America's lack of interest in maintaining a steady provision of credit to the interdependent international system; and Europe's inability to take responsibility for its own defence and security, and therefore reducing its dependence on America. This leads Strange to conclude that the U.S. has abused rather than lost its power in the international economy, refusing to allow the separation the international risks from domestic bank activities in developing countries, taking no notice of the Brandt's commissions call for a independent multilateral financial institution, and not taking the role of international lender of last resort. This refusal led to the upheavals which the system was then experiencing. Underlying these problems is the lack of political will on behalf of the United States government to act as a responsible hegemon. Thus the problem is not declining US power, but rather the lack of a counter-balance from Europe, a theme she first explored at length in **'Cuba and After' (1963)** and to which she would return to in **'The Persistence of Problems in EC-US Relations' (1989)** and elsewhere.
 
-If you want to add special elemets like links or images you can use either markdown code:
+Keywords: Money and Finance; Hegemony; Europe; United States
 
-[This is a link](http://www.google.ca)
-
-or HTML code
-
-<a href="http://www.google.ca">This is also a link</a> 
-
-Images can be done similarly using markdown:
-
-![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
-
-Or HTML code:
-
-<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
+[Text access (external link)](https://www.worldcat.org/title/1170772223)
