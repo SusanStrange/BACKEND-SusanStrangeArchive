@@ -1,16 +1,16 @@
 ---
 
-title: "Demo/Template object"
-description: "This is the text displayed by the search results"
-datetext: "2023"
-excerpt: "Citation data"
-excerpt2: "Abstract content"
-excerpt3: "Extra content like key terms"
+title: "The "Fall" of the United States: Peace, Stability, and Legitimacy"
+description: "By Susan Strange"
+datetext: "1994"
+excerpt: "Strange, Susan. In The Fall of Great Powers: Peace, Stability and Legitimacy. Geir Lundestad, editor. 197-211. Oslo and Oxford: Scandinavian University Press and Oxford University Press, 1994."
+excerpt2: "Once again Strange argues at length that the notion of American decline in the global system is mistaken if examined through her structural perspective. She presents a brief history of the previous fifty years to explore how America's 'fall' can be proposed and why this misunderstands power in the global system. She uses this insight to argue for an International Political Economy approach to the problem of American hegemony, but she also warns that technological changes feeding into structural changes may make drawing lessons from the decline of previous hegemons difficult if not impossible. She concludes that while structural change may offer the best chance for a more just and peaceful system, it may also open up the possibility of extensive disorder and insecurity in the future, leading to problems of legitimate rule and authority."
+excerpt3: "Keywords: Hegemony; Structural Power, Power; United States"
 
-date: 2023
-tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
-contributors: ["Daniel Brett"]
-categories: ["Source1", "Demo Paper"]
+date: 1994	
+tags: ["Hegemony", "Structural Power, Power", "United States", "1990's"]
+contributors: ["Susan Strange", "Editor: Geir Lundestad"]
+categories: ["Book Chapter"]
 
 draft: false
 weight: 50
@@ -19,22 +19,10 @@ pinned: false
 homepage: false
 ---
 
-This is the text that fills the static page for this object.  
+Strange, Susan. "The "Fall" of the United States: Peace, Stability, and Legitimacy." In *The Fall of Great Powers: Peace, Stability and Legitimacy*, Geir Lundestad, editor. 197-211. Oslo and Oxford: Scandinavian University Press and Oxford University Press, 1994.
 
-You can put anything you want here in plaintext.
+Once again Strange argues at length that the notion of American decline in the global system is mistaken if examined through her structural perspective. She presents a brief history of the previous fifty years to explore how America's 'fall' can be proposed and why this misunderstands power in the global system. She uses this insight to argue for an International Political Economy approach to the problem of American hegemony, but she also warns that technological changes feeding into structural changes may make drawing lessons from the decline of previous hegemons difficult if not impossible. She concludes that while structural change may offer the best chance for a more just and peaceful system, it may also open up the possibility of extensive disorder and insecurity in the future, leading to problems of legitimate rule and authority.
 
-If you want to add special elemets like links or images you can use either markdown code:
+Keywords: Hegemony; Structural Power, Power; United States
 
-[This is a link](http://www.google.ca)
-
-or HTML code
-
-<a href="http://www.google.ca">This is also a link</a> 
-
-Images can be done similarly using markdown:
-
-![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
-
-Or HTML code:
-
-<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
+[Text access (external link)](https://www.worldcat.org/title/31278267)
