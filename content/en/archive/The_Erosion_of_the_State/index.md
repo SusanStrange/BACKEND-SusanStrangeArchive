@@ -1,16 +1,16 @@
 ---
 
-title: "Demo/Template object"
-description: "This is the text displayed by the search results"
-datetext: "2023"
-excerpt: "Citation data"
-excerpt2: "Abstract content"
-excerpt3: "Extra content like key terms"
+title: "The Erosion of the State"
+description: "By Susan Strange"
+datetext: "1997"
+excerpt: "Strange, Susan. Current History 96, no. 613 (1997): 365-369."
+excerpt2: "Strange briefly revisits the globalisation debate and suggests those who argue that as the state still exists, globalisation can be ignored are very mistaken. She then goes on to outline three dilemmas of globalisation: the economic, in that increasingly there is no political authority able to govern and control market relations; the environmental, while on one hand market actors are driven by the profit motive to use up environmental resources, countervailing power is largely absent; the political, there is a major democratic deficit in the governance structure of the global system. Strange then links these aspects of globalisation to technical change and increased mobility of capital. However, a concentration on the state misses the 'new diplomacy' between firms and other non-state actors as well as states themselves as outline in Rival States, Rival Firms: Competition for world market shares (with John M. Stopford and John S. Henley, 1991) . She then restates briefly her argument from The Retreat of the State (1996). The Diffusion of Power in the World Economy (1996), the state is losing its authority due to: the decline in importance of war-making and security; its inability to control the value of the currency; and its increasingly lack of credibility as a provider of welfare. Thus, to deny the decline of the state is to deny that something needs to be done about it unless big business is to come to rule the international system."
+excerpt3: "Keywords: Authority; Globalization; Markets; States; Authority vs Markets"
 
-date: 2023
-tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
-contributors: ["Daniel Brett"]
-categories: ["Source1", "Demo Paper"]
+date: 1997
+tags: ["Authority", "Globalization", "Markets", "States", "1990's"]
+contributors: ["Susan Strange"]
+categories: ["Journal Article"]
 
 draft: false
 weight: 50
@@ -19,22 +19,10 @@ pinned: false
 homepage: false
 ---
 
-This is the text that fills the static page for this object.  
+Strange, Susan "The Erosion of the State." *Current History * 96, no. 613 (1997): 365-369.
 
-You can put anything you want here in plaintext.
+Strange briefly revisits the globalisation debate and suggests those who argue that as the state still exists, globalisation can be ignored are very mistaken. She then goes on to outline three dilemmas of globalisation: the economic, in that increasingly there is no political authority able to govern and control market relations; the environmental, while on one hand market actors are driven by the profit motive to use up environmental resources, countervailing power is largely absent; the political, there is a major democratic deficit in the governance structure of the global system. Strange then links these aspects of globalisation to technical change and increased mobility of capital. However, a concentration on the state misses the 'new diplomacy' between firms and other non-state actors as well as states themselves as outline in **Rival States, Rival Firms (with John M. Stopford, 1991)** . She then restates briefly her argument from **The Retreat of the State (1996)**, the state is losing its authority due to: the decline in importance of war-making and security; its inability to control the value of the currency; and its increasingly lack of credibility as a provider of welfare. Thus, to deny the decline of the state is to deny that something needs to be done about it unless big business is to come to rule the international system.
 
-If you want to add special elemets like links or images you can use either markdown code:
+Keywords: Authority; Globalization; Markets; States; Authority vs Markets
 
-[This is a link](http://www.google.ca)
-
-or HTML code
-
-<a href="http://www.google.ca">This is also a link</a> 
-
-Images can be done similarly using markdown:
-
-![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
-
-Or HTML code:
-
-<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
+[Text access (external link)](https://www.jstor.org/stable/45317739)
