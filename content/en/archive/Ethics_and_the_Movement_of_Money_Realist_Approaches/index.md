@@ -19,7 +19,7 @@ pinned: false
 homepage: false
 ---
 
-Strange, Susan. "Ethics and the Movement of Money: Realist Approaches." In *Free Movement. Ethical Issues in Transnational Migration of People and Money *, Brian Barry, Robert E. Goodin, editors. 232-247. Hemel Hempstead: Harvester Wheatsheaf, 1992.
+Strange, Susan. "Ethics and the Movement of Money: Realist Approaches." In *Free Movement. Ethical Issues in Transnational Migration of People and Money*, Brian Barry, Robert E. Goodin, editors. 232-247. Hemel Hempstead: Harvester Wheatsheaf, 1992.
 
 Identifying herself as a Realist, Strange notes that there is not one easily defined Realist perspective on the ethics of international monetary flows. Focusing on the continued existence and relative power of states she explores the problems these flows cause for states and stability in the international system overall. Here she examines international debt, free trade and protectionism, the transfer of profits, and but-outs or take-overs. Strange still seems to have some confidence that the state may play a useful regulatory and political role in economic affairs, a position she would move away from by the end of her career in **'The Defective State' (1995)** and **The Retreat of the State (1996)** and elsewhere.
 
