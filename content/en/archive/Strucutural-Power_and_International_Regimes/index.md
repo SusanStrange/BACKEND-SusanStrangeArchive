@@ -1,16 +1,16 @@
 ---
 
-title: "Demo/Template object"
-description: "This is the text displayed by the search results"
-datetext: "2023"
-excerpt: "Citation data"
-excerpt2: "Abstract content"
-excerpt3: "Extra content like key terms"
+title: "Structural-Power and International Regimes."
+description: "By Maria A. Gwynn"
+datetext: "2019"
+excerpt: "Maria A. Gwynn. Journal of Political Power 12, no. 2 (2019): 200-223."
+excerpt2: "This paper revisits the international relations approach to structural power. In particular, it stresses the influence of international regimes, institutions and international law, on current understandings of structural power. The new approach broadens conceptions that see structural power solely as constraints; structures not only reflect the capabilities of actors that created them, but also generate new capabilities. The institutional context and viewing the 'structure' through the prism of international regime theory enables us to resolve conceptual issues that eluded classic scholars such as Waltz and Strange; and allows a more pluralistic view of actors' interactions in the international system."
+excerpt3: "Keywords: Regimes; Structural Power, Power; Structural Power, Power; Authority vs Markets"
 
-date: 2023
-tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
-contributors: ["Daniel Brett"]
-categories: ["Source1", "Demo Paper"]
+date: 2019
+tags: ["Regimes", "Structural Power, Power", "Structural Power, Power", "Authority vs Markets", "Strange-Influenced Works", "2010's"]
+contributors: ["Maria A. Gwynn"]
+categories: ["Journal Article"]
 
 draft: false
 weight: 50
@@ -19,22 +19,10 @@ pinned: false
 homepage: false
 ---
 
-This is the text that fills the static page for this object.  
+"Regimes", "Structural Power, Power", "Structural Power, Power", "Authority vs Markets", "Strange-Influenced Works", "2010's"
 
-You can put anything you want here in plaintext.
+This paper revisits the international relations approach to structural power. In particular, it stresses the influence of international regimes, institutions and international law, on current understandings of structural power. The new approach broadens conceptions that see structural power solely as constraints; structures not only reflect the capabilities of actors that created them, but also generate new capabilities. The institutional context and viewing the 'structure' through the prism of international regime theory enables us to resolve conceptual issues that eluded classic scholars such as Waltz and Strange; and allows a more pluralistic view of actors' interactions in the international system.
 
-If you want to add special elemets like links or images you can use either markdown code:
+Keywords: Regimes; Structural Power, Power; Structural Power, Power; Authority vs Markets
 
-[This is a link](http://www.google.ca)
-
-or HTML code
-
-<a href="http://www.google.ca">This is also a link</a> 
-
-Images can be done similarly using markdown:
-
-![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
-
-Or HTML code:
-
-<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
+[Text access (external link)](https://doi.org/10.1080/2158379X.2019.1618486)
