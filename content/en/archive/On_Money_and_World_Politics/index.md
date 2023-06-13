@@ -1,16 +1,16 @@
 ---
 
-title: "Demo/Template object"
-description: "This is the text displayed by the search results"
-datetext: "2023"
-excerpt: "Citation data"
-excerpt2: "Abstract content"
-excerpt3: "Extra content like key terms"
+title: "On Money and World Politics"
+description: "By Susan Strange and D.P. Calleo"
+datetext: "1984"
+excerpt: "Strange, Susan, D.P. Calleo. In Paths to International Political Economy. Susan Strange, editor. London: Allen and Unwin, 1984."
+excerpt2: ""Strange discusses 'Money and World Politics' criticising economists for supposing questions of values and power are questions of market 'imperfections' and not of central importance. The article then goes on to consider the balance of payments problem and how suggestions for addressing this 'problem' reveal theoretical standpoints. They also note the disruptive influence/effect of American policies on the financial structure. The article concludes with a plea for a return to more 'objective' analysis of global problems, not driven by government set academic objectives."
+excerpt3: "Keywords: Hegemony; Money and Finance; Theory"
 
-date: 2023
-tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
-contributors: ["Daniel Brett"]
-categories: ["Source1", "Demo Paper"]
+date: 1984
+tags: ["Hegemony", "Money and Finance", "Theory", "1980's"]
+contributors: ["Susan Strange", "D.P. Calleo", "Editor: Susan Strange"]
+categories: ["Book Chapter"]
 
 draft: false
 weight: 50
@@ -19,22 +19,10 @@ pinned: false
 homepage: false
 ---
 
-This is the text that fills the static page for this object.  
+Strange, Susan, D.P. Calleo. "On Money and World Politics." In *Paths to International Political Economy*, Susan Strange, editor. London: Allen and Unwin, 1984.
 
-You can put anything you want here in plaintext.
+Strange discusses 'Money and World Politics' criticising economists for supposing questions of values and power are questions of market 'imperfections' and not of central importance. The article then goes on to consider the balance of payments problem and how suggestions for addressing this 'problem' reveal theoretical standpoints. They also note the disruptive influence/effect of American policies on the financial structure. The article concludes with a plea for a return to more 'objective' analysis of global problems, not driven by government set academic objectives.
 
-If you want to add special elemets like links or images you can use either markdown code:
+Keywords: Hegemony; Money and Finance; Theory
 
-[This is a link](http://www.google.ca)
-
-or HTML code
-
-<a href="http://www.google.ca">This is also a link</a> 
-
-Images can be done similarly using markdown:
-
-![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
-
-Or HTML code:
-
-<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
+[Text access (external link)](https://www.worldcat.org/title/611105010)
