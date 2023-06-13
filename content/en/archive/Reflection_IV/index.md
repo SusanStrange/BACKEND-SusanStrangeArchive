@@ -1,6 +1,6 @@
 ---
 
-title: ""Reflection IV"
+title: "Reflection IV"
 description: "By Jennifer Musto"
 datetext: "2019"
 excerpt: "Jennifer Musto. In Information, Technology and Control in a Changing World: Understanding Power Structures in the 21st Century. Blayne Haggart, Kathryn Henne, Natasha Tusikov, editors. 273-284. Cham: Palgrave Macmillan, 2019."
