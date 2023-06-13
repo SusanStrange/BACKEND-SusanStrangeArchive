@@ -1,16 +1,16 @@
 ---
 
-title: "Demo/Template object"
-description: "This is the text displayed by the search results"
-datetext: "2023"
-excerpt: "Citation data"
-excerpt2: "Abstract content"
-excerpt3: "Extra content like key terms"
+title: "The Persistent Myth of Lost Hegemony: Reply to Milner and Snyder 'Lost Hegemony?'"
+description: "By Susan Strange"
+datetext: "1988"
+excerpt: "Strange, Susan. International Organisation 42, no. 4 (1988): 751-752."
+excerpt2: "In reference to (1987) there was a brief methodological exchange in the pages of International Organisation which while essentially inconclusive, offered a brief clue to Strange's attitude to empirical evidence. Though she originally cited empirical data, in response to the criticism from Milner and Snyder that this evidence left her arguments unproved, Strange answered that the real evidence to prove her argument empirically would be too difficult to collect, though in theory it could be possible to compile. What seems clear from this exchange, is that Strange is not dealing with 'evidence' in its strict form and has a permissive view towards its acceptability."
+excerpt3: "Keywords: Hegemony; Structural Power, Power; Theory"
 
-date: 2023
-tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
-contributors: ["Daniel Brett"]
-categories: ["Source1", "Demo Paper"]
+date: 1988
+tags: ["Hegemony", "Structural Power, Power", "Theory", "1980's"]
+contributors: ["Susan Strange"]
+categories: ["Journal Article"]
 
 draft: false
 weight: 50
@@ -19,22 +19,10 @@ pinned: false
 homepage: false
 ---
 
-This is the text that fills the static page for this object.  
+Strange, Susan "The Persistent Myth of Lost Hegemony: Reply to Milner and Snyder ['Lost Hegemony?']." *International Organisation* 42, no. 4 (1988): 751-752.
 
-You can put anything you want here in plaintext.
+In reference to ** 'The Persistent Myth of Lost Hegemony' (1987)** there was a brief methodological exchange in the pages of International Organisation which while essentially inconclusive, offered a brief clue to Strange's attitude to empirical evidence. Though she originally cited empirical data, in response to the criticism from Milner and Snyder that this evidence left her arguments unproved, Strange answered that the real evidence to prove her argument empirically would be too difficult to collect, though in theory it could be possible to compile. What seems clear from this exchange, is that Strange is not dealing with 'evidence' in its strict form and has a permissive view towards its acceptability.
 
-If you want to add special elemets like links or images you can use either markdown code:
+Keywords: Hegemony; Structural Power, Power; Theory
 
-[This is a link](http://www.google.ca)
-
-or HTML code
-
-<a href="http://www.google.ca">This is also a link</a> 
-
-Images can be done similarly using markdown:
-
-![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
-
-Or HTML code:
-
-<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
+[Text access (external link)](https://doi.org/10.1017/S0020818300034056)
