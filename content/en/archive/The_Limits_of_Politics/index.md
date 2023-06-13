@@ -1,16 +1,16 @@
 ---
 
-title: "Demo/Template object"
-description: "This is the text displayed by the search results"
-datetext: "2023"
-excerpt: "Citation data"
-excerpt2: "Abstract content"
-excerpt3: "Extra content like key terms"
+title: "The Limits of Politics"
+description: "By Susan Strange"
+datetext: "1995"
+excerpt: "Strange, Susan. Government and Opposition 30, no. 3 (1995): 291-311."
+excerpt2: "Originally delivered as a lecture at the LSE this article finds Strange explicitly engaging with the notion of globalisation. For Strange globalisation is: the development of products for explicitly global and transnational markets; the decline of barriers and distinctions between national economies; the emergence of at least partial labour mobility in addition to the more recognised capital mobility; and the speeding up of transport and communications. While these trends have changed the balance between authority and markets over outcomes in the international political economy, they have also led to an increasingly globalised but asymmetrical array of structural power."
+excerpt3: "Keywords: Authority; Globalization; Markets; Theory; Structural Power, Power; Authority vs Markets"
 
-date: 2023
-tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
-contributors: ["Daniel Brett"]
-categories: ["Source1", "Demo Paper"]
+date: 1995
+tags: ["Authority", "Globalization", "Markets", "Theory", "Structural Power, Power", "1990's"]
+contributors: ["Susan Strange"]
+categories: ["Journal Article"]
 
 draft: false
 weight: 50
@@ -19,22 +19,10 @@ pinned: false
 homepage: false
 ---
 
-This is the text that fills the static page for this object.  
+Strange, Susan "The Limits of Politics." *Government and Opposition* 30, no. 3 (1995): 291-311.
 
-You can put anything you want here in plaintext.
+Originally delivered as a lecture at the LSE this article finds Strange explicitly engaging with the notion of globalisation. For Strange globalisation is: the development of products for explicitly global and transnational markets; the decline of barriers and distinctions between national economies; the emergence of at least partial labour mobility in addition to the more recognised capital mobility; and the speeding up of transport and communications. While these trends have changed the balance between authority and markets over outcomes in the international political economy, they have also led to an increasingly globalised but asymmetrical array of structural power.
 
-If you want to add special elemets like links or images you can use either markdown code:
+Keywords: Authority; Globalization; Markets; Theory; Structural Power, Power; Authority vs Markets
 
-[This is a link](http://www.google.ca)
-
-or HTML code
-
-<a href="http://www.google.ca">This is also a link</a> 
-
-Images can be done similarly using markdown:
-
-![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
-
-Or HTML code:
-
-<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
+[Text access (external link)](https://doi.org/10.1111/j.1477-7053.1995.tb00129.x)
