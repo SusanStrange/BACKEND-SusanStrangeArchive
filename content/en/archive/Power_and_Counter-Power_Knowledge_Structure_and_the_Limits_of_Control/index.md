@@ -1,16 +1,15 @@
 ---
 
-title: "Demo/Template object"
-description: "This is the text displayed by the search results"
-datetext: "2023"
-excerpt: "Citation data"
-excerpt2: "Abstract content"
-excerpt3: "Extra content like key terms"
-
-date: 2023
-tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
-contributors: ["Daniel Brett"]
-categories: ["Source1", "Demo Paper"]
+title: "Power and Counter-Power: Knowledge Structure and the Limits of Control."
+description: "By Matthew David, Cynthia Meersohn Schmidt"
+datetext: "2019"
+excerpt: "Matthew David, Cynthia Meersohn Schmidt. Sociological Research Online 24, no. 1 (2019): 21-37."
+excerpt2: "In this article, we explore Susan Strange's multidimensional and non-reductive international political economy (IPE) approach to structural power. Strange's key weakness is the failure to account for her knowledge structure's regulative form relative to her security, production and financial structures. We seek to develop Strange's account through the addition of Manuel Castells' account of digital network structures. Castells' morphogenic structural approach to digital network power helps to clarify the mechanisms by which today's knowledge structure achieves autonomy, internal regulation and generative capacity. This sociological completion of Strange's theory, an international socio-political economy approach as it were, better explains the capacity and limits of today's digital network knowledge structure to resist reduction to other structural interests. Strange's non-reductive structural approach to power is significant for sociology as it helps identify 'social order' in a global age, but an additional sociological dimension is also necessary for the fulfilment of Strange's theoretical project."
+excerpt3: "Keywords: Knowledge; Production; Security; Money and Finance; General Framework"
+date: 2019
+tags: ["Knowledge", "Production", "Security", "Money and Finance", "General Framework", "Strange-Influenced Works", "2010's"]
+contributors: ["Matthew David", "Cynthia Meersohn Schmidt"]
+categories: ["Journal Article"]
 
 draft: false
 weight: 50
@@ -19,22 +18,10 @@ pinned: false
 homepage: false
 ---
 
-This is the text that fills the static page for this object.  
+Matthew David, Cynthia Meersohn Schmidt. *Sociological Research Online* 24, no. 1 (2019): 21-37.
 
-You can put anything you want here in plaintext.
+In this article, we explore Susan Strange's multidimensional and non-reductive international political economy (IPE) approach to structural power. Strange's key weakness is the failure to account for her knowledge structure's regulative form relative to her security, production and financial structures. We seek to develop Strange's account through the addition of Manuel Castells' account of digital network structures. Castells' morphogenic structural approach to digital network power helps to clarify the mechanisms by which today's knowledge structure achieves autonomy, internal regulation and generative capacity. This sociological completion of Strange's theory, an international socio-political economy approach as it were, better explains the capacity and limits of today's digital network knowledge structure to resist reduction to other structural interests. Strange's non-reductive structural approach to power is significant for sociology as it helps identify 'social order' in a global age, but an additional sociological dimension is also necessary for the fulfilment of Strange's theoretical project.
 
-If you want to add special elemets like links or images you can use either markdown code:
+Keywords: Knowledge; Production; Security; Money and Finance; General Framework
 
-[This is a link](http://www.google.ca)
-
-or HTML code
-
-<a href="http://www.google.ca">This is also a link</a> 
-
-Images can be done similarly using markdown:
-
-![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
-
-Or HTML code:
-
-<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
+[Text access (external link)](https://doi.org/10.1177/1360780418797717)
