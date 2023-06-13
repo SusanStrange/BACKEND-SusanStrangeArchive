@@ -1,16 +1,16 @@
 ---
 
-title: "Demo/Template object"
-description: "This is the text displayed by the search results"
-datetext: "2023"
-excerpt: "Citation data"
-excerpt2: "Abstract content"
-excerpt3: "Extra content like key terms"
+title: "Supranationals and the State"
+description: "By Susan Strange"
+datetext: "1986"
+excerpt: "Strange, Susan. In States in History. John A. Hall, editor. 289-305. Oxford: Basil Blackwell, 1986."
+excerpt2: "To some extent a precursor to Rival States, Rival Firms: Competition for world market shares (with John Stopford, 1991) which concludes that there is a functional convergence between states and TNCs. The central argument is that transnationals - TNCs and international organisations - both support and undermine states at the same time. There is a paradoxical symbiosis, that is under-examined due to most writers discussing either support roles or undermining roles. In addition there has been a shift in the basis of economic power, from land and power to capital and knowledge. Clearly this part of Strange's larger argument about the transnational power of capital and American TNCs, and represents the beginning of a shift away from the position suggesting a final authority of states over transnationals in Paths to International Political Economy (1984)."
+excerpt3: "Keywords: Corporations; Knowledge; Theory; Corporations; Knowledge Production"
 
-date: 2023
-tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
-contributors: ["Daniel Brett"]
-categories: ["Source1", "Demo Paper"]
+date: 1986	
+tags: ["Corporations", "Knowledge", "Theory", "1980's"]
+contributors: ["Susan Strange", "Editor: John A. Hall"]
+categories: ["Book Chapter"]
 
 draft: false
 weight: 50
@@ -19,22 +19,10 @@ pinned: false
 homepage: false
 ---
 
-This is the text that fills the static page for this object.  
+Strange, Susan. "Supranationals and the State." In *States in History *, John A. Hall, editor. 289-305. Oxford: Basil Blackwell, 1986.
 
-You can put anything you want here in plaintext.
+To some extent a precursor to **Rival States, Rival Firms (with John Stopford, 1991)** which concludes that there is a functional convergence between states and TNCs. The central argument is that transnationals - TNCs and international organisations - both support and undermine states at the same time. There is a paradoxical symbiosis, that is under-examined due to most writers discussing either support roles or undermining roles. In addition there has been a shift in the basis of economic power, from land and power to capital and knowledge. Clearly this part of Strange's larger argument about the transnational power of capital and American TNCs, and represents the beginning of a shift away from the position suggesting a final authority of states over transnationals in **Paths to International Political Economy (1984)**.
 
-If you want to add special elemets like links or images you can use either markdown code:
+Keywords: Corporations; Knowledge; Theory; Corporations; Knowledge Production
 
-[This is a link](http://www.google.ca)
-
-or HTML code
-
-<a href="http://www.google.ca">This is also a link</a> 
-
-Images can be done similarly using markdown:
-
-![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
-
-Or HTML code:
-
-<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
+[Text access (external link)](https://www.worldcat.org/title/1023953873)
