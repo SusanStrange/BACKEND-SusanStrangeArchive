@@ -1,16 +1,16 @@
 ---
 
-title: "Demo/Template object"
-description: "This is the text displayed by the search results"
-datetext: "2023"
-excerpt: "Citation data"
-excerpt2: "Abstract content"
-excerpt3: "Extra content like key terms"
+title: "A Border Seeping in All Directions: Technologies of Separation Along the U.S.-Mexico Border in Ambos Nogales"
+description: "By Allison Fish"
+datetext: "2019"
+excerpt: "Allison Fish. In Information, Technology and Control in a Changing World: Understanding Power Structures in the 21st Century. Blayne Haggart, Kathryn Henne, Natasha Tusikov, editors. 247-272. Cham: Palgrave Macmillan, 2019."
+excerpt2: "This chapter examines how legal and regulatory concerns have informed the design, selection, and deployment of technological assemblages used to monitor commercial movements along the U.S.-Mexico border in and around Ambos Nogales (Nogales, Sonora, Mexico, and Nogales, Arizona, United States). In the past few decades there has been an increasing concern regarding the balancing of market interests with national security at border ports-of-entry, leading to an intensified monitoring of these narrow commercial chokepoints. At the same time, the surveillance of commercial trade moving through these constrained channels has rapidly transitioned from face-to-face and paper-based mediums to complex systems composed of numerous digital and visualisation technologies. This chapter documents this transition in Ambos Nogales and, in doing so, examines how new technologies have historically been used to identify “trusted” logistics providers and monitor and “control” the flow of goods involved in legitimate commercial trade."
+excerpt3: "Keywords: Knowledge; Security"
 
-date: 2023
-tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
-contributors: ["Daniel Brett"]
-categories: ["Source1", "Demo Paper"]
+date: 2019
+tags: ["Knowledge", "Security", "Strange-Influenced Works", "2010's"]
+contributors: ["Allison Fish", "Editor: Blayne Haggart", "Editor: Kathryn Henne", "Editor: Natasha Tusikov"]
+categories: ["Book Chapter"]
 
 draft: false
 weight: 50
@@ -19,22 +19,10 @@ pinned: false
 homepage: false
 ---
 
-This is the text that fills the static page for this object.  
+Allison Fish. In *Information, Technology and Control in a Changing World: Understanding Power Structures in the 21st Century.* Blayne Haggart, Kathryn Henne, Natasha Tusikov, editors. 247-272. Cham: Palgrave Macmillan, 2019.
 
-You can put anything you want here in plaintext.
+This chapter examines how legal and regulatory concerns have informed the design, selection, and deployment of technological assemblages used to monitor commercial movements along the U.S.-Mexico border in and around Ambos Nogales (Nogales, Sonora, Mexico, and Nogales, Arizona, United States). In the past few decades there has been an increasing concern regarding the balancing of market interests with national security at border ports-of-entry, leading to an intensified monitoring of these narrow commercial chokepoints. At the same time, the surveillance of commercial trade moving through these constrained channels has rapidly transitioned from face-to-face and paper-based mediums to complex systems composed of numerous digital and visualisation technologies. This chapter documents this transition in Ambos Nogales and, in doing so, examines how new technologies have historically been used to identify “trusted” logistics providers and monitor and “control” the flow of goods involved in legitimate commercial trade.
 
-If you want to add special elemets like links or images you can use either markdown code:
+Keywords: Knowledge; Security
 
-[This is a link](http://www.google.ca)
-
-or HTML code
-
-<a href="http://www.google.ca">This is also a link</a> 
-
-Images can be done similarly using markdown:
-
-![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
-
-Or HTML code:
-
-<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
+[Text access (external link)](https://www.worldcat.org/title/1111084507)
