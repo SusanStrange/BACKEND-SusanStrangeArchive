@@ -1,16 +1,16 @@
 ---
 
-title: "Demo/Template object"
-description: "This is the text displayed by the search results"
-datetext: "2023"
-excerpt: "Citation data"
-excerpt2: "Abstract content"
-excerpt3: "Extra content like key terms"
+title: "International Political Economy: Reuniting Three Fields of Intellectual Endeavour"
+description: "Susan Strange"
+datetext: "1989"
+excerpt: "Strange, Susan. Liberal Education 75, no. 3 (1989): 20-24."
+excerpt2: "Strange uses the work she was co-ordinating with John Stopford, later published as Rival States, Rival Firms: Competition for world market shares (with John M. Stopford and John S. Henley, 1991) to launch a critique of the separation of International Relations, International Economics and the research carried out in business schools. She argues that her approach, foregrounding structural power, requires analysis from all three directions and therefore there needs to be much better contact and co-operation between the three fields. Here Strange is again expressing her frustration, which first surfaced in 'International economics and international relations: a case of mutual neglect' (1970) and continued to produce recommendations for the breaking down of disciplinary boundaries throughout her subsequent career. Reprinted in: Authority and Markets: Susan Strange’s Writings on International Political Economy. Roger Tooze and Christopher May, editors. Basingstoke: Palgrave Macmillan, 2002."
+excerpt3: "Keywords: Political Economy; Theory"
 
-date: 2023
-tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
-contributors: ["Daniel Brett"]
-categories: ["Source1", "Demo Paper"]
+date: 1989
+tags: ["Political Economy", "Theory", "1980's"]
+contributors: ["Susan Strange"]
+categories: ["Journal Article"]
 
 draft: false
 weight: 50
@@ -19,22 +19,10 @@ pinned: false
 homepage: false
 ---
 
-This is the text that fills the static page for this object.  
+Strange, Susan "International Political Economy: Reuniting Three Fields of Intellectual Endeavour." *Liberal Education* 75, no. 3 (1989): 20-24.
 
-You can put anything you want here in plaintext.
+Strange uses the work she was co-ordinating with John Stopford, later published as **Rival States, Rival Firms (with John M. Stopford, 1991)** to launch a critique of the separation of International Relations, International Economics and the research carried out in business schools. She argues that her approach, foregrounding structural power, requires analysis from all three directions and therefore there needs to be much better contact and co-operation between the three fields. Here Strange is again expressing her frustration, which first surfaced in 'International economics and international relations: a case of mutual neglect' (1970)** and continued to produce recommendations for the breaking down of disciplinary boundaries throughout her subsequent career.
 
-If you want to add special elemets like links or images you can use either markdown code:
+Reprinted in: *Authority and Markets: Susan Strange’s Writings on International Political Economy*. Roger Tooze and Christopher May, editors. Basingstoke: Palgrave Macmillan, 2002.
 
-[This is a link](http://www.google.ca)
-
-or HTML code
-
-<a href="http://www.google.ca">This is also a link</a> 
-
-Images can be done similarly using markdown:
-
-![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
-
-Or HTML code:
-
-<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
+Keywords: Political Economy; Theory
