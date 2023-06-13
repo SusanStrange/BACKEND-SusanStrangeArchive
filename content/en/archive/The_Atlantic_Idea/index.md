@@ -1,16 +1,16 @@
 ---
 
-title: "Demo/Template object"
-description: "This is the text displayed by the search results"
-datetext: "2023"
-excerpt: "Citation data"
-excerpt2: "Abstract content"
-excerpt3: "Extra content like key terms"
+title: "The Atlantic Idea"
+description: "By Susan Strange"
+datetext: "1953"
+excerpt: "Strange, Susan. In Year Book of World Affairs 1953. George W. Keeton, Georg Schwarzenberger, editors. 1-19. London: Stevens, 1953."
+excerpt2: "Strange discusses the fears of the British and French that the ideals of NATO would break down and be replaced by the domination of US arms and money. Strange suggests that in a bi-polar world, the US must be conciliatory to her allies because it is neither possible, nor does the US wish, to further its ends by force. Strange recognises the force of 'the Atlantic idea' as part of this project, and notes its defining role for these debates."
+excerpt3: "Keywords: Hegemony; Knowledge; Security; United States; International Relations; Knowledge Production"
 
-date: 2023
-tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
-contributors: ["Daniel Brett"]
-categories: ["Source1", "Demo Paper"]
+date: 1953
+tags: ["Hegemony", "Knowledge", "Security", "United States", "1950's and earlier"]
+contributors: ["Susan Strange", "Editor: George W. Keeton", "Editor: Georg Schwarzenberger"]
+categories: ["Book Chapter"]
 
 draft: false
 weight: 50
@@ -19,22 +19,8 @@ pinned: false
 homepage: false
 ---
 
-This is the text that fills the static page for this object.  
+Strange, Susan. "The Atlantic Idea." In *Year Book of World Affairs 1953*, George W. Keeton, Georg Schwarzenberger, editors. 1-19. London: Stevens, 1953.
 
-You can put anything you want here in plaintext.
+Strange discusses the fears of the British and French that the ideals of NATO would break down and be replaced by the domination of US arms and money. Strange suggests that in a bi-polar world, the US must be conciliatory to her allies because it is neither possible, nor does the US wish, to further its ends by force. Strange recognises the force of 'the Atlantic idea' as part of this project, and notes its defining role for these debates.
 
-If you want to add special elemets like links or images you can use either markdown code:
-
-[This is a link](http://www.google.ca)
-
-or HTML code
-
-<a href="http://www.google.ca">This is also a link</a> 
-
-Images can be done similarly using markdown:
-
-![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
-
-Or HTML code:
-
-<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
+Keywords: Hegemony; Knowledge; Security; United States; International Relations; Knowledge Production
