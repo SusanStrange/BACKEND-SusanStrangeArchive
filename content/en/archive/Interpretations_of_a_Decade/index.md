@@ -1,16 +1,16 @@
 ---
 
-title: "Demo/Template object"
-description: "This is the text displayed by the search results"
-datetext: "2023"
-excerpt: "Citation data"
-excerpt2: "Abstract content"
-excerpt3: "Extra content like key terms"
+title: "Interpretations of a Decade"
+description: "Susan Strange"
+datetext: "1985"
+excerpt: "Strange, Susan. In The Political Economy of International Money: In Search of a New Order. Loukas Tsoukalis, editor. 1-43. London: RIIA/Sage Publications Ltd, 1985."
+excerpt2: "After reiterating her criticism of over-specialisation in the study of international economic relations, Strange goes on to discuss the shortcomings of a large spectrum of perspectives on economic development. The bulk of this article subsequently appeared as chapter three of Casino Capitalism (1986)."
+excerpt3: "Keywords: Theory; Economic Development"
 
-date: 2023
-tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
-contributors: ["Daniel Brett"]
-categories: ["Source1", "Demo Paper"]
+date: 1985
+tags: ["Theory", "1980's"]
+contributors: ["Susan Strange", "Editor: Loukas Tsoukalis"]
+categories: ["Book Chapter"]
 
 draft: false
 weight: 50
@@ -19,22 +19,10 @@ pinned: false
 homepage: false
 ---
 
-This is the text that fills the static page for this object.  
+Strange, Susan. "Interpretations of a Decade." In *The Political Economy of International Money: In Search of a New Order*, Loukas Tsoukalis, editor. 1-43. London: RIIA/Sage Publications Ltd, 1985.
 
-You can put anything you want here in plaintext.
+After reiterating her criticism of over-specialisation in the study of international economic relations, Strange goes on to discuss the shortcomings of a large spectrum of perspectives on economic development. The bulk of this article subsequently appeared as chapter three of **Casino Capitalism (1986)**.
 
-If you want to add special elemets like links or images you can use either markdown code:
+Keywords: Theory; Economic Development
 
-[This is a link](http://www.google.ca)
-
-or HTML code
-
-<a href="http://www.google.ca">This is also a link</a> 
-
-Images can be done similarly using markdown:
-
-![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
-
-Or HTML code:
-
-<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
+[Text access (external link)](https://www.worldcat.org/title/1165346277)
