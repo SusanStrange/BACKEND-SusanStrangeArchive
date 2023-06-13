@@ -1,16 +1,16 @@
 ---
 
-title: "Demo/Template object"
-description: "This is the text displayed by the search results"
-datetext: "2023"
-excerpt: "Citation data"
-excerpt2: "Abstract content"
-excerpt3: "Extra content like key terms"
+title: "States and Markets, 2nd edition"
+description: "By Susan Strange"
+datetext: "1994"
+excerpt: "Strange, Susan. London: Printer Publishers, 1994."
+excerpt2: "There are no major differences between this and the first edition."
+excerpt3: "Keywords: Foundational Work; Political Economy; Structural Power, Power; Theory; Authority vs Markets"
 
-date: 2023
-tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
-contributors: ["Daniel Brett"]
-categories: ["Source1", "Demo Paper"]
+date: 1994
+tags: ["Foundational Work", "Political Economy", "Structural Power, Power", "Theory", "1990's"]
+contributors: ["Susan Strange"]
+categories: ["Book"]
 
 draft: false
 weight: 50
@@ -19,22 +19,10 @@ pinned: false
 homepage: false
 ---
 
-This is the text that fills the static page for this object.  
+Strange, Susan. *States and Markets, 2nd edition*. London: Printer Publisdhers, 1994.
 
-You can put anything you want here in plaintext.
+There are no major differences between this and the first edition.
 
-If you want to add special elemets like links or images you can use either markdown code:
+Keywords: Foundational Work; Political Economy; Structural Power, Power; Theory; Authority vs Markets
 
-[This is a link](http://www.google.ca)
-
-or HTML code
-
-<a href="http://www.google.ca">This is also a link</a> 
-
-Images can be done similarly using markdown:
-
-![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
-
-Or HTML code:
-
-<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
+[Text access (external link)](https://www.worldcat.org/title/928994505)
