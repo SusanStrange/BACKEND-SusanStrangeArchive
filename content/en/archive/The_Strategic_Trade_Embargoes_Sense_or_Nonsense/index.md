@@ -1,16 +1,16 @@
 ---
 
-title: "Demo/Template object"
-description: "This is the text displayed by the search results"
-datetext: "2023"
-excerpt: "Citation data"
-excerpt2: "Abstract content"
-excerpt3: "Extra content like key terms"
+title: "The Strategic Trade Embargoes: Sense or Nonsense"
+description: "By Susan Strange"
+datetext: "1958"
+excerpt: "Strange, Susan. In Year Book of World Affairs 1958. George W. Keeton, Georg Schwarzenberger, editors. 55-73. London: Stevens, 1958."
+excerpt2: "Strange argues that the policy of strategic trade embargoes, a central plank of American cold war policy, should be reassessed in light of the launch of Sputnik and Britain's decision to part from the US on an embargo on trade with China. If as she suggests that post-Suez resentment towards America prompted the British relaxation of the embargo on China than surely this policy really played no real strategic role. Neither did it restrict Russian technological advance (as had been hoped), as Sputnik had shown. This leads to Strange to review the policy, as set out in the Battle Act as well as the political psychology underlying it, before arguing that it should be dispensed with, at has proved neither particularly useful not effective."
+excerpt3: "Keywords: Knowledge; Trade; Technology; Knowledge Production"
 
-date: 2023
-tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
-contributors: ["Daniel Brett"]
-categories: ["Source1", "Demo Paper"]
+date: 1958
+tags: ["Knowledge", "Trade", "1950's and earlier"]
+contributors: ["Susan Strange", "Editor: George W. Keeton", "Editor: Georg Schwarzenberger"]
+categories: ["Book Chapter"]
 
 draft: false
 weight: 50
@@ -19,22 +19,10 @@ pinned: false
 homepage: false
 ---
 
-This is the text that fills the static page for this object.  
+Strange, Susan. "The Strategic Trade Embargoes: Sense or Nonsense." In *Year Book of World Affairs 1958*, George W. Keeton, Georg Schwarzenberger, editors. 55-73. London: Stevens, 1958.
 
-You can put anything you want here in plaintext.
+Strange argues that the policy of strategic trade embargoes, a central plank of American cold war policy, should be reassessed in light of the launch of Sputnik and Britain's decision to part from the US on an embargo on trade with China. If as she suggests that post-Suez resentment towards America prompted the British relaxation of the embargo on China than surely this policy really played no real strategic role. Neither did it restrict Russian technological advance (as had been hoped), as Sputnik had shown. This leads to Strange to review the policy, as set out in the Battle Act as well as the political psychology underlying it, before arguing that it should be dispensed with, at has proved neither particularly useful not effective.
 
-If you want to add special elemets like links or images you can use either markdown code:
+Keywords: Knowledge; Trade; Technology; Knowledge Production
 
-[This is a link](http://www.google.ca)
-
-or HTML code
-
-<a href="http://www.google.ca">This is also a link</a> 
-
-Images can be done similarly using markdown:
-
-![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
-
-Or HTML code:
-
-<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
+[Text access (external link)](https://www.worldcat.org/title/867379765)
