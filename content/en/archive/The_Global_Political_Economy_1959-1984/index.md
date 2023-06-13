@@ -1,16 +1,16 @@
 ---
 
-title: "Demo/Template object"
-description: "This is the text displayed by the search results"
-datetext: "2023"
-excerpt: "Citation data"
-excerpt2: "Abstract content"
-excerpt3: "Extra content like key terms"
+title: "The Global Political Economy, 1959-1984"
+description: "By Susan Strange"
+datetext: "1984"
+excerpt: "Strange, Susan. International Journal 39, no. 2 (1984): 267-283."
+excerpt2: "After discussing some terms she would like to see the back of ('actors', 'issue-areas'), reviewing years of the Global Political Economy, Strange proposes four structures that condition change. These are Security, Production, Knowledge and Finance, and though at this point this is only used as a taxonomy for looking at changes in the GPE, it represents the first time the structures of her theory appear in their final configuration. Strange also stresses that while the four structures are not hierarchical, she believes it is disruptions in the financial structure that has caused most upheavals over the period examined."
+excerpt3: "Keywords: Money and Finance; Structural Power, Power"
 
-date: 2023
-tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
-contributors: ["Daniel Brett"]
-categories: ["Source1", "Demo Paper"]
+date: 1984
+tags: ["Money and Finance", "Structural Power, Power", "1980's"]
+contributors: ["Susan Strange"]
+categories: ["Journal Article"]
 
 draft: false
 weight: 50
@@ -19,22 +19,10 @@ pinned: false
 homepage: false
 ---
 
-This is the text that fills the static page for this object.  
+Strange, Susan "The Global Political Economy, 1959-1984." *International Journal* 39, no. 2 (1984): 267-283.
 
-You can put anything you want here in plaintext.
+After discussing some terms she would like to see the back of ('actors', 'issue-areas'), reviewing years of the Global Political Economy, Strange proposes four structures that condition change. These are Security, Production, Knowledge and Finance, and though at this point this is only used as a taxonomy for looking at changes in the GPE, it represents the first time the structures of her theory appear in their final configuration. Strange also stresses that while the four structures are not hierarchical, she believes it is disruptions in the financial structure that has caused most upheavals over the period examined.
 
-If you want to add special elemets like links or images you can use either markdown code:
+Keywords: Money and Finance; Structural Power, Power
 
-[This is a link](http://www.google.ca)
-
-or HTML code
-
-<a href="http://www.google.ca">This is also a link</a> 
-
-Images can be done similarly using markdown:
-
-![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
-
-Or HTML code:
-
-<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
+[Text access (external link)](https://doi.org/10.1177/002070208403900203)
