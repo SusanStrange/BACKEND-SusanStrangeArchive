@@ -1,16 +1,16 @@
 ---
 
-title: "Demo/Template object"
-description: "This is the text displayed by the search results"
-datetext: "2023"
-excerpt: "Citation data"
-excerpt2: "Abstract content"
-excerpt3: "Extra content like key terms"
+title: "The Transformation of the World Economy"
+description: "By Susan Strange"
+datetext: "1993"
+excerpt: "Strange, Susan. In Mapping the Unknown: Towards a New World Order (Yearbook of the Swedish Institute for International Affairs 1992-1993). Lidija Babic, Bo Huldt, editors. 43-49. London: Hurst and Co., 1993."
+excerpt2: "In this short article Strange reviews many of the same arguments that have been featured above. However, here she argues that the transformation of the world economy is not so much the product of state/firm interactions, rather it is firms that are playing (and will continue to play) the more important role in structural change. This finally represents a complete reversal of the position of 'Follow-up commentary On Money and World Politics' (1984). Strange also argues that the supposed problems of the emergence of trading blocs (the three main blocs being centred on the US, Japan and Europe - the triad) are not crucial to the stability of the global economy, as she had implicitly argued in her discussions of protectionism. The problems and structural transformation of the global economy are rooted in the financial structure, and it is here that the US needs to assert its leadership for the future good of the international system."
+excerpt3: "Keywords: Corporations; Global Governance; Hegemony; Structural Power, Power; Theory; Transnational Corporations; Global System"
 
-date: 2023
-tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
-contributors: ["Daniel Brett"]
-categories: ["Source1", "Demo Paper"]
+date: 1993
+tags: ["Corporations", "Global Governance", "Hegemony", "Structural Power, Power", "Theory", "1990's"]
+contributors: ["Susan Strange", "Editor: Lidija Babic", "Editor: Bo Huldt"]
+categories: ["Book Chapter"]
 
 draft: false
 weight: 50
@@ -19,22 +19,10 @@ pinned: false
 homepage: false
 ---
 
-This is the text that fills the static page for this object.  
+Strange, Susan. "The Transformation of the World Economy." In *Mapping the Unknown: Towards a New World Order (Yearbook of the Swedish Institute for International Affairs 1992-1993)*, Lidija Babic, Bo Huldt, editors. 43-49. London: Hurst and Co., 1993.
 
-You can put anything you want here in plaintext.
+In this short article Strange reviews many of the same arguments that have been featured above. However, here she argues that the transformation of the world economy is not so much the product of state/firm interactions, rather it is firms that are playing (and will continue to play) the more important role in structural change. This finally represents a complete reversal of the position of **'Follow-up commentary On Money and World Politics' (1984)**. Strange also argues that the supposed problems of the emergence of trading blocs (the three main blocs being centred on the US, Japan and Europe - the triad) are not crucial to the stability of the global economy, as she had implicitly argued in her discussions of protectionism. The problems and structural transformation of the global economy are rooted in the financial structure, and it is here that the US needs to assert its leadership for the future good of the international system.
 
-If you want to add special elemets like links or images you can use either markdown code:
+Keywords: Corporations; Global Governance; Hegemony; Structural Power, Power; Theory; Transnational Corporations; Global System
 
-[This is a link](http://www.google.ca)
-
-or HTML code
-
-<a href="http://www.google.ca">This is also a link</a> 
-
-Images can be done similarly using markdown:
-
-![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
-
-Or HTML code:
-
-<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
+[Text access (external link)](https://catalogue.sipri.org/cgi-bin/koha/opac-detail.pl?biblionumber=8355)
