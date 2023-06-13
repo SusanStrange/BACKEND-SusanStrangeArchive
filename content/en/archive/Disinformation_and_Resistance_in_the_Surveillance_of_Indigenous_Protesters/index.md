@@ -1,16 +1,16 @@
 ---
 
-title: "Demo/Template object"
-description: "This is the text displayed by the search results"
-datetext: "2023"
-excerpt: "Citation data"
-excerpt2: "Abstract content"
-excerpt3: "Extra content like key terms"
+title: "Disinformation and Resistance in the Surveillance of Indigenous Protesters"
+description: "By Kathryn Henne, Jenna Harb"
+datetext: "2019"
+excerpt: "Kathryn Henne, Jenna Harb. In Information, Technology and Control in a Changing World: Understanding Power Structures in the 21st Century. Blayne Haggart, Kathryn Henne, Natasha Tusikov, editors. 187-212. Cham: Palgrave Macmillan, 2019."
+excerpt2: "The U.S. and Canadian governments have long engaged in the surveillance of Indigenous peoples. Such practices have garnered public attention in light of recent events. This chapter reflects on two examples: protests against the construction of the Dakota Access Pipeline that crossed over the lands of the Standing Rock Sioux Tribe in the United States and the release of details regarding Project SITKA—a Canadian Royal Mounted Police “dataveillance” operation identifying and tracking Indigenous activists. It examines them to illuminate the strategic use of information, particularly disinformation and misinformation, by government actors, media, private security personnel, and protesters. In particular, the analysis highlights how settler colonialism informs the asymmetrical power dynamics at work, illustrating connections between Project SITKA and the Standing Rock protests."
+excerpt3: "Keywords: Knowledge; Security"
 
-date: 2023
-tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
-contributors: ["Daniel Brett"]
-categories: ["Source1", "Demo Paper"]
+date: 2019
+tags: ["Knowledge", "Strange-Influenced Works", "2010's"]
+contributors: ["Kathryn Henne", "Jenna Harb", "Editor: Blayne Haggart", "Editor: Kathryn Henne", "Editor: Natasha Tusikov"]
+categories: ["Book Chapter"]
 
 draft: false
 weight: 50
@@ -19,22 +19,11 @@ pinned: false
 homepage: false
 ---
 
-This is the text that fills the static page for this object.  
+Kathryn Henne, Jenna Harb. In *Information, Technology and Control in a Changing World: Understanding Power Structures in the 21st Century.* Blayne Haggart, Kathryn Henne, Natasha Tusikov, editors. 187-212. Cham: Palgrave Macmillan, 2019.
 
-You can put anything you want here in plaintext.
+The U.S. and Canadian governments have long engaged in the surveillance of Indigenous peoples. Such practices have garnered public attention in light of recent events. This chapter reflects on two examples: protests against the construction of the Dakota Access Pipeline that crossed over the lands of the Standing Rock Sioux Tribe in the United States and the release of details regarding Project SITKA—a Canadian Royal Mounted Police “dataveillance” operation identifying and tracking Indigenous activists. It examines them to illuminate the strategic use of information, particularly disinformation and misinformation, by government actors, media, private security personnel, and protesters. In particular, the analysis highlights how settler colonialism informs the asymmetrical power dynamics at work, illustrating connections between Project SITKA and the Standing Rock protests.
 
-If you want to add special elemets like links or images you can use either markdown code:
+Keywords: Keywords: Knowledge; Security
 
-[This is a link](http://www.google.ca)
+[Text access (external link)](https://www.worldcat.org/title/1111084507)
 
-or HTML code
-
-<a href="http://www.google.ca">This is also a link</a> 
-
-Images can be done similarly using markdown:
-
-![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
-
-Or HTML code:
-
-<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
