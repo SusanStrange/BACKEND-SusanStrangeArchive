@@ -1,16 +1,16 @@
 ---
 
-title: "Demo/Template object"
-description: "This is the text displayed by the search results"
-datetext: "2023"
-excerpt: "Citation data"
-excerpt2: "Abstract content"
-excerpt3: "Extra content like key terms"
+title: "The Retreat of the State: State Diffusion of Power in the World Economy"
+description: "By Susan Strange"
+datetext: "1996"
+excerpt: "Strange, Susan. Cambridge: Cambridge University Press, 1996."
+excerpt2: "In what might effectively be regarded as the third part of a trilogy, together with States and Markets (1988) and Rival States, Rival Firms: Competition for world market shares (with John M. Stopford and John S. Henley, 1991), Strange examines states' transition towards the sidelines of global political economic relations. Though in the past authority might have been state based, now she argues it is more often based on non-state abilities to bring about (or structure) outcomes. This has to some extent been obscured by the increasing intervention by states in the lives of their citizens, giving an impression of the retention of power. While some states have fared better than others, the US being the prime example of a state retaining significant power, in general Strange sees new sites of authority in the global system are rising to challenge even the strongest states. Relations between states and non-state authority are arrayed along a continuum from the Mafia, threatening and undermining remaining state authority, to the big-six accountancy firms and transnational legal partnerships which work with state based authority and by doing so support it. Lacking the means to autonomously change its interactions with the global political economy, the state has lost the most important and significant aspect of its potential."
+excerpt3: "Keywords: Foundational Work; States; Structural Power, Power; Theory; Authority vs Markets"
 
-date: 2023
-tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
-contributors: ["Daniel Brett"]
-categories: ["Source1", "Demo Paper"]
+date: 1996
+tags: ["Foundational Work", "States", "Structural Power, Power", "Theory", "1990's"]
+contributors: ["Susan Strange"]
+categories: ["Book"]
 
 draft: false
 weight: 50
@@ -19,22 +19,10 @@ pinned: false
 homepage: false
 ---
 
-This is the text that fills the static page for this object.  
+Strange, Susan. *The Retreat of the State: State Diffusion of Power in the World Economy*. Cambridge: Cambridge University Press, 1996.
 
-You can put anything you want here in plaintext.
+In what might effectively be regarded as the third part of a trilogy, together with **States and Markets (1988)** and **Rival States, Rival Firms (with John M. Stopford, 1991)**, Strange examines states' transition towards the sidelines of global political economic relations. Though in the past authority might have been state based, now she argues it is more often based on non-state abilities to bring about (or structure) outcomes. This has to some extent been obscured by the increasing intervention by states in the lives of their citizens, giving an impression of the retention of power. While some states have fared better than others, the US being the prime example of a state retaining significant power, in general Strange sees new sites of authority in the global system are rising to challenge even the strongest states. Relations between states and non-state authority are arrayed along a continuum from the Mafia, threatening and undermining remaining state authority, to the big-six accountancy firms and transnational legal partnerships which work with state based authority and by doing so support it. Lacking the means to autonomously change its interactions with the global political economy, the state has lost the most important and significant aspect of its potential.
 
-If you want to add special elemets like links or images you can use either markdown code:
+Keywords: Foundational Work; States; Structural Power, Power; Theory; Authority vs Markets
 
-[This is a link](http://www.google.ca)
-
-or HTML code
-
-<a href="http://www.google.ca">This is also a link</a> 
-
-Images can be done similarly using markdown:
-
-![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
-
-Or HTML code:
-
-<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
+[Text access (external link, Open Access)](https://www.worldcat.org/title/889813904)
