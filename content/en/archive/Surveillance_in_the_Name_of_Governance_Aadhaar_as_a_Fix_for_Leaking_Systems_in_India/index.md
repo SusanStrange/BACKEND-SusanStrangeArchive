@@ -1,16 +1,16 @@
 ---
 
-title: "Demo/Template object"
-description: "This is the text displayed by the search results"
-datetext: "2023"
-excerpt: "Citation data"
-excerpt2: "Abstract content"
-excerpt3: "Extra content like key terms"
+title: "Surveillance in the Name of Governance: Aadhaar as a Fix for Leaking Systems in India"
+description: "By Kathryn Henne"
+datetext: "2019"
+excerpt: "Kathryn Henne. In Information, Technology and Control in a Changing World: Understanding Power Structures in the 21st Century. Blayne Haggart, Kathryn Henne, Natasha Tusikov, editors. 223-246. Cham: Palgrave Macmillan, 2019."
+excerpt2: "Many jurisdictions are employing biometric technologies to collect data about and verify the identities of social assistance recipients, with fraud prevention and cost savings serving as common justifications for doing so. This chapter explores the practices of building the infrastructure to monitor welfare beneficiaries, many of whom are vulnerable or marginalised populations. To do so, the chapter examines the Aadhaar system in India, which has issued over one billion unique identification numbers since being launched in 2010. The analysis illustrates a one-way expectation of knowledge and transparency (i.e., for citizens to disclose in order to access services), drawing attention to how nationalist agendas and forms of inequality inform who is subject to the state’s terms and conditions. In doing so, it considers how these forms of surveillance evince broader shifts in which state and non-state actors rely on knowledge to regulate subjects."
+excerpt3: "Keywords: Knowledge; Security"
 
-date: 2023
-tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
-contributors: ["Daniel Brett"]
-categories: ["Source1", "Demo Paper"]
+date: 2019
+tags: ["Knowledge", "Security", "Strange-Influenced Works", "2010's"]
+contributors: ["Kathryn Henne", "Editor: Blayne Haggart", "Editor: Kathryn Henne", "Editor: Natasha Tusikov"]
+categories: ["Book Chapter"]
 
 draft: false
 weight: 50
@@ -19,22 +19,10 @@ pinned: false
 homepage: false
 ---
 
-This is the text that fills the static page for this object.  
+Kathryn Henne. In *Information, Technology and Control in a Changing World: Understanding Power Structures in the 21st Century.* Blayne Haggart, Kathryn Henne, Natasha Tusikov, editors. 223-246. Cham: Palgrave Macmillan, 2019.
 
-You can put anything you want here in plaintext.
+Many jurisdictions are employing biometric technologies to collect data about and verify the identities of social assistance recipients, with fraud prevention and cost savings serving as common justifications for doing so. This chapter explores the practices of building the infrastructure to monitor welfare beneficiaries, many of whom are vulnerable or marginalised populations. To do so, the chapter examines the Aadhaar system in India, which has issued over one billion unique identification numbers since being launched in 2010. The analysis illustrates a one-way expectation of knowledge and transparency (i.e., for citizens to disclose in order to access services), drawing attention to how nationalist agendas and forms of inequality inform who is subject to the state’s terms and conditions. In doing so, it considers how these forms of surveillance evince broader shifts in which state and non-state actors rely on knowledge to regulate subjects.
 
-If you want to add special elemets like links or images you can use either markdown code:
+Keywords: Knowledge; Security
 
-[This is a link](http://www.google.ca)
-
-or HTML code
-
-<a href="http://www.google.ca">This is also a link</a> 
-
-Images can be done similarly using markdown:
-
-![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
-
-Or HTML code:
-
-<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
+[Text access (external link, Open Access)](https://link.springer.com/chapter/10.1007/978-3-030-14540-8_11)
