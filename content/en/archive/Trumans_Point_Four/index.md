@@ -1,16 +1,16 @@
 ---
 
-title: "Demo/Template object"
-description: "This is the text displayed by the search results"
-datetext: "2023"
-excerpt: "Citation data"
-excerpt2: "Abstract content"
-excerpt3: "Extra content like key terms"
+title: "Truman's Point Four"
+description: "By Susan Strange"
+datetext: "1950"
+excerpt: "Strange, Susan. In Year Book of World Affairs 1950. W. Harold Dalgliesh, George W. Keeton, Georg Schwarzenberger, editors. 264-288. London: Stevens, 1950."
+excerpt2: "Strange discusses Truman's fourth declared guiding rule of American foreign policy for the years 1949-1953, that 'Our aim should be to help the free peoples of the world, through their own efforts to produce more clothing, more materials for housing and more mechanical power to lighten their burdens', stressing the technical and international nature of future assistance. She notes that American 'internationalism' could be broken under the stresses of changing political and strategic circumstances. While the US needs to remain embedded within the international economy, the costs of technical co-operation are largely borne by the targeted Third World countries themselves. Strange points to the linkage between economics and politics, as a way of highlighting questions concerning the degree of freedom to use funds as recipients of US controlled aid and loans wish."
+excerpt3: "Keywords: Hegemony; United States; US Foreign Policy; International Relations"
 
-date: 2023
-tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
-contributors: ["Daniel Brett"]
-categories: ["Source1", "Demo Paper"]
+date: 1950
+tags: ["Hegemony", "United States", "1950's and earlier"]
+contributors: ["Susan Strange", "Editor: W. Harold Dalgliesh", "Editor: George W. Keeton", "Editor: Georg Schwarzenberger"]
+categories: ["Book Chapter"]
 
 draft: false
 weight: 50
@@ -19,22 +19,10 @@ pinned: false
 homepage: false
 ---
 
-This is the text that fills the static page for this object.  
+Strange, Susan. "Truman's Point Four." In *Year Book of World Affairs1950*, George W. Keeton, Georg Schwarzenberger, editors. 264-288. London: Stevens, 1950.
 
-You can put anything you want here in plaintext.
+Strange discusses Truman's fourth declared guiding rule of American foreign policy for the years 1949-1953, that 'Our aim should be to help the free peoples of the world, through their own efforts to produce more clothing, more materials for housing and more mechanical power to lighten their burdens', stressing the technical and international nature of future assistance. She notes that American 'internationalism' could be broken under the stresses of changing political and strategic circumstances. While the US needs to remain embedded within the international economy, the costs of technical co-operation are largely borne by the targeted Third World countries themselves. Strange points to the linkage between economics and politics, as a way of highlighting questions concerning the degree of freedom to use funds as recipients of US controlled aid and loans wish.
 
-If you want to add special elemets like links or images you can use either markdown code:
+Keywords: Hegemony; United States; US Foreign Policy; International Relations
 
-[This is a link](http://www.google.ca)
-
-or HTML code
-
-<a href="http://www.google.ca">This is also a link</a> 
-
-Images can be done similarly using markdown:
-
-![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
-
-Or HTML code:
-
-<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
+[Text access (external link)](https://www.worldcat.org/title/7586844984)
