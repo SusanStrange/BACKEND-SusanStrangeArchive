@@ -1,16 +1,16 @@
 ---
 
-title: "Demo/Template object"
-description: "This is the text displayed by the search results"
-datetext: "2023"
-excerpt: "Citation data"
-excerpt2: "Abstract content"
-excerpt3: "Extra content like key terms"
+title: "Mad Money"
+description: "Susan Strange"
+datetext: "1998"
+excerpt: "Strange, Susan. Manchester: Manchester University Press, 1998."
+excerpt2: "In this sequel to Casino Capitalism (1986) Strange returns to a concentration on the financial structure. Her final book finds Strange once again emphasising the need to recognise the problems of instability in the global financial sector. Arguing that the system itself needed to be reformed, she once again refused to accept that the current upheavals were inevitable or unavoidable."
+excerpt3: "Keywords: Money and Finance"
 
-date: 2023
-tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
-contributors: ["Daniel Brett"]
-categories: ["Source1", "Demo Paper"]
+date: 1998
+tags: ["Money and Finance", "1990's"]
+contributors: ["Susan Strange"]
+categories: ["Book"]
 
 draft: false
 weight: 50
@@ -19,22 +19,10 @@ pinned: false
 homepage: false
 ---
 
-This is the text that fills the static page for this object.  
+Strange, Susan. *Mad Money*. Manchester: Manchester University Press, 1998.
 
-You can put anything you want here in plaintext.
+In this sequel to **Casino Capitalism (1986)** Strange returns to a concentration on the financial structure. Her final book finds Strange once again emphasising the need to recognise the problems of instability in the global financial sector. Arguing that the system itself needed to be reformed, she once again refused to accept that the current upheavals were inevitable or unavoidable.
 
-If you want to add special elemets like links or images you can use either markdown code:
+Keywords: Money and Finance
 
-[This is a link](http://www.google.ca)
-
-or HTML code
-
-<a href="http://www.google.ca">This is also a link</a> 
-
-Images can be done similarly using markdown:
-
-![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
-
-Or HTML code:
-
-<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
+[Text access (external link)](https://www.worldcat.org/title/976026308)
