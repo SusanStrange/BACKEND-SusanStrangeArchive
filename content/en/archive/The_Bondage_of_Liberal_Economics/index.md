@@ -1,16 +1,16 @@
 ---
 
-title: "Demo/Template object"
-description: "This is the text displayed by the search results"
-datetext: "2023"
-excerpt: "Citation data"
-excerpt2: "Abstract content"
-excerpt3: "Extra content like key terms"
+title: "The Bondage of Liberal Economics"
+description: "By Susan Strange"
+datetext: "1986"
+excerpt: "Strange, Susan. SAIS Review 6, no. 1 (1986): 25-38."
+excerpt2: "Here Strange returns again to the inadequacy of economics in its analysis of international trade, made in 'International Trade' (1955) and 'International money matters' (1970), and elsewhere. Noting the contradictions between economic models of international trade and what was actually happening in the international economy, Strange argues economists have failed to appreciate that trade is only a secondary international structure. This leads her to briefly lay out the argument that would be developed at more length in States and Markets (1988). Most importantly she firmly concludes that international economics is an ideological construction which serves the interests of the powerful states, most significantly the United States."
+excerpt3: "Keywords: Economics; Hegemony; Theory; Trade; General Framework"
 
-date: 2023
-tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
-contributors: ["Daniel Brett"]
-categories: ["Source1", "Demo Paper"]
+date: 1986
+tags: ["Economics", "Hegemony", "Theory", "Trade", "1980's"]
+contributors: ["Susan Strange"]
+categories: ["Journal Article"]
 
 draft: false
 weight: 50
@@ -19,22 +19,10 @@ pinned: false
 homepage: false
 ---
 
-This is the text that fills the static page for this object.  
+Strange, Susan "The Bondage of Liberal Economics." *SAIS Review* 6, no. 1 (1986): 25-38.
 
-You can put anything you want here in plaintext.
+Here Strange returns again to the inadequacy of economics in its analysis of international trade, made in **'International Trade' (1955)** and **'International money matters' (1970)**, and elsewhere. Noting the contradictions between economic models of international trade and what was actually happening in the international economy, Strange argues economists have failed to appreciate that trade is only a secondary international structure. This leads her to briefly lay out the argument that would be developed at more length in States and Markets (1988). Most importantly she firmly concludes that international economics is an ideological construction which serves the interests of the powerful states, most significantly the United States.
 
-If you want to add special elemets like links or images you can use either markdown code:
+Keywords: Economics; Hegemony; Theory; Trade; General Framework
 
-[This is a link](http://www.google.ca)
-
-or HTML code
-
-<a href="http://www.google.ca">This is also a link</a> 
-
-Images can be done similarly using markdown:
-
-![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
-
-Or HTML code:
-
-<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
+[Text access (external link)](https://www.jstor.org/stable/45349330)
