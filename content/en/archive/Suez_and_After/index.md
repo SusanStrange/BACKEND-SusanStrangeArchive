@@ -1,16 +1,16 @@
 ---
 
-title: "Demo/Template object"
-description: "This is the text displayed by the search results"
-datetext: "2023"
-excerpt: "Citation data"
-excerpt2: "Abstract content"
-excerpt3: "Extra content like key terms"
+title: "Suez and After"
+description: "By Susan Strange"
+datetext: "1957"
+excerpt: "Strange, Susan. In Year Book of World Affairs 1957. George W. Keeton, Georg Schwarzenberger, editors. 76-103. London: Stevens, 1957."
+excerpt2: "Noting that the underlying cause of the Suez crisis was distrust (or even fear of) Egyptian nationalism, Strange explores the idea of a Britain or France had a 'vital interest' in the international (rather than national control) of the Suez Canal. While the military costs might have been open to some debate before the action, she argues that the diplomatic problems that Suez prompted were easily foreseeable. Suez revealed the weakness of Britain and France as declining powers but overall Strange concludes that while some minor illusions had been shattered, the lessons of the crisis do not seem to have been appreciated by politicians in Britain or France."
+excerpt3: "Keywords: Security; International Relations"
 
-date: 2023
-tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
-contributors: ["Daniel Brett"]
-categories: ["Source1", "Demo Paper"]
+date: 1957
+tags: ["Security", "1950's and earlier"]
+contributors: ["Susan Strange", "Editor: George W. Keeton", "Editor: Georg Schwarzenberger"]
+categories: ["Book Chapter"]
 
 draft: false
 weight: 50
@@ -19,22 +19,10 @@ pinned: false
 homepage: false
 ---
 
-This is the text that fills the static page for this object.  
+Strange, Susan. "Suez and After." In *Year Book of World Affairs 1957*, George W. Keeton, Georg Schwarzenberger, editors. 76-103. London: Stevens, 1957.
 
-You can put anything you want here in plaintext.
+Noting that the underlying cause of the Suez crisis was distrust (or even fear of) Egyptian nationalism, Strange explores the idea of a Britain or France had a 'vital interest' in the international (rather than national control) of the Suez Canal. While the military costs might have been open to some debate before the action, she argues that the diplomatic problems that Suez prompted were easily foreseeable. Suez revealed the weakness of Britain and France as declining powers but overall Strange concludes that while some minor illusions had been shattered, the lessons of the crisis do not seem to have been appreciated by politicians in Britain or France.
 
-If you want to add special elemets like links or images you can use either markdown code:
+Keywords: Security; International Relations
 
-[This is a link](http://www.google.ca)
-
-or HTML code
-
-<a href="http://www.google.ca">This is also a link</a> 
-
-Images can be done similarly using markdown:
-
-![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
-
-Or HTML code:
-
-<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
+[Text access (external link)](https://www.worldcat.org/title/867379785)
