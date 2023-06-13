@@ -1,6 +1,6 @@
 ---
 
-title:  "Susan Strange saw the financial crisis coming, Your Majesty": The Case for the LSE's Great Global Political Economist"
+title: "Susan Strange saw the financial crisis coming, Your Majesty": The Case for the LSE's Great Global Political Economist"
 description: "By Nat Dyer"
 datetext: "2021"
 excerpt: "Dyer, Nat. ""Susan Strange saw the financial crisis coming, Your Majesty": The Case for the LSE’s Great Global Political Economist." Real-World Economic Review 98 (2021)."
