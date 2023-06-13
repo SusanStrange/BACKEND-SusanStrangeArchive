@@ -1,6 +1,6 @@
 ---
 
-title: ""Paths to International Political Economy"
+title: "Paths to International Political Economy"
 description: "Edited By Susan Strange"
 datetext: "1984"
 excerpt: "Strange, Susan, editor. London: Allan and Unwin, 1984."
