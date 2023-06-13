@@ -1,16 +1,16 @@
 ---
 
-title: "Demo/Template object"
-description: "This is the text displayed by the search results"
-datetext: "2023"
-excerpt: "Citation data"
-excerpt2: "Abstract content"
-excerpt3: "Extra content like key terms"
+title: "Palestine and the UN"
+description: "By Susan Strange"
+datetext: "1949"
+excerpt: "Strange, Susan. In Year Book of World Affairs 1949. F. H. Soward, George W. Keeton, Georg Schwarzenberger, editors. 151-168. London: Stevens, 1949."
+excerpt2: "Strange comments on the UN deliberations concerning the future of Palestine and highlights the central factor that gave the Zionists an in-built advantage at the assembly. While the Arabs were negotiating in a state that was essentially antipathetic to their struggle, their opposite numbers were surrounded by sympathisers and supporters both within and outside the organisation. She also discusses some of the limitations and problems with such negotiations within the forum of the UN, and alludes to structural impediments to the 'fair' settlement of differences."
+excerpt3: "Keywords: International Institutions; International Relations; United Nations"
 
-date: 2023
-tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
-contributors: ["Daniel Brett"]
-categories: ["Source1", "Demo Paper"]
+date: 1949
+tags: ["International Institutions", "1950's and earlier"]
+contributors: ["Susan Strange", "Editor: F. H. Soward", "Editor: George W. Keeton", "Editor: Georg Schwarzenberger"]
+categories: ["Book Chapter"]
 
 draft: false
 weight: 50
@@ -19,22 +19,10 @@ pinned: false
 homepage: false
 ---
 
-This is the text that fills the static page for this object.  
+Strange, Susan. "Palestine and the UN." In *Year Book of World Affairs 1949*, George W. Keeton, Georg Schwarzenberger, editors. 151-168. London: Stevens, 1949.
 
-You can put anything you want here in plaintext.
+Strange comments on the UN deliberations concerning the future of Palestine and highlights the central factor that gave the Zionists an in-built advantage at the assembly. While the Arabs were negotiating in a state that was essentially antipathetic to their struggle, their opposite numbers were surrounded by sympathisers and supporters both within and outside the organisation. She also discusses some of the limitations and problems with such negotiations within the forum of the UN, and alludes to structural impediments to the 'fair' settlement of differences.
 
-If you want to add special elemets like links or images you can use either markdown code:
+Keywords: International Institutions; International Relations; United Nations
 
-[This is a link](http://www.google.ca)
-
-or HTML code
-
-<a href="http://www.google.ca">This is also a link</a> 
-
-Images can be done similarly using markdown:
-
-![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
-
-Or HTML code:
-
-<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
+[Text access (external link)](https://www.worldcat.org/title/5127085287)
