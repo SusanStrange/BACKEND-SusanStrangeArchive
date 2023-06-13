@@ -1,6 +1,6 @@
 ---
 
-title: "The Fall of the United States: Peace, Stability, and Legitimacy"
+title: "The 'Fall' of the United States: Peace, Stability, and Legitimacy"
 description: "By Susan Strange"
 datetext: "1994"
 excerpt: "Strange, Susan. In The Fall of Great Powers: Peace, Stability and Legitimacy. Geir Lundestad, editor. 197-211. Oslo and Oxford: Scandinavian University Press and Oxford University Press, 1994."
