@@ -1,6 +1,6 @@
 ---
 
-title: "Globalization and the Rise of Integrated World Society: Deterritorialization, Structural-Power, and the Endogenization of International Society"
+title: "Globalization and the Rise of Integrated World Society: Deterritorialization, Structural-Power, and the Endogenization of International Society."
 description: "By Salvatore Babones, John H.S. Aberg"
 datetext: "2019"
 excerpt: "Babones, Salvatore. "Globalization and the Rise of Integrated World Society: Deterritorialization, Structural-Power, and the Endogenization of International Society." International Theory 11 3 (2019): 293-317."
