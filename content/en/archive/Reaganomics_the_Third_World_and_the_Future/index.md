@@ -1,16 +1,16 @@
 ---
 
-title: "Demo/Template object"
-description: "This is the text displayed by the search results"
-datetext: "2023"
-excerpt: "Citation data"
-excerpt2: "Abstract content"
-excerpt3: "Extra content like key terms"
+title: "Reaganomics, the Third World and the Future"
+description: "By Susan Strange"
+datetext: "1986"
+excerpt: "Strange, Susan. In Third World Affairs 1986. Raana Gauhar, editor. 65-72. London: Third World Foundation for Social and Economic Studies, 1986."
+excerpt2: "Strange starts this chapter with the suggestion that like Mark Twain reports of the demise of American hegemony are premature. She then presents a short history of U.S. economic policy towards the Third World and the global system as a whole. This allows her to emphasise the structural power approach that she would develop at some length in States and Markets (1988) and argue that while many on the left see America's influence as entirely malign, she sees good and bad in its domination of the international system. She concludes the main problem is uncertainty regarding U.S. policy, which while leading to rational responses (risk-avoiding devices, such as hedging) in the financial structure. However, these responses also bring with them a shadow (speculation, gambling and both political and economic recklessness) which produces further financial instability for the system and most particularly Third World countries."
+excerpt3: "Keywords: Hegemony; Money and Finance; Structural Power, Power"
 
-date: 2023
-tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
-contributors: ["Daniel Brett"]
-categories: ["Source1", "Demo Paper"]
+date: 1986
+tags: ["Hegemony", "Money and Finance", "Structural Power, Power", "1980's"]
+contributors: ["Susan Strange", "Editor: Raana Gauhar"]
+categories: ["Book Chapter"]
 
 draft: false
 weight: 50
@@ -19,22 +19,10 @@ pinned: false
 homepage: false
 ---
 
-This is the text that fills the static page for this object.  
+Strange, Susan. "Reaganomics, the Third World and the Future." In *Third World Affairs 1986*, Raana Gauhar, editors. 65-72. London: Third World Foundation for Social and Economic Studies , 1986.
 
-You can put anything you want here in plaintext.
+Strange starts this chapter with the suggestion that like Mark Twain reports of the demise of American hegemony are premature. She then presents a short history of U.S. economic policy towards the Third World and the global system as a whole. This allows her to emphasise the structural power approach that she would develop at some length in **States and Markets (1988)** and argue that while many on the left see America's influence as entirely malign, she sees good and bad in its domination of the international system. She concludes the main problem is uncertainty regarding U.S. policy, which while leading to rational responses (risk-avoiding devices, such as hedging) in the financial structure. However, these responses also bring with them a shadow (speculation, gambling and both political and economic recklessness) which produces further financial instability for the system and most particularly Third World countries.
 
-If you want to add special elemets like links or images you can use either markdown code:
+Keywords: Hegemony; Money and Finance; Structural Power, Power
 
-[This is a link](http://www.google.ca)
-
-or HTML code
-
-<a href="http://www.google.ca">This is also a link</a> 
-
-Images can be done similarly using markdown:
-
-![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
-
-Or HTML code:
-
-<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
+[Text access (external link)](https://www.worldcat.org/title/865718641?oclcNum=865718641)
