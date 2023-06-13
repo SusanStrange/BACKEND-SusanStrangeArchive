@@ -1,16 +1,16 @@
 ---
 
-title: "Demo/Template object"
-description: "This is the text displayed by the search results"
-datetext: "2023"
-excerpt: "Citation data"
-excerpt2: "Abstract content"
-excerpt3: "Extra content like key terms"
+title: "The Future of the American Empire"
+description: "By Susan Strange"
+datetext: "1988"
+excerpt: "Strange, Susan. Journal of International Affairs 42, no. 1 (1988): 1-17."
+excerpt2: "Strange argues that increasingly power in the international political economy is not territorially defined, and what has emerged is an empire that is not territorially based, and secondly is controlled by information-rich US corporations. However while she call this the 'American Empire' her argument is (self-avowedly) close to an international Gramscian 'historical bloc' analysis. Thus the controlling bureaucracy of this empire while based on American values and culture is not necessarily staffed by Americans. This argument is carried further in 'Towards a Theory of Transnational Empire' (1989)."
+excerpt3: "Keywords: Hegemony; Knowledge; Structural Power, Power; Knowledge Production; Transnational Corporations"
 
-date: 2023
-tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
-contributors: ["Daniel Brett"]
-categories: ["Source1", "Demo Paper"]
+date: 1988
+tags: ["Hegemony", "Knowledge", "Structural Power, Power", "1980's"]
+contributors: ["Susan Strange"]
+categories: ["Journal Article"]
 
 draft: false
 weight: 50
@@ -19,22 +19,10 @@ pinned: false
 homepage: false
 ---
 
-This is the text that fills the static page for this object.  
+Strange, Susan "The Future of the American Empire." *Journal of International Affairs* 42, no. 1 (1988): 1-17.
 
-You can put anything you want here in plaintext.
+Strange argues that increasingly power in the international political economy is not territorially defined, and what has emerged is an empire that is not territorially based, and secondly is controlled by information-rich US corporations. However while she call this the 'American Empire' her argument is (self-avowedly) close to an international Gramscian 'historical bloc' analysis. Thus the controlling bureaucracy of this empire while based on American values and culture is not necessarily staffed by Americans. This argument is carried further in 'Towards a Theory of Transnational Empire' (1989).
 
-If you want to add special elemets like links or images you can use either markdown code:
+Keywords: Hegemony; Knowledge; Structural Power, Power; Knowledge Production; Transnational Corporations
 
-[This is a link](http://www.google.ca)
-
-or HTML code
-
-<a href="http://www.google.ca">This is also a link</a> 
-
-Images can be done similarly using markdown:
-
-![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
-
-Or HTML code:
-
-<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
+[Text access (external link)](https://www.jstor.org/stable/24357198)
