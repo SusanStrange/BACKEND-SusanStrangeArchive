@@ -1,16 +1,16 @@
 ---
 
-title: "Demo/Template object"
-description: "This is the text displayed by the search results"
-datetext: "2023"
-excerpt: "Citation data"
-excerpt2: "Abstract content"
-excerpt3: "Extra content like key terms"
+title: "Protectionism - Why Not?"
+description: "By Susan Strange"
+datetext: "1985"
+excerpt: "Strange, Susan. The World Today 41, nos. 8 and 9 (1985): 148-150."
+excerpt2: "In this short polemic piece Strange argues that states should adopt a pragmatic approach to protectionism (mimicking the practices, if not the ideology of America). With the growth of international production and bi-lateralism it is little wonder that, despite the GATT's claims to the contrary, the actual figures on international trade suggest the overall protectionism has little effect on growth. This suggests that the state (and politically driven preferential procurement) can still play a role in the national links to international trade without fear of disaster."
+excerpt3: "Keywords: Trade"
 
-date: 2023
-tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
-contributors: ["Daniel Brett"]
-categories: ["Source1", "Demo Paper"]
+date: 1985
+tags: ["Trade", "1980's"]
+contributors: ["Susan Strange"]
+categories: ["Journal Article"]
 
 draft: false
 weight: 50
@@ -19,22 +19,10 @@ pinned: false
 homepage: false
 ---
 
-This is the text that fills the static page for this object.  
+Strange, Susan "Protectionism - Why Not?." *The World Today* 41, nos. 8 and 9 (1985): 148-150.
 
-You can put anything you want here in plaintext.
+In this short polemic piece Strange argues that states should adopt a pragmatic approach to protectionism (mimicking the practices, if not the ideology of America). With the growth of international production and bi-lateralism it is little wonder that, despite the GATT's claims to the contrary, the actual figures on international trade suggest the overall protectionism has little effect on growth. This suggests that the state (and politically driven preferential procurement) can still play a role in the national links to international trade without fear of disaster.
 
-If you want to add special elemets like links or images you can use either markdown code:
+Keywords: Trade
 
-[This is a link](http://www.google.ca)
-
-or HTML code
-
-<a href="http://www.google.ca">This is also a link</a> 
-
-Images can be done similarly using markdown:
-
-![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
-
-Or HTML code:
-
-<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
+[Text access (external link)](https://www.jstor.org/stable/40395755)
