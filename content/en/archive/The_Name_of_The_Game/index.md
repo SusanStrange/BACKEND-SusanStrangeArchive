@@ -1,16 +1,16 @@
 ---
 
-title: "Demo/Template object"
-description: "This is the text displayed by the search results"
-datetext: "2023"
-excerpt: "Citation data"
-excerpt2: "Abstract content"
-excerpt3: "Extra content like key terms"
+title: "The Name of the Game"
+description: "By Susan Strange"
+datetext: "1990"
+excerpt: "Strange, Susan. In Sea Changes: American Foreign Policy in a World Transformed, Nicholas X. Rizopoulos, editors. 238-273. New York: Council on Foreign Relations Press, 1990."
+excerpt2: "Strange develops an argument that the competition for territory in international relations has been superseded by the competition for world market shares. This decline in the importance in territory has engendered among other things an international business civilisation that is based on firms and enterprises rather than nationality. However this seems to be different from the transnational empire she suggests in 'Towards a Theory of Transnational Empire' (1989). This central change in the international political economy, has led to a diffusion of state power, but still leaves the US the most powerful actor in the world. Strange argues that power is shifting from a territorial state basis, to a transnational enterprise basis. However this power is geographical, centred on such cities as New York and Los Angeles, not as before on Washington DC. This article marks a significant step towards the analysis of firms as being as important as states for Strange's IPE, fully developed in Rival States, Rival Firms: Competition for world market shares (with John M. Stopford and John S. Henley, 1991) ."
+excerpt3: "Keywords: Corporations; Markets; Theory; Structural Power, Power; International Economics; Transnational Corporations"
 
-date: 2023
-tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
-contributors: ["Daniel Brett"]
-categories: ["Source1", "Demo Paper"]
+date: 1990
+tags: ["Corporations", "Markets", "Theory", "Structural Power, Power", "1990's"]
+contributors: ["Susan Strange", "Editor: Nicholas X. Rizopoulos"]
+categories: ["Book Chapter"]
 
 draft: false
 weight: 50
@@ -19,22 +19,10 @@ pinned: false
 homepage: false
 ---
 
-This is the text that fills the static page for this object.  
+Strange, Susan. "The Name of the Game." In *Sea Changes: American Foreign Policy in a World Transformed*, Nicholas X. Rizopoulos, editors. 238-273. New York: Council on Foreign Relations Press, 1990.
 
-You can put anything you want here in plaintext.
+Strange develops an argument that the competition for territory in international relations has been superseded by the competition for world market shares. This decline in the importance in territory has engendered among other things an international business civilisation that is based on firms and enterprises rather than nationality. However this seems to be different from the transnational empire she suggests in **'Towards a Theory of Transnational Empire' (1989)**. This central change in the international political economy, has led to a diffusion of state power, but still leaves the US the most powerful actor in the world. Strange argues that power is shifting from a territorial state basis, to a transnational enterprise basis. However this power is geographical, centred on such cities as New York and Los Angeles, not as before on Washington DC. This article marks a significant step towards the analysis of firms as being as important as states for Strange's IPE, fully developed in **Rival States, Rival Firms (with John M. Stopford, 1991)** .
 
-If you want to add special elemets like links or images you can use either markdown code:
+Keywords: Corporations; Markets; Theory; Structural Power, Power; International Economics; Transnational Corporations
 
-[This is a link](http://www.google.ca)
-
-or HTML code
-
-<a href="http://www.google.ca">This is also a link</a> 
-
-Images can be done similarly using markdown:
-
-![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
-
-Or HTML code:
-
-<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
+[Text access (external link)](https://www.worldcat.org/title/22005520)
