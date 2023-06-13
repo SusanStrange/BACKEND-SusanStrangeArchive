@@ -1,16 +1,16 @@
 ---
 
-title: "Demo/Template object"
-description: "This is the text displayed by the search results"
-datetext: "2023"
-excerpt: "Citation data"
-excerpt2: "Abstract content"
-excerpt3: "Extra content like key terms"
+title: "Territory, State, Authority and Economy: A New Realist Ontology of Global Political Economy"
+description: "By Susan Strange"
+datetext: "1997"
+excerpt: "Strange, Susan. In The New Realism: Perspectives on Multilateralism and World Order. Robert W. Cox, editor. 3-19. Basingstoke: Macmillan Press/ United Nations University Press, 1997."
+excerpt2: "Strange argues that the global economy is in the midst of a transition; the close incidence of political authority, economic activity and geographical territory no longer holds. This has been caused by two main groups of factors: firstly changes derived from science and technology; and secondly structural changes within the global finance structure. Authority has shifted, or is shifting, from states to other actors in the international political economy. She disputes Rosenau's hypothesis of the emergence of a second world of turbulent complexity, disturbing the old world of international relations, instead arguing that it is all the same world, just more complex! Reprinted in: Authority and Markets: Susan Strange’s Writings on International Political Economy. Roger Tooze and Christopher May, editors. Basingstoke: Palgrave Macmillan, 2002."
+excerpt3: "Keywords: Authority; Knowledge; Markets; Money and Finance; States; Authority vs Markets; Technology"
 
-date: 2023
-tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
-contributors: ["Daniel Brett"]
-categories: ["Source1", "Demo Paper"]
+date: 1997	
+tags: ["Authority", "Knowledge", "Markets", "Money and Finance", "States", "1990's"]
+contributors: ["Susan Strange", "Editor: Robert W. Cox"]
+categories: ["Book Chapter"]
 
 draft: false
 weight: 50
@@ -19,22 +19,12 @@ pinned: false
 homepage: false
 ---
 
-This is the text that fills the static page for this object.  
+Strange, Susan. "Territory, State, Authority and Economy: A New Realist Ontology of Global Political Economy." In *The New Realism: Perspectives on Multilateralism and World Order *, Robert W. Cox, editor. 3-19. Basingstoke: Macmillan Press/ United Nations University Press, 1997.
 
-You can put anything you want here in plaintext.
+Strange argues that the global economy is in the midst of a transition; the close incidence of political authority, economic activity and geographical territory no longer holds. This has been caused by two main groups of factors: firstly changes derived from science and technology; and secondly structural changes within the global finance structure. Authority has shifted, or is shifting, from states to other actors in the international political economy. She disputes Rosenau's hypothesis of the emergence of a second world of turbulent complexity, disturbing the old world of international relations, instead arguing that it is all the same world, just more complex!
 
-If you want to add special elemets like links or images you can use either markdown code:
+Reprinted in: *Authority and Markets: Susan Strange’s Writings on International Political Economy*. Roger Tooze and Christopher May, editors. Basingstoke: Palgrave Macmillan, 2002.
 
-[This is a link](http://www.google.ca)
+Keywords: Authority; Knowledge; Markets; Money and Finance; States; Authority vs Markets; Technology
 
-or HTML code
-
-<a href="http://www.google.ca">This is also a link</a> 
-
-Images can be done similarly using markdown:
-
-![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
-
-Or HTML code:
-
-<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
+[Text access (external link)](https://www.worldcat.org/title/35758047)
