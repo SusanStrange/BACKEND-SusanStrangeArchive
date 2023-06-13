@@ -1,6 +1,6 @@
 ---
 
-title: "Demo/Template object"
+title: "Globalization and the Rise of Integrated World Society: Deterritorialization, Structural-Power, and the Endogenization of International Society."
 description: "This is the text displayed by the search results"
 datetext: "2023"
 excerpt: "Citation data"
