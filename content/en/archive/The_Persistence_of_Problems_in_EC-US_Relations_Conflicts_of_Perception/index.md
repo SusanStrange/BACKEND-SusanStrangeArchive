@@ -1,16 +1,16 @@
 ---
 
-title: "Demo/Template object"
-description: "This is the text displayed by the search results"
-datetext: "2023"
-excerpt: "Citation data"
-excerpt2: "Abstract content"
-excerpt3: "Extra content like key terms"
+title: "The Persistence of Problems in EC-US Relations: Conflicts of Perception?"
+description: "By Susan Strange"
+datetext: "1989"
+excerpt: "Strange, Susan. In The External Relations of the European Community, in Particular EC-US Relations. Jürgen Schwarze, editor. 109-118. Baden-Baden: Nomos Verlasgesellschaft, 1989."
+excerpt2: "Strange suggests that the two primary activities of any political organisation are the furtherance of security and the control of money, and it is these issues that remain at the centre of the problem of US-Europe relations. Here Strange again challenges the assumption of a loss of American hegemony (and therefore power) in the global system. This leads her to emphasise the need for both political will by the system's strongest state as well as international and multilateral efforts to attend to the problems of the global system, for it is different perception on either side of the Atlantic of America's potential to act which are causing continued friction. While the Europeans see an America unwilling to act, the US Government claims it cannot act."
+excerpt3: "Keywords: Europe; Hegemony; Money and Finance; Security; United States"
 
-date: 2023
-tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
-contributors: ["Daniel Brett"]
-categories: ["Source1", "Demo Paper"]
+date: 1989
+tags: ["Europe", "Hegemony", "Money and Finance", "Security", "United States", "1980's"]
+contributors: ["Susan Strange", "Editor: Jürgen Schwarze"]
+categories: ["Book Chapter"]
 
 draft: false
 weight: 50
@@ -19,22 +19,10 @@ pinned: false
 homepage: false
 ---
 
-This is the text that fills the static page for this object.  
+Strange, Susan. "The Persistence of Problems in EC-US Relations: Conflicts of Perception?." In *The External Relations of the European Community, in Particular EC-US Relations*, Jürgen Schwarze, editor. 109-118. Baden-Baden: Nomos Verlasgesellschaft, 1989.
 
-You can put anything you want here in plaintext.
+Strange suggests that the two primary activities of any political organisation are the furtherance of security and the control of money, and it is these issues that remain at the centre of the problem of US-Europe relations. Here Strange again challenges the assumption of a loss of American hegemony (and therefore power) in the global system. This leads her to emphasise the need for both political will by the system's strongest state as well as international and multilateral efforts to attend to the problems of the global system, for it is different perception on either side of the Atlantic of America's potential to act which are causing continued friction. While the Europeans see an America unwilling to act, the US Government claims it cannot act.
 
-If you want to add special elemets like links or images you can use either markdown code:
+Keywords: Europe; Hegemony; Money and Finance; Security; United States
 
-[This is a link](http://www.google.ca)
-
-or HTML code
-
-<a href="http://www.google.ca">This is also a link</a> 
-
-Images can be done similarly using markdown:
-
-![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
-
-Or HTML code:
-
-<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
+[Text access (external link)](https://www.worldcat.org/title/20406795)
