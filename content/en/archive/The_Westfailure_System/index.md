@@ -1,16 +1,16 @@
 ---
 
-title: "Demo/Template object"
-description: "This is the text displayed by the search results"
-datetext: "2023"
-excerpt: "Citation data"
-excerpt2: "Abstract content"
-excerpt3: "Extra content like key terms"
+title: "The Westfailure System"
+description: "By Susan Strange"
+datetext: "1999"
+excerpt: "Strange, Susan. Review of International Studies 25, no. 3 (1999): 345-354."
+excerpt2: "In this posthumously published essay, Strange briefly outlines the parallel histories of the territorial system of states and the economic system of markets and suggests that until the last quarter of the twentieth century each benefited the other. However, as she often argued in the 1990s, the political system is now failing in three areas: the states system is increasingly unable to manage instability in the global financial system; the sovereign system is unable to deal effectively with globalised environmental problems; and lastly the political system's interaction with the global market is producing widening socio-economic inequality across the global system. However, only by understanding the role of non-state authority through the study of both international and comparative political economy and a move away from International Relation's state-centricism can the Westfailure system be understood and alternatives assessed. Reprinted in: Authority and Markets: Susan Strange’s Writings on International Political Economy. Roger Tooze and Christopher May, editors. Basingstoke: Palgrave Macmillan, 2002."
+excerpt3: "Keywords: Corporations; Global Governance; States; Westfailure System; International Relations"
 
-date: 2023
-tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
-contributors: ["Daniel Brett"]
-categories: ["Source1", "Demo Paper"]
+date: 1999
+tags: ["Corporations", "Global Governance", "States", "1990's"]
+contributors: ["Susan Strange"]
+categories: ["Journal Article"]
 
 draft: false
 weight: 50
@@ -19,22 +19,12 @@ pinned: false
 homepage: false
 ---
 
-This is the text that fills the static page for this object.  
+Susan Strange. "The Westfailure System." *Review of International Studies* 25, no. 3 (1999): 345-354.
 
-You can put anything you want here in plaintext.
+In this posthumously published essay, Strange briefly outlines the parallel histories of the territorial system of states and the economic system of markets and suggests that until the last quarter of the twentieth century each benefited the other. However, as she often argued in the 1990s, the political system is now failing in three areas: the states system is increasingly unable to manage instability in the global financial system; the sovereign system is unable to deal effectively with globalised environmental problems; and lastly the political system's interaction with the global market is producing widening socio-economic inequality across the global system. However, only by understanding the role of non-state authority through the study of both international and comparative political economy and a move away from International Relation's state-centricism can the Westfailure system be understood and alternatives assessed.
 
-If you want to add special elemets like links or images you can use either markdown code:
+Reprinted in: *Authority and Markets: Susan Strange’s Writings on International Political Economy*. Roger Tooze and Christopher May, editors. Basingstoke: Palgrave Macmillan, 2002.
 
-[This is a link](http://www.google.ca)
+Keywords: Corporations; Global Governance; States; Westfailure System; International Relations
 
-or HTML code
-
-<a href="http://www.google.ca">This is also a link</a> 
-
-Images can be done similarly using markdown:
-
-![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
-
-Or HTML code:
-
-<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
+[Text access (external link)](https://doi.org/10.1017/S0260210599003459)
