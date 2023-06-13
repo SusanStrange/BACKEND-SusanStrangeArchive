@@ -1,16 +1,16 @@
 ---
 
-title: "Demo/Template object"
-description: "This is the text displayed by the search results"
-datetext: "2023"
-excerpt: "Citation data"
-excerpt2: "Abstract content"
-excerpt3: "Extra content like key terms"
+title: "Towards a Theory of Transnational Empire"
+description: "By Susan Strange"
+datetext: "1989"
+excerpt: "Strange, Susan. In Global Changes and Theoretical Challenges: Approaches to World Politics for the 1990s. Ernst-Otto Czempiel, James N. Roseneau, editors. 161-176. Lexington: Lexington Books, 1989."
+excerpt2: "In this article Strange offers only her second explicit excursion into the epistemology of international theories, the first being a similar section in States and Markets (1988). She argues that theories must be more than description, taxonomy, importation of models from other disciplines or quantitative and that theories must explain some aspect of the international system not obvious to 'commonsense'. In addition she argues for her own version of non-positivism stressing only that rationality of explanation is required for a theory to be scientific. In the second part of this article Strange argues for a non-territorial theory of imperialism based on her four structures of power. The transnational empire she identifies is centred on the 'court' in Washington DC, and she argues that new studies of empire are needed to understand this new type of transnational empire. What is required is a problem solving theory for such an empire, since it is manifestly in existence. Reprinted in: Political Regulation in the 'Great Crisis'. Werner Väth, editor. 25.42. Berlin: Edition Sigma, 1989; and in  Authority and Markets: Susan Strange’s Writings on International Political Economy. Roger Tooze and Christopher May, editors. Basingstoke: Palgrave Macmillan, 2002."
+excerpt3: "Keywords: Hegemony; Political Economy; Theory"
 
-date: 2023
-tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
-contributors: ["Daniel Brett"]
-categories: ["Source1", "Demo Paper"]
+date: 1989
+tags: ["Hegemony", "Political Economy", "Theory", "1980's"]
+contributors: ["Susan Strange", "Editor: Ernst-Otto Czempiel", "Editor: James N. Roseneau"]
+categories: ["Book Chapter"]
 
 draft: false
 weight: 50
@@ -19,23 +19,12 @@ pinned: false
 homepage: false
 ---
 
-This is the text that fills the static page for this object.  
+Strange, Susan. "Towards a Theory of Transnational Empire." In *Global Changes and Theoretical Challenges: Approaches to World Politics for the 1990s*, Ernst-Otto Czempiel, James N. Roseneau, editors. 161-176. Lexington: Lexington Books, 1989.
 
-You can put anything you want here in plaintext.
+In this article Strange offers only her second explicit excursion into the epistemology of international theories, the first being a similar section in **States and Markets (1988)**. She argues that theories must be more than description, taxonomy, importation of models from other disciplines or quantitative and that theories must explain some aspect of the international system not obvious to 'commonsense'. In addition she argues for her own version of non-positivism stressing only that rationality of explanation is required for a theory to be scientific. In the second part of this article Strange argues for a non-territorial theory of imperialism based on her four structures of power. The transnational empire she identifies is centred on the 'court' in Washington DC, and she argues that new studies of empire are needed to understand this new type of transnational empire. What is required is a problem solving theory for such an empire, since it is manifestly in existence.
 
-If you want to add special elemets like links or images you can use either markdown code:
+Reprinted in: *Political Regulation in the 'Great Crisis'*. Werner Väth, editor. 25.42. Berlin: Edition Sigma, 1989; and in  *Authority and Markets: Susan Strange’s Writings on International Political Economy*. Roger Tooze and Christopher May, editors. Basingstoke: Palgrave Macmillan, 2002.
 
-[This is a link](http://www.google.ca)
+Keywords: Hegemony; Political Economy; Theory
 
-or HTML code
-
-<a href="http://www.google.ca">This is also a link</a> 
-
-Images can be done similarly using markdown:
-
-![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
-
-Or HTML code:
-
-<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
-
+[Text access (external link)](https://www.worldcat.org/title/global-changes-and-theoretical-challenges-approaches-to-world-politics-for-the-1990s/oclc/18496582)
