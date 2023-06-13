@@ -8,7 +8,7 @@ excerpt2: "In this review of Robert Gilpin's Political Economy of International 
 excerpt3: "Keywords: Hegemony; Structural Power, Power; Theory; Trade"
 
 date: 1988
-tags: ["Hegemony", "Structural Power, Power", "Theory", "Trade", "1980's"]
+tags: ["Hegemony", "Structural Power", "Power", "Theory", "Trade", "1980's"]
 contributors: ["Susan Strange"]
 categories: ["Journal Article"]
 
