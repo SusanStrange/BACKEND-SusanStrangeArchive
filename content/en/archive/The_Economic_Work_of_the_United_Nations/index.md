@@ -1,16 +1,16 @@
 ---
 
-title: "Demo/Template object"
-description: "This is the text displayed by the search results"
-datetext: "2023"
-excerpt: "Citation data"
-excerpt2: "Abstract content"
-excerpt3: "Extra content like key terms"
+title: "The Economic Work of the United Nations"
+description: "By Susan Strange"
+datetext: "1954"
+excerpt: "Strange, Susan. In Year Book of World Affairs 1954. George W. Keeton, Georg Schwarzenberger, editors. 118-140. London: Stevens, 1954."
+excerpt2: "Strange argues that governments have increased power over domestic economic forces, and feel that this power is necessary and desirable. The UN has generated and publicised debates surrounding economic development, and led indirectly to 'point four programme' financial aid. But the US has in practice been given a paternal right to define and prioritise the economic goals of the UN, and set the agenda of acceptable economic policies. Strange suggests that freedom of trade in the dollar area is seen as much more important to the creation of world free trade than relations between other trading states. She argues that the UN has failed in its over-optimistic aims because the responsibility for economic stability and progress was assumed by its members to take precedence over a wider responsibility for international economic progress and stability."
+excerpt3: "Keywords: Hegemony; Money and Finance; United States; Economic Development; United Nations"
 
-date: 2023
-tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
-contributors: ["Daniel Brett"]
-categories: ["Source1", "Demo Paper"]
+date: 1954
+tags: ["Hegemony", "Money and Finance", "United States", "1950's and earlier"]
+contributors: ["Susan Strange", "Editor: George W. Keeton", "Editor: Georg Schwarzenberger"]
+categories: ["Book Chapter"]
 
 draft: false
 weight: 50
@@ -19,22 +19,10 @@ pinned: false
 homepage: false
 ---
 
-This is the text that fills the static page for this object.  
+Strange, Susan. "The Economic Work of the United Nations." In *Year Book of World Affairs 1956*, George W. Keeton, Georg Schwarzenberger, editors. 118-140. London: Stevens, 1954.
 
-You can put anything you want here in plaintext.
+Strange argues that governments have increased power over domestic economic forces, and feel that this power is necessary and desirable. The UN has generated and publicised debates surrounding economic development, and led indirectly to 'point four programme' financial aid. But the US has in practice been given a paternal right to define and prioritise the economic goals of the UN, and set the agenda of acceptable economic policies. Strange suggests that freedom of trade in the dollar area is seen as much more important to the creation of world free trade than relations between other trading states. She argues that the UN has failed in its over-optimistic aims because the responsibility for economic stability and progress was assumed by its members to take precedence over a wider responsibility for international economic progress and stability.
 
-If you want to add special elemets like links or images you can use either markdown code:
+Keywords: Hegemony; Money and Finance; United States; Economic Development; United Nations
 
-[This is a link](http://www.google.ca)
-
-or HTML code
-
-<a href="http://www.google.ca">This is also a link</a> 
-
-Images can be done similarly using markdown:
-
-![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
-
-Or HTML code:
-
-<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
+[Text access (external link)](https://www.worldcat.org/title/4663010780)
