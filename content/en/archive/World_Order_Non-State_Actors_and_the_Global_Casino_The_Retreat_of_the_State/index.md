@@ -1,19 +1,29 @@
 ---
-title: "Political Economy and the Changing Global Order: World Order, Non-State Actors, and the Global Casino: The Retreat of the State?"
-excerpt: "Reflections on the Identity of Europe: Global Transatlantic Perspectives: Europe's Future in the Global Political Economy"
-excerpt: "This is the an edited version of the text published as (1998g) with the addition of a new introduction which briefly lays out many of the arguments which Strange made her own over her long and distinguished career."
+
+title: "World Order, Non-State Actors, and the Global Casino: The Retreat of the State?"
+
+description: "By Susan Strange"
+datetext: "2000"
+excerpt: "Strange, Susan. In Political Economy and the Changing Global Order. Richard Stubbs, Geoffrey R.D. Underhill, editors. 82-90. Oxford: Oxford University Press, 2000."
+excerpt2:"This is the an edited version of the text published as What Theory? The Theory in Mad Money (1998) with the addition of a new introduction which briefly lays out many of the arguments which Strange made her own over her long and distinguished career.
+excerpt3: "Keywords: Corporations; Knowledge; States; Theory; Authority vs Markets; Technology"
+
 date: 2000
-lastmod: 2020-11-04T09:19:42+01:00
+tags: ["Corporations", "Knowledge", "States, "Theory", "2000's"]
+contributors: ["Susan Strange", "Editor: Richard Stubbs", "Editor: Geoffrey R.D. Underhill"]
+categories: ["Book Chapter"]
+
 draft: false
 weight: 50
 images: []
-categories: ["Book Chapter", "Publisher: Oxford University Press"]
-tags: ["Economy", "Structures"]
-contributors: ["Susan Strange", "Editor: Richard Stubbs", "Geoffry R.D. Underhill"]
 pinned: false
 homepage: false
 ---
 
-Book Chapter: This is the an edited version of the text published as (1998g) with the addition of a new introduction which briefly lays out many of the arguments which Strange made her own over her long and distinguished career.
+Strange, Susan. "World Order, Non-State Actors, and the Global Casino: The Retreat of the State?." In *Political Economy and the Changing Global Order, Richard Stubbs, Geoffrey R.D. Underhill, editors. 82-90. Oxford: Oxford University Press, 2000.
 
-Pages 82-90
+This is an edited version of the text published as **'What Theory? The Theory in Mad Money' (1998)** with the addition of a new introduction which briefly lays out many of the arguments which Strange made her own over her long and distinguished career.
+
+Keywords: Corporations; Knowledge; States; Theory; Authority vs Markets; Technology
+
+[Text access (external link)](https://www.worldcat.org/title/58545076)
