@@ -1,16 +1,16 @@
 ---
 
-title: "Demo/Template object"
-description: "This is the text displayed by the search results"
-datetext: "2023"
-excerpt: "Citation data"
-excerpt2: "Abstract content"
-excerpt3: "Extra content like key terms"
+title: "Rival States, Rival Firms: Competition for World Market Shares"
+description: "By Susan Strange and John M. Stopford, with John S. Henley"
+datetext: "1991"
+excerpt: "Strange, Susan, John M. Stopford, John S. Henley. Cambridge: Cambridge University Press, 1991."
+excerpt2: "A self-avowedly part international relations - part international business management work which in keeping with Strange's views discusses the interdependence between politics and economics without fore-grounding one at the expense of the other. The book builds on Strange's theory of power and links it through three national studies (Brazil, Malaysia, Kenya) to a consideration of the effect of structural change in the international political economy on the role of TNCs in international economic development. The authors suggest that diplomacy is now triangular; (traditional) state-state diplomacy has been joined by state-firm, and firm-firm diplomacy in the international political economy. In addition they note that the linking of TNCs with specific nations is increasingly difficult, not least due to the decreasing centrality of territorial considerations of power. The book concludes with policy advise for both states and multinationals and pointers for further research."
+excerpt3: "Keywords: Corporations; Foundational Work; Structural Power, Power; States; Transnational Corporations; Triangular Diplomacy"
 
-date: 2023
-tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
-contributors: ["Daniel Brett"]
-categories: ["Source1", "Demo Paper"]
+date: 1991
+tags: ["Corporations", "Foundational Work", "Structural Power, Power", "States", "1990's"]
+contributors: ["Susan Strange", "John M. Stopford", "John S. Henley"]
+categories: ["Book"]
 
 draft: false
 weight: 50
@@ -19,22 +19,11 @@ pinned: false
 homepage: false
 ---
 
-This is the text that fills the static page for this object.  
+Strange, Susan, John M. Stopford, with John S. Henley. *Rival States, Rival Firms: Competition for World Market Shares*. Cambridge: Cambridge University Press, 1991.
 
-You can put anything you want here in plaintext.
+A self-avowedly part international relations - part international business management work which in keeping with Strange's views discusses the interdependence between politics and economics without fore-grounding one at the expense of the other. The book builds on Strange's theory of power and links it through three national studies (Brazil, Malaysia, Kenya) to a consideration of the effect of structural change in the international political economy on the role of TNCs in international economic development. The authors suggest that diplomacy is now triangular; (traditional) state-state diplomacy has been joined by state-firm, and firm-firm diplomacy in the international political economy. In addition they note that the linking of TNCs with specific nations is increasingly difficult, not least due to the decreasing centrality of territorial considerations of power. The book concludes with policy advise for both states and multinationals and pointers for further research.
 
-If you want to add special elemets like links or images you can use either markdown code:
+Keywords: Corporations; Foundational Work; Structural Power, Power; States; Transnational Corporations; Triangular Diplomacy
 
-[This is a link](http://www.google.ca)
+[Text access (external link)](https://www.worldcat.org/title/214972801)
 
-or HTML code
-
-<a href="http://www.google.ca">This is also a link</a> 
-
-Images can be done similarly using markdown:
-
-![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
-
-Or HTML code:
-
-<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
