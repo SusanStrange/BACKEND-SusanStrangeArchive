@@ -19,7 +19,7 @@ pinned: false
 homepage: false
 ---
 
-Strange, Susan. "The Global Political Economy, 1959-1984," International Journal 39, no. 2 (1984): 267-283.
+Strange, Susan. "The Global Political Economy, 1959-1984," *International Journal* 39, no. 2 (1984): 267-283.
 
 After discussing some terms she would like to see the back of (‘actors’, ‘issue-areas’), reviewing years of the Global Political Economy, Strange proposes four structures that condition change. These are Security, Production, Knowledge and Finance, and though at this point this is only used as a taxonomy for looking at changes in the GPE, it represents the first time the structures of her theory appear in their final configuration. Strange also stresses that while the four structures are not hierarchical, she believes it is disruptions in the financial structure that has caused most upheavals over the period examined.
 
