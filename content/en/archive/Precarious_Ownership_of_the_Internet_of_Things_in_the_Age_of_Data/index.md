@@ -1,16 +1,16 @@
 ---
 
-title: "Demo/Template object"
-description: "This is the text displayed by the search results"
-datetext: "2023"
-excerpt: "Citation data"
-excerpt2: "Abstract content"
-excerpt3: "Extra content like key terms"
+title: "Precarious Ownership of the Internet of Things in the Age of Data"
+description: "By Natasha Tusikov"
+datetext: "2019"
+excerpt: "Natasha Tusikov. In Information, Technology and Control in a Changing World: Understanding Power Structures in the 21st Century. Blayne Haggart, Kathryn Henne, Natasha Tusikov, editors. 121-148. Cham: Palgrave Macmillan, 2019."
+excerpt2: "The growth of the Internet of Things (IoT)—internet-connected software embedded within physical products—has the potential to shift fundamentally traditional conceptions of ownership and the ways people can access, use, and control information. Drawing upon a knowledge regulation framework influenced by Susan Strange, this chapter argues that the IoT industry exemplifies the central role that knowledge governance now plays in the global political economy. The chapter examines how companies that own the knowledge integral to the IoT’s functionality (the software) control that knowledge through intellectual property laws, especially copyright, and the ubiquitous surveillance of their customers. These companies retain control over the software even after its purchase, meaning they have a newly expanded regulatory capacity to monitor and control how their products are used. The private post-purchase control that IoT companies exert over smart goods represents a significant change in private actors’ regulatory capacity to set rules governing knowledge."
+excerpt3: "Keywords: Knowledge; Production"
 
-date: 2023
-tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
-contributors: ["Daniel Brett"]
-categories: ["Source1", "Demo Paper"]
+date: 2019
+tags: ["Knowledge", "Production", "Strange-Influenced Works", "2010's"]
+contributors: ["Natasha Tusikov", "Editor: Blayne Haggart", "Editor: Kathryn Henne", "Editor: Natasha Tusikov"]
+categories: ["Book Chapter"]
 
 draft: false
 weight: 50
@@ -19,22 +19,10 @@ pinned: false
 homepage: false
 ---
 
-This is the text that fills the static page for this object.  
+Natasha Tusikov. In *Information, Technology and Control in a Changing World: Understanding Power Structures in the 21st Century.* Blayne Haggart, Kathryn Henne, Natasha Tusikov, editors. 121-148. Cham: Palgrave Macmillan, 2019.
 
-You can put anything you want here in plaintext.
+The growth of the Internet of Things (IoT)—internet-connected software embedded within physical products—has the potential to shift fundamentally traditional conceptions of ownership and the ways people can access, use, and control information. Drawing upon a knowledge regulation framework influenced by Susan Strange, this chapter argues that the IoT industry exemplifies the central role that knowledge governance now plays in the global political economy. The chapter examines how companies that own the knowledge integral to the IoT’s functionality (the software) control that knowledge through intellectual property laws, especially copyright, and the ubiquitous surveillance of their customers. These companies retain control over the software even after its purchase, meaning they have a newly expanded regulatory capacity to monitor and control how their products are used. The private post-purchase control that IoT companies exert over smart goods represents a significant change in private actors’ regulatory capacity to set rules governing knowledge.
 
-If you want to add special elemets like links or images you can use either markdown code:
+Keywords: Knowledge; Production
 
-[This is a link](http://www.google.ca)
-
-or HTML code
-
-<a href="http://www.google.ca">This is also a link</a> 
-
-Images can be done similarly using markdown:
-
-![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
-
-Or HTML code:
-
-<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
+[Text access (external link)](https://www.worldcat.org/title/1111084507)
