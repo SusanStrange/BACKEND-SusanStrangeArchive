@@ -1,7 +1,7 @@
 ---
 
-title: "Demo/Template object"
-description: "This is the text displayed by the search results"
+title: "Addendum: Fifty Years of International Affairs Analysis: An Annotated Bibliography of Susan Strange's Academic Publications"
+description: "By Christopher May"
 datetext: "2023"
 excerpt: "Citation data"
 excerpt2: "Abstract content"
