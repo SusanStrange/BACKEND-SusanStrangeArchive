@@ -1,16 +1,16 @@
 ---
 
-title: "Demo/Template object"
-description: "This is the text displayed by the search results"
-datetext: "2023"
-excerpt: "Citation data"
-excerpt2: "Abstract content"
-excerpt3: "Extra content like key terms"
+title: "Ahead of her Time? Susan Strange and Global Governance"
+description: "By Susan K. Sell"
+datetext: "2016"
+excerpt: "Sell, Susan K. "Ahead of her Time? Susan Strange and Global Governance." In Susan Strange and the Future of Global Political Economy: Power, Control and Transformation. Randall Germain, editor. 39-50. London: Routledge 2016."
+excerpt2: "This chapter argues that Strange's work is of enduring significance because it helps us forge a practical understanding of critical global problems. Global environmental problems, global financial crises, and global inequalities are three of the small set of global problems regularly pointed to by promoters of the new global public policy degree programs established over the last decade. In the contemporary world, the knowledge structure serves the production and financial structures, not the other way around. Strange's analysis contains an argument about the recent wave of economic globalization. She sees the globalization of private finance and the globalization of production as, in part, responses to changes in technology to things like containerized shipping and the Internet changes that came from that contemporary knowledge structure. The programs like the one that Mahbubani created at NUS with Kofi Annan reflect a global governance paradigm that emphasizes subsidiary as a way to enhance both accountability and legitimacy."
+excerpt3: "Keywords: Global Governance; Structural Power, Power; General Framework"
 
-date: 2023
-tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
-contributors: ["Daniel Brett"]
-categories: ["Source1", "Demo Paper"]
+date: 2016
+tags: ["Global Governance", "Structural Power, Power", "Strange-Influenced Works", "2010's"]
+contributors: ["Susan K. Sell", "Editor: Randall Germain"]
+categories: ["Book Chapter"]
 
 draft: false
 weight: 50
@@ -19,22 +19,10 @@ pinned: false
 homepage: false
 ---
 
-This is the text that fills the static page for this object.  
+Sell, Susan K. "Ahead of her Time? Susan Strange and Global Governance." In *Susan Strange and the Future of Global Political Economy: Power, Control and Transformation*. Randall Germain, editor. 39-50. London: Routledge 2016.
 
-You can put anything you want here in plaintext.
+This chapter argues that Strange's work is of enduring significance because it helps us forge a practical understanding of critical global problems. Global environmental problems, global financial crises, and global inequalities are three of the small set of global problems regularly pointed to by promoters of the new global public policy degree programs established over the last decade. In the contemporary world, the knowledge structure serves the production and financial structures, not the other way around. Strange's analysis contains an argument about the recent wave of economic globalization. She sees the globalization of private finance and the globalization of production as, in part, responses to changes in technology to things like containerized shipping and the Internet changes that came from that contemporary knowledge structure. The programs like the one that Mahbubani created at NUS with Kofi Annan reflect a global governance paradigm that emphasizes subsidiary as a way to enhance both accountability and legitimacy.
 
-If you want to add special elemets like links or images you can use either markdown code:
+Keywords: Global Governance; Structural Power, Power; General Framework
 
-[This is a link](http://www.google.ca)
-
-or HTML code
-
-<a href="http://www.google.ca">This is also a link</a> 
-
-Images can be done similarly using markdown:
-
-![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
-
-Or HTML code:
-
-<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
+[Text access (external link)](https://www.worldcat.org/title/948603852)
