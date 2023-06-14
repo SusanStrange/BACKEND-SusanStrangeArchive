@@ -1,16 +1,16 @@
 ---
 
-title: "Demo/Template object"
-description: "This is the text displayed by the search results"
-datetext: "2023"
-excerpt: "Citation data"
-excerpt2: "Abstract content"
-excerpt3: "Extra content like key terms"
+title: "Corporate Power in a Global Economy"
+description: "By Ronen Palan"
+datetext: "2016"
+excerpt: "Palan, Ronen. In Susan Strange and the Future of Global Political Economy: Power, Control and Transformation. Randall Germain, editor. 170-182. London: Routledge, 2016."
+excerpt2: "What is the nature of the powers of corporations in a globalized economy? Has there been a shift of power from states to corporations? From states to markets? And if yes, how and why? These are the sort of questions that were at heart of Susan Strange's work. Political science during the time of her writing, and even more so international relations, was occupied with forms of relational power (Tajfel and Turner 1979). These theories assumed that an existential condition of scarcity (of material or ideational goods) encourages the formation of collective action groups, each intent on advancing or protecting their vested interests. Political scientists would use key concepts such as actors, intentions, interests and power, which, in combination were supposed to provide the analyst with a good grasp over policy outcomes."
+excerpt3: "Keywords: Corporations; Structural Power, Power"
 
-date: 2023
-tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
-contributors: ["Daniel Brett"]
-categories: ["Source1", "Demo Paper"]
+date: 2016
+tags: ["Corporations", "Structural Power, Power", "Strange-Influenced Works", "2010's"]
+contributors: ["Ronen Palan", "Editor: Randall Germain"]
+categories: ["Book Chapter"]
 
 draft: false
 weight: 50
@@ -19,22 +19,10 @@ pinned: false
 homepage: false
 ---
 
-This is the text that fills the static page for this object.  
+Palan, Ronen. "Corporate Power in a Global Economy." In *Susan Strange and the Future of Global Political Economy: Power, Control and Transformation*. Randall Germain, editor. 170-182. London: Routledge, 2016.
 
-You can put anything you want here in plaintext.
+What is the nature of the powers of corporations in a globalized economy? Has there been a shift of power from states to corporations? From states to markets? And if yes, how and why? These are the sort of questions that were at heart of Susan Strange's work. Political science during the time of her writing, and even more so international relations, was occupied with forms of relational power (Tajfel and Turner 1979). These theories assumed that an existential condition of scarcity (of material or ideational goods) encourages the formation of collective action groups, each intent on advancing or protecting their vested interests. Political scientists would use key concepts such as actors, intentions, interests and power, which, in combination were supposed to provide the analyst with a good grasp over policy outcomes.
 
-If you want to add special elemets like links or images you can use either markdown code:
+Keywords: Corporations; Structural Power, Power
 
-[This is a link](http://www.google.ca)
-
-or HTML code
-
-<a href="http://www.google.ca">This is also a link</a> 
-
-Images can be done similarly using markdown:
-
-![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
-
-Or HTML code:
-
-<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
+[Text access (external link)](https://www.worldcat.org/title/948603852)
