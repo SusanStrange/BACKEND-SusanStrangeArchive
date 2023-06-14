@@ -18,3 +18,8 @@ pinned: false
 homepage: false
 ---
 
+May, Christopher. "Addendum: Fifty Years of International Affairs Analysis: An Annotated Bibliography of Susan Strange's Academic Publications." In *Strange Power: Shaping the Parameters of International Relations and International Political Economy*. Thomas Lawton, James Rosenau, Amy C. Verdun, editors. 421-443. London: Routledge, 2000.
+
+Keywords: Other; 
+
+[Text access (external link)](https://www.worldcat.org/title/1022846081)
