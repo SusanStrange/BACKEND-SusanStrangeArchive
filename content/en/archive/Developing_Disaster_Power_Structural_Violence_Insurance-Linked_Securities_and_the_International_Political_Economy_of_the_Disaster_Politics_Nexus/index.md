@@ -1,16 +1,16 @@
 ---
 
-title: "Demo/Template object"
-description: "This is the text displayed by the search results"
-datetext: "2023"
-excerpt: "Citation data"
-excerpt2: "Abstract content"
-excerpt3: "Extra content like key terms"
+title: "Developing Disaster: Power, Structural Violence, Insurance-Linked Securities, and the International Political Economy of the Disaster Politics Nexus."
+description: "By Korey Pasch"
+datetext: "2018"
+excerpt: "Pasch, Korey. Journal of Natural Resources 8 nos. 1&2 (2018): 131-153."
+excerpt2: "This article presents an alternative framing of disasters as a form of structural violence resulting from the unequal distribution of structural power between various groups, organizations, institutions, and states in the contemporary global political economy. The article utilizes a theoretical framework that combines Johan Galtung’s typology of violence and Susan Strange’s conceptualization of structural power to open up new space for analysis in the disaster politics nexus. The article applies its framework to explore how an understanding of disasters as a form of violence problematizes trends within mainstream disaster risk reduction (DRR) policies. Specifically, the article examines the integration of financial risk-sharing mechanisms into the disaster politics nexus through new public–private partnerships between insurance and reinsurance firms, international financial institutions, and governments to transfer catastrophic risk to global capital markets. The article seeks to repoliticize these changes and bring questions of power back into the larger conversation surrounding DRR policies."
+excerpt3: "Keywords: Security; Structural Power, Power; General Framework"
 
-date: 2023
-tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
-contributors: ["Daniel Brett"]
-categories: ["Source1", "Demo Paper"]
+date: 2018
+tags: ["Security", "Structural Power, Power", "Strange-Influenced Works", "2010's"]
+contributors: ["Korey Pasch"]
+categories: ["Journal Article"]
 
 draft: false
 weight: 50
@@ -19,22 +19,10 @@ pinned: false
 homepage: false
 ---
 
-This is the text that fills the static page for this object.  
+Pasch, Korey. "Developing Disaster: Power, Structural Violence, Insurance-Linked Securities, and the International Political Economy of the Disaster Politics Nexus." *Journal of Natural Resources* 8 nos. 1&2 (2018): 131-153.
 
-You can put anything you want here in plaintext.
+This article presents an alternative framing of disasters as a form of structural violence resulting from the unequal distribution of structural power between various groups, organizations, institutions, and states in the contemporary global political economy. The article utilizes a theoretical framework that combines Johan Galtung’s typology of violence and Susan Strange’s conceptualization of structural power to open up new space for analysis in the disaster politics nexus. The article applies its framework to explore how an understanding of disasters as a form of violence problematizes trends within mainstream disaster risk reduction (DRR) policies. Specifically, the article examines the integration of financial risk-sharing mechanisms into the disaster politics nexus through new public–private partnerships between insurance and reinsurance firms, international financial institutions, and governments to transfer catastrophic risk to global capital markets. The article seeks to repoliticize these changes and bring questions of power back into the larger conversation surrounding DRR policies.
 
-If you want to add special elemets like links or images you can use either markdown code:
+Keywords: Security; Structural Power, Power; General Framework
 
-[This is a link](http://www.google.ca)
-
-or HTML code
-
-<a href="http://www.google.ca">This is also a link</a> 
-
-Images can be done similarly using markdown:
-
-![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
-
-Or HTML code:
-
-<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
+[Text access (external link)](https://doi.org/10.5325/naturesopolirese.8.1-2.0131)
