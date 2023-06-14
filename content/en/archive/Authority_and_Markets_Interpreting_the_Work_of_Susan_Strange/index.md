@@ -1,16 +1,16 @@
 ---
 
-title: "Demo/Template object"
-description: "This is the text displayed by the search results"
-datetext: "2023"
-excerpt: "Citation data"
-excerpt2: "Abstract content"
-excerpt3: "Extra content like key terms"
+title: "Authority and Markets: Interpreting the Work of Susan Strange"
+description: "By Susan Strange; Edited by Roger Tooze, Christopher May"
+datetext: "2002"
+excerpt: "Tooze, Roger, Christopher May. In Authority and Markets: Susan Strange's Writings of International Political Economy. 1-16 New York: Palgrave Macmillan, 2002."
+excerpt2: "Introduction to a collection of 16 of Susan Strange's works, divided into five sections, each featuring an introduction and commentary by Roger Tooze and Christopher May"
+excerpt3: Keywords: Political Economy; Structural Power, Power; Theory; Other
 
-date: 2023
-tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
-contributors: ["Daniel Brett"]
-categories: ["Source1", "Demo Paper"]
+date: 2002
+tags: ["Theory", "Other", "Strange-Influenced Works", "2000's"]
+contributors: ["Roger Tooze", "Christopher May", "Editor: Roger Tooze", "Editor: Christopher May "]
+categories: ["Book Chapter"]
 
 draft: false
 weight: 50
@@ -19,22 +19,10 @@ pinned: false
 homepage: false
 ---
 
-This is the text that fills the static page for this object.  
+Tooze, Roger, Christopher May. "Authority and Markets: Interpreting the Work of Susan Strange." In *Authority and Markets: Susan Strange's Writings of International Political Economy*. 1-16. New York: Palgrave Macmillan, 2002.
 
-You can put anything you want here in plaintext.
+Introduction to a collection of 16 of Susan Strange's works, divided into five sections, each featuring an introduction and commentary by Roger Tooze and Christopher May.
 
-If you want to add special elemets like links or images you can use either markdown code:
+Keywords: Political Economy; Structural Power, Power; Theory; Other
 
-[This is a link](http://www.google.ca)
-
-or HTML code
-
-<a href="http://www.google.ca">This is also a link</a> 
-
-Images can be done similarly using markdown:
-
-![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
-
-Or HTML code:
-
-<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
+[Text access (external link)](https://www.worldcat.org/title/49421752)
