@@ -19,7 +19,7 @@ pinned: false
 homepage: false
 ---
 
-Blayne Haggart. In *Information, Technology and Control in a Changing World: Understanding Power Structures in the 21st Century.* Blayne Haggart, Kathryn Henne, Natasha Tusikov, editors. 213-218. Cham: Palgrave Macmillan, 2019.
+Haggart, Blayne. "Reflection III." In *Information, Technology and Control in a Changing World: Understanding Power Structures in the 21st Century*. Blayne Haggart, Kathryn Henne, Natasha Tusikov, editors.  213-218. Cham: Palgrave Macmillan, 2019.
 
 Blayne Haggart reflects on the chapters by Debora Halbert, and Jenna Harb and Kathryn Henne.
 
