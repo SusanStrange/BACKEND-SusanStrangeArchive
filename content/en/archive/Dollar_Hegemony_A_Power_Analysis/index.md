@@ -1,16 +1,15 @@
 ---
 
-title: "Demo/Template object"
-description: "This is the text displayed by the search results"
-datetext: "2023"
-excerpt: "Citation data"
-excerpt2: "Abstract content"
-excerpt3: "Extra content like key terms"
-
-date: 2023
-tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
-contributors: ["Daniel Brett"]
-categories: ["Source1", "Demo Paper"]
+title: "Dollar Hegemony: A Power Analysis"
+description: "By Carla Norrlof"
+datetext: "2014"
+excerpt: "Norrlof, Carla. Review of International Political Economy 21, no. 5 (2014): 1042-1070."
+excerpt2: "The dollar has been the world's first currency since the end of World War II, possibly since the inter-war period, and is the leading currency today. A growing chorus of observers believes this dollar-centered order is coming to an end. While much commentary revolves around changes in the distribution of power, measures are only loosely related to the material basis for currency dominance. A proper understanding of the dollar's global role requires a quantitative assessment of the United States' monetary capabilities and currency influence relative to potential rivals. Moreover, while there is general recognition that a shift in power capabilities away from the United States to another actor in the international system is an insufficient, although necessary, condition for the prevailing currency hierarchy to reverse, there exists no systematic exploration of how power is exercised when converting monetary capabilities into currency influence. This paper offers a systematic assessment of the monetary capabilities and currency influence of all countries in the world as well as an analysis of how the three faces of power sustain dollar hegemony."
+excerpt3: "Keywords: Structural Power, Power; Money and Finance"
+date: 2014
+tags: ["Structural Power, Power", "Money and Finance", "Strange-Influenced Works", "2010's"]
+contributors: ["Carla Norrof"]
+categories: ["Journal Article"]
 
 draft: false
 weight: 50
@@ -19,22 +18,10 @@ pinned: false
 homepage: false
 ---
 
-This is the text that fills the static page for this object.  
+Norrlof, Carla. "Dollar Hegemony: A Power Analysis." *Review of International Political Economy* 21, no. 5 (2014): 1042-1070.
 
-You can put anything you want here in plaintext.
+The dollar has been the world's first currency since the end of World War II, possibly since the inter-war period, and is the leading currency today. A growing chorus of observers believes this dollar-centered order is coming to an end. While much commentary revolves around changes in the distribution of power, measures are only loosely related to the material basis for currency dominance. A proper understanding of the dollar's global role requires a quantitative assessment of the United States' monetary capabilities and currency influence relative to potential rivals. Moreover, while there is general recognition that a shift in power capabilities away from the United States to another actor in the international system is an insufficient, although necessary, condition for the prevailing currency hierarchy to reverse, there exists no systematic exploration of how power is exercised when converting monetary capabilities into currency influence. This paper offers a systematic assessment of the monetary capabilities and currency influence of all countries in the world as well as an analysis of how the three faces of power sustain dollar hegemony.
 
-If you want to add special elemets like links or images you can use either markdown code:
+Keywords: Structural Power, Power; Money and Finance
 
-[This is a link](http://www.google.ca)
-
-or HTML code
-
-<a href="http://www.google.ca">This is also a link</a> 
-
-Images can be done similarly using markdown:
-
-![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
-
-Or HTML code:
-
-<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
+[Text access (external link)](https://doi.org/10.1080/09692290.2014.895773)
