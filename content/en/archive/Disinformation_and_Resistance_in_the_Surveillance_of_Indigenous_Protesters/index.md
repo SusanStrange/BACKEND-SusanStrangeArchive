@@ -19,7 +19,7 @@ pinned: false
 homepage: false
 ---
 
-Kathryn Henne, Jenna Harb. In *Information, Technology and Control in a Changing World: Understanding Power Structures in the 21st Century.* Blayne Haggart, Kathryn Henne, Natasha Tusikov, editors. 187-212. Cham: Palgrave Macmillan, 2019.
+Harb, Jenna, Kathryn Henne. "Disinformation and Resistance in the Surveillance of Indigenous Protesters." In *Information, Technology and Control in a Changing World: Understanding Power Structures in the 21st Century*. Blayne Haggart, Kathryn Henne, Natasha Tusikov, editors.  187-212. Cham: Palgrave Macmillan, 2019.
 
 The U.S. and Canadian governments have long engaged in the surveillance of Indigenous peoples. Such practices have garnered public attention in light of recent events. This chapter reflects on two examples: protests against the construction of the Dakota Access Pipeline that crossed over the lands of the Standing Rock Sioux Tribe in the United States and the release of details regarding Project SITKA—a Canadian Royal Mounted Police “dataveillance” operation identifying and tracking Indigenous activists. It examines them to illuminate the strategic use of information, particularly disinformation and misinformation, by government actors, media, private security personnel, and protesters. In particular, the analysis highlights how settler colonialism informs the asymmetrical power dynamics at work, illustrating connections between Project SITKA and the Standing Rock protests.
 
