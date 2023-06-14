@@ -1,6 +1,6 @@
 ---
 
-title:  "A Strange Approach to Information, Network, Sharing, and Platform Societies"
+title: "A Strange Approach to Information, Network, Sharing, and Platform Societies"
 description: "By Sara Bannerman, Angela Orasch"
 datetext: "2019"
 excerpt: "Bannerman Sara, Angela Orasch. "A Strange Approach to Information, Network, Sharing, and Platform Societies." In Information, Technology and Control in a Changing World: Understanding Power Structures in the 21st Century. Blayne Haggart, Kathryn Henne, Natasha Tusikov , editors.  53-80. Cham: Palgrave Macmillan, 2019."
