@@ -18,7 +18,7 @@ pinned: false
 homepage: false
 ---
 
-Randall Germain. "Reflection I." In *Information, Technology and Control in a Changing World: Understanding Power Structures in the 21st Century.* Blayne Haggart, Kathryn Henne, Natasha Tusikov, editors. 81-89. Cham: Palgrave Macmillan, 2019.
+RGermain, Randall. "Reflection I." In *Information, Technology and Control in a Changing World: Understanding Power Structures in the 21st Century*. Blayne Haggart, Kathryn Henne, Natasha Tusikov, editors.  81-89. Cham: Palgrave Macmillan, 2019.
 
 Randall Germain reflects on the chapters by Blayne Haggart, and Sara Bannerman and Angela Orasch.
 
