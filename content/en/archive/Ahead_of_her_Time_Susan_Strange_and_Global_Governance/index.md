@@ -1,6 +1,6 @@
 ---
 
-title: ""Ahead of her Time? Susan Strange and Global Governance""
+title: "Ahead of her Time? Susan Strange and Global Governance"
 description: "By Susan K. Sell"
 datetext: "2016"
 excerpt: "Sell, Susan K. "Ahead of her Time? Susan Strange and Global Governance." In Susan Strange and the Future of Global Political Economy: Power, Control and Transformation. Randall Germain, editor. 39-50. London: Routledge 2016."
