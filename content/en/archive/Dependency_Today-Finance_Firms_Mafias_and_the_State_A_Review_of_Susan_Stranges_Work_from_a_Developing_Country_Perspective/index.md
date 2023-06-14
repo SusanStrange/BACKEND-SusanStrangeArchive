@@ -3,7 +3,7 @@
 title: "Dependency Today-Finance, Firms, Mafias and the State: A Review of Susan Strange's Work from a Developing Country Perspective"
 description: "By Anna Leander"
 datetext: "2001"
-excerpt: Leander, Anna. Third World Quarterly 22, no. 1 (2001): 115-128.
+excerpt: "Leander, Anna. Third World Quarterly 22, no. 1 (2001): 115-128."
 excerpt2: "This is an analysis of how the global strategies of Multi-national Enterprises (MNE's) affect the power relationship between MNE's and states in the context of increasing trans-national economic integration."
 excerpt3: "Keywords: Money and Finance ; Trade; Structural Power, Power; Economic Development"
 
