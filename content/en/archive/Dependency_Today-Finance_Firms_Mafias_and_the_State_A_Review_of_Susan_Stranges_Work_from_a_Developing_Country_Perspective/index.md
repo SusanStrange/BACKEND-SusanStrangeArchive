@@ -1,16 +1,16 @@
 ---
 
-title: "Demo/Template object"
-description: "This is the text displayed by the search results"
-datetext: "2023"
-excerpt: "Citation data"
-excerpt2: "Abstract content"
-excerpt3: "Extra content like key terms"
+title: "Dependency Today-Finance, Firms, Mafias and the State: A Review of Susan Strange's Work from a Developing Country Perspective"
+description: "By Anna Leander"
+datetext: "2001"
+excerpt: Leander, Anna. Third World Quarterly 22, no. 1 (2001): 115-128.
+excerpt2: "This is an analysis of how the global strategies of Multi-national Enterprises (MNE's) affect the power relationship between MNE's and states in the context of increasing trans-national economic integration."
+excerpt3: "Keywords: Money and Finance ; Trade; Structural Power, Power; Economic Development"
 
-date: 2023
-tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
-contributors: ["Daniel Brett"]
-categories: ["Source1", "Demo Paper"]
+date: 2001
+tags: ["Money and Finance ", "Trade", "Structural Power, Power", "Strange-Influenced Works", "2000's"]
+contributors: ["Anna Leander"]
+categories: ["Journal Article"]
 
 draft: false
 weight: 50
@@ -19,22 +19,10 @@ pinned: false
 homepage: false
 ---
 
-This is the text that fills the static page for this object.  
+Leander, Anna. "Dependency Today-Finance, Firms, Mafias and the State: A Review of Susan Strange’s Work from a Developing Country Perspective." *Third World Quarterly* 22, no. 1 (2001): 115-128.
 
-You can put anything you want here in plaintext.
+This is an analysis of how the global strategies of Multi-national Enterprises (MNE's) affect the power relationship between MNE's and states in the context of increasing trans-national economic integration.
 
-If you want to add special elemets like links or images you can use either markdown code:
+Keywords: Money and Finance ; Trade; Structural Power, Power; Economic Development
 
-[This is a link](http://www.google.ca)
-
-or HTML code
-
-<a href="http://www.google.ca">This is also a link</a> 
-
-Images can be done similarly using markdown:
-
-![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
-
-Or HTML code:
-
-<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
+[Text access (external link)](https://doi.org/10.1080/713701141)
