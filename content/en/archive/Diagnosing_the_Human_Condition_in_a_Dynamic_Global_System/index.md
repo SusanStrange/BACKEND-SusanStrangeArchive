@@ -1,16 +1,16 @@
 ---
 
-title: "Demo/Template object"
-description: "This is the text displayed by the search results"
-datetext: "2023"
-excerpt: "Citation data"
-excerpt2: "Abstract content"
-excerpt3: "Extra content like key terms"
+title: "Diagnosing the Human Condition in a Dynamic Global System"
+description: "By Louis W. Pauly"
+datetext: "2016"
+excerpt: Pauly, Louis W. In Susan Strange and the Future of Global Political Economy: Power, Control and Transformation. Randall Germain, editor. 183-192. London: Routledge 2016.
+excerpt2: "Virgil's 'rerum cognoscere causas,' adorns the crest of the London School of Economics and Political Science. 'To know the cause of things' expressed an abiding aspiration for Susan Strange, even if she doubted all absolute truth-claims. In the mid-1970s, after she had rejoined her alma mater as a lecturer in the International Relations Department, I attended her course on 'The Politics of International Business.' As we know now, she was then helping to lay the foundations for a field that would soon be called 'international political economy.' In other places during the same period of time, Professors Kindleberger, Cox, Gilpin, Keohane, Krasner, Katzenstein, and Cohen were also working to carve out the intellectual space where history, economics, international relations, political science, and management studies would fruitfully intersect during the next four decades (Cohen 2008a)."
+excerpt3: "Keywords: Theory"
 
-date: 2023
-tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
-contributors: ["Daniel Brett"]
-categories: ["Source1", "Demo Paper"]
+date: 2016
+tags: ["Theory", "Strange-Influenced Works", "2010's"]
+contributors: ["Louis W. Pauly", "Editor: Randall Germain"]
+categories: ["Book Chapter"]
 
 draft: false
 weight: 50
@@ -18,23 +18,10 @@ images: []
 pinned: false
 homepage: false
 ---
+Pauly, Louis W. "Diagnosing the Human Condition in a Dynamic Global System." In *Susan Strange and the Future of Global Political Economy: Power, Control and Transformation*. Randall Germain, editor. 183-192. London: Routledge 2016.
 
-This is the text that fills the static page for this object.  
+Virgil's 'rerum cognoscere causas,' adorns the crest of the London School of Economics and Political Science. 'To know the cause of things' expressed an abiding aspiration for Susan Strange, even if she doubted all absolute truth-claims. In the mid-1970s, after she had rejoined her alma mater as a lecturer in the International Relations Department, I attended her course on 'The Politics of International Business.' As we know now, she was then helping to lay the foundations for a field that would soon be called 'international political economy.' In other places during the same period of time, Professors Kindleberger, Cox, Gilpin, Keohane, Krasner, Katzenstein, and Cohen were also working to carve out the intellectual space where history, economics, international relations, political science, and management studies would fruitfully intersect during the next four decades (Cohen 2008a).
 
-You can put anything you want here in plaintext.
+Keywords: Theory; 
 
-If you want to add special elemets like links or images you can use either markdown code:
-
-[This is a link](http://www.google.ca)
-
-or HTML code
-
-<a href="http://www.google.ca">This is also a link</a> 
-
-Images can be done similarly using markdown:
-
-![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
-
-Or HTML code:
-
-<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
+[Text access (external link)](https://www.worldcat.org/title/948603852)
