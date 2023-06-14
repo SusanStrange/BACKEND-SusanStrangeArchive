@@ -18,7 +18,7 @@ pinned: false
 homepage: false
 ---
 
-Madeline Carr. In *Information, Technology and Control in a Changing World: Understanding Power Structures in the 21st Century.* Blayne Haggart, Kathryn Henne, Natasha Tusikov, editors. 149-160. Cham: Palgrave Macmillan, 2019.
+Carr, Madeline. "Reflection II." In *Information, Technology and Control in a Changing World: Understanding Power Structures in the 21st Century*. Blayne Haggart, Kathryn Henne, Natasha Tusikov, editors.  149-160. Cham: Palgrave Macmillan, 2019.
 
 Madeline Carr reflects on the chapters by Dwayne Winseck and Natasha Tusikov.
 
