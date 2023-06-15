@@ -1,16 +1,16 @@
 ---
 
-title: "Demo/Template object"
-description: "This is the text displayed by the search results"
-datetext: "2023"
-excerpt: "Citation data"
-excerpt2: "Abstract content"
-excerpt3: "Extra content like key terms"
+title: "Introduction to the Special Issue: Rise of the 'Knowledge Structure': Implications for the Exercise of Power in the Global Political Economy"
+description: "By Blayne Haggart"
+datetext: "2017"
+excerpt: "Haggart, Blayne. Journal of Information Policy 7 (2017): 164-175."
+excerpt2: "Somewhat paradoxically, the implications of knowledge governance's changing role for the exercise of power in the Information Age remains underappreciated outside those scholars and policymakers directly engaged with these specific areas. This special issue brings together political scientists and communication scholars to consider the issue of knowledge governance through the theoretical framework of Susan Strange. This introduction examines the treatment of knowledge-governance issues within the mainstream of International Political Economy scholarship and briefly contextualizes the contribution of each article in this special issue."
+excerpt3: "Keywords: Structural Power, Power; Authority; Markets; Knowledge; Theory; General Framework"
 
-date: 2023
-tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
-contributors: ["Daniel Brett"]
-categories: ["Source1", "Demo Paper"]
+date: 2017
+tags: ["Structural Power, Power", "Authority", "Markets", "Knowledge", "Theory", "Strange-Influenced Works", "2010's"]
+contributors: ["Blayne Haggart"]
+categories: ["Journal Article"]
 
 draft: false
 weight: 50
@@ -19,22 +19,10 @@ pinned: false
 homepage: false
 ---
 
-This is the text that fills the static page for this object.  
+Haggart, Blayne. "Introduction to the Special Issue: Rise of the ‘Knowledge Structure’: Implications for the Exercise of Power in the Global Political Economy." *Journal of Information Policy* 7 (2017): 164-175.
 
-You can put anything you want here in plaintext.
+Somewhat paradoxically, the implications of knowledge governance's changing role for the exercise of power in the Information Age remains underappreciated outside those scholars and policymakers directly engaged with these specific areas. This special issue brings together political scientists and communication scholars to consider the issue of knowledge governance through the theoretical framework of Susan Strange. This introduction examines the treatment of knowledge-governance issues within the mainstream of International Political Economy scholarship and briefly contextualizes the contribution of each article in this special issue.
 
-If you want to add special elemets like links or images you can use either markdown code:
+Keywords: Structural Power, Power; Authority; Markets; Knowledge; Theory; General Framework
 
-[This is a link](http://www.google.ca)
-
-or HTML code
-
-<a href="http://www.google.ca">This is also a link</a> 
-
-Images can be done similarly using markdown:
-
-![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
-
-Or HTML code:
-
-<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
+[Text access (external link, Open Access)](https://doi.org/10.5325/jinfopoli.7.2017.0164)
