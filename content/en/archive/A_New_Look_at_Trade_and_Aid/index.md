@@ -25,6 +25,6 @@ In the light of UNCTAD’s problems, declining optimism over foreign aid and the
 
 Reprinted in: Roger Tooze and Christopher May, eds. <i>Authority and Markets: Susan Strange’s Writings on International Political Economy</i> Basingstoke: PalgraveMacmillan, 2002.
 
-Keywords: Production, Trade, Economic Development
+Keywords: Production; Trade; Economic Development
 
 [Text Access (external link)](https://doi.org/10.2307/2612436)
