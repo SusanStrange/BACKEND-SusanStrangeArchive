@@ -21,4 +21,6 @@ homepage: false
 
 Tooze, Roger. "Ideology, Knowledge and Power in International Relations and International Political Economy." In *Strange Power: Shaping the Parameters of International Relations and International Political Economy*. Thomas Lawton, James Rosenau, Amy C. Verdun, editors. 175-194. London: Routledge, 2000.
 
+Keywords: Theory; Knowledge; Political Economy; International Relations
+
 [Text access (external link)](https://www.worldcat.org/title/1022846081)
