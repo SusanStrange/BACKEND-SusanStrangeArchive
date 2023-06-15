@@ -19,7 +19,7 @@ pinned: false
 homepage: false
 ---
 
-Strange, Susan "Defending Benign Mercantilism." *Journal of Peace Research* 25, no. 3 (1988): 273-277.
+Strange, Susan. "Defending Benign Mercantilism." *Journal of Peace Research* 25, no. 3 (1988): 273-277.
 
 In this review of Robert Gilpin's Political Economy of International Relations, Strange again argues against 'Hegemonic Stability Theory', see 'The persistent myth of lost hegemony' (1987), but has started to develop a theory of transnational empire to explain the structural power of the United States. Part of this argument is the increasing non-territoriality of structural power, which is developed in a number of works below.
 
