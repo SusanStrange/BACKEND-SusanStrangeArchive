@@ -4,7 +4,7 @@ title: "Global Money and the Decline of State Power"
 description: "By Geoffrey R.D. Underhill"
 datetext: "2000"
 excerpt: "Underhill, Geoffrey R.D. In Strange Power: Shaping the Parameters of International Relations and International Political Economy. Thomas Lawton, James Rosenau, Amy C. Verdun, editors. 115-135. London: Routledge, 2000."
-excerpt2: 
+excerpt2: "Abstract Content"
 excerpt3: "Keywords: Global governance; Globalization; Money and finance; Authority; Markets; States"
 
 date: 2000
