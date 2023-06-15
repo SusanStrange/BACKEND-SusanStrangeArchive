@@ -23,7 +23,7 @@ Strange, Susan. "States, Firms and Diplomacy." *International Affairs* 68, no. 1
 
 This article in a brief summation of **Rival States, Rival Firms (with John M. Stopford, 1991)**  outlining the central argument of the book concerning the diplomacy between firms and states, and discusses some areas for further research. This represents a useful entry to the book picking out the salient points from the longer work, without the empirical elements.
 
-Reprinted in:** *Authority and Markets: Susan Strange’s Writings on International Political Economy*, edited by Roger Tooze and Christopher May. Basingstoke: Palgrave Macmillan, 2002.**
+**Reprinted in: *Authority and Markets: Susan Strange’s Writings on International Political Economy*, edited by Roger Tooze and Christopher May. Basingstoke: Palgrave Macmillan, 2002.**
 
 Keywords: Theory; Markets; States; Structural Power, Power; Technology
 
