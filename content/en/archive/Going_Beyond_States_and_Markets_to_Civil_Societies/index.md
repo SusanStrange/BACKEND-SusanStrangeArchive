@@ -3,7 +3,7 @@
 title: "Going Beyond States and Markets to Civil Societies?"
 description: "By Timothy M. Shaw, Sandra J. MacLean, Maria Nzomo"
 datetext: "2000"
-excerpt: Shaw, Timothy M., Sandra J. MacLean. In Strange Power: Shaping the Parameters of International Relations and International Political Economy. Thomas Lawton, James Rosenau, Amy C. Verdun, editors. 391-406. London: Routledge, 2000.
+excerpt: "Shaw, Timothy M., Sandra J. MacLean. In Strange Power: Shaping the Parameters of International Relations and International Political Economy. Thomas Lawton, James Rosenau, Amy C. Verdun, editors. 391-406. London: Routledge, 2000."
 excerpt2: "Abstract content"
 excerpt3: "Keywords: Theory; Authority; Markets; States; Civil Society"
 date: 2000
