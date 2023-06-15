@@ -3,7 +3,7 @@
 title: "Authority and Markets: Susan Strange's Writings of International Political Economy"
 description: "By Susan Strange; Edited by Roger Tooze and Christopher May"
 datetext: "2002"
-excerpt: 'Strange, Susan. Edited by Roger Tooze, Christopher May. New York: Palgrave Macmillan, 2002."
+excerpt: "Strange, Susan. Edited by Roger Tooze, Christopher May. New York: Palgrave Macmillan, 2002."
 excerpt2: "Collection of 16 works by Susan Strange, with an introduction and commentaries by Roger Tooze and Christopher May."
 excerpt3: "Keywords: Political Economy; Structural Power, Power; Theory; Other"
 
