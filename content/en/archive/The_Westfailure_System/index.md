@@ -23,7 +23,7 @@ Susan Strange. "The Westfailure System." *Review of International Studies* 25, n
 
 In this posthumously published essay, Strange briefly outlines the parallel histories of the territorial system of states and the economic system of markets and suggests that until the last quarter of the twentieth century each benefited the other. However, as she often argued in the 1990s, the political system is now failing in three areas: the states system is increasingly unable to manage instability in the global financial system; the sovereign system is unable to deal effectively with globalised environmental problems; and lastly the political system's interaction with the global market is producing widening socio-economic inequality across the global system. However, only by understanding the role of non-state authority through the study of both international and comparative political economy and a move away from International Relation's state-centricism can the Westfailure system be understood and alternatives assessed.
 
-Reprinted in: *Authority and Markets: Susan Strange’s Writings on International Political Economy*. Roger Tooze and Christopher May, editors. Basingstoke: Palgrave Macmillan, 2002.
+**Reprinted in: *Authority and Markets: Susan Strange’s Writings on International Political Economy*, edited by Roger Tooze and Christopher May. Basingstoke: Palgrave Macmillan, 2002**.
 
 Keywords: Corporations; Global Governance; States; Westfailure System; International Relations
 
