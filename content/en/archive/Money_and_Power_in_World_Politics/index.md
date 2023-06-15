@@ -1,16 +1,16 @@
 ---
 
-title: "Demo/Template object"
-description: "This is the text displayed by the search results"
-datetext: "2023"
-excerpt: "Citation data"
-excerpt2: "Abstract content"
-excerpt3: "Extra content like key terms"
+title: "Money and Power in World Politics"
+description: "By Benjamin J. Cohen"
+datetext: "2000"
+excerpt: "Cohen, Benjamin J. In Strange Power: Shaping the Parameters of International Relations and International Political Economy, edited by Thomas Lawton, James Rosenau, Amy C. Verdun, 91-114. London: Routledge, 2000."
+excerpt2: ""
+excerpt3: ""Keywords: Global governance; Money and Finance""
 
-date: 2023
-tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
-contributors: ["Daniel Brett"]
-categories: ["Source1", "Demo Paper"]
+date: 2000
+tags: ["Global governance", "Money and Finance", "Strange-Influenced Works", "2000's"]
+contributors: ["Benjamin J. Cohen", "Editor: Thomas Lawton", "Editor: James Rosenau", "Editor: Amy C. Verdun"]
+categories: ["Book Chapter"]
 
 draft: false
 weight: 50
@@ -19,23 +19,8 @@ pinned: false
 homepage: false
 ---
 
-This is the text that fills the static page for this object.  
+Cohen, BenjamIn *Strange Power: Shaping the Parameters of International Relations and International Political Economy*, edited by Thomas Lawton, James Rosenau, Amy C. Verdun, 91-114. London: Routledge, 2000.
 
-You can put anything you want here in plaintext.
+Keywords: Global governance; Money and Finance
 
-If you want to add special elemets like links or images you can use either markdown code:
-
-[This is a link](http://www.google.ca)
-
-or HTML code
-
-<a href="http://www.google.ca">This is also a link</a> 
-
-Images can be done similarly using markdown:
-
-![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
-
-Or HTML code:
-
-<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
-
+[Text access (external link)](https://www.worldcat.org/title/1022846081)
