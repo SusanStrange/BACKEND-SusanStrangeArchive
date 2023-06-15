@@ -23,6 +23,6 @@ Strange, Susan. "International Political Economy: Reuniting Three Fields of Inte
 
 Strange uses the work she was co-ordinating with John Stopford, later published as **Rival States, Rival Firms (with John M. Stopford, 1991)** to launch a critique of the separation of International Relations, International Economics and the research carried out in business schools. She argues that her approach, foregrounding structural power, requires analysis from all three directions and therefore there needs to be much better contact and co-operation between the three fields. Here Strange is again expressing her frustration, which first surfaced in 'International economics and international relations: a case of mutual neglect' (1970)** and continued to produce recommendations for the breaking down of disciplinary boundaries throughout her subsequent career.
 
-Reprinted in:** *Authority and Markets: Susan Strange’s Writings on International Political Economy*, edited by Roger Tooze and Christopher May. Basingstoke: Palgrave Macmillan, 2002.**
+**Reprinted in: *Authority and Markets: Susan Strange’s Writings on International Political Economy*, edited by Roger Tooze and Christopher May. Basingstoke: Palgrave Macmillan, 2002.**
 
 Keywords: Political Economy; Theory
