@@ -3,7 +3,7 @@
 title: "Knowledge and Structural-Power in the International Political Economy"
 description: "By Lynn K. Mytelka"
 datetext: "2000"
-excerpt: Mytelka, Lynn K. In Strange Power: Shaping the Parameters of International Relations and International Political Economy, edited by Thomas Lawton, James Rosenau, Amy C. Verdun, 61-78. London: Routledge, 2000.
+excerpt: "Mytelka, Lynn K. In Strange Power: Shaping the Parameters of International Relations and International Political Economy, edited by Thomas Lawton, James Rosenau, Amy C. Verdun, 61-78. London: Routledge, 2000."
 excerpt2: ""
 excerpt3: "Keywords: Knowledge; Structural Power, Power; Europe; Political Economy; International Relations"
 
