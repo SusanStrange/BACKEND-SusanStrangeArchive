@@ -9,7 +9,7 @@ excerpt3: "Keywords: Theory; Authority; Markets; States; Civil Society"
 date: 2000
 tags: ["Theory", "Authority", "Markets", "States", "Strange-Influenced Works", "2000's"]
 contributors: [""Timothy M. Shaw", "Sandra J. MacLean", "Maria Nzomo", "Editor: Thomas Lawton", "Editor: James Rosenau", "Editor: Amy C. Verdun"]
-categories: ["Book Chapter"]
+categories: ["Book Chapter" ]
 
 draft: false
 weight: 50
