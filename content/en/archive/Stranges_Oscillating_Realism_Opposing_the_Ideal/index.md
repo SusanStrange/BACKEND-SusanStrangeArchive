@@ -10,7 +10,7 @@ excerpt3: "Keywords: Theory; Political Economy; Structural Power, Power; Interna
 date: 2000
 tags: ["Theory", "Political Economy", "Structural Power, Power", "Strange-Influenced Works", "2000's"]
 contributors: ["Stefano Guzzini", "Editor: Thomas Lawton", "Editor: James Rosenau", "Editor: Amy C. Verdun""]
-categories: ["Book Chapter]
+categories: ["Book Chapter"]
 
 draft: false
 weight: 50
