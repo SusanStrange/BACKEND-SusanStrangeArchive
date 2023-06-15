@@ -19,7 +19,7 @@ pinned: false
 homepage: false
 ---
 
-Strange, Susan "Finance and Capitalism: The City's Imperial Role Yesterday and Today." *Review of International Studies* 20, no. 4 (1994): 407-410.
+Strange, Susan. "Finance and Capitalism: The City's Imperial Role Yesterday and Today." *Review of International Studies* 20, no. 4 (1994): 407-410.
 
 In this short review of P.J. Cain and A.G. Hopkins British Imperialism (2 vols) (London: Longman 1993), Strange again emphasises the structural characteristics of US power in the global system and suggest that Britain's structural power was more long lasting than is sometimes presumed, with clear implications for the continuing power of the US in the global economy.
 
