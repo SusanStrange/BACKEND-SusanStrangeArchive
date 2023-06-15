@@ -1,6 +1,6 @@
 ---
 
-title: "Introduction: Looking Beyond the Confines."
+title: "Introduction:Looking Beyond the Confines"
 description: "By Thomas Lawton, James Rosenau, Amy Verdun"
 datetext: "2000"
 excerpt: "Lawton, Thomas, James Rosenau, Amy C. Verdun In Strange Power: Shaping the Parameters of International Relations and International Political Economy. Thomas Lawton, James Rosenau, Amy C. Verdun, editors. 1-16. London: Routledge, 2000."
