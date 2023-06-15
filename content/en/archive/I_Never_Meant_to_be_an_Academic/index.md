@@ -23,7 +23,7 @@ Strange, Susan. "I Never Meant to be an Academic." In *Journeys Through World Po
 
 This brief autobiographical essay makes interesting reading and, if one so chooses, may give clues to the personal foundations for Strange's approach. The essay is weighted towards her earlier life but is none the less informative for that.
 
-Reprinted in:** *Authority and Markets: Susan Strange’s Writings on International Political Economy*, edited by Roger Tooze and Christopher May. Basingstoke: Palgrave Macmillan, 2002.**
+**Reprinted in: *Authority and Markets: Susan Strange’s Writings on International Political Economy*, edited by Roger Tooze and Christopher May. Basingstoke: Palgrave Macmillan, 2002.**
 
 Keywords: Other; Personal Reflection
 
