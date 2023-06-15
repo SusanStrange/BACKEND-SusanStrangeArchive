@@ -3,8 +3,8 @@
 title: "European Competitiveness and Enlargement: Is There Anyone in Charge?"
 description: "By Julie Pellegrin"
 datetext: "2000"
-excerpt: "Pellegrin, Julie. In Strange Power: Shaping the Parameters of International Relations and International Political Economy. Thomas Lawton, James Rosenau, Amy C. Verdun, editors. 297-316. London: Routledge, 2000."
-excerpt2: "Abstract content"
+excerpt: "Pellegrin, Julie. In Strange Power: Shaping the Parameters of International Relations and International Political Economy, edited by Thomas Lawton, James Rosenau, Amy C. Verdun, 297-316. London: Routledge, 2000."
+excerpt2: ""
 excerpt3: "Keywords: Economics; Europe; Authority; Markets; Political Economy; International Relations; Authority vs Markets"
 
 date: 2000
@@ -19,7 +19,7 @@ pinned: false
 homepage: false
 ---
 
-Pellegrin, Julie. "European Competitiveness and Enlargement: Is There Anyone in Charge?." In *Strange Power: Shaping the Parameters of International Relations and International Political Economy*. Thomas Lawton, James Rosenau, Amy C. Verdun, editors. 297-316. London: Routledge, 2000.
+Pellegrin, Julie. "European Competitiveness and Enlargement: Is There Anyone in Charge?." In *Strange Power: Shaping the Parameters of International Relations and International Political Economy*, edited by Thomas Lawton, James Rosenau, Amy C. Verdun, 297-316. London: Routledge, 2000.
 
 Keywords: Economics; Authority; Markets; Political Economy; International Relations; Authority vs Markets
 
