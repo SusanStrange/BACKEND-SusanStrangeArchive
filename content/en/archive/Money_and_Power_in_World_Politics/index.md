@@ -4,8 +4,8 @@ title: "Money and Power in World Politics"
 description: "By Benjamin J. Cohen"
 datetext: "2000"
 excerpt: "Cohen, Benjamin J. In Strange Power: Shaping the Parameters of International Relations and International Political Economy, edited by Thomas Lawton, James Rosenau, Amy C. Verdun, 91-114. London: Routledge, 2000."
-excerpt2: 
-excerpt3: ""Keywords: Global governance; Money and Finance""
+excerpt2: ""
+excerpt3: "Keywords: Global governance; Money and Finance"
 
 date: 2000
 tags: ["Global governance", "Money and Finance", "Strange-Influenced Works", "2000's"]
