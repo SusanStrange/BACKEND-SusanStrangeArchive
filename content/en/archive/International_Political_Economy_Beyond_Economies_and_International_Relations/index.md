@@ -19,7 +19,7 @@ pinned: false
 homepage: false
 ---
 
-Strange, Susan "International Political Economy: Beyond Economies and International Relations." *Economies et Sociétés* 34, no. 4 (1998): 3-24.
+Strange, Susan. "International Political Economy: Beyond Economies and International Relations." *Economies et Sociétés* 34, no. 4 (1998): 3-24.
 
 This is slightly revised version of **'Political Economy and International Relations' (1995)**.
 
