@@ -1,16 +1,16 @@
 ---
 
-title: "Demo/Template object"
-description: "This is the text displayed by the search results"
-datetext: "2023"
-excerpt: "Citation data"
-excerpt2: "Abstract content"
-excerpt3: "Extra content like key terms"
+title: "Strange's Oscillating Realism: Opposing the Ideal - and the Apparent"
+description: "By Stefano Guzzini"
+datetext: "2000"
+excerpt: "Guzzini, Stefano. In Strange Power: Shaping the Parameters of International Relations and International Political Economy, edited by Thomas Lawton, James Rosenau, Amy C. Verdun, 237-250. London: Routledge, 2000."
+excerpt2: ""
+excerpt3: "Keywords: Theory; Political Economy; Structural Power, Power; International Relations; Realism"
 
-date: 2023
-tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
-contributors: ["Daniel Brett"]
-categories: ["Source1", "Demo Paper"]
+date: 2000
+tags: ["Theory", "Political Economy", "Structural Power, Power", "Strange-Influenced Works", "2000's"]
+contributors: ["Stefano Guzzini", "Editor: Thomas Lawton", "Editor: James Rosenau", "Editor: Amy C. Verdun""]
+categories: ["Book Chapter"]
 
 draft: false
 weight: 50
@@ -19,21 +19,11 @@ pinned: false
 homepage: false
 ---
 
-This is the text that fills the static page for this object.  
+Guzzini, Stefano. "Strange's Oscillating Realism: Opposing the Ideal - and the Apparent." In *Strange Power: Shaping the Parameters of International Relations and International Political Economy*, edited by Thomas Lawton, James Rosenau, Amy C. Verdun, 237-250. London: Routledge, 2000.
 
-You can put anything you want here in plaintext.
+Keywords: Theory; Political Economy; Structural Power, Power; International Relations; Realism
 
-If you want to add special elemets like links or images you can use either markdown code:
-
-[This is a link](http://www.google.ca)
-
-or HTML code
-
-<a href="http://www.google.ca">This is also a link</a> 
-
-Images can be done similarly using markdown:
-
-![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
+[Text access (external link)](https://www.worldcat.org/title/1022846081)
 
 Or HTML code:
 
