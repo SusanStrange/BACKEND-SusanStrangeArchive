@@ -1,16 +1,16 @@
 ---
 
-title: "Demo/Template object"
-description: "This is the text displayed by the search results"
-datetext: "2023"
-excerpt: "Citation data"
-excerpt2: "Abstract content"
-excerpt3: "Extra content like key terms"
+title: "Global Money and the Decline of State Power"
+description: "By Geoffrey R.D. Underhill"
+datetext: "2000"
+excerpt: "Underhill, Geoffrey R.D. In Strange Power: Shaping the Parameters of International Relations and International Political Economy. Thomas Lawton, James Rosenau, Amy C. Verdun, editors. 115-135. London: Routledge, 2000."
+excerpt2: 
+excerpt3: "Keywords: Global governance; Globalization; Money and finance; Authority; Markets; States"
 
-date: 2023
-tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
-contributors: ["Daniel Brett"]
-categories: ["Source1", "Demo Paper"]
+date: 2000
+tags: ["Global governance", "Globalization", "Money and finance", "Authority", "Markets", "Strange-Influenced Works", "2000's"]
+contributors: ["Geoffrey R.D. Underhill", "Editor: Thomas Lawton", "Editor: James Rosenau", "Editor: Amy C. Verdun"]
+categories: ["Book Chapter"]
 
 draft: false
 weight: 50
@@ -19,22 +19,8 @@ pinned: false
 homepage: false
 ---
 
-This is the text that fills the static page for this object.  
+Underhill, Geoffrey R.D. "Global Money and the Decline of State Power." In *Strange Power: Shaping the Parameters of International Relations and International Political Economy*. Thomas Lawton, James Rosenau, Amy C. Verdun, editors. 115-135. London: Routledge, 2000.
 
-You can put anything you want here in plaintext.
+Keywords: Global governance; Globalization; Money and finance; Authority; Markets; States
 
-If you want to add special elemets like links or images you can use either markdown code:
-
-[This is a link](http://www.google.ca)
-
-or HTML code
-
-<a href="http://www.google.ca">This is also a link</a> 
-
-Images can be done similarly using markdown:
-
-![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
-
-Or HTML code:
-
-<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
+[Text access (external link)](https://www.worldcat.org/title/1022846081)
