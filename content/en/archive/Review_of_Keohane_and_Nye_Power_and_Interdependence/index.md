@@ -19,7 +19,7 @@ pinned: false
 homepage: false
 ---
 
-Strange, Susan. "Review of Robert O. Keohane and Joeseph S. Nye (1977) Power and Interdependence: World Politics in Transition and Edward L. Morse (1976) Modernization and Transformation of International Relations." *International Affairs* 53, no. 2 (1977): 270-273.
+Strange, Susan. "Review of Robert O. Keohane and Joeseph S. Nye (1977) *Power and Interdependence: World Politics in Transition* and Edward L. Morse (1976) *Modernization and Transformation of International Relations*." *International Affairs* 53, no. 2 (1977): 270-273.
 
 In this short review of two important books in the development of International Political Economy, Strange briefly suggests the position which she would adopt more forthrightly later in her career: that IPE was not a sub-discipline of International Relations, but rather sought to completely redefine what it is to study the global system.
 
