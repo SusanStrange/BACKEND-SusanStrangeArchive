@@ -3,7 +3,7 @@
 title: "Addendum: Fifty Years of International Affairs Analysis: An Annotated Bibliography of Susan Strange's Academic Publications"
 description: "By Christopher May"
 datetext: "2000"
-excerpt: "May, Christopher. "Addendum: Fifty Years of International Affairs Analysis: An Annotated Bibliography of Susan Strange's Academic Publications." In Strange Power: Shaping the Parameters of International Relations and International Political Economy. Thomas Lawton, James Rosenau, Amy C. Verdun, editors. 421-443. London: Routledge, 2000."
+excerpt: "May, Christopher. In Strange Power: Shaping the Parameters of International Relations and International Political Economy. Thomas Lawton, James Rosenau, Amy C. Verdun, editors. 421-443. London: Routledge, 2000."
 excerpt2: "Abstract content"
 excerpt3: "Keywords: Other"
 
@@ -19,8 +19,8 @@ pinned: false
 homepage: false
 ---
 
-May, Christopher. "Addendum: Fifty Years of International Affairs Analysis: An Annotated Bibliography of Susan Strange's Academic Publications." In *Strange Power: Shaping the Parameters of International Relations and International Political Economy*. Thomas Lawton, James Rosenau, Amy C. Verdun, editors. 421-443. London: Routledge, 2000.
+May, Christopher. "Addendum: Fifty Years of International Affairs Analysis: An Annotated Bibliography of Susan Strange's Academic Publications." In *Strange Power: Shaping the Parameters of International Relations and International Political Economy*, edited by Thomas Lawton, James Rosenau, Amy C. Verdun, 421-443. London: Routledge, 2000.
 
-Keywords: Other; 
+Keywords: Other
 
 [Text access (external link)](https://www.worldcat.org/title/1022846081)
