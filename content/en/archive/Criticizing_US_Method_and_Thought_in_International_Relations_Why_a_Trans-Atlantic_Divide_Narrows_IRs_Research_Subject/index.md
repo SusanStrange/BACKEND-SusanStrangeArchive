@@ -3,8 +3,8 @@
 title: "Criticizing US Method and Thought in International Relations: Why a Trans-Atlantic Divide Narrows IR's Research Subject"
 description: "By Bertjan Verbeek"
 datetext: "2000"
-excerpt: "Verbeek, Bertjan. In Strange Power: Shaping the Parameters of International Relations and International Political Economy. Thomas Lawton, James Rosenau, Amy C. Verdun, editors. 139-158. London: Routledge, 2000."
-excerpt2: "Abstract content"
+excerpt: "Verbeek, Bertjan. In Strange Power: Shaping the Parameters of International Relations and International Political Economy, edited by Thomas Lawton, James Rosenau, Amy C. Verdun, 139-158. London: Routledge, 2000."
+excerpt2: ""
 excerpt3: "Keywords: Theory; United States; International Relations"
 
 date: 2000
@@ -19,7 +19,7 @@ pinned: false
 homepage: false
 ---
 
-Verbeek, Bertjan. "Criticizing US Method and Thought in International Relations: Why a Trans-Atlantic Divide Narrows IR's Research Subject." In *Strange Power: Shaping the Parameters of International Relations and International Political Economy*. Thomas Lawton, James Rosenau, Amy C. Verdun, editors. 139-158. London: Routledge, 2000.
+Verbeek, Bertjan. "Criticizing US Method and Thought in International Relations: Why a Trans-Atlantic Divide Narrows IR's Research Subject." In *Strange Power: Shaping the Parameters of International Relations and International Political Economy*, edited by Thomas Lawton, James Rosenau, Amy C. Verdun, 139-158. London: Routledge, 2000.
 
 Keywords: Theory; United States; International Relations
 
