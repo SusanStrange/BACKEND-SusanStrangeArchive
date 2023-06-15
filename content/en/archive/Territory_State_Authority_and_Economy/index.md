@@ -23,7 +23,7 @@ Strange, Susan. "Territory, State, Authority and Economy: A New Realist Ontology
 
 Strange argues that the global economy is in the midst of a transition; the close incidence of political authority, economic activity and geographical territory no longer holds. This has been caused by two main groups of factors: firstly changes derived from science and technology; and secondly structural changes within the global finance structure. Authority has shifted, or is shifting, from states to other actors in the international political economy. She disputes Rosenau's hypothesis of the emergence of a second world of turbulent complexity, disturbing the old world of international relations, instead arguing that it is all the same world, just more complex!
 
-Reprinted in: *Authority and Markets: Susan Strange’s Writings on International Political Economy*, edited by Roger Tooze and Christopher May. Basingstoke: Palgrave Macmillan, 2002.
+**Reprinted in: *Authority and Markets: Susan Strange’s Writings on International Political Economy*, edited by Roger Tooze and Christopher May. Basingstoke: Palgrave Macmillan, 2002.**
 
 Keywords: Authority; Knowledge; Markets; Money and Finance; States; Authority vs Markets; Technology
 
