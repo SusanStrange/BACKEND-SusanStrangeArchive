@@ -19,7 +19,7 @@ pinned: false
 homepage: false
 ---
 
-Strange, Susan "The Future of the American Empire." *Journal of International Affairs* 42, no. 1 (1988): 1-17.
+Strange, Susan. "The Future of the American Empire." *Journal of International Affairs* 42, no. 1 (1988): 1-17.
 
 Strange argues that increasingly power in the international political economy is not territorially defined, and what has emerged is an empire that is not territorially based, and secondly is controlled by information-rich US corporations. However while she call this the 'American Empire' her argument is (self-avowedly) close to an international Gramscian 'historical bloc' analysis. Thus the controlling bureaucracy of this empire while based on American values and culture is not necessarily staffed by Americans. This argument is carried further in 'Towards a Theory of Transnational Empire' (1989).
 
