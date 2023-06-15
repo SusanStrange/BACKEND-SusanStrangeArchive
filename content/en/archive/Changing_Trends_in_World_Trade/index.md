@@ -10,7 +10,7 @@ excerpt3: "Keywords: Production; Trade; Economic Development"
 date: 1962
 tags: ["Production", "Trade", "1960's"]
 contributors: ["Susan Strange", "Editor: George W. Keeton", "Editor: Georg Schwarzenberger"]
-categories: ["Book Chpater"]
+categories: ["Book Chapter"]
 
 draft: false
 weight: 50
