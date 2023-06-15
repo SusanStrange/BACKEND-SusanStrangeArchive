@@ -19,9 +19,7 @@ Blayne Haggart, Associate Professor of Political Science, Brock University, June
 
 ## Credits
 
-**Xavier Alexy, Daniel Brett, Jordon Dumenil, Robyn Cumiskey, Tim Ribaric, Blayne Haggart:** Website design and gruntwork.
-
-**Nat Dyer, Randall Germain, Johnna Montgomerie, James Morrison:** TITLE
+**Xavier Alexy, Daniel Brett, Jordon Dumenil, Yvonne Opoku, Tim Ribaric, Blayne Haggart:** Website design and data entry.
 
 **[Blayne Haggart](mailto:bhaggart@brocku.ca):** Site admin
 
