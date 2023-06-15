@@ -1,16 +1,16 @@
 ---
 
-title: "Demo/Template object"
-description: "This is the text displayed by the search results"
-datetext: "2023"
-excerpt: "Citation data"
-excerpt2: "Abstract content"
-excerpt3: "Extra content like key terms"
+title: "Reconsidering the Ontological Foundations of International Energy Affairs: Realist Geopolitics, Market Liberalism and a Politico-Economic Alternative"
+description: "By Edward Stoddard"
+datetext: "2013"
+excerpt: "Stoddard, Edward. European Security 22, no. 4 (2013): 437-463."
+excerpt2: "Accounts of international energy affairs often present a divergence between geopolitical/realist and liberal market-based approaches. This article suggests that this state of affairs reflects the (often implicit) legacies of realist and rationalist international thought in the study of energy affairs and the corresponding political and economic ontological hierarchies of analytical frameworks employed in different accounts of energy politics. Consequently, this article recommends a greater explicit attention to scientific ontological foundations in studies of energy relations and, in line with the calls of Keating et al. and Strange, suggests an approach based in the literature on I/GPE, which merges political and economic ontological axioms, as most apposite for the study of energy affairs. Building on this framework, and giving particular examples from the context of Eurasian energy politics, this article then outlines a number of politico-economic heuristic models (structural diversity, territorial non-coincidence, milieu-shaping and market-authority bargains) that are particularly useful concepts in helping to explain the intricate interactions of international energy relations."
+excerpt3: "Keywords: Authority ; Markets; Structural Power, Power; Theory; Realism; Liberalism; Energy"
 
-date: 2023
-tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
-contributors: ["Daniel Brett"]
-categories: ["Source1", "Demo Paper"]
+date: 2013
+tags: ["Authority ", "Markets", "Structural Power, Power", "Theory", "Strange-Influenced Works", "2010's"]
+contributors: ["Edward Stoddard"]
+categories: ["Journal Article"]
 
 draft: false
 weight: 50
@@ -19,22 +19,10 @@ pinned: false
 homepage: false
 ---
 
-This is the text that fills the static page for this object.  
+Stoddard, Edward. "Reconsidering the Ontological Foundations of International Energy Affairs: Realist Geopolitics, Market Liberalism and a Politico-Economic Alternative." *European Security* 22, no. 4 (2013): 437-463.
 
-You can put anything you want here in plaintext.
+Accounts of international energy affairs often present a divergence between geopolitical/realist and liberal market-based approaches. This article suggests that this state of affairs reflects the (often implicit) legacies of realist and rationalist international thought in the study of energy affairs and the corresponding political and economic ontological hierarchies of analytical frameworks employed in different accounts of energy politics. Consequently, this article recommends a greater explicit attention to scientific ontological foundations in studies of energy relations and, in line with the calls of Keating et al. and Strange, suggests an approach based in the literature on I/GPE, which merges political and economic ontological axioms, as most apposite for the study of energy affairs. Building on this framework, and giving particular examples from the context of Eurasian energy politics, this article then outlines a number of politico-economic heuristic models (structural diversity, territorial non-coincidence, milieu-shaping and market-authority bargains) that are particularly useful concepts in helping to explain the intricate interactions of international energy relations.
 
-If you want to add special elemets like links or images you can use either markdown code:
+Keywords: Authority ; Markets; Structural Power, Power; Theory; Realism; Liberalism; Energy
 
-[This is a link](http://www.google.ca)
-
-or HTML code
-
-<a href="http://www.google.ca">This is also a link</a> 
-
-Images can be done similarly using markdown:
-
-![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
-
-Or HTML code:
-
-<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
+[Text access (external link)](https://doi.org/10.1080/09662839.2013.775122)
