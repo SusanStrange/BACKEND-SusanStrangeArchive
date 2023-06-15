@@ -21,7 +21,7 @@ Blayne Haggart, Associate Professor of Political Science, Brock University, June
 
 **Xavier Alexy, Daniel Brett, Jordon Dumenil, Yvonne Opoku, Tim Ribaric, Blayne Haggart:** Website design and data entry.
 
-**[Blayne Haggart](mailto:bhaggart@brocku.ca):** Site admin
+**[Blayne Haggart](mailto:bhaggart@brocku.ca):** Site admin.
 
 This website was created and designed with support from Brock University’s Digital Scholarship Lab, with financial support from Brock University’s Council for Research in the Social Sciences.
 
