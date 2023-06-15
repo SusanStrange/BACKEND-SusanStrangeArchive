@@ -4,7 +4,7 @@ title: "Ford and the Global Strategies of Multinationals: The North American Aut
 description: "By Maria Isabel Studer Noguez"
 datetext: "2002"
 excerpt: "Studer-Noguez, Maria Isabel. London: Taylor & Francis, 2002." 
-excerpt2: "Abstract content"
+excerpt2: ""
 excerpt3: "Keywords: Corporations; States; Globalization; Authority; Markets"
 
 date: 2002
