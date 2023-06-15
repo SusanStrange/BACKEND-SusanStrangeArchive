@@ -4,7 +4,7 @@ title: "Alternative Directions in the Study of the Global Political Economy"
 description: "By Robert A. Denemark"
 datetext: "2003"
 excerpt: "Denemark, Robert A. In Rethinking Global Political Economy. Robert A. Denemark, Kurt Burch, Mary Ann Tétreault, Kenneth P. Thomas, editors. 237-245. London: Taylor & Francis, 2003."
-excerpt2: "Abstract content"
+excerpt2: ""
 excerpt3: "Keywords: Political Economy; Theory"
 
 date: 2003
@@ -19,7 +19,7 @@ pinned: false
 homepage: false
 ---
 
-Denemark, Robert A. "Alternative Directions in the Study of the Global Political Economy." In *Rethinking Global Political Economy*. Robert A. Denemark, Kurt Burch, Mary Ann Tétreault, Kenneth P. Thomas, editors. 237-245. London: Taylor & Francis, 2003.
+Denemark, Robert A. "Alternative Directions in the Study of the Global Political Economy." In *Rethinking Global Political Economy*, edited by Robert A. Denemark, Kurt Burch, Mary Ann Tétreault, Kenneth P. Thomas, 237-245. London: Taylor & Francis, 2003.
 
 Keywords: Political Economy; Theory
 
