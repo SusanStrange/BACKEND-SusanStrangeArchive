@@ -18,7 +18,7 @@ images: []
 pinned: false
 homepage: false
 ---
-Strange, Susan. "GATT and the Politics of North-South Trade," *Austrailian Outlook* 38, no. 2 (1984): 106-110.
+Strange, Susan. "GATT and the Politics of North-South Trade." *Austrailian Outlook* 38, no. 2 (1984): 106-110.
 
 Strange identifies three ‘shaky assumptions’ underlying the call to revive the GATT negotiations, that protectionism was the main cause of the 1930s depression, that the GATT was a necessary condition of post-war recovery, and free trade was ever a widely followed ‘norm’. However, though the alternatives are presented as a hegemonic system run by the US or a multilateral system managed through the GATT, Strange argues that the reality is a cob-web of bi-lateral agreements which accords with many people’s desire to have their own state manage their affairs.
 
