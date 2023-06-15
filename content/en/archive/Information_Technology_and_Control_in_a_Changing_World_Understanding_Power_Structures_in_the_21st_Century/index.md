@@ -9,7 +9,7 @@ excerpt3: "Keywords: Theory; Knowledge; Structural Power, Power ; Security"
 
 date: 2019
 tags: ["Theory", "Knowledge", "Structural Power, Power ", "Security", "Strange-Influenced Works", "2010's"]
-contributors: [, "Editor: Blayne Haggart", "Editor: Kathryn Henne", "Editor: Natasha Tusikov"]
+contributors: ["Editor: Blayne Haggart", "Editor: Kathryn Henne", "Editor: Natasha Tusikov"]
 categories: ["Edited Volume"]
 
 draft: false
