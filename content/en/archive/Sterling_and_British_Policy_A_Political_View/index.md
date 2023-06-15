@@ -23,6 +23,6 @@ Strange, Susan. "Sterling and British Policy: A Political View." *International 
 
 Strange sets the decline of sterling and the rise of the dollar in the context of international politics. She stresses the need to integrate economic studies with those of international relations. Both state behaviour and the behaviour of international society, hitherto interpreted in terms of power and politics should now be extended to take in the monetary factor especially in the light of economic interdependence - the monetary factor is bound to become increasingly important in understanding state behaviour. These views are then developed in Sterling and British Policy  (1971) while the importance of monetary factors is a theme which underlies all of her subsequent work.
 
-Keywords: Money and Finance, United Kingdom, Interdependence
+Keywords: Money and Finance; United Kingdom; Interdependence
 
 [Text Access (External Link)](https://doi.org/10.2307/2613930)
