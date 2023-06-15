@@ -3,7 +3,7 @@
 title: "Information, Technology and Control in a Changing World: Understanding Power Structures in the 21st Century"
 description: "Edited by Blayne Haggart, Kathryn Henne, Natasha Tusikov"
 datetext: "2019"
-excerpt: Blayne Haggart, Kathryn Henne, Natasha Tusikov, editors. Cham: Palgrave Macmillan, 2019. 
+excerpt: "Blayne Haggart, Kathryn Henne, Natasha Tusikov, editors. Cham: Palgrave Macmillan, 2019." 
 excerpt2: "Draws on Susan Strange’s conception of the knowledge structure to offer guiding theoretical insights for analyzing how the control of knowledge in its many forms is affecting global politics, society and economics."
 excerpt3: "Keywords: Theory; Knowledge; Structural Power, Power ; Security"
 
