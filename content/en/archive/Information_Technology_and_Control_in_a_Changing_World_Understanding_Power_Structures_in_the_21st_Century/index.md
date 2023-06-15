@@ -1,16 +1,16 @@
 ---
 
-title: "Demo/Template object"
-description: "This is the text displayed by the search results"
-datetext: "2023"
-excerpt: "Citation data"
-excerpt2: "Abstract content"
-excerpt3: "Extra content like key terms"
+title: "Information, Technology and Control in a Changing World: Understanding Power Structures in the 21st Century"
+description: "Edited by Blayne Haggart, Kathryn Henne, Natasha Tusikov"
+datetext: "2019"
+excerpt: Blayne Haggart, Kathryn Henne, Natasha Tusikov, editors. Cham: Palgrave Macmillan, 2019. 
+excerpt2: "Draws on Susan Strange’s conception of the knowledge structure to offer guiding theoretical insights for analyzing how the control of knowledge in its many forms is affecting global politics, society and economics."
+excerpt3: "Keywords: Theory; Knowledge; Structural Power, Power ; Security"
 
-date: 2023
-tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
-contributors: ["Daniel Brett"]
-categories: ["Source1", "Demo Paper"]
+date: 2019
+tags: ["Theory", "Knowledge", "Structural Power, Power ", "Security", "Strange-Influenced Works", "2010's"]
+contributors: [", "Editor: Blayne Haggart", "Editor: Kathryn Henne", "Editor: Natasha Tusikov"]
+categories: ["Edited Volume"]
 
 draft: false
 weight: 50
@@ -19,22 +19,10 @@ pinned: false
 homepage: false
 ---
 
-This is the text that fills the static page for this object.  
+Haggart, Blayne, Kate Henne, Natasha Tusikov, editors. *Information, Technology and Control in a Changing World: Understanding Power Structures in the 21st Century*. Cham: Palgrave Macmillan, 2019.
 
-You can put anything you want here in plaintext.
+Draws on Susan Strange’s conception of the knowledge structure to offer guiding theoretical insights for analyzing how the control of knowledge in its many forms is affecting global politics, society and economics.
 
-If you want to add special elemets like links or images you can use either markdown code:
+Keywords: Theory; Knowledge; Structural Power, Power ; Security
 
-[This is a link](http://www.google.ca)
-
-or HTML code
-
-<a href="http://www.google.ca">This is also a link</a> 
-
-Images can be done similarly using markdown:
-
-![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
-
-Or HTML code:
-
-<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
+[Text access (external link)](https://www.worldcat.org/title/1111084507)
