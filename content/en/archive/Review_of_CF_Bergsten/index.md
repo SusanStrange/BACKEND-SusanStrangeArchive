@@ -19,7 +19,7 @@ pinned: false
 homepage: false
 ---
 
-Strange, Susan. "Review of: C.F Bergsten The World Economic in the 1980s - Selected Papers (Toronto: D.C Heath, 1981)," *International Journal* 38, no. 2 (1983): 355-356.
+Strange, Susan. "Review of: C.F Bergsten The World Economic in the 1980s - Selected Papers (Toronto: D.C Heath, 1981)." *International Journal* 38, no. 2 (1983): 355-356.
 
 Strange criticises Bergsten’s exaggeration of US decline in hegemonic power and absolution of the USA of bearing prime responsibility for the deteriorating economic situation. Indeed much of her work in the 1980s revolved round the dual need to recognise US responsibility for global economic crises, and the problem of such a responsibility being denied by the US (both policy makers and academics). Reprinted in: Authority and Markets: Susan Strange’s Writings on International Political Economy (edited by Roger Tooze & Christopher May) Basingstoke: PalgraveMacmillan 2002.
 
