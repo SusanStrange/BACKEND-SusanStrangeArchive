@@ -21,7 +21,7 @@ homepage: false
 
 Strange, Susan "Who Runs World Shipping?." *International Affairs* 52, no. 3 (1976): 346-367.
 
-Published alongside **'The Study of Transnational Relations?' (1976)**. Based on the theory developed in that article, Strange's sectoral analysis (of world shipping), which carries some material forward from 'International shipping and the developing countries' (with Richard Holland, 1976).
+Published alongside **'The Study of Transnational Relations?' (1976)**. Based on the theory developed in that article, Strange's sectoral analysis (of world shipping), which carries some material forward from **'International shipping and the developing countries' (with Richard Holland, 1976)**.
 
 Keywords: Theory; Trade; International Institutions; Transportation; International Development
 
