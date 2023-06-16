@@ -1,16 +1,16 @@
 ---
 
-title: "Demo/Template object"
-description: "This is the text displayed by the search results"
-datetext: "2023"
-excerpt: "Citation data"
-excerpt2: "Abstract content"
-excerpt3: "Extra content like key terms"
+title: "The Transatlantic Divide: Why Are American And British IPE so Different?"
+description: "By Benjamin J. Cohen"
+datetext: "2007"
+excerpt: "Cohen, Benjamin J. Review of International Political Economy 14, no. 2 (2007): 197-219."
+excerpt2: "Based on a lecture presented to the inaugural meeting of the International Political Economy Society, Princeton University, Princeton, NJ, 17 November 2006."
+excerpt3: "Keywords: Political Economy; Theory"
 
-date: 2023
-tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
-contributors: ["Daniel Brett"]
-categories: ["Source1", "Demo Paper"]
+date: 2007
+tags: ["Political Economy", "Theory", "Strange-Influenced Works", "2000's"]
+contributors: ["Benjamin J. Cohen"]
+categories: ["Journal Article"]
 
 draft: false
 weight: 50
@@ -19,23 +19,10 @@ pinned: false
 homepage: false
 ---
 
-This is the text that fills the static page for this object.  
+Cohen, Benjamin J. "The Transatlantic Divide: Why Are American And British IPE so Different?." *Review of International Political Economy* 14, no. 2 (2007): 197-219.
 
-You can put anything you want here in plaintext.
+Based on a lecture presented to the inaugural meeting of the International Political Economy Society, Princeton University, Princeton, NJ, 17 November 2006.
 
-If you want to add special elemets like links or images you can use either markdown code:
+Keywords: Political Economy; Theory
 
-[This is a link](http://www.google.ca)
-
-or HTML code
-
-<a href="http://www.google.ca">This is also a link</a> 
-
-Images can be done similarly using markdown:
-
-![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
-
-Or HTML code:
-
-<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
-
+[Text access (external link)](https://doi.org/10.1080/09692290701288277)
