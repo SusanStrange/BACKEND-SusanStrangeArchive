@@ -1,16 +1,16 @@
 ---
 
-title: "Demo/Template object"
-description: "This is the text displayed by the search results"
-datetext: "2023"
-excerpt: "Citation data"
-excerpt2: "Abstract content"
-excerpt3: "Extra content like key terms"
+title: "Transnational Corporations and the Proliferation of Bilateral Investment Treaties: More Than a Bit Influential"
+description: "By Michael Jacobs"
+datetext: "2016"
+excerpt: "Jacobs, Michael. Transnational Corporations Review 8, no. 2 (2016): 93-111."
+excerpt2: "To date, over 2500 bilateral investment treaties (BITs) have been signed. The popularity of these treaties raises the question, what has driven the proliferation of BITs? Previous research argues that the proliferation of BITs is the product of competition for capital among developing states. This study hypothesises that the developed state transnational corporations (TNCs) are driving the spread of BITs. The results from a time series logistic regression support the TNC hypothesis, adding support to the argument that transnationals should be recognised as major actors in the international political economy."
+excerpt3: "Keywords: Corporations; Money and Finance; Structural Power, Power; Authority; Markets"
 
-date: 2023
-tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
-contributors: ["Daniel Brett"]
-categories: ["Source1", "Demo Paper"]
+date: 2016
+tags: ["Corporations", "Money and Finance", "Structural Power, Power", "Authority", "Markets", "Strange-Influenced Works", "2010's"]
+contributors: ["Michael Jacobs"]
+categories: ["Journal Article"]
 
 draft: false
 weight: 50
@@ -19,23 +19,10 @@ pinned: false
 homepage: false
 ---
 
-This is the text that fills the static page for this object.  
+Jacobs, Michael. "Transnational Corporations and the Proliferation of Bilateral Investment Treaties: More Than a Bit Influential." *Transnational Corporations Review* 8, no. 2 (2016): 93-111.
 
-You can put anything you want here in plaintext.
+To date, over 2500 bilateral investment treaties (BITs) have been signed. The popularity of these treaties raises the question, what has driven the proliferation of BITs? Previous research argues that the proliferation of BITs is the product of competition for capital among developing states. This study hypothesises that the developed state transnational corporations (TNCs) are driving the spread of BITs. The results from a time series logistic regression support the TNC hypothesis, adding support to the argument that transnationals should be recognised as major actors in the international political economy.
 
-If you want to add special elemets like links or images you can use either markdown code:
+Keywords: Corporations; Money and Finance; Structural Power, Power; Authority; Markets
 
-[This is a link](http://www.google.ca)
-
-or HTML code
-
-<a href="http://www.google.ca">This is also a link</a> 
-
-Images can be done similarly using markdown:
-
-![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
-
-Or HTML code:
-
-<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
-
+[Text access (external link)](https://doi.org/10.1080/19186444.2016.1196856)
