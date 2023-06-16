@@ -1,16 +1,16 @@
 ---
 
-title: "Demo/Template object"
-description: "This is the text displayed by the search results"
-datetext: "2023"
-excerpt: "Citation data"
-excerpt2: "Abstract content"
-excerpt3: "Extra content like key terms"
+title: "Susan Strange, Academic International Relations and the Study of International Political Economy"
+description: "By Roger Tooze"
+datetext: "2000"
+excerpt: "Tooze, Roger. New Political Economy 5, no. 2 (2000): 280-289."
+excerpt2: ""
+excerpt3: ""Keywords: Theory; Political Economy; Other"
 
-date: 2023
-tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
-contributors: ["Daniel Brett"]
-categories: ["Source1", "Demo Paper"]
+date: 2000
+tags: ["Theory", "Political Economy", "Other", "Strange-Influenced Works", "2000's"]
+contributors: ["Roger Tooze"]
+categories: ["Journal Article"]
 
 draft: false
 weight: 50
@@ -19,22 +19,8 @@ pinned: false
 homepage: false
 ---
 
-This is the text that fills the static page for this object.  
+Tooze, Roger. "Susan Strange, Academic International Relations and the Study of International Political Economy." *New Political Economy* 5, no. 2 (2000): 280-289.
 
-You can put anything you want here in plaintext.
+Keywords: Theory; Political Economy; Other
 
-If you want to add special elemets like links or images you can use either markdown code:
-
-[This is a link](http://www.google.ca)
-
-or HTML code
-
-<a href="http://www.google.ca">This is also a link</a> 
-
-Images can be done similarly using markdown:
-
-![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
-
-Or HTML code:
-
-<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
+[Text access (external link)](http://www.tandfonline.com/doi/abs/10.1080/713687770.")
