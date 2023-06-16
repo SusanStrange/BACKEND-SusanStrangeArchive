@@ -3,7 +3,7 @@
 title: "Reflection II"
 description: "By Madeline Carr"
 datetext: "2019"
-excerpt: "Madeline Carr. In Information, Technology and Control in a Changing World: Understanding Power Structures in the 21st Century. Blayne Haggart, Kathryn Henne, Natasha Tusikov, editors. 149-160. Cham: Palgrave Macmillan, 2019."
+excerpt: "Carr, Madeline. In Information, Technology and Control in a Changing World: Understanding Power Structures in the 21st Century, edited by Blayne Haggart, Kathryn Henne, Natasha Tusikov, 149-160. Cham: Palgrave Macmillan, 2019."
 excerpt2: "Madeline Carr reflects on the chapters by Dwayne Winseck and Natasha Tusikov."
 excerpt3: "Keywords: Knowledge"
 date: 2019
@@ -18,11 +18,11 @@ pinned: false
 homepage: false
 ---
 
-Carr, Madeline. "Reflection II." In *Information, Technology and Control in a Changing World: Understanding Power Structures in the 21st Century*. Blayne Haggart, Kathryn Henne, Natasha Tusikov, editors.  149-160. Cham: Palgrave Macmillan, 2019.
+Carr, Madeline. "Reflection II." In *Information, Technology and Control in a Changing World: Understanding Power Structures in the 21st Century*, edited by Blayne Haggart, Kathryn Henne, Natasha Tusikov, 149-160. Cham: Palgrave Macmillan, 2019.
 
 Madeline Carr reflects on the chapters by Dwayne Winseck and Natasha Tusikov.
 
-Keywords: Knowledge; 
+Keywords: Knowledge
 
 [Text access (external link)](https://www.worldcat.org/title/1111084507)
 
