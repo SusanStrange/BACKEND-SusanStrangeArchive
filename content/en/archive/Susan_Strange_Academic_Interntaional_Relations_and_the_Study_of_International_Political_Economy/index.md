@@ -1,6 +1,6 @@
 ---
 
-title: "Susan Strange, Academic International Relations and the Study of International Political Economy"
+title: "Susan Strange, Academic International Relations and the Study of International Political Economy
 description: "By Roger Tooze"
 datetext: "2000"
 excerpt: "Tooze, Roger. New Political Economy 5, no. 2 (2000): 280-289."
