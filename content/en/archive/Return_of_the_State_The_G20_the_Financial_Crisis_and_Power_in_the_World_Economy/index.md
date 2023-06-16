@@ -25,4 +25,4 @@ The Group of Twenty and the new world order it is meant to signify have prompted
 
 Keywords: Authority; Markets; Money and Finance; Global governance
 
-[Text access (external link)](https://doi.org/10.1080/09538259.2012.664340))
+[Text access (external link)](https://doi.org/10.1080/09538259.2012.664340)
