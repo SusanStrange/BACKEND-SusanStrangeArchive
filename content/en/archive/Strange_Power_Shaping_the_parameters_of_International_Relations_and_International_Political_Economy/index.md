@@ -1,7 +1,7 @@
 ---
 
 title: "Strange Power: Shaping the Parameters of International Relations and International Political Economy"
-description: ""Edited by Thomas Lawton, James Rosenau, Amy Verdun"
+description: "Edited by Thomas Lawton, James Rosenau, Amy Verdun"
 datetext: "2000"
 excerpt: "Lawton, Thomas, James Rosenau, Amy C. Verdun, editors. London: Routledge, 2000. "
 excerpt2: "This title was first published in 2000:  Focusing on the contribution of Susan Strange to the study of international political economy, this collection forms a unique perspective on the global economy whilst providing tools for the reader to better understand that economic system. The book examines Susan Strange's structural power theories, whilst adding the perspective of the contributor. The combination of approaches and experience provides a multifaceted analysis of international relations and international political economy."
