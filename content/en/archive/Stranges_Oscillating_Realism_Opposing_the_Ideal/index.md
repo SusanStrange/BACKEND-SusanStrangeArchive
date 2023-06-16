@@ -9,7 +9,7 @@ excerpt3: "Keywords: Theory; Political Economy; Structural Power, Power; Interna
 
 date: 2000
 tags: ["Theory", "Political Economy", "Structural Power, Power", "Strange-Influenced Works", "2000's"]
-contributors: ["Stefano Guzzini", "Editor: Thomas Lawton", "Editor: James Rosenau", "Editor: Amy C. Verdun""]
+contributors: ["Stefano Guzzini", "Editor: Thomas Lawton", "Editor: James Rosenau", "Editor: Amy C. Verdun"]
 categories: ["Book Chapter"]
 
 draft: false
@@ -24,7 +24,3 @@ Guzzini, Stefano. "Strange's Oscillating Realism: Opposing the Ideal - and the A
 Keywords: Theory; Political Economy; Structural Power, Power; International Relations; Realism
 
 [Text access (external link)](https://www.worldcat.org/title/1022846081)
-
-Or HTML code:
-
-<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
