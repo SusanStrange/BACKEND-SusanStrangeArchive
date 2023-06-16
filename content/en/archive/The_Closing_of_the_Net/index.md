@@ -1,16 +1,16 @@
 ---
 
-title: "Demo/Template object"
-description: "This is the text displayed by the search results"
-datetext: "2023"
-excerpt: "Citation data"
-excerpt2: "Abstract content"
-excerpt3: "Extra content like key terms"
+title: "The Closing of the Net"
+description: "By Monica Horten"
+datetext: "2016"
+excerpt: "Horten, Monica. Cambridge: Routledge, 2016. "
+excerpt2: "Deploying Susan Strange's concept of structural power, this book provides the backstory to current attempts by states and corporations to control the Internet. It explains key issues such as privacy, net neutrality and copyright in a way that is accessible to non-experts, as well as providing a clear, authoritative context for academic study." 
+excerpt3: "Keywords: Knowledge"
 
-date: 2023
-tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
-contributors: ["Daniel Brett"]
-categories: ["Source1", "Demo Paper"]
+date: 2016
+tags: ["Knowledge", "Strange-Influenced Works", "2010's"]
+contributors: ["Monica Horten"]
+categories: ["Book"]
 
 draft: false
 weight: 50
@@ -19,22 +19,10 @@ pinned: false
 homepage: false
 ---
 
-This is the text that fills the static page for this object.  
+Horten, Monica. *The Closing of the Net*. Cambridge: Routledge, 2016.
 
-You can put anything you want here in plaintext.
+Deploying Susan Strange's concept of structural power, this book provides the backstory to current attempts by states and corporations to control the Internet. It explains key issues such as privacy, net neutrality and copyright in a way that is accessible to non-experts, as well as providing a clear, authoritative context for academic study.
 
-If you want to add special elemets like links or images you can use either markdown code:
+Keywords: Knowledge; 
 
-[This is a link](http://www.google.ca)
-
-or HTML code
-
-<a href="http://www.google.ca">This is also a link</a> 
-
-Images can be done similarly using markdown:
-
-![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
-
-Or HTML code:
-
-<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
+[Text access (external link)](https://www.worldcat.org/title/920730531)
