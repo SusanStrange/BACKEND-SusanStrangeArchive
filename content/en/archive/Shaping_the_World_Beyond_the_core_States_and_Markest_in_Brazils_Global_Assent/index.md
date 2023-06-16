@@ -1,16 +1,16 @@
 ---
 
-title: "Demo/Template object"
-description: "This is the text displayed by the search results"
-datetext: "2023"
-excerpt: "Citation data"
-excerpt2: "Abstract content"
-excerpt3: "Extra content like key terms"
+title: "Shaping the World Beyond the 'Core': States and Markets in Brazil's Global Assent"
+description: "By Diana Tussie"
+datetext: "2016"
+excerpt: "Tussie, Diana. In Susan Strange and the Future of Global Political Economy: Power, Control and Transformation, edited by Randall Germain, 73-86. London: Routledge, 2016."
+excerpt2: "This chapter argues that the global financial crisis of 2008 presented a unique opportunity to re-visit them and to re-evaluate Strange's core argument about the enduring structural power of the US in global finance. It explains how this power was particularly apparent in two international developments that took place at the height of the crisis: the US international lender-of-last-resort role and the absence of a dollar crisis. The chapter argues that an analysis of these two developments not only demonstrates the validity of Strange's argument about the US position in global finance but also provides a chance to clarify some analytical aspects of Strange's concept of structural power. The experience of the 2008 crisis demonstrates how structural power in global finance provides a number of benefits to the US, ranging from the unique influence it had in politics of crisis resolution to the unusual macroeconomic flexibility that stemmed from foreign support of the dollar."
+excerpt3: "Keywords: States; Markets; Structural Power, Power; Authority"
 
-date: 2023
-tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
-contributors: ["Daniel Brett"]
-categories: ["Source1", "Demo Paper"]
+date: 2016
+tags: ["States", "Markets", "Structural Power, Power", "Authority", "Strange-Influenced Works", "2010's"]
+contributors: ["Diana Tussie", "Editor: Randall Germain"]
+categories: ["Book Chapter"]
 
 draft: false
 weight: 50
@@ -19,22 +19,10 @@ pinned: false
 homepage: false
 ---
 
-This is the text that fills the static page for this object.  
+Tussie, Diana. "Shaping the World Beyond the 'Core': States and Markets In *Susan Strange and the Future of Global Political Economy: Power, Control and Transformation*, edited by Randall Germain, 73-86. London: Routledge, 2016.
 
-You can put anything you want here in plaintext.
+This chapter argues that the global financial crisis of 2008 presented a unique opportunity to re-visit them and to re-evaluate Strange's core argument about the enduring structural power of the US in global finance. It explains how this power was particularly apparent in two international developments that took place at the height of the crisis: the US international lender-of-last-resort role and the absence of a dollar crisis. The chapter argues that an analysis of these two developments not only demonstrates the validity of Strange's argument about the US position in global finance but also provides a chance to clarify some analytical aspects of Strange's concept of structural power. The experience of the 2008 crisis demonstrates how structural power in global finance provides a number of benefits to the US, ranging from the unique influence it had in politics of crisis resolution to the unusual macroeconomic flexibility that stemmed from foreign support of the dollar.
 
-If you want to add special elemets like links or images you can use either markdown code:
+Keywords: States; Markets; Structural Power, Power; Authority
 
-[This is a link](http://www.google.ca)
-
-or HTML code
-
-<a href="http://www.google.ca">This is also a link</a> 
-
-Images can be done similarly using markdown:
-
-![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
-
-Or HTML code:
-
-<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
+[Text access (external link)](https://www.worldcat.org/title/948603852)
