@@ -5,7 +5,7 @@ description: "By Jennifer Sterling-Folker"
 datetext: "2006"
 excerpt: "Sterling-Folker, Jennifer. In Contending Perspectives on Global Governance, edited by Alice D. Ba, Matthew J. Hoffman, 27-48. London: Springer, 2006."
 excerpt2: ""
-excerpt3: ""Keywords: Theory; Realism; Regime Theory""
+excerpt3: "Keywords: Theory; Realism; Regime Theory"
 
 date: 2006
 tags: ["Theory", "Strange-Influenced Works", "2000's"]
