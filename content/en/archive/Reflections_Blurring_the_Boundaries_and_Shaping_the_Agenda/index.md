@@ -21,6 +21,6 @@ homepage: false
 
 Earnest, David C., Louis W. Pauly, James N. Rosenau, Thomas C. Lawton, Amy C. Verdun. "Reflections: Blurring the Boundaries and Shaping the Agenda." In *Strange Power: Shaping the Parameters of International Relations and International Political Economy*, edited by Thomas Lawton, James Rosenau, Amy C. Verdun, 409-420. London: Routledge, 2000.
 
-Keywords: Theory; 
+Keywords: Theory
 
 [Text access (external link)](https://www.worldcat.org/title/1022846081)
