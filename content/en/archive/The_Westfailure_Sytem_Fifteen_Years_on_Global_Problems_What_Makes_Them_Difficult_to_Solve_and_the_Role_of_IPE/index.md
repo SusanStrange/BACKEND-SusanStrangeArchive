@@ -1,16 +1,16 @@
 ---
 
-title: "Demo/Template object"
-description: "This is the text displayed by the search results"
-datetext: "2023"
-excerpt: "Citation data"
-excerpt2: "Abstract content"
-excerpt3: "Extra content like key terms"
+title: "The Westfailure System' Fifteen Years on: Global Problems, What Makes Them Difficult to Solve and the Role of IPE"
+description: "By Craig N. Murphy"
+datetext: "2016"
+excerpt: "CMurphy, Craig N. In Susan Strange and the Future of Global Political Economy: Power, Control and Transformation, edited by Randall Germain, 51-70. London: Routledge, 2016."
+excerpt2: "This chapter argues that some of Susan Strange's insights hold heuristic value that remains underused in the literature that is emerging from the regions, on the regions, and in the wider international political economy (IPE) field itself. In a nutshell, a closer examination of the regions out there can reveal important scope conditions for understanding the structural re-organization of the global political economy which may otherwise be missed. Susan Strange's analysis of business and power opens up the possibility of looking at developing countries as makers and not just takers of international policy. It reinforces the call today for IPE to move on and speak to a new global landscape. This narrative is certainly consistent with the institutional turn in development theory. Internationalization beyond the core also marks a new stage in development. Fiscal solvency has changed the character of the state, enabling it to provide centrally mandated subsidized credit."
+excerpt3: "Keywords: Authority; Structural Power, Power; Westfailure System; General Framework"
 
-date: 2023
-tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
-contributors: ["Daniel Brett"]
-categories: ["Source1", "Demo Paper"]
+date: 2016
+tags: ["Authority", "Structural Power, Power", "Strange-Influenced Works", "2010's"]
+contributors: ["Craig N. Murphy", "Editor: Randall Germain"]
+categories: ["Book Chapter"]
 
 draft: false
 weight: 50
@@ -19,23 +19,11 @@ pinned: false
 homepage: false
 ---
 
-This is the text that fills the static page for this object.  
+Murphy, Craig N. "The Westfailure System' Fifteen Years on: Global Problems, What Makes Them Difficult to Solve and the Role of IPE." In *Susan Strange and the Future of Global Political Economy: Power, Control and Transformation*, edited by Randall Germain, 51-70. London: Routledge, 2016.
 
-You can put anything you want here in plaintext.
+This chapter argues that some of Susan Strange's insights hold heuristic value that remains underused in the literature that is emerging from the regions, on the regions, and in the wider international political economy (IPE) field itself. In a nutshell, a closer examination of the regions out there can reveal important scope conditions for understanding the structural re-organization of the global political economy which may otherwise be missed. Susan Strange's analysis of business and power opens up the possibility of looking at developing countries as makers and not just takers of international policy. It reinforces the call today for IPE to move on and speak to a new global landscape. This narrative is certainly consistent with the institutional turn in development theory. Internationalization beyond the core also marks a new stage in development. Fiscal solvency has changed the character of the state, enabling it to provide centrally mandated subsidized credit.
 
-If you want to add special elemets like links or images you can use either markdown code:
+Keywords: Authority; Structural Power, Power; Westfailure System; General Framework
 
-[This is a link](http://www.google.ca)
-
-or HTML code
-
-<a href="http://www.google.ca">This is also a link</a> 
-
-Images can be done similarly using markdown:
-
-![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
-
-Or HTML code:
-
-<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
+[Text access (external link)](https://www.worldcat.org/title/948603852)
 
