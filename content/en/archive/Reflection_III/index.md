@@ -3,7 +3,7 @@
 title: "Reflection III"
 description: "By Blayne Haggart"
 datetext: "2019"
-excerpt: "Blayne Haggart. In Information, Technology and Control in a Changing World: Understanding Power Structures in the 21st Century. Blayne Haggart, Kathryn Henne, Natasha Tusikov, editors. 213-218. Cham: Palgrave Macmillan, 2019."
+excerpt: "Haggart, Blayne. In Information, Technology and Control in a Changing World: Understanding Power Structures in the 21st Century. Blayne Haggart, Kathryn Henne, Natasha Tusikov, editors. 213-218. Cham: Palgrave Macmillan, 2019."
 excerpt2: "Blayne Haggart reflects on the chapters by Debora Halbert, and Jenna Harb and Kathryn Henne."
 excerpt3: "Keywords: Knowledge; Security"
 
@@ -19,10 +19,10 @@ pinned: false
 homepage: false
 ---
 
-Haggart, Blayne. "Reflection III." In *Information, Technology and Control in a Changing World: Understanding Power Structures in the 21st Century*. Blayne Haggart, Kathryn Henne, Natasha Tusikov, editors.  213-218. Cham: Palgrave Macmillan, 2019.
+Haggart, Blayne. "Reflection III." In *Information, Technology and Control in a Changing World: Understanding Power Structures in the 21st Century*, edited by Blayne Haggart, Kathryn Henne, Natasha Tusikov, 213-218. Cham: Palgrave Macmillan, 2019.
 
 Blayne Haggart reflects on the chapters by Debora Halbert, and Jenna Harb and Kathryn Henne.
 
-Keywords: Knowledge; 
+Keywords: Knowledge; Security
 
 [Text access (external link)](https://www.worldcat.org/title/1111084507)
