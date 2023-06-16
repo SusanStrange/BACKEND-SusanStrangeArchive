@@ -3,11 +3,11 @@
 title: "Reflection IV"
 description: "By Jennifer Musto"
 datetext: "2019"
-excerpt: "Musto, Jennifer. In Information, Technology and Control in a Changing World: Understanding Power Structures in the 21st Century. Blayne Haggart, Kathryn Henne, Natasha Tusikov, editors. 273-284. Cham: Palgrave Macmillan, 2019."
+excerpt: "Musto, Jennifer. In Information, Technology and Control in a Changing World: Understanding Power Structures in the 21st Century, edited by Blayne Haggart, Kathryn Henne, Natasha Tusikov, 273-284. Cham: Palgrave Macmillan, 2019."
 excerpt2: "Jennifer Musto reflects on the chapters by Kathryn Henne and Allison Fish."
-excerpt3: "Keywords: Knowledge"
+excerpt3: "Keywords: Knowledge; Security"
 date: 2019
-tags: ["Knowledge", "Strange-Influenced Works", "2010's"]
+tags: ["Knowledge", "Security", "Strange-Influenced Works", "2010's"]
 contributors: ["Jennifer Musto", "Editor: Blayne Haggart", "Editor: Kathryn Henne", "Editor: Natasha Tusikov"]
 categories: ["Book Chapter"]
 
