@@ -24,7 +24,3 @@ Tovias, Alfred. "Regional Blocks and International Relations: Economic Groupings
 Keywords: Global governance; Regionalism; International Relations
 
 [Text access (external link)](https://www.worldcat.org/title/1022846081)
-
-Or HTML code:
-
-<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
