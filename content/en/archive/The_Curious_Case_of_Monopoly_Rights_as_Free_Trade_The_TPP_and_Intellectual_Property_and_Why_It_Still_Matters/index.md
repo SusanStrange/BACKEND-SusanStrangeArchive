@@ -1,16 +1,16 @@
 ---
 
-title: "Demo/Template object"
-description: "This is the text displayed by the search results"
-datetext: "2023"
-excerpt: "Citation data"
-excerpt2: "Abstract content"
-excerpt3: "Extra content like key terms"
+title: "The Curious Case of Monopoly Rights as Free Trade: The TPP and Intellectual Property and Why It Still Matters"
+description: "By Debora J. Halbert"
+datetext: "2017"
+excerpt: "Halbert, Debora J. Journal of Information Policy 7 (2017): 204-227."
+excerpt2: "Using the framework of a knowledge structure as conceptualized by Susan Strange, this article addresses the loss of flexibilities in international intellectual property (IP) regimes and the corresponding global criminalization of IP as serious topics of concern. The knowledge structure of IP frames a very specific type of global political economy. First, Strange's approach to international political economy as it relates to IP is developed. Second, a brief history of global IP as a trade-related issue is discussed, including the current status of the Transpacific Partnership. Finally, some future trends that may suggest global shifts in the knowledge structure worth watching are investigated."
+excerpt3: ""Keywords: Structural Power, Power; Knowledge"
 
-date: 2023
-tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
-contributors: ["Daniel Brett"]
-categories: ["Source1", "Demo Paper"]
+date: 2017
+tags: ["Structural Power, Power", "Knowledge", "Strange-Influenced Works", "2010's"]
+contributors: ["Debora J. Halbert"]
+categories: ["Journal Article"]
 
 draft: false
 weight: 50
@@ -19,22 +19,10 @@ pinned: false
 homepage: false
 ---
 
-This is the text that fills the static page for this object.  
+Halbert, Debora J. "The Curious Case of Monopoly Rights as Free Trade: The TPP and Intellectual Property and Why It Still Matters." *Journal of Information Policy* 7 (2017): 204-227.
 
-You can put anything you want here in plaintext.
+Using the framework of a knowledge structure as conceptualized by Susan Strange, this article addresses the loss of flexibilities in international intellectual property (IP) regimes and the corresponding global criminalization of IP as serious topics of concern. The knowledge structure of IP frames a very specific type of global political economy. First, Strange's approach to international political economy as it relates to IP is developed. Second, a brief history of global IP as a trade-related issue is discussed, including the current status of the Transpacific Partnership. Finally, some future trends that may suggest global shifts in the knowledge structure worth watching are investigated.
 
-If you want to add special elemets like links or images you can use either markdown code:
+Keywords: Structural Power, Power; Knowledge
 
-[This is a link](http://www.google.ca)
-
-or HTML code
-
-<a href="http://www.google.ca">This is also a link</a> 
-
-Images can be done similarly using markdown:
-
-![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
-
-Or HTML code:
-
-<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
+[Text access (external link, Open Access)](https://doi.org/10.5325/jinfopoli.7.2017.0204)
