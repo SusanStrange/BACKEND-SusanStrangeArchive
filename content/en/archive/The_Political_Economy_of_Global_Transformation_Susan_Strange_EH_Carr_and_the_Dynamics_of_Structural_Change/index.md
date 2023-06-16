@@ -1,16 +1,16 @@
 ---
 
-title: "Demo/Template object"
-description: "This is the text displayed by the search results"
-datetext: "2023"
-excerpt: "Citation data"
-excerpt2: "Abstract content"
-excerpt3: "Extra content like key terms"
+title: "The Political Economy of Global Transformation: Susan Strange, E.H. Carr and the Dynamics of Structural Change"
+description: "By Randall Germain"
+datetext: "2016"
+excerpt: "Germain, Randall. In Susan Strange and the Future of Global Political Economy: Power, Control and Transformation, edited by Randall Germain, 183-200. London: Routledge 2016."
+excerpt2: "Do international relations precede or follow (logically) fundamental social relations? There can be no doubt that they follow. Any organic innovation in the social structure, through its technical–military expressions, modifies organically absolute and relative relations in the international field too."
+excerpt3: "Keywords: Hegemony; Authority; Markets; Structural Power, Power"
 
-date: 2023
-tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
-contributors: ["Daniel Brett"]
-categories: ["Source1", "Demo Paper"]
+date: 2016
+tags: ["Hegemony", "Authority", "Markets", "Structural Power, Power", "Strange-Influenced Works", "2010's"]
+contributors: ["Randall Germain", "Editor: Randall Germain"]
+categories: ["Book Chapter"]
 
 draft: false
 weight: 50
@@ -19,22 +19,10 @@ pinned: false
 homepage: false
 ---
 
-This is the text that fills the static page for this object.  
+Germain, Randall. "The Political Economy of Global Transformation: Susan Strange, E.H. Carr and the Dynamics of Structural Change." In *Susan Strange and the Future of Global Political Economy: Power, Control and Transformation*, edited by Randall Germain, 183-200. London: Routledge 2016.
 
-You can put anything you want here in plaintext.
+Do international relations precede or follow (logically) fundamental social relations? There can be no doubt that they follow. Any organic innovation in the social structure, through its technical–military expressions, modifies organically absolute and relative relations in the international field too.
 
-If you want to add special elemets like links or images you can use either markdown code:
+Keywords: Hegemony; Authority; Markets; Structural Power, Power
 
-[This is a link](http://www.google.ca)
-
-or HTML code
-
-<a href="http://www.google.ca">This is also a link</a> 
-
-Images can be done similarly using markdown:
-
-![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
-
-Or HTML code:
-
-<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
+[Text access (external link)](https://www.worldcat.org/title/948603852)
