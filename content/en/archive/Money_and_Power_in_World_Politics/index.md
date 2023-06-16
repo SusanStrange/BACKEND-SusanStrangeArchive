@@ -19,7 +19,7 @@ pinned: false
 homepage: false
 ---
 
-Cohen, BenjamIn *Strange Power: Shaping the Parameters of International Relations and International Political Economy*, edited by Thomas Lawton, James Rosenau, Amy C. Verdun, 91-114. London: Routledge, 2000.
+Cohen, Benjam. In *Strange Power: Shaping the Parameters of International Relations and International Political Economy*, edited by Thomas Lawton, James Rosenau, Amy C. Verdun, 91-114. London: Routledge, 2000.
 
 Keywords: Global governance; Money and Finance
 
