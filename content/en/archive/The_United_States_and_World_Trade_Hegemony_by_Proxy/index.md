@@ -19,7 +19,7 @@ pinned: false
 homepage: false
 ---
 
-Goldstein, Judith. "The United States and World Trade: Hegemony by Proxy?." In *Strange Power: Shaping the Parameters of International Relations and International Political Economy*, edited by Thomas Lawton, James Rosenau, Amy C. Verdun, 349-272. London: Routledge, 2000.
+Goldstein, Judith. "The United States and World Trade: Hegemony by Proxy?" In *Strange Power: Shaping the Parameters of International Relations and International Political Economy*, edited by Thomas Lawton, James Rosenau, Amy C. Verdun, 349-272. London: Routledge, 2000.
 
 Keywords: United States; Structural Power, Power; Trade
 
