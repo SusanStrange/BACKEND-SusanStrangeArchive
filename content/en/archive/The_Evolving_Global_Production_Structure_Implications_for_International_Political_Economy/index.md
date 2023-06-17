@@ -18,7 +18,7 @@ pinned: false
 homepage: false
 ---
 
-Lawton, Thomas C., KevIn *Strange Power: Shaping the Parameters of International Relations and International Political Economy*, edited by Thomas Lawton, James Rosenau, Amy C. Verdun, 79-96. London: Routledge, 2000.
+Lawton, Thomas C., Kevin P. Michaels. In *Strange Power: Shaping the Parameters of International Relations and International Political Economy*, edited by Thomas Lawton, James Rosenau, Amy C. Verdun, 79-96. London: Routledge, 2000.
 
 Keywords: Political Economy; Production; Theory; International Relations; General Framework
 
