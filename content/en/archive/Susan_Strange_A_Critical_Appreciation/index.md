@@ -9,7 +9,7 @@ excerpt3: "Keywords: Theory; Other; Security; Global Governance"
 
 date: 1999
 tags: ["Theory", "Other", "Strange-Influenced Works", "1990's"]
-contributors: [""Chris Brown"]
+contributors: ["Chris Brown"]
 categories: ["Journal Article"]
 
 draft: false
