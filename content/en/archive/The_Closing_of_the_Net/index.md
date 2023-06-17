@@ -23,6 +23,6 @@ Horten, Monica. *The Closing of the Net*. Cambridge: Routledge, 2016.
 
 Deploying Susan Strange's concept of structural power, this book provides the backstory to current attempts by states and corporations to control the Internet. It explains key issues such as privacy, net neutrality and copyright in a way that is accessible to non-experts, as well as providing a clear, authoritative context for academic study.
 
-Keywords: Knowledge; 
+Keywords: Knowledge
 
 [Text access (external link)](https://www.worldcat.org/title/920730531)
