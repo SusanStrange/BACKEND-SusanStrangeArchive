@@ -19,7 +19,7 @@ pinned: false
 homepage: false
 ---
 
-Cohen, Benjamin J. "The Transatlantic Divide: Why Are American And British IPE so Different?." *Review of International Political Economy* 14, no. 2 (2007): 197-219.
+Cohen, Benjamin J. "The Transatlantic Divide: Why Are American And British IPE so Different?" *Review of International Political Economy* 14, no. 2 (2007): 197-219.
 
 Based on a lecture presented to the inaugural meeting of the International Political Economy Society, Princeton University, Princeton, NJ, 17 November 2006.
 
