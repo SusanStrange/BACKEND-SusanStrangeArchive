@@ -19,7 +19,7 @@ pinned: false
 homepage: false
 ---
 
-Walzenback, G.P.E. "The Doubtful Handshake: From International to Comparative Political Economy?." In *Strange Power: Shaping the Parameters of International Relations and International Political Economy*, edited by Thomas Lawton, James Rosenau, Amy C. Verdun, 391-412. London: Routledge, 2000.
+Walzenback, G.P.E. "The Doubtful Handshake: From International to Comparative Political Economy?" In *Strange Power: Shaping the Parameters of International Relations and International Political Economy*, edited by Thomas Lawton, James Rosenau, Amy C. Verdun, 391-412. London: Routledge, 2000.
 
 Keywords: International Institutions; Theory; Structural Power, Power
 
