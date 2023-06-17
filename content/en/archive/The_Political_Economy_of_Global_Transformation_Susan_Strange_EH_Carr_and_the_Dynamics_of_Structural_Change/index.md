@@ -19,7 +19,7 @@ pinned: false
 homepage: false
 ---
 
-Germain, Randall. "The Political Economy of Global Transformation: Susan Strange, E.H. Carr and the Dynamics of Structural Change." In *Susan Strange and the Future of Global Political Economy: Power, Control and Transformation*, edited by Randall Germain, 183-200. London: Routledge 2016.
+Germain, Randall. "The Political Economy of Global Transformation: Susan Strange, E.H. Carr and the Dynamics of Structural Change." In *Susan Strange and the Future of Global Political Economy: Power, Control and Transformation*, edited by Randall Germain, 183-200. London: Routledge, 2016.
 
 Do international relations precede or follow (logically) fundamental social relations? There can be no doubt that they follow. Any organic innovation in the social structure, through its technical–military expressions, modifies organically absolute and relative relations in the international field too.
 
