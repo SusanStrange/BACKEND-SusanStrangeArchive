@@ -1,16 +1,16 @@
 ---
 
-title: "Demo/Template object"
-description: "This is the text displayed by the search results"
-datetext: "2023"
-excerpt: "Citation data"
-excerpt2: "Abstract content"
-excerpt3: "Extra content like key terms"
+title: "Money, Power, Authority"
+description: "By Benjamin J. Cohen"
+datetext: "2016"
+excerpt: "Cohen, Benjamin J. In Susan Strange and the Future of Global Political Economy: Power, Control and Transformation, edited by Randall Germain, 129-143. London: Routledge, 2016."
+excerpt2: "This chapter discusses the political economy of the global transformation. The share of American gross domestic product (GDP) in relation to global GDP had declined; the control of American corporations over key international markets remained high and was even growing. Strange argued that the global articulation of power was constituted by a complicated amalgam of public and the private authority. The superior innovative capacities of the firms, bolstered by government-sponsored military research, bestowed onto certain segments of the Americas economy, an unalloyed competitive advantage. The financial crisis began in the US financial system, even if it was aided and abetted by global forces and dynamics. The Carr suggests through his analysis of the foundations of mass society in the middle years of the twentieth century, when society exerts pressure on the operation of government, government in turn becomes much more involved in society, including the economy and its financial system."
+excerpt3: "Keywords: Money and Finance; Authority; Markets; Structural Power, Power; General Framework"
 
-date: 2023
-tags: ["keyword1", "keyword2", "2020's", "Strange-Influenced Works"]
-contributors: ["Daniel Brett"]
-categories: ["Source1", "Demo Paper"]
+date: 2016
+tags: ["Money and Finance", "Authority", "Markets", "Structural Power, Power", "Strange-Influenced Works", "2010's"]
+contributors: ["Benjamin J. Cohen", "Editor: Randall Germain"]
+categories: ["Book Chapter"]
 
 draft: false
 weight: 50
@@ -19,23 +19,10 @@ pinned: false
 homepage: false
 ---
 
-This is the text that fills the static page for this object.  
+Cohen, BenjamIn J. *Susan Strange and the Future of Global Political Economy: Power, Control and Transformation*, edited by Randall Germain, 129-143. London: Routledge, 2016.
 
-You can put anything you want here in plaintext.
+This chapter discusses the political economy of the global transformation. The share of American gross domestic product (GDP) in relation to global GDP had declined; the control of American corporations over key international markets remained high and was even growing. Strange argued that the global articulation of power was constituted by a complicated amalgam of public and the private authority. The superior innovative capacities of the firms, bolstered by government-sponsored military research, bestowed onto certain segments of the Americas economy, an unalloyed competitive advantage. The financial crisis began in the US financial system, even if it was aided and abetted by global forces and dynamics. The Carr suggests through his analysis of the foundations of mass society in the middle years of the twentieth century, when society exerts pressure on the operation of government, government in turn becomes much more involved in society, including the economy and its financial system.
 
-If you want to add special elemets like links or images you can use either markdown code:
+Keywords: Money and Finance; Authority; Markets; Structural Power, Power; General Framework
 
-[This is a link](http://www.google.ca)
-
-or HTML code
-
-<a href="http://www.google.ca">This is also a link</a> 
-
-Images can be done similarly using markdown:
-
-![An image a Daniel Brett](https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg)
-
-Or HTML code:
-
-<img src="https://raw.githubusercontent.com/DanielBrett/Intro-To-Git-Hub-March-1/main/Daniel_Headshot_Library_Reduced.jpg" alt="An image of Daniel Brett">
-
+[Text access (external link)](https://www.worldcat.org/title/948603852)
