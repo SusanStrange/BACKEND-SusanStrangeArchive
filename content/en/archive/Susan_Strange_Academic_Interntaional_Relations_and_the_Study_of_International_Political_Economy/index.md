@@ -5,7 +5,7 @@ description: "By Roger Tooze"
 datetext: "2000"
 excerpt: "Tooze, Roger. New Political Economy 5, no. 2 (2000): 280-289."
 excerpt2: ""
-excerpt3: ""Keywords: Theory; Political Economy; Other"
+excerpt3: "Keywords: Theory; Political Economy; Other"
 
 date: 2000
 tags: ["Theory", "Political Economy", "Other", "Strange-Influenced Works", "2000's"]
