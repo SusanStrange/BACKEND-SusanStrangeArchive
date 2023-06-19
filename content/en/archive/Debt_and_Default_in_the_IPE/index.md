@@ -25,4 +25,4 @@ Explicitly linking back to **'Debts, Defaulters and Development' (1967)** Strang
 
 Keywords: Money and Finance
 
-[Text access (external link)](https://www.worldcat.org/title/1089966448)
+[Text access (external link)](https://www.worldcat.org/title/925057248)
