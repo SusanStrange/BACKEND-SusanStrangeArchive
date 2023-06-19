@@ -24,4 +24,4 @@ When Susan Strange and I looked into the relationships between firms and States 
 
 Keywords: Security
 
-[Text access (external link)](http://www.tandfonline.com/doi/abs/10.1080/713687770.")
+[Text access (external link)](https://doi.org/10.1177/030437540302800403)
