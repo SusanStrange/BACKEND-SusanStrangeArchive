@@ -25,4 +25,4 @@ Strange then poses the question 'What about International Relations?' in her con
 
 Keywords: Corporations; Structural Power, Power; Theory; International Relations; Transnational Corporations
 
-[Text access (external link)](https://www.worldcat.org/title/611105010)
+[Text access (external link)](https://www.worldcat.org/title/252091922)
