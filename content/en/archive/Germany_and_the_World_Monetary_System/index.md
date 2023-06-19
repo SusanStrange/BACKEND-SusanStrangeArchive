@@ -25,4 +25,4 @@ Strange suggests that for any major state in the global system, such as Germany 
 
 Keywords: Europe; Money and Finance
 
-[Text ACcecss (External Link)](https://worldcat.org/title/6014891)
+[Text Accecss (External Link)](https://worldcat.org/title/6014891)
