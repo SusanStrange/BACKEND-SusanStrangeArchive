@@ -25,4 +25,4 @@ In this chapter Strange lays out her idea of what International Political Econom
 
 Keywords: Globalization; Political Economy; Theory
 
-[Text access (external link)](https://www.worldcat.org/title/958715746)
+[Text access (external link)](https://www.worldcat.org/title/966123452)
