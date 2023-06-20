@@ -25,4 +25,4 @@ Here Strange argues that because of interdependence states are not so much defen
 
 Keywords: Money and Finance; Political Economy
 
-[Text Access (External Link)](https://doi.org/10.2307/200967)
+[Text Access (External Link)](https://doi.org/10.2307/2009676)
