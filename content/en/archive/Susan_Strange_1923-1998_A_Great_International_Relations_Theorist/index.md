@@ -20,5 +20,7 @@ homepage: false
 ---
 
 Ronen Palan. *Review of International Political Economy* 6, no. 2 (1999): 121-132.
+
 Keywords: Theory; Other
+
 [Text access (external link)](https://doi.org/10.1080/096922999347254)
