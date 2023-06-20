@@ -23,4 +23,4 @@ Tooze, Roger. "Susan Strange, Academic International Relations and the Study of 
 
 Keywords: Theory; Political Economy; Other
 
-[Text access (external link)](http://www.tandfonline.com/doi/abs/10.1080/713687770.")
+[Text access (external link)](http://www.tandfonline.com/doi/abs/10.1080/713687770)
