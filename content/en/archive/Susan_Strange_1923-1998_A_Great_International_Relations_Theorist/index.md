@@ -19,7 +19,7 @@ pinned: false
 homepage: false
 ---
 
-Ronen Palan. *Review of International Political Economy* 6, no. 2 (1999): 121-132.
+Ronen Palan. "Susan Strange 1923-1998: A Great International Relations Theorist" *Review of International Political Economy* 6, no. 2 (1999): 121-132.
 
 Keywords: Theory; Other
 
