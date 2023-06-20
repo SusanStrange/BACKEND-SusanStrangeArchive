@@ -25,4 +25,4 @@ Strange argues that while states remain superficially important as major actors 
 
 Keywords: Corporations; International Institutions; States; Structural Power, Power; Transnational Corporations
 
-[Text access (external link)](link.gale.com/apps/doc/A16913976/LitRC?u=st46245&sid=bookmark-LitRC&xid=bb1c4e9a)
+[Text access (external link Open Access)](https://www.jstor.org/stable/20027297)
