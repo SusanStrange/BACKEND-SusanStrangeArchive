@@ -25,4 +25,4 @@ In this concluding chapter of a collection of articles drawn from a series of wo
 
 Keywords: Corporations; Europe; International Institutions; Theory; Transnational Corporations
 
-[Text access (external link, Open Access)](https://www.worldcat.org/title/58545076)
+[Text access (external link, Open Access)](https://www.worldcat.org/title/70763323)
