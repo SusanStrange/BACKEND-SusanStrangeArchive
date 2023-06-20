@@ -25,4 +25,4 @@ Strange feels that the author overstates the political power and influence of mu
 
 Keywords: Corporations; Hegemony; Transnational Corporations
 
-[Text access (external link)](https://doi.org/10.1177/00207020720270021)
+[Text access (external link)](https://doi.org/10.1177/002070207202700211)
