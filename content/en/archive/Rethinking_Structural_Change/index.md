@@ -24,3 +24,5 @@ Strange, Susan. "Rethinking Structural Change in the International Political Eco
 This is an abridged version and slightly revised version of **'States, Firms and Diplomacy' (1992)**.
 
 Keywords: Knowledge; Markets; States; Structural Power, Power; Theory; Technology
+
+[Text Access (External Link)](https://www.worldcat.org/title/1336110600)
