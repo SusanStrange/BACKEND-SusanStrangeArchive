@@ -25,4 +25,4 @@ Building on the argument of Robert Reich that the location of economic activity 
 
 Keywords: Europe; Money and Finance; Production; Trade; European Integration
 
-[Text access (external link)](https://www.jstor.org/stable/40395755)
+[Text access (external link)](https://doi.org/10.1111/1468-5965.00099)
