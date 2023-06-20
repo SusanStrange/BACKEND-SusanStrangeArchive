@@ -19,7 +19,8 @@ pinned: false
 homepage: false
 ---
 
-Robert W. Cox. In Approaches to World Order. Robert W. Cox, Timothy J. Sinclair, editors. 174-187. Cambridge: Cambridge University Press, 1992.
-Keywords: Theory; Finance
-[Text access (external link)](https://www.worldcat.org/title/31376545)
+Robert W. Cox. In Approaches to World Order. Edited by Robert W. Cox, Timothy J. Sinclair, 174-187. Cambridge: Cambridge University Press, 1992.
 
+Keywords: Theory; Finance
+
+[Text access (external link)](https://www.worldcat.org/title/31376545)
