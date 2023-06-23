@@ -11,15 +11,15 @@ draft: false
 
 The Susan Strange Archive is devoted to promoting the work and ideas of the foundational International Political Economy scholar Susan Strange (1923-1998), recognizing Strange-influenced contemporary research. Our goal is to serve as a focal point for the community of Strange-influenced researchers.
 
-[**Who was Susan Strange?**](https://susanstrange.github.io/about-strange/)
+[**Who was Susan Strange?**](https://susanstrange.org/about-strange/)
 
-[**The complete Susan Strange Annotated Bibliography**](https://susanstrange.github.io/contributors/susan-strange/): Browse the bibliography of 50 years of work by Susan Strange, with links to the original works, where available. Searchable and organizable by decade and major themes.
+[**The complete Susan Strange Annotated Bibliography**](https://susanstrange.org/contributors/susan-strange/): Browse the bibliography of 50 years of work by Susan Strange, with links to the original works, where available. Searchable and organizable by decade and major themes.
 
-[**Highlighting and Promoting Strange-Influenced Research**](https://susanstrange.github.io/tags/strange-influenced-works/): Searchable and organizable by decade and major themes. Know of work (including your own) that draws on Strange? [**Let us know**](https://susanstrange.github.io/contact-us/)
+[**Highlighting and Promoting Strange-Influenced Research**](https://susanstrange.org/tags/strange-influenced-works/): Searchable and organizable by decade and major themes. Know of work (including your own) that draws on Strange? [**Let us know**](https://susanstrange.org/contact-us/)
 
 **Coming soon**: The Susan Strange at 100 Conference: New Ideas for Strange Times. Details to be announced.
 
-[**Get in touch**](https://susanstrange.github.io/contact-us/)
+[**Get in touch**](https://susanstrange.org/contact-us/)
 
 ![Susan Strange in a chair](https://github.com/SusanStrange/BACKEND-SusanStrangeArchive/blob/main/images/susan-strange-front-sketch.jpeg?raw=true)
 

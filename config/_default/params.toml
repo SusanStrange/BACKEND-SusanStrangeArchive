@@ -1,10 +1,10 @@
 # Meta Data for SEO
 
 ## Homepage
-title = "Home"
+title = "Susan Strange Web Archive"
 titleSeparator = "-"
-titleAddition = "Modern Documentation Theme"
-description = "Doks is a Hugo theme for building secure, fast, and SEO-ready documentation websites, which you can easily update and customize."
+titleAddition = "Welcome to the Susan Strange Web Archive"
+description = "An archive of Susan Stranges works and works she inspired"
 
 ## Documentation
 # docsVersion = "0.3"
@@ -68,13 +68,13 @@ fillImage = "1270x740 Center" # normalize image size
 footer = "Created with the support of the Brock University DSL with Hugo using the Doks theme"
 
 # Feed
-copyRight = "Copyright (c) 2022-2023 Jordon Dumenil"
+copyRight = ""
 
 # Alert
 alert = false
 alertDismissable = true
-# alertText = "Introducing the Doks child theme, several DX + UX updates, and more! <a class=\"alert-link stretched-link\" href=\"https://getdoks.org/blog/doks-v0.2/\" target=\"_blank\" rel=\"noopener\">Check out Doks v0.2</a>"
-alertText = "Introducing the Doks child theme, several DX + UX updates, and more! <a class=\"alert-link stretched-link\" href=\"https://getdoks.org/blog/doks-v0.2/\">Check out Doks v0.2</a>"
+# alertText = ""
+alertText = ""
 
 # Edit Page
 # repoHost [Github | Gitea | GitLab | Bitbucket | BitbucketServer ] is used for building the edit link based on git hoster

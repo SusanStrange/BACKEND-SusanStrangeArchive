@@ -9,7 +9,7 @@ images: []
 
 This site is maintained by Blayne Haggart, Associate Professor, Political Science, Brock University.
 
-One of the goals of this website is to identify a community of scholars who draw upon the work and ideas of Susan Strange. If you would like to be informed of updates to this website such as listings of new Strange-influenced work, including a potential Susan Strange listserv (forthcoming), [please contact us](STRANGE MAILING LIST EMAIL TBD).
+One of the goals of this website is to identify a community of scholars who draw upon the work and ideas of Susan Strange. If you would like to be informed of updates to this website such as listings of new Strange-influenced work, including a potential Susan Strange listserv (forthcoming), [please contact us](mailto:bhaggart@brocku.ca).
 
 If your work draws on Susan Strange and would like it included here, or if you know of a work that you think should be listed here, [let us know](mailto:bhaggart@brocku.ca).
 
