@@ -1,6 +1,6 @@
 ---
 
-title: "Women Thinkers and the Canon of International Thought: Recovery, Rejection, and Reconstitution" 
+title: "Women Thinkers and the Canon of International Thought: Recovery, Rejection, and Reconstitution"
 description: "By Kimberly Hutchings, Patricia Owens"
 datetext: "2021"
 excerpt: "Hutchings, Kimberly. Patricia Owens. American Political Science Review 115, no. 2 (2021): 347–59."
