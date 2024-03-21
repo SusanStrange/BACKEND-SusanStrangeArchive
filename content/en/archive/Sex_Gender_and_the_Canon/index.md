@@ -1,4 +1,4 @@
-![image](https://github.com/SusanStrange/BACKEND-SusanStrangeArchive/assets/120056237/16f1503c-48d2-4787-aace-f6d18d8ba517)---
+---
 
 title: "Sex, Gender and the Canon"
 description: "By Patricia Owens"
