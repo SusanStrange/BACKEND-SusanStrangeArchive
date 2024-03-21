@@ -4,7 +4,7 @@ title: "Sex, Gender and the Canon"
 description: "By Patricia Owens"
 datetext: "2019"
 excerpt: "Owens, Patricia. Leverhulme Project on Women and the History of International Thought Blog. 27 August 2019."
-excerpt2: 
+excerpt2: " "
 excerpt3: "Keywords: Other"
 
 date: 2019
