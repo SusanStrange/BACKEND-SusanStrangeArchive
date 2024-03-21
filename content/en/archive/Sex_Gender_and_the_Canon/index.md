@@ -22,4 +22,5 @@ homepage: false
 Owens, Patricia. "Sex, Gender and the Canon." Leverhulme Project on Women and the History of International Thought Blog. 27 August 2019.
 
 Keywords: Other
+
 [Text access (external link)](https://whit.web.ox.ac.uk/article/sex-gender-and-canon)
